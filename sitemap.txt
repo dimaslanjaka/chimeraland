@@ -413,3 +413,6 @@ https://www.webmanajemen.com/chimeraland/materials/eyebiter.html
 https://www.webmanajemen.com/chimeraland/materials/great-white-shark.html
 https://www.webmanajemen.com/chimeraland/materials/tang.html
 https://www.webmanajemen.com/chimeraland/materials/muddled-catfish.html
+https://www.webmanajemen.com/chimeraland/monsters/great-white-shark.html
+https://www.webmanajemen.com/chimeraland/materials/primal-fluid.html
+https://www.webmanajemen.com/chimeraland/search.html
