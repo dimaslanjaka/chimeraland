@@ -1,0 +1,104 @@
+$color-white: #ffffff;
+$color-black: #252a32;
+$color-light: #f1f5f8;
+$color-red: #d32f2f;
+$color-blue: #148cb8;
+
+$box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 3px rgba(0, 0, 0, 0.24);
+
+.gallery-image {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  img {
+    height: 250px;
+    width: 350px;
+    transform: scale(1);
+    transition: transform 0.4s ease;
+  }
+}
+
+.img-box {
+  box-sizing: content-box;
+  margin: 10px;
+  height: 250px;
+  width: 350px;
+  overflow: hidden;
+  display: inline-block;
+  color: $color-light;
+  position: relative;
+  background-color: $color-black;
+}
+
+.caption {
+  position: absolute;
+  bottom: 5px;
+  left: 20px;
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.transparent-box {
+  height: 250px;
+  width: 350px;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: background-color 0.3s ease;
+}
+
+.img-box:hover img {
+  transform: scale(1.1);
+}
+
+.img-box:hover .transparent-box {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.img-box:hover .caption {
+  transform: translateY(-20px);
+  opacity: 1;
+}
+
+.img-box:hover {
+  cursor: pointer;
+}
+
+.caption > p:nth-child(2) {
+  font-size: 0.8em;
+}
+
+.opacity-low {
+  opacity: 0.5;
+}
+
+a {
+  color: rgb(167, 43, 167) !important;
+}
+
+#delicacies-wrapper {
+  .card-title {
+    font-size: 1rem;
+    a {
+      text-decoration: none;
+    }
+  }
+  .card-body {
+    min-height: 200px;
+  }
+}
+
+$heightStatCard: 300px;
+#stats-wrapper {
+  .col-stat {
+    height: $heightStatCard;
+    .adsbygoogle {
+      height: $heightStatCard;
+    }
+  }
+  .card {
+    height: 100%;
+  }
+}

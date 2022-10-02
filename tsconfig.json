@@ -1,0 +1,30 @@
+{
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "allowUnreachableCode": true,
+    "noImplicitAny": false,
+    "noEmit": false,
+    "outDir": "dist",
+    "jsx": "react-jsx"
+  },
+  "include": ["./src", "./*.json", "./*.ts", "snapshot3.js"],
+  "typeAcquisition": { "enable": true },
+  "exclude": ["**/node_modules/**", "**/tmp/**", "**/build/**", "**/dist/**"]
+}

@@ -1,0 +1,23 @@
+#sbx {
+  position: relative;
+  width: 20rem;
+  .box-wrapper {
+    position: absolute;
+    top: 3rem;
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 1000;
+  }
+  .box {
+    text-align: left;
+    background-color: rgb(173, 224, 222);
+    /*border: black ridge 1px;*/
+    border-radius: 10px;
+    margin: 3px;
+    width: 100%;
+    padding: 10px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
