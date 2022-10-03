@@ -39,25 +39,49 @@ export function Material(props: MaterialProps) {
 
       <div className="container">
         <nav aria-label="breadcrumb">
-          <ol className="breadcrumb">
-            <li className="breadcrumb-item">
+          <ol
+            className="breadcrumb"
+            itemScope={true}
+            itemType="https://schema.org/BreadcrumbList">
+            <li
+              className="breadcrumb-item"
+              itemProp="itemListElement"
+              itemScope={true}
+              itemType="https://schema.org/ListItem">
               <OutboundLink
                 href="/chimeraland"
+                itemProp="item"
                 legacy={true}
                 className="text-decoration-none">
-                Home
+                <span itemProp="name">Home</span>
+                <meta itemProp="position" content="1" />
               </OutboundLink>
             </li>
-            <li className="breadcrumb-item">
+            <li
+              className="breadcrumb-item"
+              itemProp="itemListElement"
+              itemScope={true}
+              itemType="https://schema.org/ListItem">
               <OutboundLink
                 href={'/chimeraland/' + props.type}
                 legacy={true}
+                itemProp="item"
+                itemScope={true}
+                itemType="https://schema.org/WebPage"
+                itemID={'/chimeraland/' + props.type}
                 className="text-decoration-none">
-                {capitalizer(props.type)}
+                <span itemProp="name">{capitalizer(props.type)}</span>
+                <meta itemProp="position" content="2" />
               </OutboundLink>
             </li>
-            <li className="breadcrumb-item active" aria-current="page">
-              {props.name}
+            <li
+              className="breadcrumb-item active"
+              aria-current="page"
+              itemProp="itemListElement"
+              itemScope={true}
+              itemType="https://schema.org/ListItem">
+              <span itemProp="name">{props.name}</span>
+              <meta itemProp="position" content="3" />
             </li>
           </ol>
         </nav>

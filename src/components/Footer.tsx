@@ -5,10 +5,13 @@ export function Footer() {
     <footer className="blog-footer">
       <p>
         Blog template built with{' '}
-        <OutboundLink href="https://getbootstrap.com/" rel="nofollow noopener">
+        <OutboundLink
+          href="https://getbootstrap.com/"
+          rel="nofollow noopener noreferer"
+          target="_blank">
           Bootstrap
-        </OutboundLink>{' '}
-        by{' '}
+        </OutboundLink>
+        <span> by </span>
         <OutboundLink
           href="https://github.com/dimaslanjaka"
           rel="nofollow noopener">

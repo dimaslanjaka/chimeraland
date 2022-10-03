@@ -9,7 +9,7 @@
  * @example
  * arrayOfObjUniq({p:'x',n:'x'},{p:'23',n:'x'},{p:'x',n:'5g'}, 'p'); // [{p:'x',n:'x'},{p:'23',n:'x'}]
  */
-export function array_unique<T extends any[]>(arr: T, field?: string) {
+export function array_unique<T extends any[]>(arr: T, field?: string): T {
   if (Array.isArray(arr)) {
     if (typeof field !== 'string') {
       return arr.filter(function (x, i, a) {

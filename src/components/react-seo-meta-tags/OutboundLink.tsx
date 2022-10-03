@@ -1,7 +1,8 @@
 import React, { forwardRef, LegacyRef } from 'react'
 import { Link, matchPath } from 'react-router-dom'
+import { SitemapCache } from '../Sitemap'
 
-type OutboundLinkpropTypes = React.DOMAttributes<HTMLAnchorElement> & {
+export type OutboundLinkpropTypes = React.DOMAttributes<HTMLAnchorElement> & {
   [key: string]: any
   href: string
   target?: HTMLAnchorElement['target']
@@ -28,6 +29,13 @@ const OutboundLink_func = (
 ) => {
   const useLegacy = props.legacy
   delete props.legacy
+
+  // push internal link to sitemap
+  if (props.href.startsWith('/')) {
+    SitemapCache({ href: props.href })
+  } else {
+    // console.log('not internal', props.href)
+  }
 
   const handler: React.DOMAttributes<HTMLAnchorElement>['onClick'] = (e) => {
     if (typeof props.onClick === `function`) {

@@ -63,7 +63,7 @@ export function Nav() {
               </li>
               <li className="nav-item dropdown">
                 <OutboundLink
-                  lgeacy={true}
+                  legacy={true}
                   className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
@@ -104,6 +104,15 @@ export function Nav() {
                     </OutboundLink>
                   </li>
                 </ul>
+              </li>
+              <li className="nav-item">
+                <OutboundLink
+                  className="nav-link"
+                  href="/scenic-spots"
+                  tabIndex={-1}
+                  aria-disabled="true">
+                  Scenic Spots
+                </OutboundLink>
               </li>
             </ul>
             <form id="sbx" className="d-flex">

@@ -8,7 +8,7 @@ import { Nav } from './components/Nav'
 import { NoMatch } from './components/NoMatch'
 import { Recipes } from './components/Recipes'
 import { Sidebar } from './components/Sidebar'
-import { Sitemap, SitemapCache } from './components/Sitemap'
+import { Sitemap } from './components/Sitemap'
 import { MaterialsData, MonstersData, RecipesData } from './utils/chimeraland'
 
 export default function App() {
@@ -25,7 +25,7 @@ export default function App() {
             <Route path="/attendants" element={<Home />}></Route>
             {MonstersData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-              SitemapCache.push(pathname)
+
               return (
                 <Route
                   path={pathname}
@@ -36,7 +36,7 @@ export default function App() {
             })}
             {RecipesData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-              SitemapCache.push(pathname)
+
               return (
                 <Route
                   path={pathname}
@@ -47,7 +47,7 @@ export default function App() {
             })}
             {MaterialsData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-              SitemapCache.push(pathname)
+
               return (
                 <Route
                   path={pathname}
