@@ -19,6 +19,10 @@ export default function App() {
         <div className="col-md-8">
           <Routes>
             <Route path="/" element={<Home />}></Route>
+            <Route path="/monsters" element={<Home />}></Route>
+            <Route path="/materials" element={<Home />}></Route>
+            <Route path="/recipes" element={<Home />}></Route>
+            <Route path="/attendants" element={<Home />}></Route>
             {MonstersData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
               SitemapCache.push(pathname)

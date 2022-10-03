@@ -5,7 +5,10 @@ import slugify from 'slugify'
 import { icons } from '../components/icons'
 import { OutboundLink } from '../components/react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from '../components/react-seo-meta-tags/ReactSEOMetaTags'
+import { Fancybox } from '../fancybox/src'
+import '../fancybox/src/Fancybox/Fancybox.scss'
 import { MaterialsData, RecipesData } from '../utils/chimeraland'
+import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
 import './Recipes.scss'
 
@@ -16,6 +19,25 @@ type RecipesProp = typeof RecipesData[number]
  * @returns
  */
 export function Recipes(props: RecipesProp) {
+  const delegate = '[data-fancybox]'
+
+  React.useEffect(() => {
+    const opts = {
+      groupAll: true, // Group all items
+      on: {
+        ready: (fancybox: HTMLElement) => {
+          console.log(`fancybox #${fancybox.id} is ready!`)
+        }
+      }
+    }
+
+    Fancybox.bind(delegate, opts)
+
+    return () => {
+      Fancybox.destroy()
+    }
+  }, [])
+
   const siteMetadata = {
     url: pathname2url(props.pathname),
     title: props.name + ' Cooking Recipe - Chimeraland',
@@ -37,6 +59,7 @@ export function Recipes(props: RecipesProp) {
       searchUrl: 'https://www.google.com/search?q='
     }
   }
+
   return (
     <>
       <ReactSEOMetaTags
@@ -44,8 +67,32 @@ export function Recipes(props: RecipesProp) {
         website={{ ...siteMetadata }}
       />
       <main className="container-fluid">
+        <nav aria-label="breadcrumb mb-2">
+          <ol className="breadcrumb">
+            <li className="breadcrumb-item">
+              <OutboundLink
+                href="/chimeraland"
+                legacy={true}
+                className="text-decoration-none">
+                Home
+              </OutboundLink>
+            </li>
+            <li className="breadcrumb-item">
+              <OutboundLink
+                href={'/chimeraland/' + props.type}
+                legacy={true}
+                className="text-decoration-none">
+                {capitalizer(props.type)}
+              </OutboundLink>
+            </li>
+            <li className="breadcrumb-item active" aria-current="page">
+              {props.name}
+            </li>
+          </ol>
+        </nav>
+
         <div className="row mb-2">
-          <div className="col-md-12">
+          <div className="col-md-12 mb-2">
             <table className="table" id="post-info">
               <tbody>
                 <tr>
@@ -84,7 +131,7 @@ export function Recipes(props: RecipesProp) {
 
         <div className="card mb-2">
           <div className="row g-0">
-            <div className="col-sm-4 position-relative">
+            <div className="col-sm-4 position-relative mb-2">
               <img
                 src={
                   props.images.material
@@ -93,27 +140,30 @@ export function Recipes(props: RecipesProp) {
                 }
                 className="card-img fit-cover w-100 h-100"
                 alt={props.name}
+                data-fancybox="true"
               />
             </div>
 
-            <div className="col-sm-8">
-              <div className="card-body">
-                <h2 className="card-title fs-5">Buff {props.name}</h2>
+            {'buff' in props && (
+              <div className="col-sm-8 mb-2">
+                <div className="card-body">
+                  <h2 className="card-title fs-5">Buff {props.name}</h2>
 
-                <div className="card-text">
-                  <ul>
-                    {(props.buff as string[])?.map((str, bi) => {
-                      return <li key={'bi' + bi}>{str}</li>
-                    })}
-                  </ul>
+                  <div className="card-text">
+                    <ul>
+                      {(props.buff as string[])?.map((str, bi) => {
+                        return <li key={'bi' + bi}>{str}</li>
+                      })}
+                    </ul>
+                  </div>
+                  <span className="badge rounded-pill bg-dark">recipe</span>
                 </div>
-                <span className="badge rounded-pill bg-dark">recipe</span>
-              </div>
 
-              <div className="card-footer text-end text-muted">
-                webmanajemen.com
+                <div className="card-footer text-end text-muted">
+                  webmanajemen.com
+                </div>
               </div>
-            </div>
+            )}
           </div>
         </div>
 
@@ -142,6 +192,7 @@ export function Recipes(props: RecipesProp) {
                     <OutboundLink
                       className="text-decoration-none"
                       href={findmat.pathname}
+                      legacy={true}
                       key={'material' + ri + mi}>
                       {str}
                     </OutboundLink>

@@ -76,24 +76,6 @@ export function Monster(props: MonsterProps) {
       },
       RecipesData[findIndex] || {}
     )
-    /*if ('recipes' in result) {
-      const mapRecipes = (result.recipes as string[]).map((recipe) => {
-        const splitp = recipe.split(/\+|\//g).map((str) => str.trim())
-        const mapp = splitp.map((matname, ii) => {
-          const index = MaterialData.findIndex((mat) => mat.name === matname)
-          if (index != -1) {
-            const info = MaterialData[index]
-            return (
-              <OutboundLink href="" key={info.name + ii}>
-                {info.name}
-              </OutboundLink>
-            )
-          }
-          return matname
-        })
-        return mapp
-      })
-    }*/
     return result as typeof RecipesData[number] & { pathname: string }
   })
 
@@ -162,6 +144,7 @@ export function Monster(props: MonsterProps) {
                               <OutboundLink
                                 className="text-decoration-none"
                                 href={str.pathname}
+                                legacy={true}
                                 about={'delicacies/tasty for' + props.name}
                                 title={'delicacies/tasty for' + props.name}>
                                 {str.name}
@@ -236,16 +219,13 @@ export function Monster(props: MonsterProps) {
             <div className="row" id="delicacies-wrapper">
               {mappedTasty.map((recipe, i) => {
                 return (
-                  <div
-                    className={
-                      i != 2 ? 'col-12 col-lg-6 mb-2' : 'col-md-12 mb-2'
-                    }
-                    key={'mappedTasty' + i}>
+                  <div className="col-md-12 mb-2" key={'mappedTasty' + i}>
                     <div className="card">
                       <div className="card-body">
                         <h5 className="card-title">
                           <OutboundLink
                             className="text-decoration-none"
+                            legacy={true}
                             href={
                               'pathname' in recipe === false
                                 ? '#' + slugify(recipe.name, { lower: true })
@@ -287,6 +267,7 @@ export function Monster(props: MonsterProps) {
                                                     ' recipe ' +
                                                     (ii + 1)
                                                   }
+                                                  legacy={true}
                                                   key={material.pathname + mi}
                                                   className="text-decoration-none"
                                                   href={material.pathname}>

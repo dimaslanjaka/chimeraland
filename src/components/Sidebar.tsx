@@ -12,44 +12,24 @@ export function Sidebar() {
       </div>
 
       <div className="p-4">
-        <h4 className="fst-italic">Archives</h4>
+        <h4 className="fst-italic">Sitelink</h4>
         <ol className="list-unstyled mb-0">
-          <li>
-            <OutboundLink href="#">March 2021</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">February 2021</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">January 2021</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">December 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">November 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">October 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">September 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">August 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">July 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">June 2020</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">May 2020</OutboundLink>
-          </li>
           <li>
             <OutboundLink href="/sitemap">Sitemap</OutboundLink>
           </li>
+        </ol>
+      </div>
+
+      <div className="p-4">
+        <h4 className="fst-italic">Abbreviations</h4>
+        <ol className="list-unstyled">
+          <li>Lv.1 (Grey Grade)</li>
+          <li>Lv.2/Common (Green Grade)</li>
+          <li>Lv.3/Uncommon (Blue Grade)</li>
+          <li>Lv.4/Epic (Purple Grade)</li>
+          <li>Lv.5/Legendary (Orange Grade)</li>
+          <li>Lv.6/Mythic (Red Grade)</li>
+          <li>All food buffs last for 15 minutes </li>
         </ol>
       </div>
 

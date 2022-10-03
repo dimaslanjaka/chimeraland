@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="blog-footer">
       <p>
-        Blog template built for{' '}
+        Blog template built with{' '}
         <OutboundLink href="https://getbootstrap.com/" rel="nofollow noopener">
           Bootstrap
         </OutboundLink>{' '}
@@ -15,9 +15,6 @@ export function Footer() {
           @L3n4r0x
         </OutboundLink>
         .
-      </p>
-      <p>
-        <OutboundLink href="#">Back to top</OutboundLink>
       </p>
     </footer>
   )

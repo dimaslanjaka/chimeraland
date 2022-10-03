@@ -1,3 +1,4 @@
+import attendantData from './chimeraland-attendants.json'
 import materialData from './chimeraland-materials.json'
 import monstersData from './chimeraland-monsters.json'
 import recipeData from './chimeraland-recipes.json'
@@ -15,6 +16,17 @@ export const MonstersData = monstersData.map((item) => {
     }
   })
   return Object.assign({ type: 'monsters' }, item, { recipes })
+})
+
+export const AttendantsData = attendantData.map((item) => {
+  const recipes: typeof recipeData = []
+  item.delicacies.forEach((tasty) => {
+    const find = recipeData.find((recipe) => recipe.name === tasty)
+    if (typeof find !== 'undefined') {
+      recipes.push(find)
+    }
+  })
+  return Object.assign({ type: 'attendants' }, item, { recipes })
 })
 
 export const RecipesData = recipeData.map((item) => {

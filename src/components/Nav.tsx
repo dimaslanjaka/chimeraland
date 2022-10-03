@@ -54,13 +54,16 @@ export function Nav() {
               </li>
               <li className="nav-item">
                 <OutboundLink
+                  legacy={true}
                   className="nav-link"
+                  target="_blank"
                   href="https://www.webmanajemen.com/The%20Legend%20Of%20Neverland/Quiz.html">
                   TLON Quiz
                 </OutboundLink>
               </li>
               <li className="nav-item dropdown">
                 <OutboundLink
+                  lgeacy={true}
                   className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdown"
@@ -72,6 +75,7 @@ export function Nav() {
                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li>
                     <OutboundLink
+                      legacy={true}
                       className="dropdown-item"
                       href="/chimeraland/monsters">
                       Monsters
@@ -82,6 +86,7 @@ export function Nav() {
                   </li>
                   <li>
                     <OutboundLink
+                      legacy={true}
                       className="dropdown-item"
                       href="/chimeraland/attendants">
                       Attendants
@@ -92,21 +97,13 @@ export function Nav() {
                   </li>
                   <li>
                     <OutboundLink
+                      legacy={true}
                       className="dropdown-item"
                       href="/chimeraland/recipes.html">
                       Recipes
                     </OutboundLink>
                   </li>
                 </ul>
-              </li>
-              <li className="nav-item">
-                <OutboundLink
-                  className="nav-link disabled"
-                  href="#"
-                  tabIndex={-1}
-                  aria-disabled="true">
-                  Disabled
-                </OutboundLink>
               </li>
             </ul>
             <form id="sbx" className="d-flex">

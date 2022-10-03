@@ -96,42 +96,72 @@ export function Material(props: MaterialProps) {
               slot="8481296455"></Adsense>
           </div>
           <div className="col-lg-6 col-12">
-            <div className="card">
-              <div className="card-body">
-                <h5 className="card-title">
-                  What is the use of the {props.name}
-                </h5>
-                <div className="card-text">
-                  <ul>
-                    {(props.details as string[]).map((str, i) => (
-                      <li key={'details' + i}>{str}</li>
-                    ))}
-                  </ul>
+            {'details' in props && (
+              <div className="card">
+                <div className="card-body">
+                  <h5 className="card-title">
+                    What is the use of the {props.name}
+                  </h5>
+                  <div className="card-text">
+                    <ul>
+                      {(props.details as string[]).map((str, i) => (
+                        <li key={'details' + i}>{str}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
-            </div>
+            )}
           </div>
 
           <div className="col-lg-6 col-12">
-            <div className="card">
-              <div className="card-body">
-                <h5 className="card-title">How to get {props.name}</h5>
-                <div className="card-text">
-                  <ul>
-                    {(props.howto as string[]).map((str, i) => (
-                      <li key={'details' + i}>{str}</li>
-                    ))}
-                  </ul>
+            {'howto' in props && (
+              <div className="card">
+                <div className="card-body">
+                  <h5 className="card-title">How to get {props.name}</h5>
+                  <div className="card-text">
+                    <ul>
+                      {(props.howto as string[]).map((str, i) => (
+                        <li key={'details' + i}>{str}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
-            </div>
+            )}
+          </div>
+
+          <div className="col-12">
+            {props.images.length > 1 && <h5>{props.name} Spawn Locations</h5>}
+            {props.images.length > 1 &&
+              (
+                props.images as {
+                  absolutePath: string
+                  pathname: string
+                }[]
+              ).map((o, ii) => {
+                if (!/mount/i.test(o.pathname)) return <></>
+                const split = o.pathname.split(/\//g)
+                const imgTitle = split[split.length - 1]
+                  .substring(0, split[split.length - 1].lastIndexOf('.'))
+                  .split(/-/g)
+                  .map((str) => capitalizer(str))
+                  .join(' ')
+                return (
+                  <div key={o.pathname + ii} className="p-4">
+                    <h5>{imgTitle}</h5>
+                    <img
+                      src={o.pathname}
+                      alt={props.name}
+                      data-fancybox="true"
+                      width="100%"
+                    />
+                  </div>
+                )
+              })}
           </div>
         </div>
       </div>
-
-      <pre>
-        <code>{JSON.stringify(props, null, 2)}</code>
-      </pre>
     </>
   )
 }
