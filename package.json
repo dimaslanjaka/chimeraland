@@ -17,10 +17,8 @@
     "core-js": "^3.25.3",
     "debug": "^4.3.4",
     "disqus-react": "^1.1.3",
-    "hexo-post-parser": "file:../hexo-post-parser",
     "moment-timezone": "^0.5.37",
-    "node-polyfill-webpack-plugin": "^2.0.1",
-    "persistent-cache": "github:dimaslanjaka/persistent-cache#improve2",
+    "persistent-cache": "file:../persistent-cache",
     "react": "^18.2.0",
     "react-app-polyfill": "^3.0.0",
     "react-dom": "^18.2.0",
@@ -87,7 +85,6 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.8",
     "express": "^4.18.1",
-    "hexo": "^6.3.0",
     "jsdom": "^20.0.1",
     "nodemon": "^2.0.20",
     "npm-check-updates": "^16.3.7",
@@ -97,7 +94,6 @@
     "puppeteer": "^18.0.5",
     "react-scripts": "^5.0.1",
     "sass": "^1.55.0",
-    "static-blog-generator": "file:../static-blog-generator",
     "typescript": "^4.8.4"
   }
 }
