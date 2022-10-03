@@ -9,6 +9,7 @@ category:
   - Chimeraland
 tags:
   - Chimeraland
+permalink: /chimeraland/pet-attendant-delicacies.html
 ---
 
 <style>

@@ -42,7 +42,8 @@
   "code-runner.saveAllFilesBeforeRun": true,
   "code-runner.runInTerminal": true,
   "code-runner.executorMap": {
-    "typescript": "cross-env-shell DEBUG=chimera-* ts-node"
+    "typescript": "cross-env-shell DEBUG=chimera-* ts-node",
+    "typescriptreact": "cross-env-shell DEBUG=chimera-* ts-node"
   },
   "code-runner.respectShebang": true,
   "prettier.configPath": ".prettierrc.js",

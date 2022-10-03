@@ -42,7 +42,8 @@
     "lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc.js",
-    "update": "npx npm-check-updates -u -x chalk"
+    "update": "npx npm-check-updates -u -x chalk",
+    "ssr": "nodemon --exec \"ts-node ssr.tsx\" -e \"tsx\" --ignore node_modules"
   },
   "eslintConfig": {
     "extends": [
@@ -63,8 +64,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/core": "^7.19.3",
-    "@babel/register": "^7.18.9",
     "@types/bluebird": "^3.5.37",
     "@types/core-js": "^2.5.5",
     "@types/debug": "^4.1.7",
@@ -80,6 +79,7 @@
     "@typescript-eslint/parser": "^5.38.1",
     "ansi-colors": "^4.1.3",
     "cross-env": "^7.0.3",
+    "depcheck": "^1.4.3",
     "eslint": "^8.24.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-import-resolver-typescript": "^3.5.1",
@@ -87,14 +87,17 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.8",
     "express": "^4.18.1",
+    "hexo": "^6.3.0",
     "jsdom": "^20.0.1",
+    "nodemon": "^2.0.20",
+    "npm-check-updates": "^16.3.7",
     "npm-run-all": "^4.1.5",
     "prerender-chrome-headless": "^3.1.0",
     "prettier": "^2.7.1",
     "puppeteer": "^18.0.5",
     "react-scripts": "^5.0.1",
     "sass": "^1.55.0",
-    "typescript": "^4.8.4",
-    "webpack-cli": "^4.10.0"
+    "static-blog-generator": "file:../static-blog-generator",
+    "typescript": "^4.8.4"
   }
 }
