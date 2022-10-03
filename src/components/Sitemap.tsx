@@ -53,10 +53,16 @@ export const SitemapCache = (props?: Partial<OutboundLinkpropTypes>) => {
 
   useEffect(() => {
     const value = array_unique(
-      savedItem.concat(initialValue).map((str) => {
-        if (!/\/chimeraland/i.test(str)) return '/chimeraland' + str
-        return str
-      })
+      savedItem
+        .concat(initialValue)
+        .map((str) => {
+          if (!/\/chimeraland/i.test(str)) return '/chimeraland' + str
+          return str
+        })
+        .filter((str) => {
+          if (/undefined/i.test(str)) console.log(str)
+          return typeof str !== 'undefined' && !/undefined/i.test(str)
+        })
     )
     result = value
     //console.log(value.length)

@@ -9,9 +9,11 @@
 /public/recipes
 /public/monsters
 /public/attendants
+/public/scenic-*
 /dist
 *.zip
 .env
+.deploy_git
 
 # dependencies
 /node_modules

@@ -52,15 +52,7 @@ export function Nav() {
                   Home
                 </OutboundLink>
               </li>
-              <li className="nav-item">
-                <OutboundLink
-                  legacy={true}
-                  className="nav-link"
-                  target="_blank"
-                  href="https://www.webmanajemen.com/The%20Legend%20Of%20Neverland/Quiz.html">
-                  TLON Quiz
-                </OutboundLink>
-              </li>
+
               <li className="nav-item dropdown">
                 <OutboundLink
                   legacy={true}

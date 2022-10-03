@@ -14,8 +14,28 @@ export function Sidebar() {
       <div className="p-4">
         <h4 className="fst-italic">Sitelink</h4>
         <ol className="list-unstyled mb-0">
-          <li>
-            <OutboundLink href="/sitemap">Sitemap</OutboundLink>
+          <li className="nav-item">
+            <OutboundLink href="/sitemap" className="nav-link">
+              Sitemap
+            </OutboundLink>
+          </li>
+          <li className="nav-item">
+            <OutboundLink
+              legacy={true}
+              className="nav-link"
+              target="_blank"
+              href="https://www.webmanajemen.com/The%20Legend%20Of%20Neverland/Quiz.html">
+              The Legend Of Neverland Quiz
+            </OutboundLink>
+          </li>
+          <li className="nav-item">
+            <OutboundLink
+              legacy={true}
+              className="nav-link"
+              target="_blank"
+              href="https://www.webmanajemen.com/2017/04/instal-php-cli-pada-android-instalasi.html">
+              Install PHP CLI android
+            </OutboundLink>
           </li>
         </ol>
       </div>
