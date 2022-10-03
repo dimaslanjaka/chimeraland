@@ -351,6 +351,7 @@ export function Monster(props: MonsterProps) {
                       onClick={onClickBox}
                       key={'img-box' + i}>
                       <OutboundLink
+                        legacy={true}
                         key={'link-img-box' + i}
                         href={src}
                         data-fancybox="gallery"

@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import './App.scss'
+import { Attendant } from './components/Attendant'
 import { Footer } from './components/Footer'
 import { Home } from './components/Home'
 import { Material } from './components/Materials'
@@ -8,8 +9,13 @@ import { Nav } from './components/Nav'
 import { NoMatch } from './components/NoMatch'
 import { Recipes } from './components/Recipes'
 import { Sidebar } from './components/Sidebar'
-import { Sitemap } from './components/Sitemap'
-import { MaterialsData, MonstersData, RecipesData } from './utils/chimeraland'
+import { Sitemap, SitemapCache } from './components/Sitemap'
+import {
+  AttendantsData,
+  MaterialsData,
+  MonstersData,
+  RecipesData
+} from './utils/chimeraland'
 
 export default function App() {
   return (
@@ -25,7 +31,7 @@ export default function App() {
             <Route path="/attendants" element={<Home />}></Route>
             {MonstersData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-
+              SitemapCache({ href: pathname })
               return (
                 <Route
                   path={pathname}
@@ -36,7 +42,7 @@ export default function App() {
             })}
             {RecipesData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-
+              SitemapCache({ href: pathname })
               return (
                 <Route
                   path={pathname}
@@ -47,12 +53,26 @@ export default function App() {
             })}
             {MaterialsData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
-
+              SitemapCache({ href: pathname })
               return (
                 <Route
                   path={pathname}
                   key={item.type + i}
                   element={<Material key={'Element-Material-' + i} {...item} />}
+                />
+              )
+            })}
+
+            {AttendantsData.map((item, i) => {
+              const pathname = item.pathname.replace('chimeraland/', '')
+              SitemapCache({ href: pathname })
+              return (
+                <Route
+                  path={pathname}
+                  key={item.type + i}
+                  element={
+                    <Attendant key={'Element-Attendant-' + i} {...item} />
+                  }
                 />
               )
             })}

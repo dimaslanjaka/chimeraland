@@ -1,13 +1,15 @@
-import { useEffect } from 'react'
-import { getStorageData } from '../hooks/useLocalStorage'
+import { useEffect, useState } from 'react'
 import { array_unique } from '../utils/array'
 import { array_jsx_join } from '../utils/array-jsx'
 import { capitalizer } from '../utils/string'
 import { OutboundLinkpropTypes } from './react-seo-meta-tags/OutboundLink'
 
+const keyName = 'sitemap'
+
 export function Sitemap() {
+  const [value] = useState(SitemapCache())
   const hrefs = array_unique(
-    SitemapCacher.get()
+    value
       .map((href) => {
         href = href.replace('/chimeraland/', '/')
         const category = capitalizer(href.split(/\//)[1])
@@ -42,37 +44,24 @@ export function Sitemap() {
   return <div className="container">{array_jsx_join(gets)}</div>
 }
 
-export class SitemapCacher {
-  static items: string[] = []
-  static push(url: string) {
-    if (this.items) this.items.push(url)
-    SitemapCacher.items.push(url)
-  }
-  push = SitemapCacher.push
-  get = SitemapCacher.get
-  static get() {
-    return array_unique(SitemapCacher.items)
-  }
-  set = SitemapCacher.set
-  static set(sitemaps: string[]) {
-    SitemapCacher.items = array_unique(sitemaps)
-  }
-}
-
-export const SitemapCache = ({ href }: OutboundLinkpropTypes) => {
-  const keyName = 'sitemap'
-  const initialValue = [href]
+export const SitemapCache = (props?: Partial<OutboundLinkpropTypes>) => {
+  const initialValue = [props?.href] as string[]
+  let result: string[] = []
+  const savedItem = (result = JSON.parse(
+    localStorage.getItem(keyName) || '[]'
+  ) as string[])
 
   useEffect(() => {
     const value = array_unique(
-      getStorageData(keyName, initialValue)
-        .concat(initialValue)
-        .map((str) => {
-          if (!/chimeraland\//i.test(str)) return '/chimeraland' + str
-          return str
-        })
+      savedItem.concat(initialValue).map((str) => {
+        if (!/\/chimeraland/i.test(str)) return '/chimeraland' + str
+        return str
+      })
     )
-    SitemapCacher.set(value)
+    result = value
+    //console.log(value.length)
     localStorage.setItem(keyName, JSON.stringify(value))
   })
+
+  return result
 }
