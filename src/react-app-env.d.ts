@@ -7,6 +7,11 @@ declare module '*.svg' {
   export default content
 }
 
+declare module '*.md' {
+  const content: any
+  export default content
+}
+
 declare namespace JSX {
   interface ExtendedButton
     extends React.DetailedHTMLProps<
