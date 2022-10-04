@@ -7,6 +7,7 @@ import { Material } from './components/Materials'
 import { Monster } from './components/Monster'
 import { Nav } from './components/Nav'
 import { NoMatch } from './components/NoMatch'
+import { PageIndex } from './components/PageIndex'
 import { Recipes } from './components/Recipes'
 import { ScenicSpots } from './components/ScenicSpots'
 import { Sidebar } from './components/Sidebar'
@@ -26,7 +27,9 @@ export default function App() {
         <div className="col-md-8">
           <Routes>
             <Route path="/" element={<Home />}></Route>
-            <Route path="/monsters" element={<Home />}></Route>
+            <Route
+              path="/monsters"
+              element={<PageIndex tab="monsters" />}></Route>
             <Route path="/materials" element={<Home />}></Route>
             <Route path="/recipes" element={<Home />}></Route>
             <Route path="/attendants" element={<Home />}></Route>
