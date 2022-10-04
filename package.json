@@ -34,6 +34,7 @@
   "scripts": {
     "start": "cross-env-shell NODE_ENV=development PORT=4000 BROWSER=none DEBUG=chimera* react-scripts start",
     "build": "react-scripts build",
+    "postbuild": "rimraf tmp/build && cross-env-shell NODE_ENV=production PORT=4000 BROWSER=none DEBUG=chimera* ts-node snapshot.ts",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "serve": "npx serve -s build -l 4000",
@@ -93,6 +94,7 @@
     "prettier": "^2.7.1",
     "puppeteer": "^18.0.5",
     "react-scripts": "^5.0.1",
+    "rimraf": "^3.0.2",
     "sass": "^1.55.0",
     "typescript": "^4.8.4"
   }

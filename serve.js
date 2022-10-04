@@ -15,11 +15,10 @@ app.use(function (req, res, next) {
     if (existsSync(index)) return res.sendFile(index)
   }
   if (req.accepts('json')) {
-    res.json({
+    return res.json({
       status: 404,
       error: 'Not found'
     })
-    return
   }
 
   // default to plain-text. send()

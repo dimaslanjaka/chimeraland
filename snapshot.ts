@@ -2,12 +2,13 @@ import { spawn } from 'child_process'
 import debuglib from 'debug'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 import jsdom from 'jsdom'
-import { basename, dirname, join } from 'path'
 import prettier from 'prettier'
 import puppeteer from 'puppeteer'
+import { basename, dirname, join } from 'upath'
 import ExpressServer from './express'
 import pkg from './package.json'
 import { array_unique } from './src/utils/array'
+import { color } from './src/utils/color'
 
 const port = 4000
 const debug = debuglib('chimera-static')
@@ -33,24 +34,54 @@ async function navigatorListener() {
   const navigate = async (pageUrl: string) => {
     // skip empty url
     if (!pageUrl) return
+    // skip non-html url
+    if (/.(png|jpe?g|ico|txt|gif)$/.test(pageUrl)) {
+      done.push(pageUrl)
+      debug(color.yellowBright('skip non-html file'), pageUrl)
+      return
+    }
     debug('navigating', pageUrl)
     const browser = await puppeteer.launch({
       headless: true,
-      args: ['--user-data-dir=' + join(__dirname, 'tmp/puppeteer_profile')],
+      args: [
+        '--user-data-dir=' + join(__dirname, 'tmp/puppeteer_profile'),
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-infobars',
+        '--window-position=0,0',
+        '--ignore-certifcate-errors',
+        '--ignore-certifcate-errors-spki-list',
+        '--ignoreHTTPSErrors=true',
+        '--user-agent="Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z‡ Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"'
+      ],
       timeout: 3 * 60 * 1000
     })
-    const page = await browser.newPage()
-    await page.goto(pageUrl, { waitUntil: 'networkidle0' })
-    const html = await page.content()
     let result: string
-    if (html) {
-      result = parseHTML(html, new URL(pageUrl).pathname)
-    } else {
-      debug('html invalid', pageUrl)
+    try {
+      const page = await browser.newPage()
+      // Configure the navigation timeout to 2 minutes, becuase sometimes site is too busy
+      page.setDefaultNavigationTimeout(120000)
+
+      await page.goto(pageUrl, { waitUntil: 'networkidle0' })
+      // wait for #root
+      await page.waitForSelector('#root', { timeout: 1000 })
+      const html = await page.content()
+
+      if (html) {
+        result = parseHTML(html, new URL(pageUrl).pathname)
+      } else {
+        debug('html invalid', pageUrl)
+      }
+      await browser.close()
+      // add url to done indicator
+      done.push(pageUrl)
+      writeFileSync(donefile, done.join('\n'))
+    } catch (e) {
+      if (e instanceof puppeteer.errors.TimeoutError) {
+        // Do something if this is a timeout.
+        debug(color.redBright('puppeteer timeout'), pageUrl)
+      }
     }
-    await browser.close()
-    done.push(pageUrl)
-    writeFileSync(donefile, done.join('\n'))
     return result
   }
   let running = false
@@ -88,7 +119,7 @@ async function navigatorListener() {
     running = true
 
     const getSitemap = await navigate(fixUrl(current))
-    if (getSitemap) {
+    if (typeof getSitemap === 'string') {
       const dom = new jsdom.JSDOM(getSitemap)
       const { window } = dom
       const { document } = window
@@ -115,14 +146,14 @@ async function navigatorListener() {
     }
     running = false
     urls.shift()
-    writeFileSync(
+    /*writeFileSync(
       urlsFile,
       array_unique(
         urls.filter(function (el) {
           return done.indexOf(el) < 0
         })
       ).join('\n')
-    )
+    )*/
     if (urls.length > 0) scrape()
   }
   app.use((req, res, next) => {
