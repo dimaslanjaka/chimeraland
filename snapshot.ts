@@ -20,8 +20,10 @@ async function navigatorListener() {
     //throw new Error("please rebuild using `npm run build`");
   }*/
   const server = await ExpressServer(port)
-
-  const baseUrl = 'http://localhost:' + port
+  const homepageUrl = new URL(pkg.homepage)
+  const baseUrl = new URL(
+    'http://localhost:' + port + homepageUrl.pathname
+  ).toString()
   const pageUrl = new URL(baseUrl + '/sitemap')
   const navigate = async (pageUrl: string) => {
     debug('navigating', pageUrl)
@@ -29,12 +31,14 @@ async function navigatorListener() {
     const page = await browser.newPage()
     await page.goto(pageUrl, { waitUntil: 'networkidle0' })
     const html = await page.content()
+    let result: string
     if (html) {
-      return saveHTML(html, new URL(pageUrl).pathname)
+      result = saveHTML(html, new URL(pageUrl).pathname)
     } else {
       debug('html invalid', pageUrl)
     }
     await browser.close()
+    return result
   }
   const getSitemap = await navigate(pageUrl.toString())
   if (getSitemap) {

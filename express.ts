@@ -8,7 +8,9 @@ const pathname = new URL(pkg.homepage).pathname
 
 const index = path.join(__dirname, 'build', 'index.html')
 const index200 = path.join(__dirname, 'build', '200.html')
+const index404 = path.join(__dirname, 'build', '404.html')
 if (!existsSync(index200)) copyFileSync(index, index200)
+if (!existsSync(index404)) copyFileSync(index, index404)
 
 /**
  * serve from 200.html
