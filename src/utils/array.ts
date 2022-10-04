@@ -5,9 +5,11 @@
  * @param arr
  * @param field key name (for array of object)
  * @returns
- * @see {@link https://stackoverflow.com/a/67322087/6404439}
+ *
  * @example
  * arrayOfObjUniq({p:'x',n:'x'},{p:'23',n:'x'},{p:'x',n:'5g'}, 'p'); // [{p:'x',n:'x'},{p:'23',n:'x'}]
+ *
+ * @link https://stackoverflow.com/a/67322087/6404439
  */
 export function array_unique<T extends any[]>(arr: T, field?: string): T {
   if (Array.isArray(arr)) {

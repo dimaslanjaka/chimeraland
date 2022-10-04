@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Helmet } from 'react-helmet'
 import { array_jsx_join } from '../utils/array-jsx'
 import {
   AttendantsData,
@@ -6,7 +7,10 @@ import {
   MonstersData,
   RecipesData
 } from '../utils/chimeraland'
+import { capitalizer } from '../utils/string'
+import { pathname2url } from '../utils/url'
 import { OutboundLink } from './react-seo-meta-tags/OutboundLink'
+import { ReactSEOMetaTags } from './react-seo-meta-tags/ReactSEOMetaTags'
 
 interface PropsIndex {
   tab: 'monsters' | 'attendants' | 'recipes' | 'materials'
@@ -49,12 +53,16 @@ export function PageIndex(props: PropsIndex) {
       if (props.tab === 'recipes') {
         description = array_jsx_join(
           item.recipes
-            .concat('Device:\t' + (item.device || 'Stove/Camp'))
-            .map((recipe) => (
-              <p key={recipe} className="border rounded p-2 m-1">
-                {recipe}
+            .map((recipe, i) => (
+              <p key={recipe + i} className="border rounded p-2 m-1">
+                Recipe {i + 1}: {recipe}
               </p>
-            )),
+            ))
+            .concat([
+              <p key="device" className="border rounded p-2 m-1">
+                Device: {item.device || 'Stove/Camp'}{' '}
+              </p>
+            ]),
           ''
         )
       }
@@ -84,10 +92,38 @@ export function PageIndex(props: PropsIndex) {
         </div>
       )
     })
+
+  const siteMetadata = {
+    url: pathname2url(props.tab),
+    title: capitalizer(props.tab) + ' - Chimeraland',
+    //datePublished: props.datePublished,
+    //dateModified: props.dateModified,
+    description: capitalizer(props.tab) + ' - Chimeraland',
+    language: 'en-US,id',
+    image:
+      'https://via.placeholder.com/250x180.png?text=' + capitalizer(props.tab),
+    author: {
+      email: 'dimaslanjaka@gmail.com',
+      name: 'Dimas Lanjaka',
+      image: 'https://avatars.githubusercontent.com/u/12471057?v=4'
+    },
+    site: {
+      siteName: 'WMI Chimeraland',
+      searchUrl: 'https://www.google.com/search?q='
+    }
+  }
+
   return (
     <>
+      <ReactSEOMetaTags
+        render={(el: React.ReactNode) => <Helmet>{el}</Helmet>}
+        website={{ ...siteMetadata }}
+      />
+
       <div className="container">
-        <h1 className="fs-5 text-center">Chimeraland Monsters</h1>
+        <h1 className="fs-5 text-center">
+          Chimeraland {capitalizer(props.tab)}
+        </h1>
         <div className="row">
           <div className="col-12 mb-2">
             <input
