@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+git checkout gh-pages
+read hash
+git reset --hard $hash
+git push -f origin gh-pages
