@@ -91,7 +91,7 @@ export function Nav() {
                     <OutboundLink
                       legacy={true}
                       className="dropdown-item"
-                      href="/chimeraland/recipes.html">
+                      href="/chimeraland/recipes">
                       Recipes
                     </OutboundLink>
                   </li>

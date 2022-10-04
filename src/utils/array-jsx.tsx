@@ -1,12 +1,12 @@
 export function array_jsx_join(
   arr: JSX.Element[],
   delimeter?: JSX.Element | string
-) {
-  if (!Array.isArray(arr)) return arr
-  if (arr.length === 0) return arr
+): JSX.Element {
+  if (!Array.isArray(arr) || arr.length === 0)
+    return <>[array_jsx_join] empty array</>
   let delim: JSX.Element = <br />
   if (typeof delimeter === 'string') {
-    delim = <p>{delimeter}</p>
+    delim = <span>{delimeter}</span>
   } else if (typeof delimeter !== 'undefined') {
     delim = delimeter
   }

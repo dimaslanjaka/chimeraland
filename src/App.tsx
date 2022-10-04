@@ -30,9 +30,15 @@ export default function App() {
             <Route
               path="/monsters"
               element={<PageIndex tab="monsters" />}></Route>
-            <Route path="/materials" element={<Home />}></Route>
-            <Route path="/recipes" element={<Home />}></Route>
-            <Route path="/attendants" element={<Home />}></Route>
+            <Route
+              path="/materials"
+              element={<PageIndex tab="materials" />}></Route>
+            <Route
+              path="/recipes"
+              element={<PageIndex tab="recipes" />}></Route>
+            <Route
+              path="/attendants"
+              element={<PageIndex tab="attendants" />}></Route>
             <Route path="/scenic-spots" element={<ScenicSpots />}></Route>
             {MonstersData.map((item, i) => {
               const pathname = item.pathname.replace('chimeraland/', '')
