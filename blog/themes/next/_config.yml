@@ -51,7 +51,7 @@ language_switcher: false
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  #since: 2015
+  since: 2022
 
   # Icon between year and copyright info.
   icon:
@@ -114,10 +114,10 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  monsters: /chimeraland/monsters/ || fa fa-archive
-  attendants: /chimeraland/attendants/ || fa fa-archive
-  recipes: /chimeraland/recipes/ || fa fa-archive
-  scenic: /chimeraland/scenic-spots/ || fa fa-archive
+  monsters: monsters/ || fa fa-dragon
+  attendants: attendants/ || fa fa-user-shield
+  recipes: recipes/ || fa fa-pizza-slice
+  scenic: scenic-spots/ || fa fa-lightbulb
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
@@ -163,7 +163,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: #/images/avatar.gif
+  url: /images/avatar.gif
   # If true, the avatar will be dispalyed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.

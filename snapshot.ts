@@ -112,7 +112,7 @@ async function navigatorListener() {
     })
 
     if (running || urls.length == 0) {
-      debug('scrape finished')
+      debug(color.green('scrape finished'))
       return
     }
     const current = urls[0]

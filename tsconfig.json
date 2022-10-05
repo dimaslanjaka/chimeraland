@@ -27,5 +27,11 @@
   },
   "include": ["./src", "./*.json", "./*.ts", "./*.js", "./*.tsx"],
   "typeAcquisition": { "enable": true },
-  "exclude": ["**/node_modules/**", "**/tmp/**", "**/build/**", "**/dist/**"]
+  "exclude": [
+    "**/node_modules/**",
+    "**/tmp/**",
+    "**/build/**",
+    "**/dist/**",
+    "./blog"
+  ]
 }
