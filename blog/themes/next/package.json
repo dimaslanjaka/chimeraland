@@ -32,5 +32,10 @@
   },
   "engines": {
     "node": ">=10.9.0"
+  },
+  "dependencies": {
+    "hexo-generator-searchdb": "^1.4.0",
+    "hexo-renderer-stylus": "^2.1.0",
+    "hexo-renderer-swig": "^2.0.0"
   }
 }
