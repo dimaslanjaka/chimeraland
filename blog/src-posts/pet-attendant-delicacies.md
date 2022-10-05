@@ -9,7 +9,6 @@ category:
   - Chimeraland
 tags:
   - Chimeraland
-permalink: /chimeraland/pet-attendant-delicacies.html
 ---
 
 <style>
@@ -26,4 +25,5 @@ permalink: /chimeraland/pet-attendant-delicacies.html
 
 {% youtube cTViqpwvxqU %}
 
-<script src="/chimeraland/pet-attendant-delicacies/script.js"></script>
+<!--<script src="/chimeraland/pet-attendant-delicacies/script.js"></script>-->
+<!-- script pet-attendant-delicacies/script.js -->

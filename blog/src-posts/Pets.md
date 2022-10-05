@@ -3,7 +3,6 @@ category:
   - Games
   - Chimeraland
 comments: true
-permalink: /chimeraland/Pets.html
 cover: Pets/cover.jpg
 date: 2022-02-18T10:37:00+07:00
 updated: 2022-08-26T05:30:00+0700
@@ -18,6 +17,7 @@ tags:
   - Chimeraland
 title: Chimeraland Pets Attribute Stats Information
 toc: true
+redirect: /chimeraland/monsters
 ---
 
 <!-- include index2/update.html -->
