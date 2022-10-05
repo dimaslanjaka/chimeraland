@@ -1,0 +1,35 @@
+# basic
+title: lyyourc
+subtitle: You Are The JavaScript In My HTML
+favicon: favicon.ico
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
+banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
+banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+
+# disqus
+disqus_shortname: dimaslanjaka
+
+# social
+social:
+  github: https://github.com/dimaslanjaka
+  #twitter: https://twitter.com/dimaslanjaka
+  #weibo: http://weibo.com/cha12chalyc
+
+# nav #
+nav:
+  home: .
+  archive: archives
+  # about: about
+  rss: atom.xml
+
+# hexo-renderer-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+google_analytics: UA-106238155-1
