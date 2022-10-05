@@ -7,7 +7,7 @@ import '../fancybox/src/Fancybox/Fancybox.scss'
 import { MaterialsData, MonstersData, RecipesData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
-import { Adsense } from './adsense/Adsense'
+import { adsArticle, adsArticle1, adsAuto } from './adsense/myads'
 import './Monster.scss'
 import { OutboundLink } from './react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from './react-seo-meta-tags/ReactSEOMetaTags'
@@ -215,17 +215,8 @@ export function Monster(props: MonsterProps) {
                   </div>
                 </div>
               </div>
-              <div className="col-12 col-stat col-lg-6 mb-2">
-                <Adsense
-                  style={{
-                    textAlign: 'center',
-                    display: 'block'
-                  }}
-                  layout="in-article"
-                  format="fluid"
-                  client="ca-pub-2188063137129806"
-                  slot="5634823028"
-                />
+              <div className="col-12 h-250 col-lg-6 mb-2">
+                {adsArticle(props.name + 'article-1')}
               </div>
             </div>
           </div>
@@ -234,13 +225,7 @@ export function Monster(props: MonsterProps) {
             <h2 id="delicacies">
               Delicacies and tasty recipes for {props.name}
             </h2>
-            <Adsense
-              style={{ textAlign: 'center', display: 'block' }}
-              layout="in-article"
-              format="fluid"
-              client="ca-pub-2188063137129806"
-              slot="8481296455"
-            />
+            <div className="h-250">{adsArticle1(props.name + 'article-2')}</div>
             <div className="row" id="delicacies-wrapper">
               {mappedTasty.map((recipe, i) => {
                 return (
@@ -355,13 +340,7 @@ export function Monster(props: MonsterProps) {
           {/** gallery photos */}
           <div className="col-12">
             <h2 id="galleries">Galleries {props.name}</h2>
-            <Adsense
-              style={{ textAlign: 'center', display: 'block' }}
-              client="ca-pub-2188063137129806"
-              slot="2667720583"
-              format="auto"
-              responsive="true"
-            />
+            <div className="h-250">{adsAuto(props.name + 'monster-auto')}</div>
             <div className="gallery-image text-center" id="gallery">
               {props.images.map((o, i) => {
                 const src =

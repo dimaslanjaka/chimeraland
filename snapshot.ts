@@ -12,6 +12,7 @@ import { color } from './src/utils/color'
 
 const port = 4000
 const debug = debuglib('chimera-static')
+const baseDir = join(__dirname, 'build')
 
 navigatorListener()
 
@@ -25,7 +26,7 @@ async function navigatorListener() {
   const baseUrl = new URL('http://localhost:' + port)
   const pageUrl = new URL(baseUrl)
   pageUrl.pathname = homepageUrl.pathname + '/sitemap'
-  const donefile = join(__dirname, 'tmp/build/done.txt')
+  const donefile = join(baseDir, 'done.txt')
   const done: string[] = existsSync(donefile)
     ? readFileSync(donefile, 'utf-8')
         .split(/\r?\n/)
@@ -85,7 +86,7 @@ async function navigatorListener() {
     return result
   }
   let running = false
-  const urlsFile = join(__dirname, 'tmp/build/urls.txt')
+  const urlsFile = join(baseDir, 'urls.txt')
   let urls: string[] = existsSync(urlsFile)
     ? readFileSync(urlsFile, 'utf-8')
         .split(/\r?\n/)
@@ -110,7 +111,10 @@ async function navigatorListener() {
       content: urls.sort(() => Math.random() - 0.5).join('\n')
     })
 
-    if (running || urls.length == 0) return
+    if (running || urls.length == 0) {
+      debug('scrape finished')
+      return
+    }
     const current = urls[0]
     if (done.includes(current)) {
       urls.shift()
@@ -244,7 +248,7 @@ function parseHTML(html: string, pathname: string) {
       if (subfolder !== '/') filePath = filePath.replace(subfolder, '')
       debug(`Saving ${pathname} as ${filePath}`)
       const dest = write({
-        baseDir: join(__dirname, 'tmp/build'),
+        baseDir,
         filename: filePath,
         content
       })

@@ -1,3 +1,4 @@
+import { DiscussionEmbed } from 'disqus-react'
 import moment from 'moment-timezone'
 import React from 'react'
 import { Helmet } from 'react-helmet'
@@ -10,6 +11,7 @@ import '../fancybox/src/Fancybox/Fancybox.scss'
 import { MaterialsData, RecipesData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
+import { adsArticle, adsArticle1 } from './adsense/myads'
 import './Recipes.scss'
 
 type RecipesProp = typeof RecipesData[number]
@@ -129,6 +131,8 @@ export function Recipes(props: RecipesProp) {
           </div>
         </div>
 
+        <div className="h-250">{adsArticle(props.name + 'recipe-2')}</div>
+
         <div className="card mb-2">
           <div className="row g-0">
             <div className="col-sm-4 position-relative mb-2">
@@ -143,31 +147,37 @@ export function Recipes(props: RecipesProp) {
                 data-fancybox="true"
               />
             </div>
+            {/** buff */}
+            <div className="col-sm-8 mb-2">
+              <div className="card-body">
+                <h2 className="card-title fs-5">Buff {props.name}</h2>
 
-            {'buff' in props && (
-              <div className="col-sm-8 mb-2">
-                <div className="card-body">
-                  <h2 className="card-title fs-5">Buff {props.name}</h2>
-
-                  <div className="card-text">
-                    <ul>
-                      {(props.buff as string[])?.map((str, bi) => {
+                <div className="card-text">
+                  <ul>
+                    {'buff' in props ? (
+                      (props.buff as string[])?.map((str, bi) => {
                         return <li key={'bi' + bi}>{str}</li>
-                      })}
-                    </ul>
-                  </div>
-                  <span className="badge rounded-pill bg-dark">recipe</span>
+                      })
+                    ) : (
+                      <>Buff {props.name} not yet written</>
+                    )}
+                  </ul>
                 </div>
-
-                <div className="card-footer text-end text-muted">
-                  webmanajemen.com
-                </div>
+                <span className="badge rounded-pill bg-dark">recipe</span>
               </div>
-            )}
+
+              <div className="card-footer text-end text-muted">
+                webmanajemen.com
+              </div>
+            </div>
           </div>
         </div>
 
+        {/** recipes */}
         <div className="row mb-2">
+          <div className="col-12 h-250">
+            {adsArticle1(props.name + 'recipe-1')}
+          </div>
           {props.recipes.map((recipe, ri) => {
             let device = ''
             const rg = /--device: (.*)--/i
@@ -198,7 +208,7 @@ export function Recipes(props: RecipesProp) {
                     </OutboundLink>
                   )
                 } else {
-                  console.log(cleanstr)
+                  //console.log(cleanstr)
                   return <>{str}</>
                 }
               })
@@ -230,6 +240,21 @@ export function Recipes(props: RecipesProp) {
               </div>
             )
           })}
+        </div>
+
+        <div className="row mb-2">
+          {/** comment */}
+          <div className="col-12">
+            <DiscussionEmbed
+              shortname="dimaslanjaka"
+              config={{
+                url: pathname2url(props.pathname),
+                identifier: props.pathname,
+                title: props.name
+                // language: 'zh_TW' //e.g. for Traditional Chinese (Taiwan)
+              }}
+            />
+          </div>
         </div>
       </main>
     </>

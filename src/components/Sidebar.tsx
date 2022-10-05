@@ -16,7 +16,7 @@ export function Sidebar() {
         <ol className="list-unstyled mb-0">
           <li className="nav-item">
             <OutboundLink href="/sitemap" className="nav-link">
-              Sitemap
+              Chimeraland Sitemap
             </OutboundLink>
           </li>
           <li className="nav-item">
@@ -54,16 +54,23 @@ export function Sidebar() {
       </div>
 
       <div className="p-4">
-        <h4 className="fst-italic">Elsewhere</h4>
+        <h4 className="fst-italic">Social Media</h4>
         <ol className="list-unstyled">
           <li>
-            <OutboundLink href="#">GitHub</OutboundLink>
+            <OutboundLink
+              href="https://github.com/dimaslanjaka"
+              rel="nofollow noopener noreferer"
+              target="_blank">
+              GitHub
+            </OutboundLink>
           </li>
           <li>
-            <OutboundLink href="#">Twitter</OutboundLink>
-          </li>
-          <li>
-            <OutboundLink href="#">Facebook</OutboundLink>
+            <OutboundLink
+              href="https://facebook.com/dimaslanjaka1"
+              rel="nofollow noopener noreferer"
+              target="_blank">
+              Facebook
+            </OutboundLink>
           </li>
         </ol>
       </div>
