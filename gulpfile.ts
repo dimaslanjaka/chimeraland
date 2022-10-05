@@ -52,9 +52,12 @@ gulp.task('safelink', async () => {
              */
             const matchHost = internal_links.includes(new URL(href).host)
             /**
-             * match url
+             * match url internal
              */
             const matchHref = internal_links.includes(href)
+            if (!matchHref) {
+              a.setAttribute('rel', 'nofollow noopener noreferer')
+            }
             if (!matchHost && !matchHref) {
               const safelinkPath = safelink.encodeURL(href)
               if (typeof safelinkPath == 'string' && safelinkPath.length > 0) {
