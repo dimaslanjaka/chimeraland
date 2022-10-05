@@ -31,13 +31,25 @@ export default function App() {
               path="/monsters"
               element={<PageIndex tab="monsters" />}></Route>
             <Route
+              path="/monsters/index.html"
+              element={<PageIndex tab="monsters" />}></Route>
+            <Route
               path="/materials"
+              element={<PageIndex tab="materials" />}></Route>
+            <Route
+              path="/materials/index.html"
               element={<PageIndex tab="materials" />}></Route>
             <Route
               path="/recipes"
               element={<PageIndex tab="recipes" />}></Route>
             <Route
+              path="/recipes/index.html"
+              element={<PageIndex tab="recipes" />}></Route>
+            <Route
               path="/attendants"
+              element={<PageIndex tab="attendants" />}></Route>
+            <Route
+              path="/attendants/index.html"
               element={<PageIndex tab="attendants" />}></Route>
             <Route path="/scenic-spots" element={<ScenicSpots />}></Route>
             {MonstersData.map((item, i) => {

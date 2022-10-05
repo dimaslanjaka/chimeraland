@@ -5,18 +5,27 @@
   "main": "index.js",
   "scripts": {
     "dev-remote": "npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz https://github.com/dimaslanjaka/hexo-post-parser.git",
-    "dev-local": "npm i -D file:../../hexo-post-parser file:../../static-blog-generator"
+    "dev-local": "npm i -D file:../../hexo-post-parser file:../../static-blog-generator",
+    "prod-local": "npm i file:../../hexo-adsense",
+    "prod-server": "npm i https://github.com/dimaslanjaka/hexo-adsense.git",
+    "server": "hexo server -p 4000",
+    "serve": "hexo server -p 4000"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dimas Lanjaka <dimaslanjaka@gmail.com>",
   "license": "ISC",
+  "hexo": {
+    "version": "6.3.0"
+  },
   "dependencies": {
     "hexo": "^6.3.0",
+    "hexo-adsense": "file:../../hexo-adsense",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-server": "^3.0.0",
+    "hexo-theme-again": "file:themes/again",
     "moment-timezone": "^0.5.37"
   },
   "devDependencies": {

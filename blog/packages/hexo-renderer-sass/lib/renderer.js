@@ -1,17 +1,17 @@
 'use strict'
 
-var sass = require('node-sass')
-var extend = require('util')._extend
+const sass = require('node-sass')
+const { deepmerge } = 'deepmerge-ts'
 
 module.exports = (ext) =>
   function (data) {
     // support global and theme-specific config
-    var userConfig = extend(
+    var userConfig = deepmerge(
       this.theme.config.node_sass || {},
       this.config.node_sass || {}
     )
 
-    var config = extend(
+    var config = deepmerge(
       {
         data: data.text,
         file: data.path,
@@ -25,7 +25,7 @@ module.exports = (ext) =>
     try {
       // node-sass result object:
       // https://github.com/sass/node-sass#result-object
-      var result = sass.renderSync(config)
+      const result = sass.renderSync(config)
       // result is now Buffer instead of String
       // https://github.com/sass/node-sass/issues/711
       return result.css.toString()
