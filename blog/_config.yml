@@ -147,3 +147,25 @@ deploy:
 include: []
 exclude: []
 ignore: []
+
+## https://github.com/dimaslanjaka/hexo-adsense
+adsense:
+  enable: true
+  #pub: ca-pub-1165447249910969 # mine
+  pub: ca-pub-2188063137129806
+  # in-article ads source
+  article_ads:
+    - 'source/ads/in_article_kiki.html'
+    - 'source/ads/in_article_kiki2.html'
+  # ads field
+  field: 'site' # post=only post, site=all pages and posts
+  # auto redirect to https
+  https: false
+  # block user with adblock enabled
+  adblock: false
+  # amp or javascript
+  type: javascript
+  # exclude pattern, disable adding adsense
+  exclude:
+    - '*.min.html'
+    - '**/exclude/**/*'

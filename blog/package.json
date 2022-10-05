@@ -14,7 +14,8 @@
     "un": "npm un static-blog-generator hexo-post-parser hexo-adsense safelinkify gulp-dom",
     "server": "hexo server -p 4000",
     "serve": "hexo server -p 4000",
-    "copy": "sbg copy --nocache"
+    "copy": "sbg copy --nocache",
+    "build": "hexo generate && gulp safelink"
   },
   "dependencies": {
     "hexo": "^6.3.0",
