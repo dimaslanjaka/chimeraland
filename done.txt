@@ -1,0 +1,13 @@
+http://localhost:4000/chimeraland/sitemap
+http://localhost:4000/chimeraland
+http://localhost:4000/chimeraland/recipes
+http://localhost:4000/chimeraland/recipes/seafood-rice.html
+http://localhost:4000/chimeraland/recipes/rice-patty.html
+http://localhost:4000/chimeraland/recipes/steamed-fish.html
+http://localhost:4000/chimeraland/recipes/cantaloupe-claypot.html
+http://localhost:4000/chimeraland/recipes/wonton-noodles.html
+http://localhost:4000/chimeraland/recipes/stir-fried-tomato-with-eggs.html
+http://localhost:4000/chimeraland/recipes/fruity-grilled-meat.html
+http://localhost:4000/chimeraland/recipes/braised-wings.html
+http://localhost:4000/chimeraland/recipes/grilled-frog-legs.html
+http://localhost:4000/chimeraland/recipes/tomahawk-steak.html

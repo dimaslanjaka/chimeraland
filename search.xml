@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Chimeraland Pets Attribute Stats Information</title>
+    <url>/chimeraland//Pets.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<!-- translator -->
+<!-- include Recipes/translator.html -->
+<h2 id="Memperkenalkan-Binatang-dan-Hewan-Peliharaan-di-Chimeraland"><a class="header-anchor" href="#Memperkenalkan-Binatang-dan-Hewan-Peliharaan-di-Chimeraland">¶</a>Memperkenalkan Binatang dan Hewan Peliharaan di Chimeraland</h2>
+<p>Memiliki hewan peliharaan bisa menjadi tugas yang cukup berat setelah pemain menetapkan pikiran mereka untuk itu dan itu bisa menjadi tantangan untuk menjinakkan mereka dan memiliki mereka di sisi pemain. Terlepas dari fakta itu, pemain masih berusaha untuk mencari binatang yang lebih mudah untuk dijinakkan dan memastikan mereka mendapatkan bantuan yang sangat dibutuhkan dalam pertempuran dan menjelajahi dunia Chimeraland. Sesuai dengan namanya, dunia Chimeraland memiliki banyak binatang yang berbeda dan mengejutkan, dan dengan itu.</p>
+<h3 id="Pet-Attributes-Information"><a class="header-anchor" href="#Pet-Attributes-Information">¶</a>Pet Attributes Information</h3>
+<blockquote>
+  <ul>
+    <li>
+      <u><b>Attributes Conversion Rate</b></u> untuk menentukan persentase <u><b>Bloodline</b></u> hewan peliharaan yang
+      diubah
+      menjadi atribut pemilik. Contoh <b><u>Attributes Conversion Rate 4.0%</u></b>: apabila pet memiliki <u
+        class="notranslate">100 attack</u>
+      maka
+      karakter anda mendapatkan <u class="notranslate">4 attack</u> (tergantung kelipatan <b><u>base status</u></b>).
+    </li>
+  </ul>
+</blockquote>
+<table id="pet-tree" notranslate class="notranslate">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Default Quality (ATK HP DEF)</th>
+      <th>Skill Attributes</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<h5>Add New Pet Information</h5>
+<iframe src="https://backend.webmanajemen.com/chimeraland/pets.php" frameborder="0" width="100%"
+  height="600px" style="overflow: hidden;"></iframe>
+<div id="raw-data">
+  <!-- extract-text /source/backend/chimeraland/pets.json -->
+</div>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+<script src='Pets/script.js'></script>
+<link rel="stylesheet" href="Pets/style.css" />
+<h3 id="Menjinakkan-binatang-buas-dengan-Mustard-Shot-X-Bow-di-Chimeraland"><a class="header-anchor" href="#Menjinakkan-binatang-buas-dengan-Mustard-Shot-X-Bow-di-Chimeraland">¶</a>Menjinakkan binatang buas dengan Mustard-Shot X-Bow di Chimeraland</h3>
+<p>Berikutnya adalah langkah berikut agar pemain menjinakkan binatang pilihan mereka. Pemain kemudian harus pergi ke hutan belantara dan mencari binatang yang ingin mereka jinakkan. Pemain dapat melihat-lihat dan mencatat dari eksplorasi mana yang sesuai dengan kebutuhan dan keinginan mereka dalam hal hewan peliharaan ideal mereka.</p>
+<p>Apa yang akan terjadi selanjutnya adalah bagi pemain untuk mengurangi poin hit binatang itu menjadi jumlah yang jauh lebih rendah. Pemain harus berhati-hati untuk tidak sepenuhnya mengurangi poin hit binatang itu menjadi nol karena ini akan mengakibatkan pemain membunuh binatang itu. Sama seperti permainan menangkap binatang buas yang populer, pemain hanya harus menurunkan poin pukulan binatang itu hingga sekitar lima belas hingga dua puluh persen atau bahkan sampai pemain akan melihat opsi Tangkap Sekarang keluar ketika mencoba menjinakkan binatang itu. Pemain juga harus memperhatikan bahwa binatang buas juga akan berubah menjadi musuh saat diserang sehingga pemain harus waspada terhadap keluaran kerusakan mereka dan pastikan mereka tidak berlebihan saat mengurangi poin pukulan binatang itu.</p>
+<p>Setelah opsi untuk menangkap ditampilkan di atas binatang itu, pemain kemudian harus melengkapi Mustard-Shot X-Bow yang tepercaya dan menembakkannya ke binatang yang lemah. Ini kemudian akan menunjukkan animasi dari binatang yang ditangkap. Setelah berhasil melakukannya, pemain akan mendapatkan kesempatan untuk mengambil item sementara dari binatang yang mereka tangkap. Itu akan muncul di inventaris pemain sebagai nama binatang itu ditambah kata Temp di akhir.</p>
+<p>Ini berarti bahwa pemain akan memiliki satu kali penggunaan binatang itu karena hanya sementara. Untuk memastikan bahwa pemain akan mendapatkan hewan peliharaan permanen, mereka membutuhkan telur untuk melakukannya. Beberapa binatang akan menjatuhkan telur yang bertentangan dengan penggunaan sementara dari satu tetapi ini akan benar-benar acak dan berdasarkan nilai masing-masing binatang dalam permainan.</p>
+<blockquote>
+<h2 id="See-Also"><a class="header-anchor" href="#See-Also">¶</a>See Also</h2>
+<ul>
+<li><a href="/chimeraland/recipes.html">Chimeraland Cooking Recipes</a></li>
+</ul>
+</blockquote>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cooking Recipes Chimeraland</title>
+    <url>/chimeraland//Recipes-list.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<p><noscript><meta http-equiv="refresh" content="0; URL=https://www.webmanajemen.com/chimeraland/recipes.html" /></noscript></p>
+<script>
+window.location.href = 'https://www.webmanajemen.com/chimeraland/recipes.html';
+</script>
+<!-- translator -->
+<style>
+  .translated-ltr {
+    margin-top: -40px;
+  }
+
+  .translated-ltr {
+    margin-top: -40px;
+  }
+
+  .goog-te-banner-frame {
+    display: none;
+    margin-top: -20px;
+  }
+
+  .goog-logo-link {
+    display: none !important;
+  }
+
+  .goog-te-gadget {
+    color: transparent !important;
+  }
+
+  .goog-widget-wrapper {
+    border: solid black 1px;
+    padding: 2px;
+    border-radius: 5px;
+    width: fit-content;
+  }
+
+  #resetLang {
+    width: 100%;
+  }
+</style>
+<div class="goog-widget-wrapper">
+  <div id="google_translate_element"></div> <button onclick="restoreLang()" class="notranslate" id="resetLang">Show
+    Original Language</button>
+</div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({ pageLanguage: 'auto' }, 'google_translate_element');
+  }
+  function restoreLang() {
+    var iframe = document.getElementsByClassName('goog-te-banner-frame')[0];
+    if (!iframe) return;
+
+    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+    var restore_el = innerDoc.getElementsByTagName("button");
+
+    for (var i = 0; i < restore_el.length; i++) {
+      if (restore_el[i].id.indexOf("restore") >= 0) {
+        restore_el[i].click();
+        var close_el = innerDoc.getElementsByClassName("goog-close-link");
+        close_el[0].click();
+        return;
+      }
+    }
+  }
+</script>
+<script type="text/javascript"
+  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<h2 id="Chimeraland-Cooking-Guide"><a class="header-anchor" href="#Chimeraland-Cooking-Guide">¶</a>Chimeraland Cooking Guide</h2>
+<p>Makanan sangat penting di Chimeraland karena memberikan buff dan stat sementara selama durasi. Dengan memasak dan mengonsumsi makanan atau minuman tertentu, Anda akan mendapatkan buff tertentu, dan untuk memasak makanan atau minuman tersebut Anda ingin memahami Resep Makanan Chimeraland.<br>
+Ada begitu banyak jenis makanan di Chimeraland dan Pada artikel ini, kami akan menjelaskan kepada Anda semua Resep Makanan Chimeraland. jadi tanpa bicara tentang chimeraland lebih lanjut mari kita mulai.</p>
+<p>Waktu memasak menunjukkan berapa banyak hidangan yang akan Anda dapatkan.</p>
+<blockquote>
+<p><strong>Informasi waktu dalam memasak di chimeraland:</strong><br>
+5 detik = sukses (rate keberhasilan 100%)<br>
+10 detik = Anda akan mendapatkan 2 hidangan, yang mungkin tidak sesuai keinginan Anda (rate keberhasilan 50%)<br>
+15 detik = gagal (rate keberhasilan 10%)</p>
+</blockquote>
+<p>Untuk waktu memasak. Anda dapat membatalkan sebelum memasak selesai jika Anda tidak ingin lebih dari satu hidangan (10 detik atau lebih), tidak akan dikenakan biaya apa pun. Pada dasarnya, Anda dapat memasak makanan di <strong>Camp</strong> dan <strong>Stove</strong>, tetapi Anda mungkin memerlukan alat tertentu untuk memasak beberapa makanan, misalnya <strong>Mixer</strong> (Anda perlu membukanya di Home Tech (Spirit Orb) dan membuatnya).</p>
+<h2 id="Daftar-resep-masakan"><a class="header-anchor" href="#Daftar-resep-masakan">¶</a>Daftar resep masakan</h2>
+<blockquote>
+<p><strong>Informasi table:</strong><br>
+Nama material[Jumlah]</p>
+</blockquote>
+<p><ins class="adsbygoogle" style="display: block; text-align: center" data-ad-layout="in-article" data-ad-format="fluid"
+  data-ad-client="ca-pub-1165447249910969" data-ad-slot="7724988334"></ins></p>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<table class="table table-striped table-bordered notranslate" notranslate id="recipes">
+  <thead>
+    <tr>
+      <th>Dish Name</th>
+      <th>Ingredients</th>
+      <th>Unlock Facility</th>
+      <th>Buffs</th>
+      <th>Grade</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+<!--
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+-->
+<h5>Add New Chimeraland Recipe</h5>
+<iframe src="https://backend.webmanajemen.com/chimeraland/recipes.php" frameborder="0" width="100%"
+  height="700px"></iframe>
+<!-- references
+  https://zilliongamer.com/chimeraland/c/items-list/food-epic-grad
+  https://theclashify.com/chimeraland-cooking-recipes/
+-->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+<style>
+  .mdui-theme-layout-dark .mdui-typo table th,
+  .mdui-theme-layout-dark .mdui-typo table thead th,
+  .mdui-theme-layout-dark [class^="dataTables_"],
+  .mdui-theme-layout-dark [id^="DataTables_Table"],
+  .mdui-theme-layout-dark table.dataTable {
+    background-color: black !important;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+  }
+<p>.mdui-theme-layout-dark table.dataTable * {<br>
+background-color: black !important;<br>
+background-repeat: no-repeat;<br>
+color: white;<br>
+}</p>
+<p>.mdui-theme-layout-dark table.dataTable td {<br>
+border: 0.1em solid white;<br>
+}<br>
+</style></p>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    fetch("https://backend.webmanajemen.com/chimeraland/recipes.php?json")
+      .then((response) => response.json())
+      .then((data) => {
+        /**
+         * @type {string[]}
+         **/
+        const recipes = data.data;
+        const table = document.querySelector("table#recipes");
+        const tbody = table.querySelector("tbody");
+        for (let index = 0; index < recipes.length; index++) {
+          const recipe = recipes[index];
+          let facility = recipe[2]
+            .split(/\s/gim)
+            .map((str, index) => {
+              //console.log(str, index);
+              if (index === 1 && str.startsWith('i')) {
+                return str.toUpperCase();
+              }
+              return str.charAt(0).toUpperCase() + str.slice(1);
+            })
+            .join(" ");
+          const tr = `<tr><td>${recipe[0]}</td> <td>${recipe[1]}</td> <td>${facility}</td> <td>${recipe[3]}</td> <td>${recipe[4]}</td> <td>${recipe[5]}</td></tr>`;
+          tbody.innerHTML += tr;
+        }
+        return data;
+      })
+      .then((data) => {
+        let table = new DataTable("table#recipes", { responsive: true, });
+      }, 4000);
+  });
+</script>
+<!-- playground https://codepen.io/dimaslanjaka/pen/gOXWPra -->
+<link rel="stylesheet" href="recipes/style.css" />
+<script src="recipes/script.js"></script>
+<h3 id="Unlock-Stove-II"><a class="header-anchor" href="#Unlock-Stove-II">¶</a>Unlock Stove II</h3>
+<p>Grilled mushroom and Mushroom broth - Chimeraland cooking recipe to activate stove 2</p>
+<blockquote>
+<p>Menggunakan <strong>Camp 2</strong> untuk unlock <strong>Stove II</strong></p>
+<p><strong>Camp 2</strong> tidak permanen, bangunan camp II akan hilang dalam 15 menit setelah diletakkan.</p>
+</blockquote>
+<p>Recipe :</p>
+<ul>
+<li>grilled mushroom = any mushroom (unlock at camp 2)</li>
+<li>mushroom broth = any mushroom + any meat + dew/ice piece (unlock at camp 2)</li>
+</ul>
+<p>Video Tutorial:<br>
+Cara unlock <strong>Stove II</strong></p>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/I_QH6jv7rzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<h3 id="Windoo"><a class="header-anchor" href="#Windoo">¶</a>Windoo</h3>
+<p>Cara mendapatkan attendant <strong>Windoo</strong></p>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/P5uAFGr33YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<h3 id="Vulorman"><a class="header-anchor" href="#Vulorman">¶</a>Vulorman</h3>
+<p>Cara mendapatkan attendant <strong>Vulorman</strong></p>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/5K-X_U2YwAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<h3 id="Astakat"><a class="header-anchor" href="#Astakat">¶</a>Astakat</h3>
+<p>Cara mendapatkan attendant <strong>Astakat</strong></p>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/NYYoisSMqkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<center><i>cooking recipes chimeraland updated january 2022</i> <a href="index.html">Back to index chimeraland</a></center>
+<h3 id="Others"><a class="header-anchor" href="#Others">¶</a>Others</h3>
+<p>see also other chimeraland articles:</p>
+<ul>
+<li><a href="index.html">index chimeraland</a></li>
+<li><a href="Pets.html">Pet Informations</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+        <tag>Recipes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Taming Pets Chimeraland</title>
+    <url>/chimeraland//Taming.html</url>
+    <content><![CDATA[<h2 id="Deskripsi-pemahaman-tentang-pity-taming-pet"><a class="header-anchor" href="#Deskripsi-pemahaman-tentang-pity-taming-pet">¶</a>Deskripsi pemahaman tentang pity taming pet</h2>
+<p>Taming dalam chimeraland dihitung menggunakan PITY.<br>
+Apabila sudah mencapai pity, maka akan dipastikan akan mendapatkan telur pet.<br>
+Pity direset setiap jam 04:00 AM GMT+7.<br>
+Rumus pity artikel ini saya tulis berdasarkan pengalaman saya bermain di server 108.</p>
+<h3 id="Legends-informasi-shortcode-taming-chimeraland"><a class="header-anchor" href="#Legends-informasi-shortcode-taming-chimeraland">¶</a>Legends - informasi shortcode taming chimeraland</h3>
+<blockquote>
+<p>N = angka</p>
+<p>A = alot</p>
+<p>Egg (E) = titik saat mendapatkan telur pet</p>
+<p>xN-NaT = tame ke N-N alot temp</p>
+<p>xN-NE/xNE = tame ke N-N/N egg</p>
+<p>xN-NaE/xNaE = tame ke N-N/N alot egg</p>
+<p>xN-NT = tame ke N-N temp</p>
+</blockquote>
+<blockquote>
+<p>Contoh:</p>
+<ul>
+<li>
+<p>x1-5T = tame 1 hingga 5 temp</p>
+</li>
+<li>
+<p>x1-3T1E = tame 1 hingga 3 temp 1 Egg (ke 4 telur)</p>
+</li>
+</ul>
+</blockquote>
+<h3 id="Teknik-mengamati-pity-taming-karaktermu-di-chimeraland"><a class="header-anchor" href="#Teknik-mengamati-pity-taming-karaktermu-di-chimeraland">¶</a>Teknik mengamati pity taming karaktermu di chimeraland</h3>
+<ul>
+<li>egg + x5aT + x6E</li>
+<li>egg + x3-6aT + x7-8T + x9E + x10aE</li>
+<li>egg + x2aT + x3E</li>
+</ul>
+<h3 id="Penjelasan-singkat-taming-pity-chimeraland"><a class="header-anchor" href="#Penjelasan-singkat-taming-pity-chimeraland">¶</a>Penjelasan singkat taming pity chimeraland</h3>
+<blockquote>
+<ul>
+<li>
+<p>dapat telur lebih dari 5 temp adalah HARD PITY</p>
+</li>
+<li>
+<p>dapat telur kurang dari 5 temp adalah LOW PITY</p>
+</li>
+</ul>
+</blockquote>
+<p>pada saat karakter anda berada pada status <strong>LOW PITY</strong>, maka lebih besar kesempatan mendapatkan telur dalam 5x tame selanjutnya.</p>
+<blockquote>
+<p>teknik ini saya ciptakan dan saya amati sendiri, dan sudah saya buktikan kebenarannya.</p>
+</blockquote>
+<h3 id="Chimeraland-Taming-Pity"><a class="header-anchor" href="#Chimeraland-Taming-Pity">¶</a>Chimeraland Taming Pity</h3>
+<p>Chimeraland adalah salah satu game yang sangat didasarkan pada mitologi dan dapat memunculkan imajinasi pada siapa saja. Ini juga mirip dengan game RPG klasik, tetapi yang satu ini menambahkan banyak elemen untuk gameplay dan alur cerita. Panduan Chimeraland ini akan mengajarkan pemain baru atau bahkan beberapa pemain yang sedang berjuang bagaimana menjinakkan binatang atau hewan peliharaan agar mereka menjadi lebih kuat dan maju lebih jauh dalam permainan. Ketika datang untuk bermain permainan peran, sekutu bisa sulit untuk menemukan dan pemain berharap untuk mendapatkan keunggulan ekstra yang mereka butuhkan untuk terus bergerak maju. Sama seperti di Chimeraland, pemain dapat mencari bantuan pemain lain untuk beberapa tenaga dan kekuatan ekstra. Tetapi bagaimana jika tidak ada sekutu pemain yang online pada saat itu? Hal terbaik berikutnya secara mengejutkan adalah hewan peliharaan atau binatang buas yang bisa Anda miliki dalam permainan. Memperkenalkan Binatang dan Hewan Peliharaan di ChimeralandMemiliki hewan peliharaan bisa menjadi tugas yang cukup berat setelah pemain menetapkan pikiran mereka untuk itu dan itu bisa menjadi tantangan…</p>
+<p>Tag:</p>
+<ul>
+<li>pity taming chimeraland</li>
+<li>teknik mengamati pity taming di chimeraland</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>cara reclaim draka gift</title>
+    <url>/chimeraland//cara-reclaim-draka-gift.html</url>
+    <content><![CDATA[<p><img src="https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png" alt="image"></p>
+<h2 id="Kebutuhan-Yang-Diperlukan"><a class="header-anchor" href="#Kebutuhan-Yang-Diperlukan">¶</a>Kebutuhan Yang Diperlukan</h2>
+<ul>
+<li>2 device (hp ataupun pc dan hp) yang penting beda</li>
+</ul>
+<h2 id="cara-reclaim-draka-gift"><a class="header-anchor" href="#cara-reclaim-draka-gift">¶</a>cara reclaim draka gift</h2>
+<ul>
+<li>buka akun chimeraland di device pertama</li>
+<li>claim draka gift</li>
+<li>logout</li>
+<li>buka akun chimeraland di device kedua</li>
+<li>claim draka gift</li>
+<li>logout</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Lokasi Spawn Bunga Di Chimeraland</title>
+    <url>/chimeraland//flower-locations.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<h2 id="Lokasi-Spawn-Equinox-Flower"><a class="header-anchor" href="#Lokasi-Spawn-Equinox-Flower">¶</a>Lokasi Spawn Equinox Flower</h2>
+<p><strong>Lycoris radiata</strong> (<a href="https://id.wikipedia.org/wiki/Bahasa_Tionghoa" title="Bahasa Tionghoa">Hanzi</a>: 彼岸花, <a href="https://id.wikipedia.org/wiki/Bahasa_Jepang" title="Bahasa Jepang">Jepang</a>: ヒガンバナ, <a href="https://id.wikipedia.org/wiki/Bahasa_Inggris" title="Bahasa Inggris">bahasa Inggris</a>: <em>Red spider lily</em>) adalah <a href="https://id.wikipedia.org/wiki/Bunga" title="Bunga">bunga</a> dari keluarga amaryllis, <a href="https://id.wikipedia.org/wiki/Amaryllidaceae" title="Amaryllidaceae">Amaryllidaceae</a>, subfamili dari <a href="https://id.wikipedia.org/w/index.php?title=Amaryllidoideae&amp;action=edit&amp;redlink=1" title="Amaryllidoideae (halaman belum tersedia)">Amaryllidoideae</a>.<sup>[2](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-APweb-2">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-APweb-2</a>)</sup> Bunga ini berasal dari <a href="https://id.wikipedia.org/wiki/Tiongkok" title="Tiongkok">Tiongkok</a>, <a href="https://id.wikipedia.org/wiki/Korea" title="Korea">Korea</a> dan <a href="https://id.wikipedia.org/wiki/Nepal" title="Nepal">Nepal</a>, lalu ke <a href="https://id.wikipedia.org/wiki/Jepang">Jepang</a> kemudian ke <a href="https://id.wikipedia.org/wiki/Amerika" title="Amerika">Amerika</a> hingga akhirnya ke seluruh dunia. Bunga ini diperkirakan dinaturalisi di <a href="https://id.wikipedia.org/wiki/Seychelles" title="Seychelles">Seychelles</a> dan di <a href="https://id.wikipedia.org/wiki/Kepulauan_Ryukyu" title="Kepulauan Ryukyu">Kepulauan Ryukyu</a>.<sup>[3](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-3">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-3</a>)</sup> Bunga ini mekar pada akhir <a href="https://id.wikipedia.org/wiki/Musim_panas" title="Musim panas">musim panas</a> sampai awal <a href="https://id.wikipedia.org/wiki/Musim_gugur" title="Musim gugur">musim gugur</a> dan sering dikaitkan dengan hujan lebat.<sup>[4](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Knox2011-4">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Knox2011-4</a>)</sup> <sup>[5](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Evans_nd-5">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Evans_nd-5</a>)</sup> <sup>[6](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Klingaman2000-6">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Klingaman2000-6</a>)</sup></p>
+<p>Bunga ini memiliki umbi yang beracun sehingga sering digunakan di dekat tanaman lain dan <a href="https://id.wikipedia.org/wiki/Kuburan" title="Kuburan">kuburan</a> untuk mengusir <a href="https://id.wikipedia.org/wiki/Hama" title="Hama">hama</a> yang mengganggu.<sup>[7](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Chandler1999-7">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Chandler1999-7</a>)</sup> Walaupun berasal dari Tiongkok. tetapi hanya varietas betinanya yang hadir di Jepang, jadi bunga ini hanya tumbuh dari umbinya dan tidak bereproduksi dengan <a href="https://id.wikipedia.org/wiki/Serbuk_sari" title="Serbuk sari">serbuk sari</a>. Uniknya lagi, bunga dan <a href="https://id.wikipedia.org/wiki/Daun" title="Daun">daun</a> dari tanaman ini tidak pernah terlihat bersama lantaran daunnya baru tumbuh setelah bunganya layu. Karena itu bunga ini tidak hanya dipercaya memiliki hubungan dengan kematian <sup>[6](<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Klingaman2000-6">https://id.wikipedia.org/wiki/Bakung_lelabah_merah#cite_note-Klingaman2000-6</a>)</sup> namun juga simbol perpisahan, kekasih yang tidak akan pernah berjumpa. <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>(<a href="https://id.wikipedia.org/wiki/Bakung_lelabah_merah">https://id.wikipedia.org/wiki/Bakung_lelabah_merah</a>)^</p>
+<h3 id="Equinox-Flower-Di-NINE-LI-Southmounth"><a class="header-anchor" href="#Equinox-Flower-Di-NINE-LI-Southmounth">¶</a>Equinox Flower Di NINE LI (Southmounth)</h3>
+<h4 id="Braggart-Border-Fuddler’s-Beach"><a class="header-anchor" href="#Braggart-Border-Fuddler’s-Beach">¶</a>Braggart Border - Fuddler’s Beach</h4>
+<p><img src="https://user-images.githubusercontent.com/12471057/159218222-06251518-afff-4598-b9c5-db91e69a6bd5.png" alt="Braggart Border - Fuddler's Beach"><br>
+<img src="https://user-images.githubusercontent.com/12471057/159218262-4c315ef8-6746-4668-8d85-6530e4099a01.png" alt="Braggart Border - Fuddler's Beach"><br>
+Di tempat ini juga banyak ditemukan <strong>Clay</strong>, <strong>Precious Jade</strong></p>
+<h2 id="Tutorial-Video-Lokasi-Equinox-Flower"><a class="header-anchor" href="#Tutorial-Video-Lokasi-Equinox-Flower">¶</a>Tutorial Video Lokasi Equinox Flower</h2>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Gnm-9hgkOB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>Baca Selengkapnya <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+        <tag>Location</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mengatasi lag chimeraland</title>
+    <url>/chimeraland//network-troubleshooting.html</url>
+    <content><![CDATA[<h2 id="Cara-mengatasi-lag-di-game-chimeraland-android"><a class="header-anchor" href="#Cara-mengatasi-lag-di-game-chimeraland-android">¶</a>Cara mengatasi lag di game chimeraland android</h2>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.appplanex.dnschanger">Download DNS Changer</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+        <category>Tips &amp; Tricks</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pet and attendant delicacies tasty informations Chimeraland</title>
+    <url>/chimeraland//pet-attendant-delicacies.html</url>
+    <content><![CDATA[<style>
+  h2, td, blockquote { text-transform: capitalize; }
+</style>
+<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<blockquote>
+<p>ACR: Attribute Conversion Rate (in percent)</p>
+<p><strong>Chimeraland One Pot Dish</strong> is an food that can be given to all types of pets and attendants</p>
+</blockquote>
+<link
+  rel="stylesheet"
+  href="https://raw.githack.com/dimaslanjaka/Web-Manajemen/master/css/bootstrap-4.5-wrapper.css" />
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+  #bootstrap-wrapper a {
+    text-decoration: none;
+  }
+</style>
+<div id="bootstrap-wrapper">
+  <h2 id="Pets">Pets</h2>
+  <div id="p-tbl">
+    <h3 id="platyzard">Platyzard</h3>
+    <blockquote>
+      <p>Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot</p>
+    </blockquote>
+    <h3 id="giant-whitelope">Giant Whitelope</h3>
+    <blockquote>
+      <p>
+        Dry fried vuldo wing, Exotic herbal jelly, Steamed Sweet &amp; Sour
+        Icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-diceramandra">Giant Diceramandra</h3>
+    <blockquote>
+      <p>
+        Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet &amp; Sour
+        Icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-fire-batolf">Giant Fire Batolf</h3>
+    <blockquote>
+      <p>Horse Stew Hot Pot, Taste Wing Tip, Dragon Serpent Combo</p>
+    </blockquote>
+    <h3 id="giant-venus-flytrap">Giant Venus Flytrap</h3>
+    <blockquote>
+      <p>Tasty crispy spider, Soy braised dragon bone, Bear ball pot</p>
+    </blockquote>
+    <h3 id="gold-horsedeer">Gold Horsedeer</h3>
+    <blockquote>
+      <p>spiced alligon, exotic herbal jelly, bear ball pot</p>
+    </blockquote>
+    <h3 id="horned-rhino">Horned Rhino</h3>
+    <blockquote>
+      <p>Aromatic litiger ball, Moddly wings topped rice, Bear ball pot</p>
+    </blockquote>
+    <h3 id="giant-whitelope">Giant Whitelope</h3>
+    <blockquote>
+      <p>
+        Dry fried vuldo wing, Exotic herbal jelly, Steamed sweet &amp; sour
+        icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-roarbor">Giant Roarbor</h3>
+    <blockquote>
+      <p>
+        Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
+      </p>
+    </blockquote>
+    <h3 id="giant-deerbull">Giant Deerbull</h3>
+    <blockquote>
+      <p>stewed snow goose feet, tasty wing trip, dragon serpent combo</p>
+    </blockquote>
+    <h3 id="giant-spimander">Giant Spimander</h3>
+    <blockquote>
+      <p>
+        Cured wolf meat, flame roasted horn, steamed sweet &amp; sour icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-litiger">Giant Litiger</h3>
+    <blockquote>
+      <p>succulent ox marrow, flame roasted horn, overlord hide jelly</p>
+    </blockquote>
+    <h3 id="giant-turgator">Giant Turgator</h3>
+    <blockquote>
+      <p>Bear meatball, sparrow beak, stir-fried browtelope</p>
+    </blockquote>
+    <h3 id="fortuphant">Fortuphant</h3>
+    <blockquote>
+      <p>
+        aromatic litiger ball, Yurlunggur mixed vegetables, steamed sweet &amp;
+        sour icebug
+      </p>
+    </blockquote>
+    <h3 id="horned-fortuphant">Horned fortuphant</h3>
+    <blockquote>
+      <p>
+        Stewed snow goose feet, Moddly Wings ToppedRice, hot stone icefox meat
+      </p>
+    </blockquote>
+    <h3 id="tang">Tang</h3>
+    <blockquote>
+      <p>
+        Steamed fortuphant meat, Pepper salt scorpion pincer, flamebug meat
+        claypot
+      </p>
+    </blockquote>
+    <h3 id="muddled-catfish">Muddled catfish</h3>
+    <blockquote>
+      <p>
+        Steamed fortuphant meat, hearty meatball soup, hot stone icefox meat
+      </p>
+    </blockquote>
+    <h3 id="giant-chimpanimbus">Giant Chimpanimbus</h3>
+    <blockquote>
+      <p>Tasty exotic crab, tasty wing trip, overlord hide jelly</p>
+    </blockquote>
+    <h3 id="plate-fortuphant">Plate Fortuphant</h3>
+    <blockquote>
+      <p>aromatic litiger ball, hearty meatball soup, stir-fried browtelope</p>
+    </blockquote>
+    <h3 id="giant-crocupine">Giant Crocupine</h3>
+    <blockquote>
+      <p>Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot</p>
+    </blockquote>
+    <h3 id="giant-venus-flytrap">Giant Venus Flytrap</h3>
+    <blockquote>
+      <p>Tasty crispy spider, Soy braised dragon bone, Bear ball pot</p>
+    </blockquote>
+    <h3 id="black-horse">Black Horse</h3>
+    <blockquote>
+      <p>
+        Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
+      </p>
+    </blockquote>
+    <h3 id="rhino">Rhino</h3>
+    <blockquote>
+      <p>spicy fish &amp; mutton soup, tasty wing trip, bear ball pot</p>
+    </blockquote>
+    <h3 id="dragon-horse">Dragon Horse</h3>
+    <blockquote>
+      <p>
+        Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
+      </p>
+    </blockquote>
+    <h3 id="giant-grouguana">Giant Grouguana</h3>
+    <blockquote>
+      <p>
+        tasty crispy spider, Moddly Wings ToppedRice, steamed sweet &amp; sour
+        icebug
+      </p>
+    </blockquote>
+    <h3 id="vultura">vultura</h3>
+    <blockquote>
+      <p>aromatic litiger ball, exotic herbal jelly, dragon serpent combo</p>
+    </blockquote>
+  </div>
+  <h2 id="Attendants">Attendants</h2>
+  <div id="a-tbl">
+    <h3 id="shamintrog">Shamintrog</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>C/64/57/59</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 30, HP 300, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            dry fried vuldo wing, hearty meatball soup, steamed sweet &amp; sour
+            icebug
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 id="abyssal-astra">Abyssal Astra</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>B/80/80/80</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 50, HP 500, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            Horse Stew Hotpot, Hot &#39;n Sour Jelly, Hotstone Icefox Meat
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 id="shaman-regni">Shaman Regni</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>C/60/60/60</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 30, HP 300, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            Rustic Preserved Deer Roll, Exotic Herbal Jelly, Hotstone Icefox
+            Meat
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/cTViqpwvxqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<!--<script src="/chimeraland/pet-attendant-delicacies/script.js"></script>-->
+<script>// source https://codepen.io/dimaslanjaka/pen/dymMwxL?editors=0010#shaman-regni
+// source https://www.webmanajemen.com/chimeraland/pet-attendant-delicacies.html#rosary-twinkel
+// backend https://hexo-backend.herokuapp.com/chimeraland/attendant
+// backend https://hexo-backend.herokuapp.com/chimeraland/pet
+const attendantWrapper = document.querySelector('#a-tbl');
+const petWrapper = document.querySelector('#p-tbl');
+
+if (location.host === 'cdpn.io') {
+  console.clear();
+}
+
+window.onload = function () {
+  getAttendant()
+    .then((data) => {
+      data.data = uniq(data.data, 'name');
+      //console.log(data);
+      return data;
+    })
+    .then((attendant_data) => {
+      /**
+       * @type {string[]}
+       */
+      const attendants = attendant_data.data;
+      const tbh =
+        "<table class='table'><thead><tr><th>Name</th><th>Value</th></thead><tbody>";
+      const tbf = '</tbody></table>';
+      let results = [];
+      attendants.forEach((item) => {
+        //console.log(item);
+        let build = [];
+        Object.keys(item).forEach((key) => {
+          let val = item[key];
+          if (key === 'qty') key = 'Quality';
+          if (key === 'delicacies') {
+            val = val.map((str) => {
+              const query = str.replace('-', '').toLowerCase();
+              return `<a href='/chimeraland/Recipes.html?query=${query}'>${query}</a><span class='mr-2'>,</span>`;
+            });
+            val = val.join('');
+          }
+          if (Array.isArray(val)) val = val.join(', ');
+          key = key.toUpperCase();
+          //console.log(key, val);
+          build.push(`<tr><td>${key}</td><td>${val}</td></tr>`);
+        });
+        //console.log(build);
+        const header_id = item['name']
+          .replace(/\s+/gm, '-')
+          .replace(/-+/gm, '-')
+          .toLowerCase();
+        const header = `<div class="d-flex justify-content-between"><div id='${header_id}'><h3>${item['name']}</h3></div><div><a href="#${header_id}">${header_id}</a></div></div>`;
+        results.push({ header, items: build.join('') });
+      });
+      // merge table
+      results = results.map((o) => {
+        return o.header + tbh + o.items + tbf;
+      });
+      //console.log(results);
+      attendantWrapper.innerHTML = results.join('');
+      console.log('attendant updated successfully');
+    })
+    .then(() => {
+      scrollTo().then((o) => {
+        setTimeout(() => {
+          scrollTo().then((o1) => {
+            console.log(o, o1);
+          });
+        }, 3000);
+      });
+    });
+};
+
+function getAttendant() {
+  return fetch(attendantJson())
+    .then((res) => res.json())
+    .then((data) => {
+      return data;
+    });
+}
+
+function attendantJson() {
+  return (
+    '//backend.webmanajemen.com/chimeraland/attendant.php?show=' +
+    new Date().getTime()
+  );
+}
+
+// https://stackoverflow.com/a/67322087/6404439
+function uniq(arr, field) {
+  //console.log(array);
+  if (!Array.isArray(arr)) {
+    throw new Error('array param must be instance of ARRAY');
+  }
+  return arr.filter(
+    (a, i) => arr.findIndex((s) => a[field] === s[field]) === i
+  );
+}
+
+// scroll to div
+function scrollTo(id) {
+  return new Promise((resolve) => {
+    const end_id = id || window.location.hash.split('#')[1] || null;
+    if (!end_id) return console.log('[scroll] empty id');
+    const selector = "[id*='" + end_id + "']";
+    const target = document.querySelector(selector);
+    target.scrollIntoView(true);
+    if (!target)
+      return console.log('[scroll] empty target element with id=' + end_id);
+    console.log('[scroll] to #' + end_id);
+    const isFirefox = 'netscape' in window && / rv:/.test(navigator.userAgent);
+
+    if (isFirefox) {
+      // scroll to center element
+      target.scrollIntoView({ block: 'center' });
+    } else {
+      // scroll to top element
+      window.scroll({
+        top: target.offsetTop,
+        left: 0,
+        behavior: 'smooth'
+      });
+    }
+
+    resolve({
+      offset: target.offsetTop,
+      id: end_id,
+      selector
+    });
+  });
+}
+</script>]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Index Chimeraland</title>
+    <url>/chimeraland//index2.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<h2 id="Cooking-Recipes"><a class="header-anchor" href="#Cooking-Recipes">¶</a>Cooking Recipes</h2>
+<p><a href="Recipes.html">View Cooking Recipes</a></p>
+<h2 id="Pets"><a class="header-anchor" href="#Pets">¶</a>Pets</h2>
+<p><a href="Pets.html">View Chimeraland Pets</a></p>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Redeem Code Chimeraland September 2022 Updated</title>
+    <url>/chimeraland//redeem-code.html</url>
+    <content><![CDATA[<h2 id="How-to-redeem-the-redeem-code-chimeraland"><a class="header-anchor" href="#How-to-redeem-the-redeem-code-chimeraland">¶</a>How to redeem the redeem code chimeraland</h2>
+<p>Here is information and tutorials related to how to claim the latest Chimeralands code. If you have trouble claiming the Chimeralands code, see the following tutorial for information.</p>
+<ul>
+<li>Open Game <a href="/tag/chimeraland">Chimeraland</a> and in the upper left corner open the menu icon</li>
+<li>Press the settings button and search for ‘Gift Code’</li>
+<li>Press Gift Code and enter some <strong>redeem code</strong> which can be found above.</li>
+<li>Press OK.</li>
+</ul>
+<p>Prizes will be sent immediately in the in-<strong>game</strong> mail box, and you just have to claim some of the prizes given.</p>
+<blockquote>
+<p><strong>Before you continue reading, we have just released information on chimeraland data. Please Visit <a href="https://www.webmanajemen.com/chimeraland/">https://www.webmanajemen.com/chimeraland/</a></strong></p>
+</blockquote>
+<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<h2 id="Redeem-Code-Chimeraland-May-2022"><a class="header-anchor" href="#Redeem-Code-Chimeraland-May-2022">¶</a>Redeem Code Chimeraland May 2022</h2>
+<ul>
+<li><strong>HAPPYNEWYEAR</strong> - Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit</li>
+<li><strong>MERRY2021XMAS</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+<li><strong>MORETO2022</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-June-2022"><a class="header-anchor" href="#Redeem-Code-Chimeraland-June-2022">¶</a>Redeem Code Chimeraland June 2022</h2>
+<ul>
+<li><strong>HAPPYNEWYEAR</strong> - Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit-   <strong>100CELEBRATION</strong> - Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit</li>
+<li><strong>HAPPYNEWYEAR</strong> - Rewards: 1x Excellent Sigil Pack, 1x Grand Beast Pack, 1x Mount Kit</li>
+<li><strong>MERRY2021XMAS</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+<li><strong>MORETO2022</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+<li><strong>MERRY2021XMAS</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+<li><strong>MORETO2022</strong> - Rewards: 1x Cowries and Pet Eggs</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-7-july-2022"><a class="header-anchor" href="#Redeem-Code-Chimeraland-7-july-2022">¶</a>Redeem Code Chimeraland 7 july 2022</h2>
+<ul>
+<li><strong>LAW61AF8</strong> - 50 sage, 1000 crownies, 1 maturity pill</li>
+<li><strong>LAV8BAIT</strong> - 50 sage, 888 crownies, 1 secret portal</li>
+<li><strong>LAU21TV1</strong> - 50 sage, 500 crownies, 1 intelligence pill</li>
+<li><strong>SEMEANNIVERSARY</strong> - 200 sage, 2 Green Bird Trill, 2 Bounty Order</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-11-August-2022"><a class="header-anchor" href="#Redeem-Code-Chimeraland-11-August-2022">¶</a>Redeem Code Chimeraland 11 August 2022</h2>
+<ul>
+<li><strong>CHIMERALAND001</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND002</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND003</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND004</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND005</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND006</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND007</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND008</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND009</strong> - 300 sage, 5000 crownies</li>
+<li><strong>CHIMERALAND010</strong> - 300 sage, 5000 crownies</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-26-August-2022"><a class="header-anchor" href="#Redeem-Code-Chimeraland-26-August-2022">¶</a>Redeem Code Chimeraland 26 August 2022</h2>
+<ul>
+<li><strong>CHIMERALAND100KFANS</strong> - Green Mithril Bird, 300 sage</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-September-2022-Updated"><a class="header-anchor" href="#Redeem-Code-Chimeraland-September-2022-Updated">¶</a>Redeem Code Chimeraland September 2022 (Updated)</h2>
+<ul>
+<li><strong>7AG7QE0M</strong> - Redeem this gift code for Sage x30, Cowries x500 and Intelligence Pill x3 (Global) (Valid until September 7th, 2022)</li>
+</ul>
+<h2 id="Redeem-Code-Chimeraland-10-September-2022-Updated"><a class="header-anchor" href="#Redeem-Code-Chimeraland-10-September-2022-Updated">¶</a>Redeem Code Chimeraland 10 September 2022 (Updated)</h2>
+<ul>
+<li><strong>MIDAUNTUMDAY2022</strong> - Redeem this gift code for Birthlight Pill x5 and Maturity Pill x2 (SEA)</li>
+</ul>
+<h2 id="All-Redeem-Code-Chimeraland-Video"><a class="header-anchor" href="#All-Redeem-Code-Chimeraland-Video">¶</a>All Redeem Code Chimeraland Video</h2>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/XNoP-KAxXyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true"></iframe>
+</div>
+<p><img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/02/1792210685.jpg" alt="redeem code layout"></p>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+        <tag>Redeem Code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Senjo craft lists</title>
+    <url>/chimeraland//senjo.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>
+<h2 id="Blue-Grade-Senjo-Items"><a class="header-anchor" href="#Blue-Grade-Senjo-Items">¶</a>Blue Grade Senjo Items</h2>
+<h2 id="Trad-donkey-boat"><a class="header-anchor" href="#Trad-donkey-boat">¶</a>Trad donkey boat</h2>
+<ul>
+<li>red dye 2</li>
+<li>black dye 2</li>
+<li>uncommon board 4</li>
+<li>uncommon cloth 4</li>
+</ul>
+<h2 id="Trad-dry-boat"><a class="header-anchor" href="#Trad-dry-boat">¶</a>Trad dry boat</h2>
+<ul>
+<li>red dye 2</li>
+<li>blue dye 2</li>
+<li>uncommon board 4</li>
+<li>uncommon cloth 4</li>
+</ul>
+<h2 id="Trad-bench"><a class="header-anchor" href="#Trad-bench">¶</a>Trad bench</h2>
+<ul>
+<li>bright paint 3</li>
+<li>uncommon board 4</li>
+</ul>
+<h2 id="Suona-horn"><a class="header-anchor" href="#Suona-horn">¶</a>Suona horn</h2>
+<ul>
+<li>velvet 3</li>
+<li>uncommon fine stone 4</li>
+<li>alloy stick 3</li>
+</ul>
+<h2 id="reed-pipe"><a class="header-anchor" href="#reed-pipe">¶</a>reed pipe</h2>
+<ul>
+<li>uncommon board 4</li>
+<li>alloy stick 3</li>
+</ul>
+<h2 id="lightweight-sling"><a class="header-anchor" href="#lightweight-sling">¶</a>lightweight sling</h2>
+<ul>
+<li>bright paint 3</li>
+<li>uncommon fine stone 4</li>
+<li>uncommon leather 3</li>
+</ul>
+<h2 id="Cranehead-tiller"><a class="header-anchor" href="#Cranehead-tiller">¶</a>Cranehead tiller</h2>
+<ul>
+<li>bright paint 3</li>
+<li>rope 5</li>
+<li>uncommon fine stone 4</li>
+</ul>
+<h2 id="iron-pitchfork"><a class="header-anchor" href="#iron-pitchfork">¶</a>iron pitchfork</h2>
+<ul>
+<li>bright paint 3</li>
+<li>uncommon fine stone 4</li>
+<li>large ribcage 5</li>
+</ul>
+<h2 id="Reversed-plate-staff"><a class="header-anchor" href="#Reversed-plate-staff">¶</a>Reversed plate staff</h2>
+<ul>
+<li>red dye 3</li>
+<li>bright paint 3</li>
+<li>uncommon board 4</li>
+</ul>
+<h2 id="deadwood-torch"><a class="header-anchor" href="#deadwood-torch">¶</a>deadwood torch</h2>
+<ul>
+<li>flint 5</li>
+<li>uncommon board 4</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Games</category>
+        <category>Chimeraland</category>
+      </categories>
+      <tags>
+        <tag>Chimeraland</tag>
+        <tag>Craft</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/Pets/script.html</url>
+    <content><![CDATA[document.addEventListener("DOMContentLoaded", function () {
+  let table = new DataTable("table#pet-tree", {
+    ajax: function (d, cb) {
+      fetch("https://backend.webmanajemen.com/chimeraland/pets.php?json")
+        .then((response) => response.json())
+        .then((data) => {
+          /**
+           * @type {string[][]}
+           **/
+          const items = data.data;
+          for (let i = 0; i < items.length; i++) {
+            const item = items[i];
+            /**
+             * @type {string[]}
+             **/
+            const attr = item.attr;
+            item.attr = attr
+              .map((str) => {
+                return `<li>${str}</li>`;
+              })
+              .join(" ");
+            // switch icon quality
+            let quality = item.qty;
+            quality = quality.replace(
+              /HP/gim,
+              ' <img src="Pets/hp.webp" class="img-inline-text" title="Hit Points" />'
+            );
+            quality = quality.replace(
+              /ATK/gim,
+              '<img src="Recipes/attack.png" class="img-inline-text atk" title="Attack" /> '
+            );
+            quality = quality.replace(
+              /DEF/gim,
+              '<img src="Recipes/defense.png" class="img-inline-text def" title="Defense" /> '
+            );
+            quality = quality.replace(
+              /GRADE A/gim,
+              '<img src="Pets/grade-a.png" class="img-inline-text grade-a" title="Noble" /> '
+            );
+            quality = quality.replace(
+              /GRADE B/gim,
+              '<img src="Pets/grade-b.jpeg" class="img-inline-text grade-a" title="Grand" /> '
+            );
+            quality = quality.replace(
+              /GRADE C/gim,
+              '<img src="Pets/grade-c.png" class="img-inline-text grade-a" title="Rare" /> '
+            );
+            quality = quality.replace(
+              /GRADE S/gim,
+              '<img src="Pets/grade-s.png" class="img-inline-text grade-a" title="Illustrious" /> '
+            );
+            item.qty = quality;
+          }
+          data.data = items;
+          document.querySelector("div#raw-data").remove();
+          return cb(data);
+        });
+    },
+    columns: [{ data: "name" }, { data: "qty" }, { data: "attr" }],
+  });
+});
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/Pets/style.html</url>
+    <content><![CDATA[.img-inline-text {
+  width: 16px;
+  margin: 0 2px 0 2px;
+  padding: 0;
+  height: 100%;
+  vertical-align: sub;
+  display: inline-block !important;
+}
+table a.gallery-item {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: fit-content;
+}
+table span.caption {
+  display: none !important;
+}
+table {
+  max-width: 100vw;
+  overflow-x: auto;
+  overflow: auto;
+  display: block;
+}
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/Pets/table.html</url>
+    <content><![CDATA[<blockquote>
+  <ul>
+    <li>
+      <u><b>Attributes Conversion Rate</b></u> untuk menentukan persentase <u><b>Bloodline</b></u> hewan peliharaan yang
+      diubah
+      menjadi atribut pemilik. Contoh <b><u>Attributes Conversion Rate 4.0%</u></b>: apabila pet memiliki <u
+        class="notranslate">100 attack</u>
+      maka
+      karakter anda mendapatkan <u class="notranslate">4 attack</u> (tergantung kelipatan <b><u>base status</u></b>).
+    </li>
+  </ul>
+</blockquote>
+
+<table id="pet-tree" notranslate class="notranslate">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Default Quality (ATK HP DEF)</th>
+      <th>Skill Attributes</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<h5>Add New Pet Information</h5>
+<iframe src="https://backend.webmanajemen.com/chimeraland/pets.php" frameborder="0" width="100%"
+  height="600px" style="overflow: hidden;"></iframe>
+
+<div id="raw-data">
+  <!-- extract-text /source/backend/chimeraland/pets.json -->
+</div>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/index2/update.html</url>
+    <content><![CDATA[<style>
+  blockquote {
+    margin: 0;
+  }
+
+  blockquote p {
+    padding: 20px;
+    background: #eee;
+    border-radius: 5px;
+  }
+
+  blockquote p::before {
+    content: '\201C';
+  }
+
+  blockquote p::after {
+    content: '\201D';
+  }
+</style>
+<h2 id="update-notice">Update Notice</h2>
+<blockquote id="update-notice-content">
+  <p>
+    Newer <b>Chimeraland Wikipedia</b> By L3n4r0x in
+    <a
+      href="https://www.webmanajemen.com/chimeraland/index.html">https://www.webmanajemen.com/chimeraland/index.html</a>
+  </p>
+
+  <ul>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/index.html">Chimeraland Wiki</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/recipes.html">Cooking Recipes List</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html">White Maiden</a>
+    </li>
+    <li>
+      <a href="https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html">Dragon Horse</a>
+    </li>
+  </ul>
+</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/pet-attendant-delicacies/content.html</url>
+    <content><![CDATA[<link
+  rel="stylesheet"
+  href="https://raw.githack.com/dimaslanjaka/Web-Manajemen/master/css/bootstrap-4.5-wrapper.css" />
+
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+  #bootstrap-wrapper a {
+    text-decoration: none;
+  }
+</style>
+
+<div id="bootstrap-wrapper">
+  <h2 id="Pets">Pets</h2>
+
+  <div id="p-tbl">
+    <h3 id="platyzard">Platyzard</h3>
+    <blockquote>
+      <p>Succulent Ox Marrow, Tasty Wing Tip, Flamebug Meat Claypot</p>
+    </blockquote>
+    <h3 id="giant-whitelope">Giant Whitelope</h3>
+    <blockquote>
+      <p>
+        Dry fried vuldo wing, Exotic herbal jelly, Steamed Sweet &amp; Sour
+        Icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-diceramandra">Giant Diceramandra</h3>
+    <blockquote>
+      <p>
+        Spiced alligon, Yurlunggur Mixed Vegetables, Steamed Sweet &amp; Sour
+        Icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-fire-batolf">Giant Fire Batolf</h3>
+    <blockquote>
+      <p>Horse Stew Hot Pot, Taste Wing Tip, Dragon Serpent Combo</p>
+    </blockquote>
+    <h3 id="giant-venus-flytrap">Giant Venus Flytrap</h3>
+    <blockquote>
+      <p>Tasty crispy spider, Soy braised dragon bone, Bear ball pot</p>
+    </blockquote>
+    <h3 id="gold-horsedeer">Gold Horsedeer</h3>
+    <blockquote>
+      <p>spiced alligon, exotic herbal jelly, bear ball pot</p>
+    </blockquote>
+    <h3 id="horned-rhino">Horned Rhino</h3>
+    <blockquote>
+      <p>Aromatic litiger ball, Moddly wings topped rice, Bear ball pot</p>
+    </blockquote>
+    <h3 id="giant-whitelope">Giant Whitelope</h3>
+    <blockquote>
+      <p>
+        Dry fried vuldo wing, Exotic herbal jelly, Steamed sweet &amp; sour
+        icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-roarbor">Giant Roarbor</h3>
+    <blockquote>
+      <p>
+        Fine Venom Serpent Soup, Moddly Wings ToppedRice, flamebug meat claypot
+      </p>
+    </blockquote>
+    <h3 id="giant-deerbull">Giant Deerbull</h3>
+    <blockquote>
+      <p>stewed snow goose feet, tasty wing trip, dragon serpent combo</p>
+    </blockquote>
+    <h3 id="giant-spimander">Giant Spimander</h3>
+    <blockquote>
+      <p>
+        Cured wolf meat, flame roasted horn, steamed sweet &amp; sour icebug
+      </p>
+    </blockquote>
+    <h3 id="giant-litiger">Giant Litiger</h3>
+    <blockquote>
+      <p>succulent ox marrow, flame roasted horn, overlord hide jelly</p>
+    </blockquote>
+    <h3 id="giant-turgator">Giant Turgator</h3>
+    <blockquote>
+      <p>Bear meatball, sparrow beak, stir-fried browtelope</p>
+    </blockquote>
+    <h3 id="fortuphant">Fortuphant</h3>
+    <blockquote>
+      <p>
+        aromatic litiger ball, Yurlunggur mixed vegetables, steamed sweet &amp;
+        sour icebug
+      </p>
+    </blockquote>
+    <h3 id="horned-fortuphant">Horned fortuphant</h3>
+    <blockquote>
+      <p>
+        Stewed snow goose feet, Moddly Wings ToppedRice, hot stone icefox meat
+      </p>
+    </blockquote>
+    <h3 id="tang">Tang</h3>
+    <blockquote>
+      <p>
+        Steamed fortuphant meat, Pepper salt scorpion pincer, flamebug meat
+        claypot
+      </p>
+    </blockquote>
+    <h3 id="muddled-catfish">Muddled catfish</h3>
+    <blockquote>
+      <p>
+        Steamed fortuphant meat, hearty meatball soup, hot stone icefox meat
+      </p>
+    </blockquote>
+    <h3 id="giant-chimpanimbus">Giant Chimpanimbus</h3>
+    <blockquote>
+      <p>Tasty exotic crab, tasty wing trip, overlord hide jelly</p>
+    </blockquote>
+    <h3 id="plate-fortuphant">Plate Fortuphant</h3>
+    <blockquote>
+      <p>aromatic litiger ball, hearty meatball soup, stir-fried browtelope</p>
+    </blockquote>
+    <h3 id="giant-crocupine">Giant Crocupine</h3>
+    <blockquote>
+      <p>Steamed fortuphan meat, peppersalt scorpion pincer, bear ball pot</p>
+    </blockquote>
+    <h3 id="giant-venus-flytrap">Giant Venus Flytrap</h3>
+    <blockquote>
+      <p>Tasty crispy spider, Soy braised dragon bone, Bear ball pot</p>
+    </blockquote>
+    <h3 id="black-horse">Black Horse</h3>
+    <blockquote>
+      <p>
+        Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
+      </p>
+    </blockquote>
+    <h3 id="rhino">Rhino</h3>
+    <blockquote>
+      <p>spicy fish &amp; mutton soup, tasty wing trip, bear ball pot</p>
+    </blockquote>
+    <h3 id="dragon-horse">Dragon Horse</h3>
+    <blockquote>
+      <p>
+        Newt meat dry pot, Flamebug meat claypot, Yurlunggur mixed vegetables
+      </p>
+    </blockquote>
+    <h3 id="giant-grouguana">Giant Grouguana</h3>
+    <blockquote>
+      <p>
+        tasty crispy spider, Moddly Wings ToppedRice, steamed sweet &amp; sour
+        icebug
+      </p>
+    </blockquote>
+    <h3 id="vultura">vultura</h3>
+    <blockquote>
+      <p>aromatic litiger ball, exotic herbal jelly, dragon serpent combo</p>
+    </blockquote>
+  </div>
+
+  <h2 id="Attendants">Attendants</h2>
+
+  <div id="a-tbl">
+    <h3 id="shamintrog">Shamintrog</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>C/64/57/59</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 30, HP 300, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            dry fried vuldo wing, hearty meatball soup, steamed sweet &amp; sour
+            icebug
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 id="abyssal-astra">Abyssal Astra</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>B/80/80/80</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 50, HP 500, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            Horse Stew Hotpot, Hot &#39;n Sour Jelly, Hotstone Icefox Meat
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h3 id="shaman-regni">Shaman Regni</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>name</th>
+          <th>value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GRADE/ATK/HP/DEF</td>
+          <td>C/60/60/60</td>
+        </tr>
+        <tr>
+          <td>BUFF</td>
+          <td>Attack 30, HP 300, Monster EXP Bonus 40%</td>
+        </tr>
+        <tr>
+          <td>Delicacies</td>
+          <td>
+            Rustic Preserved Deer Roll, Exotic Herbal Jelly, Hotstone Icefox
+            Meat
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/pet-attendant-delicacies/script.html</url>
+    <content><![CDATA[// source https://codepen.io/dimaslanjaka/pen/dymMwxL?editors=0010#shaman-regni
+// source https://www.webmanajemen.com/chimeraland/pet-attendant-delicacies.html#rosary-twinkel
+// backend https://hexo-backend.herokuapp.com/chimeraland/attendant
+// backend https://hexo-backend.herokuapp.com/chimeraland/pet
+const attendantWrapper = document.querySelector('#a-tbl');
+const petWrapper = document.querySelector('#p-tbl');
+
+if (location.host === 'cdpn.io') {
+  console.clear();
+}
+
+window.onload = function () {
+  getAttendant()
+    .then((data) => {
+      data.data = uniq(data.data, 'name');
+      //console.log(data);
+      return data;
+    })
+    .then((attendant_data) => {
+      /**
+       * @type {string[]}
+       */
+      const attendants = attendant_data.data;
+      const tbh =
+        "<table class='table'><thead><tr><th>Name</th><th>Value</th></thead><tbody>";
+      const tbf = '</tbody></table>';
+      let results = [];
+      attendants.forEach((item) => {
+        //console.log(item);
+        let build = [];
+        Object.keys(item).forEach((key) => {
+          let val = item[key];
+          if (key === 'qty') key = 'Quality';
+          if (key === 'delicacies') {
+            val = val.map((str) => {
+              const query = str.replace('-', '').toLowerCase();
+              return `<a href='/chimeraland/Recipes.html?query=${query}'>${query}</a><span class='mr-2'>,</span>`;
+            });
+            val = val.join('');
+          }
+          if (Array.isArray(val)) val = val.join(', ');
+          key = key.toUpperCase();
+          //console.log(key, val);
+          build.push(`<tr><td>${key}</td><td>${val}</td></tr>`);
+        });
+        //console.log(build);
+        const header_id = item['name']
+          .replace(/\s+/gm, '-')
+          .replace(/-+/gm, '-')
+          .toLowerCase();
+        const header = `<div class="d-flex justify-content-between"><div id='${header_id}'><h3>${item['name']}</h3></div><div><a href="#${header_id}">${header_id}</a></div></div>`;
+        results.push({ header, items: build.join('') });
+      });
+      // merge table
+      results = results.map((o) => {
+        return o.header + tbh + o.items + tbf;
+      });
+      //console.log(results);
+      attendantWrapper.innerHTML = results.join('');
+      console.log('attendant updated successfully');
+    })
+    .then(() => {
+      scrollTo().then((o) => {
+        setTimeout(() => {
+          scrollTo().then((o1) => {
+            console.log(o, o1);
+          });
+        }, 3000);
+      });
+    });
+};
+
+function getAttendant() {
+  return fetch(attendantJson())
+    .then((res) => res.json())
+    .then((data) => {
+      return data;
+    });
+}
+
+function attendantJson() {
+  return (
+    '//backend.webmanajemen.com/chimeraland/attendant.php?show=' +
+    new Date().getTime()
+  );
+}
+
+// https://stackoverflow.com/a/67322087/6404439
+function uniq(arr, field) {
+  //console.log(array);
+  if (!Array.isArray(arr)) {
+    throw new Error('array param must be instance of ARRAY');
+  }
+  return arr.filter(
+    (a, i) => arr.findIndex((s) => a[field] === s[field]) === i
+  );
+}
+
+// scroll to div
+function scrollTo(id) {
+  return new Promise((resolve) => {
+    const end_id = id || window.location.hash.split('#')[1] || null;
+    if (!end_id) return console.log('[scroll] empty id');
+    const selector = "[id*='" + end_id + "']";
+    const target = document.querySelector(selector);
+    target.scrollIntoView(true);
+    if (!target)
+      return console.log('[scroll] empty target element with id=' + end_id);
+    console.log('[scroll] to #' + end_id);
+    const isFirefox = 'netscape' in window && / rv:/.test(navigator.userAgent);
+
+    if (isFirefox) {
+      // scroll to center element
+      target.scrollIntoView({ block: 'center' });
+    } else {
+      // scroll to top element
+      window.scroll({
+        top: target.offsetTop,
+        left: 0,
+        behavior: 'smooth'
+      });
+    }
+
+    resolve({
+      offset: target.offsetTop,
+      id: end_id,
+      selector
+    });
+  });
+}
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/recipes/script.html</url>
+    <content><![CDATA[const td = document.querySelectorAll('table#recipes td');
+Array.from(td).forEach((el) => {
+  let text = el.innerHTML;
+  text = text.replace(/\sfullness/gim, ' <img src="Recipes/fullness.jpg" class="img-inline-text" title="fullness" />');
+  text = text.replace(/\satk/gim, ' <img src="Recipes/attack.png" class="img-inline-text atk" title="attack" />');
+  text = text.replace(/\sdef/gim, ' <img src="Recipes/defense.png" class="img-inline-text def" title="defense" />');
+  el.innerHTML = text;
+});
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/recipes/table.html</url>
+    <content><![CDATA[<ins class="adsbygoogle" style="display: block; text-align: center" data-ad-layout="in-article" data-ad-format="fluid"
+  data-ad-client="ca-pub-1165447249910969" data-ad-slot="7724988334"></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<table class="table table-striped table-bordered notranslate" notranslate id="recipes">
+  <thead>
+    <tr>
+      <th>Dish Name</th>
+      <th>Ingredients</th>
+      <th>Unlock Facility</th>
+      <th>Buffs</th>
+      <th>Grade</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+<!--
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+-->
+
+<h5>Add New Chimeraland Recipe</h5>
+<iframe src="https://backend.webmanajemen.com/chimeraland/recipes.php" frameborder="0" width="100%"
+  height="700px"></iframe>
+
+<!-- references
+  https://zilliongamer.com/chimeraland/c/items-list/food-epic-grad
+  https://theclashify.com/chimeraland-cooking-recipes/
+-->
+
+<link rel="stylesheet" href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
+<style>
+  .mdui-theme-layout-dark .mdui-typo table th,
+  .mdui-theme-layout-dark .mdui-typo table thead th,
+  .mdui-theme-layout-dark [class^="dataTables_"],
+  .mdui-theme-layout-dark [id^="DataTables_Table"],
+  .mdui-theme-layout-dark table.dataTable {
+    background-color: black !important;
+    color: white;
+    font-family: "Courier New", Courier, monospace;
+  }
+
+  .mdui-theme-layout-dark table.dataTable * {
+    background-color: black !important;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+  .mdui-theme-layout-dark table.dataTable td {
+    border: 0.1em solid white;
+  }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    fetch("https://backend.webmanajemen.com/chimeraland/recipes.php?json")
+      .then((response) => response.json())
+      .then((data) => {
+        /**
+         * @type {string[]}
+         **/
+        const recipes = data.data;
+        const table = document.querySelector("table#recipes");
+        const tbody = table.querySelector("tbody");
+        for (let index = 0; index < recipes.length; index++) {
+          const recipe = recipes[index];
+          let facility = recipe[2]
+            .split(/\s/gim)
+            .map((str, index) => {
+              //console.log(str, index);
+              if (index === 1 && str.startsWith('i')) {
+                return str.toUpperCase();
+              }
+              return str.charAt(0).toUpperCase() + str.slice(1);
+            })
+            .join(" ");
+          const tr = `<tr><td>${recipe[0]}</td> <td>${recipe[1]}</td> <td>${facility}</td> <td>${recipe[3]}</td> <td>${recipe[4]}</td> <td>${recipe[5]}</td></tr>`;
+          tbody.innerHTML += tr;
+        }
+        return data;
+      })
+      .then((data) => {
+        let table = new DataTable("table#recipes", { responsive: true, });
+      }, 4000);
+  });
+</script>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/recipes/translator.html</url>
+    <content><![CDATA[<style>
+  .translated-ltr {
+    margin-top: -40px;
+  }
+
+  .translated-ltr {
+    margin-top: -40px;
+  }
+
+  .goog-te-banner-frame {
+    display: none;
+    margin-top: -20px;
+  }
+
+  .goog-logo-link {
+    display: none !important;
+  }
+
+  .goog-te-gadget {
+    color: transparent !important;
+  }
+
+  .goog-widget-wrapper {
+    border: solid black 1px;
+    padding: 2px;
+    border-radius: 5px;
+    width: fit-content;
+  }
+
+  #resetLang {
+    width: 100%;
+  }
+</style>
+
+<div class="goog-widget-wrapper">
+  <div id="google_translate_element"></div> <button onclick="restoreLang()" class="notranslate" id="resetLang">Show
+    Original Language</button>
+</div>
+
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({ pageLanguage: 'auto' }, 'google_translate_element');
+  }
+  function restoreLang() {
+    var iframe = document.getElementsByClassName('goog-te-banner-frame')[0];
+    if (!iframe) return;
+
+    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+    var restore_el = innerDoc.getElementsByTagName("button");
+
+    for (var i = 0; i < restore_el.length; i++) {
+      if (restore_el[i].id.indexOf("restore") >= 0) {
+        restore_el[i].click();
+        var close_el = innerDoc.getElementsByClassName("goog-close-link");
+        close_el[0].click();
+        return;
+      }
+    }
+  }
+</script>
+<script type="text/javascript"
+  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/chimeraland/recipes/style.html</url>
+    <content><![CDATA[.img-inline-text {
+  width: 15px;
+  height: 100%;
+  vertical-align: sub;
+}
+table a.gallery-item {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: fit-content;
+}
+table {
+  max-width: 100vw;
+  overflow-x: auto;
+  overflow: auto;
+  display: block;
+}
+img.img-recipe {
+  display: inline-block;
+  width: 35px;
+}
+table span.caption {
+  display: none !important;
+}
+]]></content>
+  </entry>
+</search>
