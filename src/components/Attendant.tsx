@@ -10,7 +10,7 @@ import {
 } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
-import { Adsense } from './adsense/Adsense'
+import { adsArticle, adsArticle1, adsAuto } from './adsense/myads'
 import { OutboundLink } from './react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from './react-seo-meta-tags/ReactSEOMetaTags'
 
@@ -217,16 +217,7 @@ export function Attendant(props: AttendantProps) {
                 </div>
               </div>
               <div className="col-12 col-stat col-lg-6 mb-2">
-                <Adsense
-                  style={{
-                    textAlign: 'center',
-                    display: 'block'
-                  }}
-                  layout="in-article"
-                  format="fluid"
-                  client="ca-pub-2188063137129806"
-                  slot="5634823028"
-                />
+                {adsArticle('in-article-1' + props.name)}
               </div>
             </div>
           </div>
@@ -235,13 +226,7 @@ export function Attendant(props: AttendantProps) {
             <h2 id="delicacies">
               Delicacies and tasty recipes for {props.name}
             </h2>
-            <Adsense
-              style={{ textAlign: 'center', display: 'block' }}
-              layout="in-article"
-              format="fluid"
-              client="ca-pub-2188063137129806"
-              slot="8481296455"
-            />
+            {adsArticle1('in-article-2' + props.name)}
             <div className="row" id="delicacies-wrapper">
               {mappedTasty.map((recipe, i) => {
                 return (
@@ -356,13 +341,7 @@ export function Attendant(props: AttendantProps) {
           {/** gallery photos */}
           <div className="col-12">
             <h2 id="galleries">Galleries {props.name}</h2>
-            <Adsense
-              style={{ textAlign: 'center', display: 'block' }}
-              client="ca-pub-2188063137129806"
-              slot="2667720583"
-              format="auto"
-              responsive="true"
-            />
+            {adsAuto('auto-1' + props.name)}
             <div className="gallery-image text-center" id="gallery">
               {props.images.map((o, i) => {
                 const src =

@@ -78,7 +78,7 @@ gulp.task('safelink', () => {
 // copy blog and build dir to tmp/build
 gulp.task('copy', (done) => {
   return gulp
-    .src([join(blogDir, '**/*'), join(baseDir, '**/*')])
+    .src([join(baseDir, '**/*'), join(blogDir, '**/*')])
     .pipe(gulp.dest(destDir))
     .once('end', () => {
       const nojekyll = join(destDir, '.nojekyll')
@@ -106,7 +106,7 @@ gulp.task('deploy', async () => {
     'safelink'
   )(async function () {
     await c.add('.')
-    await c.commit('Update site ' + moment().format('LL'))
+    await c.commit('Update site ' + moment().format('LLL'))
     await c.push(false, { stdio: 'inherit' })
   })
 })

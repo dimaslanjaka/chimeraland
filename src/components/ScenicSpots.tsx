@@ -5,7 +5,7 @@ import { Fancybox } from '../fancybox/src'
 import { ScenicData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
-import { Adsense } from './adsense/Adsense'
+import { adsArticle, adsArticle1, adsAuto } from './adsense/myads'
 import { OutboundLink } from './react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from './react-seo-meta-tags/ReactSEOMetaTags'
 import './ScenicSpots.scss'
@@ -66,43 +66,11 @@ export function ScenicSpots() {
       )
   }).filter((item) => typeof item !== 'undefined')
 
-  gallery.splice(
-    2,
-    0,
-    <Adsense
-      style={{ display: 'block', textAlign: 'center' }}
-      className="gal-item"
-      layout="in-article"
-      format="fluid"
-      client="ca-pub-2188063137129806"
-      slot="5634823028"
-    />
-  )
+  gallery.splice(2, 0, adsArticle('Scenic-2'))
 
-  gallery.splice(
-    8,
-    0,
-    <Adsense
-      style={{ display: 'block', textAlign: 'center' }}
-      className="gal-item"
-      layout="in-article"
-      format="fluid"
-      client="ca-pub-2188063137129806"
-      slot="8481296455"
-    />
-  )
+  gallery.splice(8, 0, adsArticle1('Scenic-8'))
 
-  gallery.splice(
-    14,
-    0,
-    <Adsense
-      style={{ display: 'block', textAlign: 'center' }}
-      client="ca-pub-2188063137129806"
-      slot="2667720583"
-      format="auto"
-      data-full-width-responsive="true"
-    />
-  )
+  gallery.splice(14, 0, adsAuto('Scenic-14'))
 
   return (
     <>

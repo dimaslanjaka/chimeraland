@@ -3,7 +3,7 @@ import { Helmet } from 'react-helmet'
 import { MaterialsData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
-import { Adsense } from './adsense/Adsense'
+import { adsArticle } from './adsense/myads'
 import { OutboundLink } from './react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from './react-seo-meta-tags/ReactSEOMetaTags'
 
@@ -110,14 +110,8 @@ export function Material(props: MaterialProps) {
         </div>
 
         <div className="row">
-          <div className="col-12">
-            <Adsense
-              style={{ display: 'block', textAlign: 'center' }}
-              className="h-md-250"
-              layout="in-article"
-              format="fluid"
-              client="ca-pub-2188063137129806"
-              slot="8481296455"></Adsense>
+          <div className="col-12 h-md-250">
+            {adsArticle('Material-1' + props.name)}
           </div>
           <div className="col-lg-6 col-12">
             {'details' in props && (

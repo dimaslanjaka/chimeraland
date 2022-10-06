@@ -1,5 +1,6 @@
 import express from 'express'
 import { copyFileSync, existsSync } from 'fs'
+import { Server } from 'http'
 import path from 'path'
 import pkg from './package.json'
 const app = express()
@@ -12,11 +13,18 @@ if (!existsSync(index)) throw new Error('index.html not exist in build')
 if (!existsSync(index200)) copyFileSync(index, index200)
 if (!existsSync(index404)) copyFileSync(index, index404)
 
+function ExpressServer(): Promise<{
+  app: express.Express
+}>
+function ExpressServer(port: string | number): Promise<{
+  server: Server
+  app: express.Express
+}>
 /**
  * serve from 200.html
  * @param port
  */
-function ExpressServer(port: string | number) {
+function ExpressServer(port?: string | number) {
   const baseDir = path.resolve('./build')
   app.use(express.static(baseDir))
   app.use(pathname, express.static(baseDir))

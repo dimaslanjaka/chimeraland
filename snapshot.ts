@@ -9,6 +9,7 @@ import ExpressServer from './express'
 import pkg from './package.json'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
+import { isDev } from './src/utils/env'
 
 const port = 4000
 const debug = debuglib('chimera-static')
@@ -21,7 +22,7 @@ async function navigatorListener() {
     await _build()
     //throw new Error("please rebuild using `npm run build`");
   }*/
-  const { app } = await ExpressServer(port)
+  const { app, server } = await ExpressServer(port)
   const homepageUrl = new URL(pkg.homepage)
   const baseUrl = new URL('http://localhost:' + port)
   const pageUrl = new URL(baseUrl)
@@ -174,6 +175,7 @@ async function navigatorListener() {
   scrape()
   //server.listen(port, () => scrape())
   // server.app.closeAllConnections()
+  if (!isDev) server.close()
 }
 
 // return array of promises
