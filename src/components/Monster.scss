@@ -90,6 +90,11 @@ a {
   }
 }
 
+#delicacies {
+  position: relative;
+  z-index: 1000;
+}
+
 $heightStatCard: 300px;
 #stats-wrapper {
   .col-stat {
