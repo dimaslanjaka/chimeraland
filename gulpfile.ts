@@ -1,5 +1,9 @@
+import { spawn } from 'child_process'
+import { copyFileSync, existsSync, writeFileSync } from 'fs'
+import git from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
+import moment from 'moment-timezone'
 import sf from 'safelinkify'
 import { join } from 'upath'
 
@@ -10,7 +14,7 @@ const baseDir = join(__dirname, 'build')
 const blogDir = join(__dirname, 'blog/public')
 
 // scan external link to safelink from dest dir
-gulp.task('safelink', async () => {
+gulp.task('safelink', () => {
   const safelink = new sf.safelink({
     // exclude patterns (dont anonymize these patterns)
     exclude: [
@@ -32,11 +36,11 @@ gulp.task('safelink', async () => {
     '/dimaslanjaka1',
     'dimaslanjaka.github.io'
   ]
-  gulp
+  return gulp
     .src(
-      ['*/*.html', '**/*.html', '**/**/*.html'].map((path) =>
-        join(destDir, path)
-      )
+      ['*/*.html', '**/*.html', '**/**/*.html']
+        .map((path) => join(destDir, path))
+        .concat('!**/tmp/**', '!**/node_modules/**')
     )
     .pipe(
       dom(function () {
@@ -68,12 +72,41 @@ gulp.task('safelink', async () => {
         }
       })
     )
-    .pipe(gulp.dest(join(__dirname, destDir)))
+    .pipe(gulp.dest(destDir))
 })
 
 // copy blog and build dir to tmp/build
-gulp.task('copy', async () => {
-  gulp
+gulp.task('copy', (done) => {
+  return gulp
     .src([join(blogDir, '**/*'), join(baseDir, '**/*')])
     .pipe(gulp.dest(destDir))
+    .once('end', () => {
+      const nojekyll = join(destDir, '.nojekyll')
+      if (!existsSync(nojekyll)) writeFileSync(nojekyll, '')
+      const gitAttr = join(destDir, '.gitattributes')
+      if (!existsSync(gitAttr))
+        copyFileSync(join(__dirname, '.gitattributes'), gitAttr)
+      const pkgJson = join(destDir, 'package.json')
+      if (existsSync(pkgJson)) {
+        const child = spawn('npm', ['install'], { cwd: destDir })
+        child.on('exit', () => {
+          done()
+        })
+      }
+    })
+})
+
+gulp.task('deploy', async () => {
+  const c = new git(destDir)
+  await c.setremote('https://github.com/dimaslanjaka/chimeraland.git')
+  await c.setbranch('gh-pages')
+  await c.pull(['--recurse-submodule', '--allow-unrelated-histories'])
+  gulp.series(
+    'copy',
+    'safelink'
+  )(async function () {
+    await c.add('.')
+    await c.commit('Update site ' + moment().format('LL'))
+    await c.push(false, { stdio: 'inherit' })
+  })
 })
