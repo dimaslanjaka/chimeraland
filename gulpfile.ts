@@ -1,7 +1,6 @@
 import { spawn } from 'child_process'
 import { copyFileSync, existsSync, writeFileSync } from 'fs'
 import ghpages from 'gh-pages'
-import git from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
 import moment from 'moment-timezone'
@@ -98,7 +97,7 @@ gulp.task('copy', (done) => {
     })
 })
 
-gulp.task('deploy', function () {
+function deploy() {
   return new Promise((resolve) => {
     ghpages.publish(
       destDir,
@@ -111,19 +110,6 @@ gulp.task('deploy', function () {
       resolve
     )
   })
-})
+}
 
-gulp.task('deploy-old', async () => {
-  const c = new git(destDir)
-  await c.setremote('https://github.com/dimaslanjaka/chimeraland.git')
-  await c.setbranch('gh-pages')
-  await c.pull(['--recurse-submodule', '--allow-unrelated-histories'])
-  gulp.series(
-    'copy',
-    'safelink'
-  )(async function () {
-    await c.add('.')
-    await c.commit('Update site ' + moment().format('LLL'))
-    await c.push(false, { stdio: 'inherit' })
-  })
-})
+gulp.task('deploy', gulp.series('copy', deploy))
