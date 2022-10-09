@@ -1,8 +1,21 @@
-/*const { run } = require('react-snap')
+const { run } = require('react-snap');
+const fs = require('fs');
+
+run({
+  source: 'build',
+  port: 4000,
+  fs,
+  minifyHtml: {
+    collapseWhitespace: false,
+    removeComments: false
+  },
+  include: ['/sitemap', '/monsters', '/recipes', '/attendants', '/scenic-spots']
+}).catch(console.log);
+
+/*
 const materials = require('./src/utils/chimeraland-materials.json')
 const monsters = require('./src/utils/chimeraland-materials.json')
 const recipes = require('./src/utils/chimeraland-materials.json')
-const fs = require('fs')
 
 // run react-scripts build first
 

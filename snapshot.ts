@@ -175,7 +175,11 @@ async function navigatorListener() {
   scrape()
   //server.listen(port, () => scrape())
   // server.app.closeAllConnections()
-  if (!isDev) server.close()
+  if (!isDev) {
+    server.close((e) => {
+      console.log('server closed', e ? e.message : '')
+    })
+  }
 }
 
 // return array of promises

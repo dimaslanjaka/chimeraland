@@ -36,7 +36,7 @@
   "scripts": {
     "start": "cross-env-shell NODE_ENV=development PORT=4000 BROWSER=none DEBUG=chimera* react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "cross-env-shell NODE_ENV=production PORT=4000 BROWSER=none DEBUG=chimera* ts-node snapshot.ts",
+    "post-build": "cross-env-shell NODE_ENV=production PORT=4000 BROWSER=none DEBUG=chimera* ts-node snapshot.ts",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "serve": "npx serve -s build -l 4000",
@@ -44,7 +44,8 @@
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc.js",
     "update": "npx npm-check-updates -u -x chalk",
-    "ssr": "nodemon --exec \"ts-node ssr.tsx\" -e \"tsx\" --ignore node_modules"
+    "ssr": "nodemon --exec \"ts-node ssr.tsx\" -e \"tsx\" --ignore node_modules",
+    "refresh": "npm update git-command-helper hexo-post-parser safelinkify gulp-dom"
   },
   "eslintConfig": {
     "extends": [
@@ -96,10 +97,11 @@
     "nodemon": "^2.0.20",
     "npm-check-updates": "^16.3.7",
     "npm-run-all": "^4.1.5",
-    "prerender-chrome-headless": "^3.1.0",
+    "prerender-chrome-headless": "file:prerender-chrome-headless",
     "prettier": "^2.7.1",
     "puppeteer": "^18.0.5",
     "react-scripts": "^5.0.1",
+    "react-snap": "file:react-snap",
     "rimraf": "^3.0.2",
     "safelinkify": "file:../safelink",
     "sass": "^1.55.0",

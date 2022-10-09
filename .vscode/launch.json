@@ -8,7 +8,19 @@
       "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/snapshot.ts",
       "name": "Dev Snap",
       "request": "launch",
-      "type": "node-terminal"
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    },
+    {
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/snapshot2.ts",
+      "name": "Dev Snap2",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
     }
   ]
 }
