@@ -104,6 +104,8 @@ gulp.task('deploy', function () {
       destDir,
       {
         branch: 'gh-pages',
+        dotfiles: true,
+        message: 'update site ' + moment().format('LLL'),
         repo: pkg.repository.url
       },
       resolve
