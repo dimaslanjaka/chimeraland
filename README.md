@@ -30,3 +30,24 @@ git branch -D master
 git branch -m master
 git push -f origin master
 ```
+
+## Snapshot
+using `snapshot3.ts`, `ssg.ts`
+
+## Deploy
+using `gulp`
+
+## Build
+1st terminal
+```bash
+gulp copy
+```
+open new 2nd terminal
+```bash
+ts-node ssg.ts # wait until finish
+```
+back to 1st terminal
+```
+gulp safelink
+gulp deploy
+``

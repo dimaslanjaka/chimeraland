@@ -5,6 +5,7 @@ import 'core-js/actual/structured-clone'
 import debuglib from 'debug'
 import express from 'express'
 import { copyFileSync, existsSync, mkdirSync, writeFileSync } from 'fs'
+import { Server } from 'http'
 import { JSDOM } from 'jsdom'
 import path from 'upath'
 import { workspace } from './express'
@@ -76,20 +77,28 @@ app.use(async (req, res) => {
   _debugreact(req.path, workspace(index200))
   if (!done.includes(req.path)) {
     done.push(req.path)
-    collectLinks('http://localhost:4000' + req.path)
+    collectLinks('http://localhost:4000' + req.path).each((url) =>
+      links.push(url)
+    )
   }
   return res.sendFile(index200)
 })
 
-app.listen(4000, () => {
-  _debug('listening http://localhost:4000')
+new Bluebird((resolveServer: (s: Server) => any) => {
+  const server = app.listen(4000, () => {
+    _debug('listening http://localhost:4000')
+  })
+  resolveServer(server)
+}).then((server) => {
   const baseUrl = 'http://localhost:4000' + pathname
   collectLinks(baseUrl)
     .each((url) => links.push(url))
     .then(() => {
-      return new Bluebird((resolve) => {
-        _debugsnap(links)
-      })
+      if (server.closeAllConnections) {
+        server.closeAllConnections()
+      } else {
+        server.close()
+      }
     })
 })
 
@@ -115,6 +124,7 @@ function collectLinks(url: string) {
       }
       savePath = path.join(destDir, savePath)
       debug('save-path')(new URL(url).pathname, '->', workspace(savePath))
+      if (existsSync(savePath)) return resolveCollect([])
       snapshot3(url, function (html) {
         const dom = new JSDOM(html)
         const document = dom.window.document

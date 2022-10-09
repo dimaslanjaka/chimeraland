@@ -1,11 +1,13 @@
 import { spawn } from 'child_process'
 import { copyFileSync, existsSync, writeFileSync } from 'fs'
+import ghpages from 'gh-pages'
 import git from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
 import moment from 'moment-timezone'
 import sf from 'safelinkify'
 import { join } from 'upath'
+import pkg from './package.json'
 
 const destDir = join(__dirname, '.deploy_git')
 // react build generated dir
@@ -96,7 +98,20 @@ gulp.task('copy', (done) => {
     })
 })
 
-gulp.task('deploy', async () => {
+gulp.task('deploy', function () {
+  return new Promise((resolve) => {
+    ghpages.publish(
+      destDir,
+      {
+        branch: 'gh-pages',
+        repo: pkg.repository.url
+      },
+      resolve
+    )
+  })
+})
+
+gulp.task('deploy-old', async () => {
   const c = new git(destDir)
   await c.setremote('https://github.com/dimaslanjaka/chimeraland.git')
   await c.setbranch('gh-pages')
