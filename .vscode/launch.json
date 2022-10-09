@@ -21,6 +21,15 @@
       "env": {
         "NODE_ENV": "development"
       }
+    },
+    {
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/ssg.ts",
+      "name": "SSG",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
     }
   ]
 }

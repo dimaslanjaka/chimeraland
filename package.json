@@ -19,6 +19,7 @@
     "core-js": "^3.25.3",
     "debug": "^4.3.4",
     "disqus-react": "^1.1.3",
+    "glob": "^8.0.3",
     "moment-timezone": "^0.5.37",
     "persistent-cache": "file:../persistent-cache",
     "react": "^18.2.0",
