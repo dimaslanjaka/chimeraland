@@ -13,6 +13,7 @@ import pkg from './package.json'
 import { snapshot3 } from './snapshot3'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
+import { isDev } from './src/utils/env'
 import { isValidHttpUrl } from './src/utils/url'
 
 const hostname = new URL(pkg.homepage).host
@@ -94,10 +95,12 @@ new Bluebird((resolveServer: (s: Server) => any) => {
   collectLinks(baseUrl)
     .each((url) => links.push(url))
     .then(() => {
-      if (server.closeAllConnections) {
-        server.closeAllConnections()
-      } else {
-        server.close()
+      if (!isDev) {
+        if (server.closeAllConnections) {
+          server.closeAllConnections()
+        } else {
+          server.close()
+        }
       }
     })
 })
@@ -122,7 +125,7 @@ function collectLinks(url: string) {
       if (!savePath.endsWith('.html')) {
         // non-html extension
         if (/.(png|jpe?g|ico|txt|gif|svg|mp4)$/.test(savePath)) {
-          debug('save')(
+          debug('save-path')(
             color.yellowBright('skip non-html file'),
             workspace(savePath)
           )
@@ -137,7 +140,14 @@ function collectLinks(url: string) {
       }
       savePath = path.join(destDir, savePath)
       debug('save-path')(new URL(url).pathname, '->', workspace(savePath))
-      if (existsSync(savePath)) return resolveCollect([])
+
+      /*
+      if (existsSync(savePath)) {
+        debug('already')(savePath)
+        return resolveCollect([])
+      }
+      */
+
       snapshot3(url, function (html) {
         const dom = new JSDOM(html)
         const document = dom.window.document
@@ -161,6 +171,7 @@ function collectLinks(url: string) {
             str.length > 0 &&
             !str.startsWith('/undefined')
         )
+        debug('total')(internal_links.length + ' links')
         // ext links
         anchors
           .filter(
