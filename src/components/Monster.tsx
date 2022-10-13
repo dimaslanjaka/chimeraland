@@ -87,6 +87,7 @@ export function Monster(props: MonsterProps) {
         website={{ ...siteMetadata }}
       />
 
+      {/** Breadcrumbs */}
       <div className="container">
         <nav aria-label="breadcrumb">
           <ol
@@ -138,8 +139,8 @@ export function Monster(props: MonsterProps) {
       </div>
 
       <div className="container-fluid mt-3" id="stats-wrapper">
+        {/** stats */}
         <div className="row">
-          {/** stats */}
           <div className="col-12">
             <h2 id="stats">{props.name} stats information</h2>
             <div className="row" id="stats-wrapper">
@@ -215,17 +216,21 @@ export function Monster(props: MonsterProps) {
                   </div>
                 </div>
               </div>
-              <div className="col-12 h-250 col-lg-6 mb-2">
+              <div className="col-12 col-stat col-lg-6 mb-2">
                 {adsArticle(props.name + 'article-1')}
               </div>
             </div>
           </div>
-          {/** delicacies */}
+        </div>
+        {/** delicacies */}
+        <div className="row">
           <div className="col-12">
             <h2 id="delicacies">
               Delicacies and tasty recipes for {props.name}
             </h2>
-            <div className="h-250">{adsArticle1(props.name + 'article-2')}</div>
+            <div id="ads-monster-1">
+              {adsArticle1(props.name + 'article-2')}
+            </div>
             <div className="row" id="delicacies-wrapper">
               {mappedTasty.map((recipe, i) => {
                 return (
@@ -337,10 +342,14 @@ export function Monster(props: MonsterProps) {
               })}
             </div>
           </div>
+        </div>
+        <div className="row">
           {/** gallery photos */}
           <div className="col-12">
             <h2 id="galleries">Galleries {props.name}</h2>
-            <div className="h-250">{adsAuto(props.name + 'monster-auto')}</div>
+            <div className="col-stat">
+              {adsAuto(props.name + 'monster-auto')}
+            </div>
             <div className="gallery-image text-center" id="gallery">
               {props.images.map((o, i) => {
                 const src =
@@ -382,7 +391,9 @@ export function Monster(props: MonsterProps) {
               })}
             </div>
           </div>
-          {/** comment */}
+        </div>
+        {/** comment */}
+        <div className="row">
           <div className="col-12">
             <DiscussionEmbed
               shortname="dimaslanjaka"

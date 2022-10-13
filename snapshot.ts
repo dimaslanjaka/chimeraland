@@ -37,7 +37,7 @@ async function navigatorListener() {
     // skip empty url
     if (!pageUrl) return
     // skip non-html url
-    if (/.(png|jpe?g|ico|txt|gif)$/.test(pageUrl)) {
+    if (/.(png|jpe?g|ico|txt|gif|svg|mp4)$/.test(pageUrl)) {
       done.push(pageUrl)
       debug(color.yellowBright('skip non-html file'), pageUrl)
       return

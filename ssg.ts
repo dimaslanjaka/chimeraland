@@ -115,7 +115,20 @@ function collectLinks(url: string) {
         pathname.replace(/\/$/, ''),
         ''
       )
+      // fix no-extension path
+      if (!/\.\w+$/.test(savePath)) {
+        savePath = `${savePath}/index.html`
+      }
       if (!savePath.endsWith('.html')) {
+        // non-html extension
+        if (/.(png|jpe?g|ico|txt|gif|svg|mp4)$/.test(savePath)) {
+          debug('save')(
+            color.yellowBright('skip non-html file'),
+            workspace(savePath)
+          )
+          return resolveCollect([])
+        }
+
         if (savePath.endsWith('/')) {
           savePath += 'index.html'
         } else {

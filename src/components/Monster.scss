@@ -96,13 +96,14 @@ a {
 }
 
 $heightStatCard: 300px;
-#stats-wrapper {
-  .col-stat {
+.col-stat {
+  height: $heightStatCard;
+  .adsbygoogle {
     height: $heightStatCard;
-    .adsbygoogle {
-      height: $heightStatCard;
-    }
   }
+}
+
+#stats-wrapper {
   .card {
     height: 100%;
   }

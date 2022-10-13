@@ -1,6 +1,6 @@
 import { Adsense } from './Adsense'
 
-const enable = false
+const enable = true
 
 export const adsAuto = (key = 'default') => {
   if (!enable) return <></>
