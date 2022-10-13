@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react'
+import { array_unique } from '../../utils/array'
 import { isDev } from '../../utils/env'
 import './Adsense.scss'
 
@@ -80,11 +81,29 @@ export function AdsElement({
   }, [])
 
   // auto ads test
-  if (!adTest && isDev) {
+  if (isDev) {
     adTest = 'true'
+    style = Object.assign(style, { border: '1px solid red' })
   }
 
-  return (
+  let props: Record<string, any> = {}
+  const clssName = array_unique(
+    `adsbygoogle ${className}`.split(/\s+/).map((str) => str.trim())
+  )
+  props.className = clssName.join(' ')
+  props.style = style
+  props['data-ad-client'] = client
+  props['data-ad-slot'] = slot
+  if (format.length > 0) props['data-ad-format'] = format
+  if (layout.length > 0) props['data-ad-layout'] = layout
+  if (layoutKey.length > 0) props['data-ad-layout-key'] = layoutKey
+  if (responsive === 'true') props['data-full-width-responsive'] = 'true'
+  if (adTest) props['data-adtest'] = 'true'
+  props = Object.assign(props, rest)
+
+  return <ins {...props}>{children}</ins>
+
+  /*return (
     <ins
       className={`adsbygoogle ${className}`}
       style={style}
@@ -98,7 +117,7 @@ export function AdsElement({
       {...rest}>
       {children}
     </ins>
-  )
+  )*/
 }
 
 /**

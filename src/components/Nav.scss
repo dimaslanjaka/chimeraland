@@ -21,3 +21,41 @@
     text-decoration: none;
   }
 }
+
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper {
+  .container,
+  .container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    width: inherit;
+  }
+  .navbar {
+    width: 100% !important;
+  }
+}
+
+.navbar-inverse {
+  width: 100% !important;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  border-radius: 0;
+  .nav > li > a {
+    color: #ffffff;
+  }
+  .nav > li > a:hover {
+    background: none;
+  }
+}
+
+.navbar-brand a {
+  color: #ffffff;
+}

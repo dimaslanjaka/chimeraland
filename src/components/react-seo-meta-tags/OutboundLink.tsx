@@ -1,6 +1,6 @@
 import React, { forwardRef, LegacyRef } from 'react'
 import { Link, matchPath } from 'react-router-dom'
-import { SitemapCache } from '../Sitemap'
+import { SitemapCache2 } from '../Sitemap'
 
 export type OutboundLinkpropTypes = React.DOMAttributes<HTMLAnchorElement> & {
   [key: string]: any
@@ -32,7 +32,7 @@ const OutboundLink_func = (
 
   // push internal link to sitemap
   if (props.href.startsWith('/')) {
-    SitemapCache({ href: props.href })
+    SitemapCache2({ href: props.href })
   } else {
     // console.log('not internal', props.href)
   }

@@ -8,6 +8,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 100%;
+  min-height: 100%;
+  word-wrap: break-word;
 }
 
 code {

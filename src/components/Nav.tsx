@@ -26,7 +26,7 @@ export function Nav() {
     return filtered
   }
   return (
-    <>
+    <div className="navbar-wrapper">
       <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top py-2">
         <div className="container-fluid">
           <OutboundLink className="navbar-brand" href="#">
@@ -52,57 +52,31 @@ export function Nav() {
                   Home
                 </OutboundLink>
               </li>
-
-              <li className="nav-item dropdown">
-                <OutboundLink
-                  legacy={true}
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  id="navbarDropdown"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false">
-                  Chimeraland
+              <li className="nav-item">
+                <OutboundLink className="nav-link" href="/attendants">
+                  Attendants
                 </OutboundLink>
-                <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li>
-                    <OutboundLink
-                      legacy={true}
-                      className="dropdown-item"
-                      href="/chimeraland/monsters">
-                      Monsters
-                    </OutboundLink>
-                  </li>
-                  <li>
-                    <hr className="dropdown-divider" />
-                  </li>
-                  <li>
-                    <OutboundLink
-                      legacy={true}
-                      className="dropdown-item"
-                      href="/chimeraland/attendants">
-                      Attendants
-                    </OutboundLink>
-                  </li>
-                  <li>
-                    <hr className="dropdown-divider" />
-                  </li>
-                  <li>
-                    <OutboundLink
-                      legacy={true}
-                      className="dropdown-item"
-                      href="/chimeraland/recipes">
-                      Recipes
-                    </OutboundLink>
-                  </li>
-                </ul>
+              </li>
+              <li className="nav-item">
+                <OutboundLink className="nav-link" href="/monsters">
+                  Monsters
+                </OutboundLink>
+              </li>
+              <li className="nav-item">
+                <OutboundLink className="nav-link" href="/materials">
+                  Materials
+                </OutboundLink>
+              </li>
+              <li className="nav-item">
+                <OutboundLink className="nav-link" href="/recipes/index.html">
+                  Recipes
+                </OutboundLink>
               </li>
               <li className="nav-item">
                 <OutboundLink
                   className="nav-link"
                   href="/scenic-spots"
-                  tabIndex={-1}
-                  aria-disabled="true">
+                  tabIndex={-1}>
                   Scenic Spots
                 </OutboundLink>
               </li>
@@ -145,6 +119,6 @@ export function Nav() {
           </div>
         </div>
       </nav>
-    </>
+    </div>
   )
 }

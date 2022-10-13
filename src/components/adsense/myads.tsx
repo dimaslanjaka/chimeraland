@@ -76,7 +76,7 @@ export const adsFeedTextOnly = (key = 'default') => {
   return (
     <Adsense
       key={key}
-      style={{ display: 'block' }}
+      style={{ display: 'block', minHeight: '250px' }}
       data-ad-format="fluid"
       data-ad-layout-key="-gw-3+1f-3d+2z"
       client="ca-pub-2188063137129806"

@@ -1,73 +1,108 @@
+import axios from 'axios'
 import { useEffect, useState } from 'react'
 import { array_unique } from '../utils/array'
-import { array_jsx_join } from '../utils/array-jsx'
+import { noop } from '../utils/noop'
 import { capitalizer } from '../utils/string'
+import { isValidHttpUrl } from '../utils/url'
 import { OutboundLinkpropTypes } from './react-seo-meta-tags/OutboundLink'
 
-const keyName = 'sitemap'
-
 export function Sitemap() {
-  const [value] = useState(SitemapCache())
-  const hrefs = array_unique(
-    value
-      .map((href) => {
-        href = href.replace('/chimeraland/', '/')
-        const category = capitalizer(href.split(/\//)[1])
-        return {
-          category,
-          href
-        }
-      })
-      .filter((o) => o.category.length > 3),
-    'href'
-  )
-  const keys = array_unique(hrefs.map((o) => o.category))
-  const gets = keys.map((key, i) => {
-    const hyperlinks = array_jsx_join(
-      hrefs
-        .filter((item) => item.category === key)
-        .map((item) => (
-          <a href={'/chimeraland' + item.href} key={item.href}>
-            {item.href}
-          </a>
-        )),
-      <span className="me-1" />
-    )
-
-    return (
-      <div key={key + i}>
-        <h5>{key}</h5>
-        <div>{hyperlinks}</div>
-      </div>
-    )
-  })
-  return <div className="container">{array_jsx_join(gets)}</div>
-}
-
-export const SitemapCache = (props?: Partial<OutboundLinkpropTypes>) => {
-  const initialValue = [props?.href] as string[]
-  let result: string[] = []
-  const savedItem = (result = JSON.parse(
-    localStorage.getItem(keyName) || '[]'
-  ) as string[])
+  const [value, setValues] = useState(Array.from(SCache.links))
+  const [hrefs, setHrefs] = useState<
+    {
+      category: string
+      href: string
+    }[]
+  >([])
+  const [keys, setKeys] = useState<string[]>([])
 
   useEffect(() => {
-    const value = array_unique(
-      savedItem
-        .concat(initialValue)
-        .map((str) => {
-          if (!/\/chimeraland/i.test(str)) return '/chimeraland' + str
-          return str
-        })
-        .filter((str) => {
-          if (/undefined/i.test(str)) console.log(str)
-          return typeof str !== 'undefined' && !/undefined/i.test(str)
-        })
-    )
-    result = value
-    //console.log(value.length)
-    localStorage.setItem(keyName, JSON.stringify(value))
-  })
+    const siteMapUrl = 'https://www.webmanajemen.com/chimeraland/sitemap.txt'
+    axios
+      .get('https://api.codetabs.com/v1/proxy/?quest=' + siteMapUrl)
+      //.get('/proxy/?quest=' + siteMapUrl)
+      .then((response) => {
+        setValues((current) =>
+          array_unique(current.concat(response.data.split(/\r?\n/))).filter(
+            (str) => typeof str === 'string' && str.length > 0
+          )
+        )
+      })
+      .catch(noop)
+  }, [])
 
-  return result
+  useEffect(() => {
+    setHrefs((current) => {
+      return array_unique(
+        value
+          .map((href) => {
+            let category = ''
+            if (!isValidHttpUrl(href)) {
+              const sp = href.split(/\//)[1]
+              category = capitalizer(sp && sp.length > 0 ? sp : 'Site')
+            } else {
+              category = 'Site'
+              href = new URL(href).pathname
+            }
+            href = href.replace(/\/chimeraland\/?/, '/')
+            return {
+              category,
+              href
+            }
+          })
+          .filter((o) => o.category.length > 3)
+          .concat(current),
+        'href'
+      )
+    })
+  }, [value])
+
+  useEffect(() => {
+    setKeys((current) => {
+      return array_unique(hrefs.map((o) => o.category).concat(current))
+    })
+  }, [hrefs])
+
+  return (
+    <div className="container">
+      {keys.map((key, i) => {
+        return (
+          <div key={key + i}>
+            <h5>{key}</h5>
+            <div>
+              <ul>
+                {hrefs
+                  .filter((item) => item.category === key)
+                  .map((item) => {
+                    if (
+                      !isValidHttpUrl(item.href) &&
+                      !item.href.includes('/chimeraland')
+                    ) {
+                      item.href = '/chimeraland' + item.href
+                    }
+                    if (
+                      /\/(ads|free-operating-systems)\/|index2/.test(item.href)
+                    )
+                      return <></>
+                    return (
+                      <li key={item.href}>
+                        <a href={item.href}>{item.href}</a>
+                      </li>
+                    )
+                  })}
+              </ul>
+            </div>
+          </div>
+        )
+      })}
+    </div>
+  )
+}
+
+class SCache {
+  static links = new Set<string>()
+}
+
+export function SitemapCache2(props?: Partial<OutboundLinkpropTypes>) {
+  SCache.links.add(props.href)
 }

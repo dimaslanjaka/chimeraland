@@ -95,11 +95,31 @@ a {
   z-index: 1000;
 }
 
-$heightStatCard: 300px;
+$heightStatCard: 250px;
 .col-stat {
   height: $heightStatCard;
+
   .adsbygoogle {
     height: $heightStatCard;
+  }
+}
+
+@media (min-width: 1000px) {
+  .col-stat {
+    height: 350px;
+
+    .adsbygoogle {
+      height: 350px;
+    }
+  }
+}
+
+[id^='ads-'] {
+  &::before {
+    clear: both;
+  }
+  &::after {
+    clear: both;
   }
 }
 

@@ -347,7 +347,7 @@ export function Monster(props: MonsterProps) {
           {/** gallery photos */}
           <div className="col-12">
             <h2 id="galleries">Galleries {props.name}</h2>
-            <div className="col-stat">
+            <div className="h-250 mt-2 mb-2">
               {adsAuto(props.name + 'monster-auto')}
             </div>
             <div className="gallery-image text-center" id="gallery">
