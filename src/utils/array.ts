@@ -14,14 +14,19 @@
 export function array_unique<T extends any[]>(arr: T, field?: string): T {
   if (Array.isArray(arr)) {
     if (typeof field !== 'string') {
-      return arr.filter(function (x, i, a) {
+      arr = arr.filter(function (x, i, a) {
         return a.indexOf(x) === i
       }) as T
     } else {
-      return arr.filter(
+      arr = arr.filter(
         (a, i) => arr.findIndex((s) => a[field] === s[field]) === i
       ) as T
     }
+    return arr.filter((item) => {
+      if (typeof item === 'string') return item.trim().length > 0
+      if (Array.isArray(item)) return item.length > 0
+      return true
+    }) as T
   } else {
     throw new Error('array param must be instance of ARRAY')
   }

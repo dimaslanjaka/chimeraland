@@ -4,9 +4,16 @@ import Bluebird from 'bluebird'
 import 'core-js/actual/structured-clone'
 import debuglib from 'debug'
 import express from 'express'
-import { copyFileSync, existsSync, mkdirSync, writeFileSync } from 'fs'
+import {
+  copyFileSync,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  writeFileSync
+} from 'fs'
 import { Server } from 'http'
 import { JSDOM } from 'jsdom'
+import { join } from 'path'
 import path from 'upath'
 import { workspace } from './express'
 import pkg from './package.json'
@@ -105,7 +112,12 @@ new Bluebird((resolveServer: (s: Server) => any) => {
     })
 })
 
-const collected: string[] = []
+const collectedFile = join(__dirname, 'build/collected.txt')
+const collected: string[] = existsSync(collectedFile)
+  ? readFileSync(collectedFile, 'utf-8')
+      .split(/\r?\n/gm)
+      .filter((str) => str.trim().length > 1)
+  : []
 function collectLinks(url: string) {
   if (url.endsWith('/')) url = url.replace(/\/$/, '')
   const log = debug(collectLinks.name)
@@ -221,3 +233,24 @@ function save(filePath: string, content: string) {
     mkdirSync(path.dirname(filePath), { recursive: true })
   writeFileSync(filePath, content)
 }
+
+function exitHandler(
+  code: number,
+  reason: string
+):
+  | NodeJS.UnhandledRejectionListener
+  | NodeJS.UncaughtExceptionListener
+  | NodeJS.ExitListener {
+  console.info(reason, 'signal received code', code)
+  return (code: any, reason: any) => (err: any, promise: any) => {
+    console.log(code, reason, err, promise)
+    if (collected.length > 0) {
+      writeFileSync(collectedFile, array_unique(collected).join('\n'))
+    }
+  }
+}
+
+process.on('uncaughtException', exitHandler(1, 'Unexpected Error'))
+process.on('unhandledRejection', exitHandler(1, 'Unhandled Promise'))
+process.on('SIGTERM', exitHandler(0, 'SIGTERM'))
+process.on('SIGINT', exitHandler(0, 'SIGINT'))

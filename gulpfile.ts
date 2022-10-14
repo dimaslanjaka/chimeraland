@@ -112,4 +112,4 @@ function deploy() {
   })
 }
 
-gulp.task('deploy', gulp.series('copy', deploy))
+gulp.task('deploy', gulp.series('copy'))
