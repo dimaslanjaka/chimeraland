@@ -4,7 +4,7 @@
 //import 'core-js/actual/promise'
 //import 'core-js/actual/queue-microtask'
 //import 'core-js/actual/set'
-//import 'core-js/actual/structured-clone'
+import 'core-js/actual/structured-clone'
 import 'react-app-polyfill/ie11'
 import 'react-app-polyfill/stable'
 // bootstrap

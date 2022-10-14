@@ -15,6 +15,7 @@ export function Sitemap() {
     }[]
   >([])
   const [keys, setKeys] = useState<string[]>([])
+  const [crawled, setCrawled] = useState<string[]>([])
 
   useEffect(() => {
     const siteMapUrl = 'https://www.webmanajemen.com/chimeraland/sitemap.txt'
@@ -55,6 +56,19 @@ export function Sitemap() {
         'href'
       )
     })
+
+    if (location.port === '4000')
+      structuredClone(value)
+        .map((href) => {
+          if (isValidHttpUrl(href)) return new URL(href).pathname
+          return href
+        })
+        .forEach((href) => {
+          if (!crawled.find((item) => item === href)) {
+            setCrawled((current) => current.concat(href))
+            fetch(href).catch(noop)
+          }
+        })
   }, [value])
 
   useEffect(() => {
@@ -70,27 +84,28 @@ export function Sitemap() {
           <div key={key + i}>
             <h5>{key}</h5>
             <div>
-              <ul>
-                {hrefs
-                  .filter((item) => item.category === key)
-                  .map((item) => {
-                    if (
-                      !isValidHttpUrl(item.href) &&
-                      !item.href.includes('/chimeraland')
-                    ) {
-                      item.href = '/chimeraland' + item.href
-                    }
-                    if (
-                      /\/(ads|free-operating-systems)\/|index2/.test(item.href)
-                    )
-                      return <></>
-                    return (
-                      <li key={item.href}>
-                        <a href={item.href}>{item.href}</a>
-                      </li>
-                    )
-                  })}
-              </ul>
+              {hrefs
+                .filter((item) => item.category === key && item.href.length > 0)
+                .map((item, ii) => {
+                  if (
+                    !isValidHttpUrl(item.href) &&
+                    !item.href.includes('/chimeraland')
+                  ) {
+                    item.href = '/chimeraland' + item.href
+                  }
+                  const _k = JSON.stringify(item) + ii
+                  if (
+                    /\/(ads|free-operating-systems)\/|index2/.test(item.href)
+                  ) {
+                    return <></>
+                  }
+
+                  return (
+                    <a href={item.href} key={_k + 'a'}>
+                      {item.href}
+                    </a>
+                  )
+                })}
             </div>
           </div>
         )
