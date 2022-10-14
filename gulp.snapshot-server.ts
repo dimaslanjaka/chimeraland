@@ -10,9 +10,9 @@ import { join } from 'path'
 import path from 'upath'
 import { workspace } from './express'
 import { Snapshot } from './gulp.snapshot'
+import { SSGRoutes } from './gulp.snapshot-routes'
 import pkg from './package.json'
 import { save } from './src/utils/file-node'
-import { catchMsg } from './src/utils/noop'
 import { fixUrl } from './src/utils/url'
 
 const hostname = new URL(pkg.homepage).host
@@ -24,11 +24,11 @@ const blogDir = path.resolve('./blog/public')
 /** Folder generated */
 const destDir = path.resolve('./.deploy_git')
 
-const _debug = debuglib('chimera-express')
-const _debugreact = debuglib('chimera-react')
-const _debugasset = debuglib('chimera-asset')
-const _debugsnap = debuglib('chimera-snap')
 const debug = (suffix: string) => debuglib('chimera-' + suffix)
+const _debugExpress = debug('express')
+const _debugreact = debug('react')
+const _debugasset = debug('asset')
+const _debugsnap = debug('snap')
 
 const blogIndex = path.join(blogDir, 'index.html')
 const index = path.join(reactDir, 'index.html')
@@ -46,7 +46,7 @@ app.use(express.static(reactDir))
 app.use(pathname, express.static(reactDir))
 
 app.get(pathname, (_, res) => {
-  _debug('blog', workspace(blogIndex))
+  _debugExpress('blog', workspace(blogIndex))
   return res.sendFile(blogIndex)
 })
 
@@ -67,41 +67,58 @@ app.get(
 )
 
 const snap = new Snapshot()
-const scrape = (url: string) => {
-  snap
-    .scrape(url)
-    .then((html) => {
-      if (html) save(join(__dirname, 'tmp/index.html'), html)
-    })
-    .catch(catchMsg)
-    .finally(() => {
-      //console.log(snap.links)
-    })
+const scraped = new Set<string>()
+const navigateScrape = (url: string) => {
+  return new Promise((resolveScrape) => {
+    if (scraped.has(url)) return resolveScrape(null)
+    scraped.add(url)
+    snap
+      .scrape(url)
+      .then((html) => {
+        if (html) {
+          let currentPathname = new URL(url).pathname
+          if (!Snapshot.isPathHasExt(currentPathname)) {
+            currentPathname += '/index.html'
+          }
+          currentPathname = Snapshot.fixUrl(
+            currentPathname.replace(/\/chimeraland\//, '/')
+          )
+          const saveto = join(destDir, currentPathname)
+          save(saveto, html).then(debug('save'))
+          save(
+            join(__dirname, 'tmp/links.txt'),
+            Array.from(snap.links).join('\n')
+          )
+        }
+      })
+      .catch(console.trace)
+      .finally(() => {
+        resolveScrape(null)
+      })
+  })
 }
 
-const done: string[] = []
 app.use(async (req, res) => {
   _debugreact(req.path, workspace(index200))
-  if (!done.includes(req.path)) {
-    done.push(req.path)
-    scrape('http://localhost:4000' + req.path)
-  }
+  navigateScrape('http://localhost:4000' + req.path)
   return res.sendFile(index200)
 })
 
 new Bluebird((resolveServer: (s: Server) => any) => {
   const server = app.listen(4000, () => {
-    _debug('listening http://localhost:4000')
+    _debugExpress('listening http://localhost:4000')
   })
   resolveServer(server)
-}).then((_server) => {
+}).then(async (_server) => {
   const baseUrl = fixUrl('http://localhost:4000/' + pathname)
-  scrape(baseUrl)
-  /*
-
+  await navigateScrape(baseUrl)
+  for (const index in SSGRoutes) {
+    const url = fixUrl('http://localhost:4000/' + SSGRoutes[index])
+    await navigateScrape(url)
+  }
   if (_server.closeAllConnections) {
     _server.closeAllConnections()
   } else {
     _server.close()
-  }*/
+  }
 })

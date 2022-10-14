@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/snapshot.ts",
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/gulp.snapshot-server.ts",
       "name": "Dev Snap",
       "request": "launch",
       "type": "node-terminal",

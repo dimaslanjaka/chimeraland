@@ -1,3 +1,4 @@
+import Bluebird from 'bluebird'
 import {
   existsSync,
   mkdirSync,
@@ -32,6 +33,10 @@ export function walkDir(folderPath: string) {
 }
 
 export function save(file: string, content: string) {
-  if (!existsSync(dirname(file))) mkdirSync(dirname(file), { recursive: true })
-  writeFileSync(file, content)
+  return new Bluebird((resolve: (file: string) => any) => {
+    if (!existsSync(dirname(file)))
+      mkdirSync(dirname(file), { recursive: true })
+    writeFileSync(file, content)
+    resolve(file)
+  })
 }
