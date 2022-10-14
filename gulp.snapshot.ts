@@ -1,14 +1,37 @@
 /* eslint-disable @typescript-eslint/no-this-alias */
 import Bluebird from 'bluebird'
 import { JSDOM } from 'jsdom'
+import { launch } from 'puppeteer'
 import pkg from './package.json'
 import renderSnap from './packages/prerender-chrome-headless'
+import { defaultArg } from './puppeteer'
 import { array_unique } from './src/utils/array'
+import { catchMsg } from './src/utils/noop'
 import { SSGRoutes } from './ssg.routes'
 
 export class Snapshot {
   links = new Set<string>()
-  scrape(url: string) {
+  scraping = false
+
+  async scrape(url: string) {
+    if (this.scraping) return null
+    this.scraping = true
+    const browser = await launch({
+      headless: false,
+      timeout: 3 * 60 * 1000,
+      args: defaultArg
+    })
+    const page = await browser.newPage()
+    page.on('pageerror', catchMsg)
+    await page.goto(url, { waitUntil: 'networkidle0' })
+    //await page.waitForNetworkIdle()
+    const content = page.content()
+    await browser.close()
+    this.scraping = false
+    return content
+  }
+
+  scrape2(url: string) {
     const self = this
     return new Bluebird((resolve: (str: string) => any, reject) => {
       renderSnap(url)

@@ -12,7 +12,7 @@ import { workspace } from './express'
 import { Snapshot } from './gulp.snapshot'
 import pkg from './package.json'
 import { save } from './src/utils/file-node'
-import noop from './src/utils/noop'
+import { catchMsg } from './src/utils/noop'
 import { fixUrl } from './src/utils/url'
 
 const hostname = new URL(pkg.homepage).host
@@ -71,9 +71,9 @@ const scrape = (url: string) => {
   snap
     .scrape(url)
     .then((html) => {
-      save(join(__dirname, 'tmp/index.html'), html)
+      if (html) save(join(__dirname, 'tmp/index.html'), html)
     })
-    .catch(noop)
+    .catch(catchMsg)
     .finally(() => {
       //console.log(snap.links)
     })

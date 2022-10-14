@@ -103,11 +103,15 @@ async function setupDeployGit(cb: CallableFunction) {
   const github = new gitHelper(destDir)
   await github.init()
   await github.setremote(pkg.repository.url)
-  //await github.setbranch('gh-pages')
+  await github.spawn('git', ['checkout', '--orphan', 'gh-pages'], {
+    cwd: destDir
+  })
   cb()
 }
 
-export function deploy() {
+gulp.task('setup', setupDeployGit)
+
+function deploy() {
   return new Bluebird((resolve) => {
     ghpages.publish(
       destDir,
@@ -132,4 +136,5 @@ gulp.task('clean', function (done) {
   })
 })
 
-gulp.task('deploy', gulp.series('clean', 'copy', deploy))
+gulp.task('deploy', gulp.series('copy', deploy))
+gulp.task('clean-deploy', gulp.series('clean', 'copy', deploy))
