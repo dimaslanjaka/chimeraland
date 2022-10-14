@@ -145,7 +145,7 @@ deploy:
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include: []
-exclude: []
+exclude: ['**/tmp/**', '**/ads/**']
 ignore: []
 
 ## https://github.com/dimaslanjaka/hexo-adsense
