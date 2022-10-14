@@ -81,7 +81,7 @@ const navigateScrape = (url: string) => {
             currentPathname += '/index.html'
           }
           currentPathname = Snapshot.fixUrl(
-            currentPathname.replace(/\/chimeraland\//, '/')
+            currentPathname.replace(new RegExp('/' + pathname + '/'), '/')
           )
           const saveto = join(destDir, currentPathname)
           save(saveto, html).then(debug('save'))
