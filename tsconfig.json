@@ -31,7 +31,8 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "./src"
+    "./src",
+    "./*.ts"
   ],
   "typeAcquisition": {
     "enable": true

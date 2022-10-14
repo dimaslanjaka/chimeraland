@@ -99,6 +99,14 @@ gulp.task('copy', (done) => {
     })
 })
 
+async function setupDeployGit(cb: CallableFunction) {
+  const github = new gitHelper(destDir)
+  await github.init()
+  await github.setremote(pkg.repository.url)
+  //await github.setbranch('gh-pages')
+  cb()
+}
+
 export function deploy() {
   return new Bluebird((resolve) => {
     ghpages.publish(
@@ -109,26 +117,18 @@ export function deploy() {
         message: 'update site ' + moment().format('LLL'),
         repo: pkg.repository.url
       },
-      async function () {
-        const github = new gitHelper(destDir)
-        await github.setremote(pkg.repository.url)
-        await github.setbranch('gh-pages')
-        resolve()
-      }
+      () => setupDeployGit(resolve)
     )
   })
 }
 
 gulp.task('clean', function (done) {
   rm(destDir, { recursive: true, force: true }, function (err) {
-    if (!err) {
-      gulp
-        .src(join(__dirname, 'bin/*'))
-        .pipe(gulp.dest(join(destDir, 'bin')))
-        .once('end', function () {
-          done()
-        })
-    }
+    if (err) console.log(err.message)
+    gulp
+      .src(join(__dirname, 'bin/*'))
+      .pipe(gulp.dest(join(destDir, 'bin')))
+      .once('end', () => setupDeployGit(done))
   })
 })
 

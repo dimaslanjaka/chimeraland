@@ -2,7 +2,13 @@ const debug = require('debug')('prerender');
 
 const puppeteer = require('puppeteer');
 
-module.exports = function (source, options = {}) {
+/**
+ *
+ * @param {string} source
+ * @param {{puppeteerOptions: import('puppeteer').PuppeteerLaunchOptions}} options
+ * @returns
+ */
+module.exports = function PrerenderChomerHeadless(source, options = {}) {
   debug('Calling prerender function for page %s', source);
   const chromeFlags = (options.length ? options : options.chromeFlags) || [];
   const delayLaunch = options.delayLaunch || 0;

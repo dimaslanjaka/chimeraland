@@ -1,7 +1,8 @@
 /* eslint-disable @typescript-eslint/no-this-alias */
+import Bluebird from 'bluebird'
 import { JSDOM } from 'jsdom'
 import pkg from './package.json'
-import { snapshot3 } from './snapshot3'
+import renderSnap from './packages/prerender-chrome-headless'
 import { array_unique } from './src/utils/array'
 import { SSGRoutes } from './ssg.routes'
 
@@ -9,9 +10,12 @@ export class Snapshot {
   links = new Set<string>()
   scrape(url: string) {
     const self = this
-    snapshot3(url, function (html) {
-      html = self.filter(html)
-      console.log(url, html.length)
+    return new Bluebird((resolve: (str: string) => any, reject) => {
+      renderSnap(url)
+        .then(function (html) {
+          resolve(self.filter(html))
+        })
+        .catch(reject)
     })
   }
 

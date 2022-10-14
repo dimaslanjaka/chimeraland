@@ -2,9 +2,7 @@
   "files.autoSave": "onWindowChange",
   "files.exclude": {
     "**/.cache": true,
-    "**/node_modules": true,
-    "build": true,
-    "tmp": true
+    "**/node_modules": true
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,

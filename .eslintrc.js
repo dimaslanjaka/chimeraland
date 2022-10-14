@@ -5,7 +5,7 @@ const prettier = require('./.prettierrc.js')
  * @type {import('eslint').ESLint.Options}
  */
 const config = {
-  $schema: 'https://json.schemastore.org/eslintrc',
+  //$schema: 'https://json.schemastore.org/eslintrc',
   root: true,
   env: {
     browser: true,

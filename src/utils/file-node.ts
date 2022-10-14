@@ -1,4 +1,12 @@
-import { readdirSync, Stats, statSync } from 'fs'
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  Stats,
+  statSync,
+  writeFileSync
+} from 'fs'
+import { dirname } from 'path'
 import { join } from 'upath'
 
 /**
@@ -21,4 +29,9 @@ export function walkDir(folderPath: string) {
     })
   })
   return results
+}
+
+export function save(file: string, content: string) {
+  if (!existsSync(dirname(file))) mkdirSync(dirname(file), { recursive: true })
+  writeFileSync(file, content)
 }
