@@ -1,6 +1,8 @@
+import Bluebird from 'bluebird'
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, writeFileSync } from 'fs'
+import { copyFileSync, existsSync, rmSync, writeFileSync } from 'fs'
 import ghpages from 'gh-pages'
+import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
 import moment from 'moment-timezone'
@@ -97,8 +99,8 @@ gulp.task('copy', (done) => {
     })
 })
 
-function deploy() {
-  return new Promise((resolve) => {
+export function deploy() {
+  return new Bluebird((resolve) => {
     ghpages.publish(
       destDir,
       {
@@ -107,9 +109,23 @@ function deploy() {
         message: 'update site ' + moment().format('LLL'),
         repo: pkg.repository.url
       },
-      resolve
+      async function () {
+        const github = new gitHelper(destDir)
+        await github.setremote(pkg.repository.url)
+        await github.setbranch('gh-pages')
+        resolve()
+      }
     )
   })
 }
 
-gulp.task('deploy', gulp.series('copy'))
+gulp.task('clean', function () {
+  return new Promise((resolve) => {
+    const paths = [destDir].filter((path) => existsSync(path))
+    Bluebird.all(paths)
+      .each((path) => rmSync(path, { recursive: true, force: true }))
+      .then(resolve)
+  })
+})
+
+gulp.task('deploy', gulp.series('clean', 'copy', deploy))

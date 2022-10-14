@@ -48,15 +48,10 @@ if (!existsSync(index404)) copyFileSync(index, index404)
 
 const app = express()
 
-/*
-const staticOpt: Parameters<typeof express.static>[1] = {
-  extensions: ['woff2', 'woff', 'ttf']
-}
-app.use(express.static(blogDir, staticOpt))
-app.use(pathname, express.static(blogDir, staticOpt))
-app.use(express.static(reactDir, staticOpt))
-app.use(pathname, express.static(reactDir, staticOpt))
-*/
+app.use(express.static(blogDir))
+app.use(pathname, express.static(blogDir))
+app.use(express.static(reactDir))
+app.use(pathname, express.static(reactDir))
 
 app.get(pathname, (_, res) => {
   _debug('blog', workspace(blogIndex))
