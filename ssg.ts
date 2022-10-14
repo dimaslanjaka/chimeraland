@@ -241,9 +241,10 @@ function exitHandler(
   | NodeJS.UnhandledRejectionListener
   | NodeJS.UncaughtExceptionListener
   | NodeJS.ExitListener {
-  console.info(reason, 'signal received code', code)
+  console.info(reason, 'registered listener code', code)
   return (code: any, reason: any) => (err: any, promise: any) => {
-    console.log(code, reason, err, promise)
+    //console.log(code, reason, err, promise)
+    console.info(reason, 'signal received code', code, { err, promise })
     if (collected.length > 0) {
       writeFileSync(collectedFile, array_unique(collected).join('\n'))
     }

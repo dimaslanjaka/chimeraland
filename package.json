@@ -23,7 +23,7 @@
     "core-js": "^3.25.5",
     "crypto-js": "^4.1.1",
     "debug": "^4.3.4",
-    "disqus-react": "^1.1.4",
+    "disqus-react": "^1.1.5",
     "glob": "^8.0.3",
     "moment-timezone": "^0.5.37",
     "persistent-cache": "file:../persistent-cache",
