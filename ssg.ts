@@ -21,7 +21,7 @@ import { SSGRoutes } from './shh.routes'
 import { snapshot3 } from './snapshot3'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
-import { fixUrl, isValidHttpUrl } from './src/utils/url'
+import { isValidHttpUrl } from './src/utils/url'
 
 const hostname = new URL(pkg.homepage).host
 const pathname = new URL(pkg.homepage).pathname
@@ -99,11 +99,9 @@ new Bluebird((resolveServer: (s: Server) => any) => {
   resolveServer(server)
 }).then((server) => {
   const baseUrl = 'http://adsense.webmanajemen.com:4000' + pathname
-  const routes = SSGRoutes.map((pn) =>
-    fixUrl(`http://adsense.webmanajemen.com:4000/${pn}`)
-  ).concat([baseUrl])
-  Bluebird.all(routes)
-    .map((url) => collectLinks(url).each((url) => links.push(url)))
+
+  collectLinks(baseUrl)
+    .each((url) => links.push(url))
     .then(() => {
       if (server.closeAllConnections) {
         server.closeAllConnections()
@@ -178,6 +176,14 @@ function collectLinks(url: string) {
                 !/.(jpeg|jpg|gif|svg|ico|png)$/i.test(a.href)
             )
             .map((a) => a.href)
+            .concat(SSGRoutes)
+            .filter(
+              (href) =>
+                typeof href === 'string' &&
+                href.startsWith('/') &&
+                !/.(jpeg|jpg|gif|svg|ico|png)$/i.test(href) &&
+                href.length > 0
+            )
         ).filter(
           (str) =>
             typeof str === 'string' &&
