@@ -22,6 +22,8 @@ import { snapshot3 } from './snapshot3'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
 import { fixUrl, isValidHttpUrl } from './src/utils/url'
+
+const hostname = new URL(pkg.homepage).host
 const pathname = new URL(pkg.homepage).pathname
 /** React Generated Dir */
 const reactDir = path.resolve('./build')
@@ -100,8 +102,8 @@ new Bluebird((resolveServer: (s: Server) => any) => {
   const routes = SSGRoutes.map((pn) =>
     fixUrl(`http://adsense.webmanajemen.com:4000/${pn}`)
   ).concat([baseUrl])
-  collectLinks(baseUrl)
-    .each((url) => links.push(url))
+  Bluebird.all(routes)
+    .map((url) => collectLinks(url).each((url) => links.push(url)))
     .then(() => {
       if (server.closeAllConnections) {
         server.closeAllConnections()
