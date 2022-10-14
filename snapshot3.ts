@@ -1,6 +1,6 @@
 import fs from 'fs'
 import { resolve } from 'upath'
-import render from './prerender-chrome-headless'
+import render from './packages/prerender-chrome-headless'
 
 if (!fs.existsSync(resolve('./build/200.html')))
   fs.copyFileSync(resolve('./build/index.html'), resolve('./build/200.html'))
