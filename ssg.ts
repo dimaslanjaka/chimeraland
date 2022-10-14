@@ -17,13 +17,11 @@ import { join } from 'path'
 import path from 'upath'
 import { workspace } from './express'
 import pkg from './package.json'
+import { SSGRoutes } from './shh.routes'
 import { snapshot3 } from './snapshot3'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
-import { isDev } from './src/utils/env'
-import { isValidHttpUrl } from './src/utils/url'
-
-const hostname = new URL(pkg.homepage).host
+import { fixUrl, isValidHttpUrl } from './src/utils/url'
 const pathname = new URL(pkg.homepage).pathname
 /** React Generated Dir */
 const reactDir = path.resolve('./build')
@@ -94,20 +92,21 @@ app.use(async (req, res) => {
 
 new Bluebird((resolveServer: (s: Server) => any) => {
   const server = app.listen(4000, () => {
-    _debug('listening http://localhost:4000')
+    _debug('listening http://adsense.webmanajemen.com:4000')
   })
   resolveServer(server)
 }).then((server) => {
-  const baseUrl = 'http://localhost:4000' + pathname
+  const baseUrl = 'http://adsense.webmanajemen.com:4000' + pathname
+  const routes = SSGRoutes.map((pn) =>
+    fixUrl(`http://adsense.webmanajemen.com:4000/${pn}`)
+  ).concat([baseUrl])
   collectLinks(baseUrl)
     .each((url) => links.push(url))
     .then(() => {
-      if (!isDev) {
-        if (server.closeAllConnections) {
-          server.closeAllConnections()
-        } else {
-          server.close()
-        }
+      if (server.closeAllConnections) {
+        server.closeAllConnections()
+      } else {
+        server.close()
       }
     })
 })

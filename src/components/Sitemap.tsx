@@ -15,7 +15,6 @@ export function Sitemap() {
     }[]
   >([])
   const [keys, setKeys] = useState<string[]>([])
-  const [crawled, setCrawled] = useState<string[]>([])
 
   useEffect(() => {
     const siteMapUrl = 'https://www.webmanajemen.com/chimeraland/sitemap.txt'
@@ -56,19 +55,6 @@ export function Sitemap() {
         'href'
       )
     })
-
-    if (location.port === '4000')
-      structuredClone(value)
-        .map((href) => {
-          if (isValidHttpUrl(href)) return new URL(href).pathname
-          return href
-        })
-        .forEach((href) => {
-          if (!crawled.find((item) => item === href)) {
-            setCrawled((current) => current.concat(href))
-            fetch(href).catch(noop)
-          }
-        })
   }, [value])
 
   useEffect(() => {

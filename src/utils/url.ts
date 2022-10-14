@@ -17,3 +17,13 @@ export function pathname2url(pathname: string) {
   url.pathname = pathname
   return url.toString()
 }
+
+export function fixUrl(url: string | URL) {
+  let str: string
+  if (typeof url === 'string') {
+    str = url
+  } else {
+    str = url.toString()
+  }
+  return str.replace(/([^:]\/)\/+/g, '$1')
+}

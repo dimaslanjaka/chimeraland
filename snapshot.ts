@@ -10,6 +10,7 @@ import pkg from './package.json'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
 import { isDev } from './src/utils/env'
+import { fixUrl } from './src/utils/url'
 
 const port = 4000
 const debug = debuglib('chimera-static')
@@ -290,14 +291,4 @@ async function _build() {
     throw new Error(`subprocess error exit ${exitCode}, ${error}`)
   }
   return data
-}
-
-function fixUrl(url: string | URL) {
-  let str: string
-  if (typeof url === 'string') {
-    str = url
-  } else {
-    str = url.toString()
-  }
-  return str.replace(/([^:]\/)\/+/g, '$1')
 }
