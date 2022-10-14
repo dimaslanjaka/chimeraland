@@ -17,11 +17,11 @@ import { join } from 'path'
 import path from 'upath'
 import { workspace } from './express'
 import pkg from './package.json'
-import { SSGRoutes } from './shh.routes'
 import { snapshot3 } from './snapshot3'
 import { array_unique } from './src/utils/array'
 import { color } from './src/utils/color'
 import { isValidHttpUrl } from './src/utils/url'
+import { SSGRoutes } from './ssg.routes'
 
 const hostname = new URL(pkg.homepage).host
 const pathname = new URL(pkg.homepage).pathname

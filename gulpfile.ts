@@ -1,6 +1,6 @@
 import Bluebird from 'bluebird'
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, rmSync, writeFileSync } from 'fs'
+import { copyFileSync, existsSync, rm, writeFileSync } from 'fs'
 import ghpages from 'gh-pages'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
@@ -119,12 +119,16 @@ export function deploy() {
   })
 }
 
-gulp.task('clean', function () {
-  return new Promise((resolve) => {
-    const paths = [destDir].filter((path) => existsSync(path))
-    Bluebird.all(paths)
-      .each((path) => rmSync(path, { recursive: true, force: true }))
-      .then(resolve)
+gulp.task('clean', function (done) {
+  rm(destDir, { recursive: true, force: true }, function (err) {
+    if (!err) {
+      gulp
+        .src(join(__dirname, 'bin/*'))
+        .pipe(gulp.dest(join(destDir, 'bin')))
+        .once('end', function () {
+          done()
+        })
+    }
   })
 })
 

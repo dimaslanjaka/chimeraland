@@ -23,7 +23,7 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "strictNullChecks": false,
-    "isolatedModules": false,
+    "isolatedModules": true,
     "allowUnreachableCode": true,
     "noImplicitAny": false,
     "noEmit": false,
@@ -31,11 +31,7 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "./src",
-    "./*.json",
-    "./*.ts",
-    "./*.js",
-    "./*.tsx"
+    "./src"
   ],
   "typeAcquisition": {
     "enable": true

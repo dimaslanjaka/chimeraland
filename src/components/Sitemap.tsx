@@ -14,7 +14,6 @@ export function Sitemap() {
       href: string
     }[]
   >([])
-  const [keys, setKeys] = useState<string[]>([])
 
   useEffect(() => {
     const siteMapUrl = 'https://www.webmanajemen.com/chimeraland/sitemap.txt'
@@ -57,45 +56,30 @@ export function Sitemap() {
     })
   }, [value])
 
-  useEffect(() => {
-    setKeys((current) => {
-      return array_unique(hrefs.map((o) => o.category).concat(current))
-    })
-  }, [hrefs])
-
   return (
     <div className="container">
-      {keys.map((key, i) => {
-        return (
-          <div key={key + i}>
-            <h5>{key}</h5>
-            <div>
-              {hrefs
-                .filter((item) => item.category === key && item.href.length > 0)
-                .map((item, ii) => {
-                  if (
-                    !isValidHttpUrl(item.href) &&
-                    !item.href.includes('/chimeraland')
-                  ) {
-                    item.href = '/chimeraland' + item.href
-                  }
-                  const _k = JSON.stringify(item) + ii
-                  if (
-                    /\/(ads|free-operating-systems)\/|index2/.test(item.href)
-                  ) {
-                    return <></>
-                  }
+      {hrefs
+        .filter((item) => item.href.length > 0)
+        .map((item, ii) => {
+          if (
+            !isValidHttpUrl(item.href) &&
+            !item.href.includes('/chimeraland')
+          ) {
+            item.href = '/chimeraland' + item.href
+          }
+          const _k = JSON.stringify(item) + ii
+          if (/\/(ads|free-operating-systems)\/|index2/.test(item.href)) {
+            return <></>
+          }
 
-                  return (
-                    <a href={item.href} key={_k + 'a'}>
-                      {item.href}
-                    </a>
-                  )
-                })}
+          return (
+            <div key={_k + 'd'}>
+              <a href={item.href} key={_k + 'a'}>
+                {item.href}
+              </a>
             </div>
-          </div>
-        )
-      })}
+          )
+        })}
     </div>
   )
 }
