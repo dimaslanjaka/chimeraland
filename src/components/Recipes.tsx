@@ -6,7 +6,6 @@ import slugify from 'slugify'
 import { icons } from '../components/icons'
 import { OutboundLink } from '../components/react-seo-meta-tags/OutboundLink'
 import { ReactSEOMetaTags } from '../components/react-seo-meta-tags/ReactSEOMetaTags'
-import { Fancybox } from '../fancybox/src'
 import '../fancybox/src/Fancybox/Fancybox.scss'
 import { MaterialsData, RecipesData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
@@ -21,25 +20,6 @@ type RecipesProp = typeof RecipesData[number]
  * @returns
  */
 export function Recipes(props: RecipesProp) {
-  const delegate = '[data-fancybox]'
-
-  React.useEffect(() => {
-    const opts = {
-      groupAll: true, // Group all items
-      on: {
-        ready: (fancybox: HTMLElement) => {
-          console.log(`fancybox #${fancybox.id} is ready!`)
-        }
-      }
-    }
-
-    Fancybox.bind(delegate, opts)
-
-    return () => {
-      Fancybox.destroy()
-    }
-  }, [])
-
   const siteMetadata = {
     url: pathname2url(props.pathname),
     title: props.name + ' Cooking Recipe - Chimeraland',

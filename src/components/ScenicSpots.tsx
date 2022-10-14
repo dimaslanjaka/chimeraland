@@ -1,7 +1,5 @@
-import { useEffect } from 'react'
 import { Helmet } from 'react-helmet'
 import slugify from 'slugify'
-import { Fancybox } from '../fancybox/src'
 import { ScenicData } from '../utils/chimeraland'
 import { capitalizer } from '../utils/string'
 import { pathname2url } from '../utils/url'
@@ -29,25 +27,6 @@ export function ScenicSpots() {
       searchUrl: 'https://www.google.com/search?q='
     }
   }
-
-  const delegate = '[data-fancybox]'
-
-  useEffect(() => {
-    const opts = {
-      groupAll: true, // Group all items
-      on: {
-        ready: (fancybox: HTMLElement) => {
-          console.log(`fancybox #${fancybox.id} is ready!`)
-        }
-      }
-    }
-
-    Fancybox.bind(delegate, opts)
-
-    return () => {
-      Fancybox.destroy()
-    }
-  }, [])
 
   const gallery = ScenicData.map((item) => {
     if (item.pathname)

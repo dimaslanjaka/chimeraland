@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Helmet } from 'react-helmet'
 import { Route, Routes } from 'react-router-dom'
 import './App.scss'
@@ -16,6 +16,7 @@ import { Safelink } from './components/Safelink'
 import { ScenicSpots } from './components/ScenicSpots'
 import { Sidebar } from './components/Sidebar'
 import { Sitemap, SitemapCache2 } from './components/Sitemap'
+import { Fancybox } from './fancybox/src'
 import {
   AttendantsData,
   MaterialsData,
@@ -23,6 +24,24 @@ import {
   RecipesData
 } from './utils/chimeraland'
 export default function App() {
+  const delegate = '[data-fancybox]'
+  useEffect(() => {
+    const opts = {
+      groupAll: true, // Group all items
+      on: {
+        ready: (fancybox: HTMLElement) => {
+          console.log(`fancybox #${fancybox.id} is ready!`)
+        }
+      }
+    }
+
+    Fancybox.bind(delegate, opts)
+
+    return () => {
+      Fancybox.destroy()
+    }
+  }, [])
+
   return (
     <main>
       <ReactSEOMetaTags

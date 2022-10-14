@@ -5,17 +5,16 @@
 //import 'core-js/actual/queue-microtask'
 //import 'core-js/actual/set'
 //import 'core-js/actual/structured-clone'
-import 'react-app-polyfill/ie11'
-import 'react-app-polyfill/stable'
+//import 'react-app-polyfill/ie11'
+//import 'react-app-polyfill/stable'
 // bootstrap
 import '@popperjs/core/dist/umd/popper.min.js'
 import 'bootstrap/dist/js/bootstrap.min.js'
 // main
 import ReactDOM, { hydrateRoot } from 'react-dom/client'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom'
 import { Metric } from 'web-vitals'
 import App from './App'
-import { Sitemap } from './components/Sitemap'
 import './index.scss'
 import reportWebVitals from './reportWebVitals'
 
@@ -24,11 +23,6 @@ const root = ReactDOM.createRoot(rootElement)
 // console.log(process.env.PUBLIC_URL)
 const children = (
   <>
-    <BrowserRouter>
-      <Routes>
-        <Route path="/sitemap" element={<Sitemap />} />
-      </Routes>
-    </BrowserRouter>
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <App />
     </BrowserRouter>

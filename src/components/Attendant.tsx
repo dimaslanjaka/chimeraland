@@ -1,8 +1,6 @@
 import { DiscussionEmbed } from 'disqus-react'
-import { useEffect } from 'react'
 import { Helmet } from 'react-helmet'
 import slugify from 'slugify'
-import { Fancybox } from '../fancybox/src'
 import {
   AttendantsData,
   MaterialsData,
@@ -37,25 +35,6 @@ export function Attendant(props: AttendantProps) {
       searchUrl: 'https://www.google.com/search?q='
     }
   }
-
-  const delegate = '[data-fancybox]'
-
-  useEffect(() => {
-    const opts = {
-      groupAll: true, // Group all items
-      on: {
-        ready: (fancybox: HTMLElement) => {
-          console.log(`fancybox #${fancybox.id} is ready!`)
-        }
-      }
-    }
-
-    Fancybox.bind(delegate, opts)
-
-    return () => {
-      Fancybox.destroy()
-    }
-  }, [])
 
   const onClickBox = function (this: any, e: any) {
     // eslint-disable-next-line @typescript-eslint/no-this-alias
