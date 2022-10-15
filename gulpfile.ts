@@ -139,7 +139,11 @@ gulp.task('clean', function () {
     .pipe(
       through2.obj((file, _enc, next) => {
         if (existsSync(file.path)) {
-          rmSync(file.path, { recursive: true, force: true })
+          try {
+            rmSync(file.path, { recursive: true, force: true })
+          } catch {
+            //
+          }
         }
         next()
       })
