@@ -133,9 +133,27 @@ gulp.task('start-deploy', deploy)
 
 gulp.task('clean', function () {
   return gulp
-    .src(['**/*', '!^.git*', '!**/bin', '!sitemap.*', '!CNAME', '!.nojekyll'], {
-      cwd: destDir
-    })
+    .src(
+      [
+        // delete all files and folders
+        '**/*',
+        // keep git files
+        '!^.git*',
+        // keep shortcut script
+        '!**/bin',
+        // keep sitemap
+        '!sitemap.*',
+        // keep CNAME
+        '!CNAME',
+        // keep nojekyll builds
+        '!.nojekyll',
+        // skip removing html, for keep old files on remote
+        '!**/*.html'
+      ],
+      {
+        cwd: destDir
+      }
+    )
     .pipe(
       through2.obj((file, _enc, next) => {
         if (existsSync(file.path)) {
