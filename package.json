@@ -110,6 +110,7 @@
     "prerender-chrome-headless": "file:packages/prerender-chrome-headless",
     "prettier": "^2.7.1",
     "puppeteer": "^18.2.1",
+    "react-prerender-it": "file:packages/react-prerender-it",
     "react-scripts": "^5.0.1",
     "rimraf": "^3.0.2",
     "safelinkify": "file:../safelink",

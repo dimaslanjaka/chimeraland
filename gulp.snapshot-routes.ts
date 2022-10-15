@@ -1,3 +1,5 @@
+import { join } from 'path'
+import { ServerSnapshot } from 'react-prerender-it'
 import {
   AttendantsData,
   MaterialsData,
@@ -9,3 +11,11 @@ export const SSGRoutes = MonstersData.concat(<any>RecipesData)
   .concat(<any>MaterialsData)
   .concat(<any>AttendantsData)
   .map((item) => item.pathname)
+
+ServerSnapshot({
+  source: join(__dirname, 'build'),
+  routes: SSGRoutes,
+  registerStatic: [join(__dirname, 'blog')],
+  dest: join(__dirname, '.deploy_git'),
+  autoRoutes: true
+})
