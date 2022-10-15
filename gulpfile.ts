@@ -180,6 +180,8 @@ gulp.task('clean', function () {
             const stats = statSync(path)
             if (stats.isFile()) {
               rmSync(path)
+            } else {
+              rmSync(path, { recursive: true })
             }
             next(null)
           }
