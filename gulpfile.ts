@@ -1,13 +1,13 @@
-import Bluebird from 'bluebird'
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, rm, writeFileSync } from 'fs'
-import ghpages from 'gh-pages'
+import { copyFileSync, existsSync, rmdir, writeFileSync } from 'fs'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
 import moment from 'moment-timezone'
+import { noop } from 'react-prerender-it'
 import sf from 'safelinkify'
 import { join } from 'upath'
+import { gulpSnap } from './gulp.snapshot-routes'
 import pkg from './package.json'
 
 const destDir = join(__dirname, '.deploy_git')
@@ -99,35 +99,25 @@ gulp.task('copy', (done) => {
     })
 })
 
-async function setupDeployGit(cb: CallableFunction) {
+async function setupDeployGit(cb?: CallableFunction) {
   const github = new gitHelper(destDir)
   await github.init()
   await github.setremote(pkg.repository.url)
-  await github.spawn('git', ['checkout', '--orphan', 'gh-pages'], {
-    cwd: destDir
-  })
-  cb()
+  await github
+    .spawn('git', ['checkout', '-f', 'gh-pages'], {
+      cwd: destDir
+    })
+    .catch(noop)
+  await github.add('-A')
+  await github.commit('update chimeraland ' + moment().format())
+  await github.push(true)
+  if (typeof cb === 'function') cb()
 }
 
-gulp.task('setup', setupDeployGit)
-
-function deploy() {
-  return new Bluebird((resolve) => {
-    ghpages.publish(
-      destDir,
-      {
-        branch: 'gh-pages',
-        dotfiles: true,
-        message: 'update site ' + moment().format('LLL'),
-        repo: pkg.repository.url
-      },
-      () => setupDeployGit(resolve)
-    )
-  })
-}
+gulp.task('deploy', setupDeployGit)
 
 gulp.task('clean', function (done) {
-  rm(destDir, { recursive: true, force: true }, function (err) {
+  rmdir(destDir, { recursive: true }, function (err) {
     if (err) console.log(err.message)
     gulp
       .src(join(__dirname, 'bin/*'))
@@ -136,5 +126,6 @@ gulp.task('clean', function (done) {
   })
 })
 
-gulp.task('deploy', gulp.series('copy', deploy))
-gulp.task('clean-deploy', gulp.series('clean', 'copy', deploy))
+gulp.task('snap', gulpSnap)
+gulp.task('deploy', gulp.series('snap', 'copy', 'deploy'))
+gulp.task('clean-deploy', gulp.series('clean', 'snap', 'copy', 'deploy'))
