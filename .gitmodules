@@ -1,0 +1,4 @@
+[submodule "packages/react-prerender-it"]
+	path = packages/react-prerender-it
+	url = https://github.com/dimaslanjaka/react-prerender-it.git
+	branch = master

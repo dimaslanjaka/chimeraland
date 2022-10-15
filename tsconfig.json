@@ -32,7 +32,8 @@
   },
   "include": [
     "./src",
-    "./*.ts"
+    "./*.ts",
+    "packages/gulp-react-snapshot/src/gulp.snapshot-server.ts"
   ],
   "typeAcquisition": {
     "enable": true
