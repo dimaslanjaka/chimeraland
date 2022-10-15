@@ -88,6 +88,7 @@
     "@types/react-dom": "^18.0.6",
     "@types/react-helmet": "^6.1.5",
     "@types/sharp": "^0.31.0",
+    "@types/through2": "github:dimaslanjaka/nodejs-package-types#through2",
     "@typescript-eslint/eslint-plugin": "^5.40.0",
     "@typescript-eslint/parser": "^5.40.0",
     "cross-env": "^7.0.3",

@@ -67,5 +67,7 @@
     "javascriptreact",
     "javascript",
     "typescript"
-  ]
+  ],
+  "eslint.run": "onSave",
+  "eslint.useESLintClass": true
 }

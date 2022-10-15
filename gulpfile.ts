@@ -1,11 +1,12 @@
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, rmdir, writeFileSync } from 'fs'
+import { copyFileSync, existsSync, rmSync, writeFileSync } from 'fs'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
 import moment from 'moment-timezone'
 import { noop } from 'react-prerender-it'
 import sf from 'safelinkify'
+import through2 from 'through2'
 import { join } from 'upath'
 import { gulpSnap } from './gulp.snapshot-routes'
 import pkg from './package.json'
@@ -99,33 +100,53 @@ gulp.task('copy', (done) => {
     })
 })
 
-async function setupDeployGit(cb?: CallableFunction) {
+async function setupDeploy() {
   const github = new gitHelper(destDir)
   await github.init()
   await github.setremote(pkg.repository.url)
+  return github
+}
+
+async function deploy(cb?: CallableFunction) {
+  const github = await setupDeploy()
   await github
     .spawn('git', ['checkout', '-f', 'gh-pages'], {
       cwd: destDir
     })
     .catch(noop)
-  await github.add('-A')
-  await github.commit('update chimeraland ' + moment().format())
-  await github.push(true)
+  await github
+    .spawn('git', ['branch', '-M', 'gh-pages'], {
+      cwd: destDir
+    })
+    .catch(noop)
+  await github.add('-A').catch(noop)
+  await github.commit('update chimeraland ' + moment().format()).catch(noop)
+  await github
+    .spawn('git', ['push', '-f', '-u', 'origin', 'gh-pages'], {
+      cwd: destDir
+    })
+    .catch(noop)
   if (typeof cb === 'function') cb()
 }
 
-gulp.task('deploy', setupDeployGit)
+gulp.task('start-deploy', deploy)
 
-gulp.task('clean', function (done) {
-  rmdir(destDir, { recursive: true }, function (err) {
-    if (err) console.log(err.message)
-    gulp
-      .src(join(__dirname, 'bin/*'))
-      .pipe(gulp.dest(join(destDir, 'bin')))
-      .once('end', () => setupDeployGit(done))
-  })
+gulp.task('clean', function () {
+  return gulp
+    .src(['**/*', '!^.git*', '!**/bin', '!sitemap.*', '!CNAME', '!.nojekyll'], {
+      cwd: destDir
+    })
+    .pipe(
+      through2.obj((file, _enc, next) => {
+        if (existsSync(file.path)) {
+          rmSync(file.path, { recursive: true, force: true })
+        }
+        next()
+      })
+    )
+    .pipe(gulp.dest(destDir))
 })
 
 gulp.task('snap', gulpSnap)
-gulp.task('deploy', gulp.series('snap', 'copy', 'deploy'))
+gulp.task('deploy', gulp.series('snap', 'copy', 'start-deploy'))
 gulp.task('clean-deploy', gulp.series('clean', 'snap', 'copy', 'deploy'))
