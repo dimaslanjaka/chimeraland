@@ -1,5 +1,5 @@
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, rmSync, writeFileSync } from 'fs'
+import { copyFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'fs'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
@@ -12,6 +12,7 @@ import { gulpSnap } from './gulp.snapshot-routes'
 import pkg from './package.json'
 
 const destDir = join(__dirname, '.deploy_git')
+if (!existsSync(destDir)) mkdirSync(destDir)
 // react build generated dir
 const baseDir = join(__dirname, 'build')
 // hexo build generated dir
