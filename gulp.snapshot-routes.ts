@@ -1,4 +1,4 @@
-process.env.DEBUG = 'prerender-it*'
+if (!process.env.DEBUG) process.env.DEBUG = 'prerender-it*'
 import { TaskFunctionCallback } from 'gulp'
 import { join } from 'path'
 import { ServerSnapshot } from 'react-prerender-it'
@@ -27,6 +27,7 @@ export const gulpSnap = (done: TaskFunctionCallback) => {
       } catch {
         //
       }
+      console.log('snap finish')
       done()
     }
   })

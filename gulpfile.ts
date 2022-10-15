@@ -1,5 +1,13 @@
+if (!process.env.DEBUG) process.env.DEBUG = 'prerender-it*'
 import { spawn } from 'child_process'
-import { copyFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'fs'
+import {
+  copySync,
+  existsSync,
+  mkdirSync,
+  rmSync,
+  statSync,
+  writeFileSync
+} from 'fs-extra'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
 import dom from 'gulp-dom'
@@ -89,14 +97,21 @@ gulp.task('copy', (done) => {
       const nojekyll = join(destDir, '.nojekyll')
       if (!existsSync(nojekyll)) writeFileSync(nojekyll, '')
       const gitAttr = join(destDir, '.gitattributes')
-      if (!existsSync(gitAttr))
-        copyFileSync(join(__dirname, '.gitattributes'), gitAttr)
+      if (!existsSync(gitAttr)) {
+        copySync(join(__dirname, '.gitattributes'), gitAttr)
+      }
+
+      const bin = join(destDir, 'bin')
+      if (!existsSync(bin)) {
+        copySync(join(__dirname, 'bin'), bin, { overwrite: true })
+      }
+
       const pkgJson = join(destDir, 'package.json')
       if (existsSync(pkgJson)) {
         const child = spawn('npm', ['install'], { cwd: destDir })
-        child.on('exit', () => {
-          done()
-        })
+        child.on('exit', () => done())
+      } else {
+        done()
       }
     })
 })
@@ -137,39 +152,44 @@ gulp.task('clean', function () {
     .src(
       [
         // delete all files and folders
-        '**/*',
-        // keep git files
-        '!^.git*',
-        // keep shortcut script
-        '!**/bin',
-        // keep sitemap
-        '!sitemap.*',
-        // keep CNAME
-        '!CNAME',
-        // keep nojekyll builds
-        '!.nojekyll',
-        // skip removing html, for keep old files on remote
-        '!**/*.html'
+        '**/*'
       ],
       {
+        ignore: [
+          // keep git files
+          '^.git*',
+          // keep shortcut script
+          '**/bin',
+          // keep sitemap
+          'sitemap.*',
+          // keep CNAME
+          'CNAME',
+          // keep nojekyll builds
+          '.nojekyll',
+          // skip removing html, for keep old files on remote
+          '**/*.html'
+        ],
         cwd: destDir
       }
     )
     .pipe(
       through2.obj((file, _enc, next) => {
-        if (existsSync(file.path)) {
-          try {
-            rmSync(file.path, { recursive: true, force: true })
-          } catch {
-            //
+        try {
+          if (existsSync(file.path)) {
+            const { path } = file
+            const stats = statSync(path)
+            if (stats.isFile()) {
+              rmSync(path)
+            }
+            next(null)
           }
+        } catch {
+          //
         }
-        next()
       })
     )
-    .pipe(gulp.dest(destDir))
 })
 
 gulp.task('snap', gulpSnap)
 gulp.task('deploy', gulp.series('snap', 'copy', 'start-deploy'))
-gulp.task('clean-deploy', gulp.series('clean', 'snap', 'copy', 'deploy'))
+gulp.task('clean-deploy', gulp.series('clean', 'snap', 'copy', 'start-deploy'))
