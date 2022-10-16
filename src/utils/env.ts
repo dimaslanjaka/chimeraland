@@ -1,7 +1,2 @@
-export const isDev = (() => {
-  if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
-    return true
-  } else {
-    return false
-  }
-})()
+/** is development? */
+export const isDev = /dev/gi.test(String(process.env.NODE_ENV))

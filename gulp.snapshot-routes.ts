@@ -24,10 +24,10 @@ export const gulpSnap = (done: TaskFunctionCallback) => {
     callback: (result) => {
       try {
         result.server.close()
+        console.log('snap finish')
       } catch {
-        //
+        console.log('snap finish, but caught error')
       }
-      console.log('snap finish')
       done()
     }
   })
