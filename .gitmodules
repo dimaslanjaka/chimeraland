@@ -1,0 +1,4 @@
+[submodule "proxies-grabber"]
+	path = proxies-grabber
+	url = https://github.com/dimaslanjaka/proxies-grabber.git
+	branch = gh-pages
