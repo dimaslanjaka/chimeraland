@@ -10,12 +10,11 @@ import {
 } from 'fs-extra'
 import { gitHelper } from 'git-command-helper'
 import gulp from 'gulp'
-import dom from 'gulp-dom'
 import moment from 'moment-timezone'
 import { noop } from 'react-prerender-it'
 import sf from 'safelinkify'
 import through2 from 'through2'
-import { join } from 'upath'
+import { join, toUnix } from 'upath'
 import { gulpSnap } from './gulp.snapshot-routes'
 import pkg from './package.json'
 
@@ -43,16 +42,11 @@ gulp.task('safelink', () => {
     // password aes, default = root
     password: 'unique-password'
   })
-  const internal_links = [
-    'www.webmanajemen.com',
-    'https://github.com/dimaslanjaka',
-    '/dimaslanjaka1',
-    'dimaslanjaka.github.io'
-  ]
   return gulp
     .src(['**/*.html'], {
       cwd: destDir,
       ignore: [
+        // exclude non-website and react production files
         '**/tmp/**',
         '**/node_modules/**',
         '**/monsters/**/*',
@@ -63,32 +57,21 @@ gulp.task('safelink', () => {
       ]
     })
     .pipe(
-      dom(function () {
-        //https://github.com/trygve-lie/gulp-dom
-        //this.querySelectorAll('body')[0].setAttribute('data-version', '1.0');
-        const elements = Array.from(this.querySelectorAll('a'))
-        for (let i = 0; i < elements.length; i++) {
-          const a = elements[i]
-          const href = String(a['href']).trim()
-          if (new RegExp('^https?://').test(href)) {
-            /**
-             * match host
-             */
-            const matchHost = internal_links.includes(new URL(href).host)
-            /**
-             * match url internal
-             */
-            const matchHref = internal_links.includes(href)
-            if (!matchHref) {
-              a.setAttribute('rel', 'nofollow noopener noreferer')
-            }
-            if (!matchHost && !matchHref) {
-              const safelinkPath = safelink.encodeURL(href)
-              if (typeof safelinkPath == 'string' && safelinkPath.length > 0) {
-                a.setAttribute('href', safelinkPath)
-              }
-            }
-          }
+      through2.obj(async (file, _enc, next) => {
+        // drop null
+        if (file.isNull()) return next()
+        // do safelinkify
+        const content = String(file.contents)
+        const parsed = await safelink.parse(content)
+        if (parsed) {
+          file.contents = Buffer.from(parsed)
+          next(null, file)
+        } else {
+          console.log(
+            'cannot parse',
+            toUnix(file.path).replace(toUnix(process.cwd()), '')
+          )
+          next()
         }
       })
     )
