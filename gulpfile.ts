@@ -182,13 +182,11 @@ gulp.task('clean', function () {
     .pipe(
       through2.obj((file, _enc, next) => {
         try {
-          if (existsSync(file.path)) {
-            const { path } = file
+          const { path } = file
+          if (existsSync(path)) {
             const stats = statSync(path)
             if (stats.isFile()) {
               rmSync(path)
-            } else {
-              rmSync(path, { recursive: true })
             }
             next(null)
           }
