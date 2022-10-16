@@ -4,7 +4,7 @@
  * @returns
  */
 export function array_random<T extends any[]>(items: T): T[number] {
-  return items[Math.floor(Math.random() * items.length)];
+  return items[Math.floor(Math.random() * items.length)]
 }
 
 /**
@@ -24,17 +24,19 @@ export function array_unique<T extends any[]>(arr: T, field?: string): T {
   if (Array.isArray(arr)) {
     if (typeof field !== 'string') {
       arr = arr.filter(function (x, i, a) {
-        return a.indexOf(x) === i;
-      }) as T;
+        return a.indexOf(x) === i
+      }) as T
     } else {
-      arr = arr.filter((a, i) => arr.findIndex((s) => a[field] === s[field]) === i) as T;
+      arr = arr.filter(
+        (a, i) => arr.findIndex((s) => a[field] === s[field]) === i
+      ) as T
     }
     return arr.filter((item) => {
-      if (typeof item === 'string') return item.trim().length > 0;
-      if (Array.isArray(item)) return item.length > 0;
-      return true;
-    }) as T;
+      if (typeof item === 'string') return item.trim().length > 0
+      if (Array.isArray(item)) return item.length > 0
+      return true
+    }) as T
   } else {
-    throw new Error('array param must be instance of ARRAY');
+    throw new Error('array param must be instance of ARRAY')
   }
 }

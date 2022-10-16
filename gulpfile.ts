@@ -50,11 +50,18 @@ gulp.task('safelink', () => {
     'dimaslanjaka.github.io'
   ]
   return gulp
-    .src(
-      ['*/*.html', '**/*.html', '**/**/*.html']
-        .map((path) => join(destDir, path))
-        .concat('!**/tmp/**', '!**/node_modules/**')
-    )
+    .src(['**/*.html'], {
+      cwd: destDir,
+      ignore: [
+        '**/tmp/**',
+        '**/node_modules/**',
+        '**/monsters/**/*',
+        '**/attendants/**/*',
+        '**/materials/**/*',
+        '**/scenic-spots/**/*',
+        '**/static/**/*'
+      ]
+    })
     .pipe(
       dom(function () {
         //https://github.com/trygve-lie/gulp-dom
