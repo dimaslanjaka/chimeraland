@@ -53,7 +53,11 @@ export function streamToString(stream: NodeJS.ReadableStream) {
  * @returns
  */
 export function bufferToString(array: Buffer) {
-  let td = new TextDecoder();
-  let ua = new Uint8Array(array);
-  return td.decode(ua);
+  if (typeof Uint8Array !== 'undefined' && typeof TextDecoder !== 'undefined') {
+    let td = new TextDecoder();
+    let ua = new Uint8Array(array);
+    return td.decode(ua);
+  } else {
+    return array.toString();
+  }
 }
