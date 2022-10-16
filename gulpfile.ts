@@ -142,7 +142,7 @@ gulp.task('clean', function () {
     .src(
       [
         // delete all files and folders
-        '**/*'
+        '**/*.*'
       ],
       {
         ignore: [
