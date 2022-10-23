@@ -5,6 +5,7 @@
   "files.exclude": {
     "**/node_modules": true
   },
+  "editor.formatOnSave": false,
   "code-runner.runInTerminal": true,
   "code-runner.clearPreviousOutput": true
 }

@@ -26,7 +26,6 @@
     "css": "^3.0.0",
     "debug": "^4.3.4",
     "hexo": "github:hexojs/hexo",
-    "hexo-adsense": "^1.0.26",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
