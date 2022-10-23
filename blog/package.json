@@ -6,6 +6,7 @@
     "version": "6.3.0"
   },
   "scripts": {
+    "start": "npm run serve",
     "dev-remote": "npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz https://github.com/dimaslanjaka/hexo-post-parser.git https://gitpkg.now.sh/dimaslanjaka/static-blog-generator-hexo/packages/gulp-dom?master",
     "dev-local": "npm i -D file:../../hexo-post-parser file:../../static-blog-generator file:../../static-blog-generator-hexo/packages/gulp-dom",
     "prod-local": "npm i file:../../hexo-adsense file:../../safelink",
