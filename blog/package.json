@@ -7,12 +7,6 @@
   },
   "scripts": {
     "start": "npm run serve",
-    "dev-remote": "npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz https://github.com/dimaslanjaka/hexo-post-parser.git https://gitpkg.now.sh/dimaslanjaka/static-blog-generator-hexo/packages/gulp-dom?master",
-    "dev-local": "npm i -D file:../../hexo-post-parser file:../../static-blog-generator file:../../static-blog-generator-hexo/packages/gulp-dom",
-    "prod-local": "npm i file:../../hexo-adsense file:../../safelink",
-    "prod-server": "npm i https://github.com/dimaslanjaka/hexo-adsense.git https://github.com/dimaslanjaka/safelink.git https://github.com/dimaslanjaka/safelink.git",
-    "ilocal": "npm run un && npm run dev-local && npm run prod-local",
-    "un": "npm un static-blog-generator hexo-post-parser hexo-adsense safelinkify gulp-dom",
     "server": "hexo server -p 4000",
     "serve": "hexo server -p 4000",
     "copy": "sbg copy --nocache",
@@ -41,6 +35,7 @@
     "hexo-tag-markdown": "^1.0.8",
     "hexo-theme-next": "file:themes/next",
     "safelinkify": "file:../../safelink",
+    "sharp": "^0.31.1",
     "upath": "^2.0.1"
   },
   "devDependencies": {
