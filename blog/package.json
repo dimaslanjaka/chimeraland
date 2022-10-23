@@ -2,6 +2,11 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://www.webmanajemen.com/chimeraland/",
+  "repository": {
+    "url": "https://github.com/dimaslanjaka/chimeraland.git",
+    "type": "git"
+  },
   "hexo": {
     "version": "6.3.0"
   },
