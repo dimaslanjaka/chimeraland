@@ -18,6 +18,7 @@ timezone: 'Asia/Jakarta'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+#url: https://chimeraland.webmanajemen.com/
 url: https://www.webmanajemen.com/chimeraland
 root: /chimeraland/
 permalink: :title.html #:year/:month/:day/:title/
