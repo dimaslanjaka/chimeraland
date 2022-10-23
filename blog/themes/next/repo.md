@@ -1,1 +1,0 @@
-https://github.com/next-theme/hexo-theme-next
