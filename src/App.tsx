@@ -5,25 +5,25 @@ import './App.scss'
 import { Attendant } from './components/Attendant'
 import { Footer } from './components/Footer'
 import { Home } from './components/Home'
-import { Material } from './components/Materials'
-import { Monster } from './components/Monster'
 import { Nav } from './components/Nav'
 import { NoMatch } from './components/NoMatch'
 import { PageIndex } from './components/PageIndex'
 import { ReactSEOMetaTags } from './components/react-seo-meta-tags/ReactSEOMetaTags'
-import { Recipes } from './components/Recipes'
 import { Safelink } from './components/Safelink'
-import { ScenicSpots } from './components/ScenicSpots'
 import { Sidebar } from './components/Sidebar'
 import { Sitemap, SitemapCache2 } from './components/Sitemap'
 import { Fancybox } from './fancybox/src'
+import { Material } from './pages/Materials'
+import { Monster } from './pages/Monster'
+import { Recipes } from './pages/Recipes'
+import { ScenicSpots } from './pages/ScenicSpots'
 import {
   AttendantsData,
   MaterialsData,
   MonstersData,
   RecipesData
 } from './utils/chimeraland'
-export default function App() {
+ export default function App() {
   const delegate = '[data-fancybox]'
   useEffect(() => {
     const opts = {

@@ -12,16 +12,15 @@
     "start": "cross-env-shell NODE_ENV=development PORT=4000 DISABLE_ESLINT_PLUGIN=true BROWSER=none DEBUG=chimera* react-scripts start",
     "build": "cross-env-shell DISABLE_ESLINT_PLUGIN=true react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "cross-env-shell NODE_ENV=production PORT=4000 BROWSER=none DEBUG=chimera*,prerender-it* gulp clean && gulp copy && gulp snap && gulp copy && gulp safelink && gulp start-deploy",
+    "deploy": "cross-env-shell NODE_ENV=production PORT=4000 BROWSER=none DEBUG=chimera*,prerender-it* gulp copy && gulp snap && gulp copy && gulp safelink && gulp start-deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "serve": "npx serve -s build -l 4000",
     "lint": "eslint src/**/*.{js,jsx,ts,tsx,json}",
     "lint:fix": "eslint --fix 'src/**/*.{js,jsx,ts,tsx,json}'",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc.js",
-    "update": "npx npm-check-updates -u -x chalk",
-    "ssr": "nodemon --exec \"ts-node ssr.tsx\" -e \"tsx\" --ignore node_modules",
-    "refresh": "npm update react-prerender-it git-command-helper hexo-post-parser safelinkify gulp-dom"
+    "update": "npx npm-check-updates -u -x chalk && npm install",
+    "postinstall": "npm update react-prerender-it git-command-helper hexo-post-parser safelinkify gulp-dom"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
@@ -112,7 +111,7 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.7.1",
     "puppeteer": "^18.2.1",
-    "react-prerender-it": "git+https://github.com/dimaslanjaka/react-prerender-it.git",
+    "react-prerender-it": "file:../react-prerender-it",
     "react-scripts": "^5.0.1",
     "rimraf": "^3.0.2",
     "safelinkify": "git+https://github.com/dimaslanjaka/safelink.git",
