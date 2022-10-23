@@ -22,6 +22,10 @@ url: https://www.webmanajemen.com/chimeraland
 root: /chimeraland/
 permalink: :title.html #:year/:month/:day/:title/
 permalink_defaults:
+# e.g. page.permalink is http://example.com/foo/bar/index.html
+pretty_urls:
+  trailing_index: false
+# becomes http://example.com/foo/bar/
 
 # Directory
 source_dir: source
