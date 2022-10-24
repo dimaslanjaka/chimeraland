@@ -46,7 +46,6 @@
     "typescriptreact": "cross-env-shell DEBUG=chimera-* ts-node"
   },
   "code-runner.respectShebang": true,
-  "prettier.configPath": ".prettierrc.js",
   "html.autoClosingTags": true,
   "javascript.autoClosingTags": true,
   "typescript.autoClosingTags": true,
