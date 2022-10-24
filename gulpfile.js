@@ -78,6 +78,7 @@ gulp.task('copy', function () {
     .pipe(gulp.dest(join(__dirname, '.deploy_git')))
 })
 
+// compress image from public to .deploy_git
 gulp.task('compress', async function () {
   const imagemin = await import('gulp-imagemin')
   const { gifsicle, mozjpeg, optipng, svgo } = await import('gulp-imagemin')

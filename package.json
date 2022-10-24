@@ -27,6 +27,7 @@
     "css": "^3.0.0",
     "debug": "^4.3.4",
     "front-matter": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
     "hexo": "github:hexojs/hexo",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "^2.0.0",
