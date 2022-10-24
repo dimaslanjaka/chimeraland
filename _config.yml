@@ -16,8 +16,6 @@ author: L3n4r0x
 language: en
 timezone: 'Asia/Jakarta'
 
-
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: https://chimeraland.webmanajemen.com/
@@ -39,6 +37,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  - "recipes.html"
 
 # Writing
 new_post_name: :title.md # File name of new posts
