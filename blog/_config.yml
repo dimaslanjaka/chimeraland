@@ -174,3 +174,10 @@ adsense:
   exclude:
     - '*.min.html'
     - '**/exclude/**/*'
+
+# https://github.com/hexojs/hexo-browsersync
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
+  instanceName: "uniqueString"

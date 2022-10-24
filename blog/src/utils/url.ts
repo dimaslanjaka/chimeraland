@@ -51,3 +51,13 @@ export default function toURL(url: string): Nullable<URL> {
     return null
   }
 }
+
+/**
+ * remove `chimeraland/`
+ * @param str
+ * @returns
+ */
+export function removeChimera(str: string) {
+  if (!str) return
+  return str.replace('chimeraland/', '')
+}
