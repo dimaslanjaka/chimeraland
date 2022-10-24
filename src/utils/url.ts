@@ -1,4 +1,4 @@
-import { siteUrl } from '../config'
+import pkg from '../../package.json'
 
 export function isValidHttpUrl(string: string | URL) {
   let url: URL
@@ -13,7 +13,7 @@ export function isValidHttpUrl(string: string | URL) {
 }
 
 export function pathname2url(pathname: string) {
-  const url = new URL(siteUrl)
+  const url = new URL(pkg.homepage)
   url.pathname = pathname
   return url.toString()
 }
@@ -28,7 +28,7 @@ export function fixUrl(url: string | URL) {
   return str.replace(/([^:]\/)\/+/g, '$1')
 }
 
-export type Nullable<T> = T | null | undefined;
+export type Nullable<T> = T | null | undefined
 
 /**
  * transform url string to {@link Nullable}<{@link URL}>
@@ -39,13 +39,25 @@ export default function toURL(url: string): Nullable<URL> {
   try {
     if (url.startsWith('/') || url.startsWith('?')) {
       // url is pathname or query
-      return new URL('http://not-actually-domain.com/' + url.replace(/^\/+/, ''));
+      return new URL(
+        'http://not-actually-domain.com/' + url.replace(/^\/+/, '')
+      )
     } else if (url.match(/^https?:\/\//)) {
       // test full url with protocol://
-      return new URL(url);
+      return new URL(url)
     }
   } catch (error) {
-    if (error instanceof Error) console.log(url, error.message);
-    return null;
+    if (error instanceof Error) console.log(url, error.message)
+    return null
   }
+}
+
+/**
+ * remove `chimeraland/`
+ * @param str
+ * @returns
+ */
+export function removeChimera(str: string) {
+  if (!str) return
+  return str.replace('chimeraland/', '')
 }
