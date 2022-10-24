@@ -6,7 +6,7 @@ import sf from 'safelinkify'
 import { getConfig } from 'static-blog-generator'
 import through2 from 'through2'
 
-const deployDir = join(__dirname, '.deploy_git')
+const deployDir = join(__dirname, 'public')
 const config = getConfig()
 const configSafelink = Object.assign(
   { enable: false },
@@ -70,4 +70,8 @@ gulp.task('deploy', async function () {
   await github.add('-A')
   await github.commit('update chimeraland ' + moment().format())
   await github.push(true)
+})
+
+gulp.task('copy', function () {
+  return gulp.src(join(__dirname, 'public')).pipe(gulp.dest(join(__dirname, '.deploy_git')))
 })
