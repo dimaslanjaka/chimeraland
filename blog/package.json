@@ -53,6 +53,7 @@
   "devDependencies": {
     "@types/js-yaml": "^4.0.5",
     "cross-env": "^7.0.3",
+    "git-command-helper": "^1.0.8",
     "gulp": "^4.0.2",
     "gulp-dom": "file:../../static-blog-generator-hexo/packages/gulp-dom",
     "hexo-post-parser": "file:../../hexo-post-parser",

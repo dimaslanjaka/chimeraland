@@ -1,9 +1,13 @@
-import gulp from 'gulp'
-import dom from 'gulp-dom'
+import git from 'git-command-helper'
+import gulp, { TaskFunctionCallback } from 'gulp'
+import moment from 'moment'
+import { join } from 'path'
 import sf from 'safelinkify'
 import { getConfig } from 'static-blog-generator'
-import { join } from 'upath'
+import through2 from 'through2'
 
+const deployDir = join(__dirname, 'public')
+const config = getConfig()
 const configSafelink = Object.assign(
   { enable: false },
   config.external_link.safelink
@@ -32,20 +36,12 @@ const safelink = new sf.safelink({
 // safelinkify the deploy folder
 gulp.task('safelink', safelinkProcess)
 
-export function safelinkProcess(_done?: TaskCallback) {
+export function safelinkProcess(_done?: TaskFunctionCallback) {
   return new Promise((resolve) => {
     gulp
       .src(['**/*.{html,htm}'], {
         cwd: deployDir,
-        ignore: [
-          // skip react project
-          '**/chimeraland/{monsters,attendants,recipes,materials,scenic-spots}/**/*.html',
-          '**/chimeraland/recipes.html',
-          // skip tools
-          '**/embed.html',
-          '**/tools.html',
-          '**/safelink.html'
-        ]
+        ignore: []
       })
       .pipe(
         through2.obj(async (file, _enc, next) => {
@@ -66,3 +62,12 @@ export function safelinkProcess(_done?: TaskCallback) {
       .once('end', () => resolve(null))
   })
 }
+
+gulp.task('deploy', async function () {
+  const github = new git(join(__dirname, 'public'))
+  await github.setremote('https://github.com/dimaslanjaka/chimeraland.git')
+  await github.setbranch('gh-pages')
+  await github.add('-A')
+  await github.commit('update chimeraland ' + moment().format())
+  await github.push(true)
+})
