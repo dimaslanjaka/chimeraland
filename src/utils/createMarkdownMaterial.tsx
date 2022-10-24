@@ -19,8 +19,12 @@ MaterialsData.forEach((item) => {
   attr.webtitle = 'Chimeraland'
   attr.updated = item.dateModified
   attr.date = item.datePublished
+  attr.author = 'L3n4r0x'
   attr.permalink = removeChimera(item.pathname)
-  attr.photos = item.images.map((image) => removeChimera(image.pathname))
+  attr.photos = item.images.map(
+    (image: { absolutePath: string; pathname: string }) =>
+      removeChimera(image.pathname)
+  )
   if (item.images.length > 0) {
     const featured = item.images.find((image) =>
       /feature/i.test(image.filename)

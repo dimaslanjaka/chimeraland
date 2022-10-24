@@ -12,6 +12,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   const attr: Record<string, any> = {}
   attr.title = item.name
   attr.webtitle = 'Chimeraland'
+  attr.author = 'L3n4r0x'
   attr.updated = item.dateModified
   attr.date = item.datePublished
   attr.permalink = removeChimera(item.pathname)

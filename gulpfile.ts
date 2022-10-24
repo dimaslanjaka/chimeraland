@@ -1,5 +1,5 @@
 import git from 'git-command-helper'
-import gulp, { TaskFunctionCallback } from 'gulp'
+import gulp from 'gulp'
 import moment from 'moment'
 import { join } from 'path'
 import sf from 'safelinkify'
@@ -34,9 +34,7 @@ const safelink = new sf.safelink({
 })
 
 // safelinkify the deploy folder
-gulp.task('safelink', safelinkProcess)
-
-export function safelinkProcess(_done?: TaskFunctionCallback) {
+gulp.task('safelink', function () {
   return new Promise((resolve) => {
     gulp
       .src(['**/*.{html,htm}'], {
@@ -61,8 +59,9 @@ export function safelinkProcess(_done?: TaskFunctionCallback) {
       .pipe(gulp.dest(deployDir))
       .once('end', () => resolve(null))
   })
-}
+})
 
+// deploy from .deploy_git
 gulp.task('deploy', async function () {
   const github = new git(join(__dirname, 'public'))
   await github.setremote('https://github.com/dimaslanjaka/chimeraland.git')
@@ -72,6 +71,9 @@ gulp.task('deploy', async function () {
   await github.push(true)
 })
 
+// copy public to .deploy_git
 gulp.task('copy', function () {
-  return gulp.src(join(__dirname, 'public')).pipe(gulp.dest(join(__dirname, '.deploy_git')))
+  return gulp
+    .src(join(__dirname, 'public/**/*.*'))
+    .pipe(gulp.dest(join(__dirname, '.deploy_git')))
 })
