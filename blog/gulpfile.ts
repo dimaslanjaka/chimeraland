@@ -4,62 +4,65 @@ import sf from 'safelinkify'
 import { getConfig } from 'static-blog-generator'
 import { join } from 'upath'
 
-gulp.task('safelink', async () => {
-  const config = getConfig()
-  const configSafelink = Object.assign(
-    { enable: false },
-    config.external_link.safelink
-  )
-  const safelink = new sf.safelink({
-    redirect: [config.external_link.safelink.redirect],
-    password: config.external_link.safelink.password,
-    type: config.external_link.safelink.type
-  })
-  const internal_links = [
+const configSafelink = Object.assign(
+  { enable: false },
+  config.external_link.safelink
+)
+const safelink = new sf.safelink({
+  // exclude patterns (dont anonymize these patterns)
+  exclude: [
     ...config.external_link.exclude,
+    /https?:\/\/?(?:([^*]+)\.)?webmanajemen\.com/,
+    /([a-z0-9](?:[a-z0-9-]{1,61}[a-z0-9])?[.])*webmanajemen\.com/,
     new URL(config.url).host,
     'www.webmanajemen.com',
     'https://github.com/dimaslanjaka',
-    '/dimaslanjaka1',
-    'dimaslanjaka.github.io'
-  ]
-  gulp
-    .src(
-      ['*/*.html', '**/*.html', '**/**/*.html'].map((path) =>
-        join(__dirname, config.public_dir, path)
-      )
-    )
-    .pipe(
-      dom(function () {
-        //https://github.com/trygve-lie/gulp-dom
-        //this.querySelectorAll('body')[0].setAttribute('data-version', '1.0');
-        const elements = Array.from(this.querySelectorAll('a'))
-        if (configSafelink.enable) {
-          for (let i = 0; i < elements.length; i++) {
-            const a = elements[i]
-            const href = String(a['href']).trim()
-            if (new RegExp('^https?://').test(href)) {
-              /**
-               * match host
-               */
-              const matchHost = internal_links.includes(new URL(href).host)
-              /**
-               * match url
-               */
-              const matchHref = internal_links.includes(href)
-              if (!matchHost && !matchHref) {
-                const safelinkPath = safelink.encodeURL(href)
-                if (
-                  typeof safelinkPath == 'string' &&
-                  safelinkPath.length > 0
-                ) {
-                  a.setAttribute('href', safelinkPath)
-                }
-              }
-            }
-          }
-        }
-      })
-    )
-    .pipe(gulp.dest(join(__dirname, config.public_dir)))
+    'https://facebook.com/dimaslanjaka1',
+    'dimaslanjaka.github.io',
+    ...configSafelink.exclude
+  ].filter(function (x, i, a) {
+    // remove duplicate
+    return a.indexOf(x) === i
+  }),
+  redirect: [config.external_link.safelink.redirect, configSafelink.redirect],
+  password: configSafelink.password || config.external_link.safelink.password,
+  type: configSafelink.type || config.external_link.safelink.type
 })
+
+// safelinkify the deploy folder
+gulp.task('safelink', safelinkProcess)
+
+export function safelinkProcess(_done?: TaskCallback) {
+  return new Promise((resolve) => {
+    gulp
+      .src(['**/*.{html,htm}'], {
+        cwd: deployDir,
+        ignore: [
+          // skip react project
+          '**/chimeraland/{monsters,attendants,recipes,materials,scenic-spots}/**/*.html',
+          '**/chimeraland/recipes.html',
+          // skip tools
+          '**/embed.html',
+          '**/tools.html',
+          '**/safelink.html'
+        ]
+      })
+      .pipe(
+        through2.obj(async (file, _enc, next) => {
+          // drop null
+          if (file.isNull()) return next()
+          // do safelinkify
+          const content = String(file.contents)
+          const parsed = await safelink.parse(content)
+          if (parsed) {
+            file.contents = Buffer.from(parsed)
+            return next(null, file)
+          }
+          console.log('cannot parse', file.path)
+          next()
+        })
+      )
+      .pipe(gulp.dest(deployDir))
+      .once('end', () => resolve(null))
+  })
+}
