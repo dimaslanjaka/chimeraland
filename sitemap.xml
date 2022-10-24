@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes.html</loc>
-    
-    <lastmod>2022-10-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/stinky-tofu.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -128,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-vegetarian-balls.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-tenderloin.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -146,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruity-fried-mackerel.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-vegetarian-balls.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -156,6 +138,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-bird.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruity-fried-mackerel.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -263,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/stuffed-eggs.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/sweet-and-spicy-venison.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -281,25 +263,16 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/stuffed-eggs.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/sweet-vinegar-fish.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/turtle-soup.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/vegetable-patty.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -318,6 +291,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/veggie-cake.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/vegetable-patty.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -353,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/wine-braised-vegetables.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/wonton-noodles.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -362,7 +344,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/wonton-noodles.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/turtle-soup.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/wine-braised-vegetables.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -389,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/chargrilled-skewers.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/chargrilled-pumpkin-and-iguana.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -398,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/chargrilled-pumpkin-and-iguana.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/chargrilled-skewers.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -497,25 +488,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/jobs-tears-broth.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/jobs-tears-stew.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/meat-pie.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -533,7 +506,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/one-pot-stew.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/jobs-tears-broth.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/meat-pie.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -551,7 +533,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/poached-meat-fillets.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/one-pot-stew.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -569,7 +551,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/scallion-meat-skewers.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/poached-meat-fillets.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -596,6 +578,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/scallion-meat-skewers.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/scraps-claypot.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -614,15 +605,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/seafood-rice.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/sea-buckthorn-slushie.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -632,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/seasonal-vegetables-fried-with-garlic.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/seafood-rice.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -642,6 +624,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/sliced-fish-stew.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/seasonal-vegetables-fried-with-garlic.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -668,15 +659,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/spiced-meat.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/spiced-mushrooms.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -686,7 +668,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/spicy-meat-skewers.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/spicy-red-goodfruit-broth.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -731,7 +713,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/steamed-paw.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/spicy-meat-skewers.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -740,7 +722,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/spicy-red-goodfruit-broth.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/spiced-meat.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/steamed-paw.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -776,15 +767,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/ultimate-meat-dish.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/very-spicy-meat-skewers.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -803,6 +785,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/ultimate-meat-dish.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/curry-grilled-meat.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -813,15 +804,6 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/deep-fried-meat.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/eggs-with-gourd.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -857,7 +839,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fragrant-steamed-buns.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/eggs-with-gourd.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -866,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-fish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fragrant-steamed-buns.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -884,16 +866,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-melon-and-meat.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-pork-in-scoop.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-fish.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -903,6 +876,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-seasonal-vegetables.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-pork-in-scoop.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -929,6 +911,24 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruity-meat-skewers.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/garlic-braised-meat.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/garlic-meat-skewers.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -947,16 +947,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruity-meat-skewers.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/garlic-braised-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/gourd-braised-meat.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -983,7 +974,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/gourd-braised-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-fish.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1010,25 +1001,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-fish.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-meat-cubes.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-rabbit.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-venison.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1038,15 +1011,6 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-wings.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-venison.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1073,7 +1037,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-meat-cubes.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/honeybee-jerky.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/grilled-rabbit.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1091,7 +1073,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/large-fruit-stew.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fried-melon-and-meat.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1109,15 +1091,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/omelette.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/new-year-dumplings.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -1127,7 +1100,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/omelette.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/pumpkin-bowl.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/large-fruit-stew.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1190,15 +1181,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/bird-soup.html</loc>
-    
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/beggars-chicken.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -1217,7 +1199,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/broiled-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/braised-scorpion.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1226,7 +1208,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/bubbling-stew.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/bird-soup.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1244,7 +1226,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/braised-scorpion.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/bubbling-stew.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -1289,6 +1271,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/broiled-meat.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/recipes/stir-fried-vegetables.html</loc>
     
     <lastmod>2022-10-04</lastmod>
@@ -1307,259 +1298,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/crosoo.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/draco-violentine.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/letoo.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/lok-aqui.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-aquatine.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-regni.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/makoo.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/mantiguard.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/mantitrack.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/ocygatha.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/rhijin.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/reisiger.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/remetrog.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkel.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaji.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shahoragai.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-joya.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-luna.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-regni.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-astra.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/vulamber.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/versamelaar.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/attendants/vuloneer.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/30-catties-of-logs.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/amaranth.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1577,7 +1316,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/ambusher-hair.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/ancient-bone.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1595,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/ancient-bone.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/anise.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1613,24 +1352,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/apple.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/anise.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/bamboo-leaf.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -1640,7 +1361,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/archerfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/amaranth.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1667,7 +1388,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/beast-heart.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/beast-brain.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1676,7 +1397,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/beast-brain.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/apple.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/archerfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1730,6 +1460,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bigeye.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/beetlefly-stinger.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -1739,7 +1478,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bigeye.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/binge-cherry-leaf.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1757,25 +1496,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/beetlefly-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/black-kingfish.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/binge-cherry-leaf.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1802,25 +1523,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/black-scraper.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/blood-jade.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/blue-butterflyfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bluewater-pearl.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1838,7 +1541,25 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bluewirl-fish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/blood-jade.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/black-scraper.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/blue-butterflyfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1856,7 +1577,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bluewater-pearl.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bone-sheep-primal-spirit.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bluewirl-fish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1874,25 +1604,25 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bok-choy.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bone-sheep-primal-spirit.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/bream.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/beast-heart.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bok-choy.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1910,7 +1640,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/bosalo-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/boxfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1919,7 +1649,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/boxfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/bosalo-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -1955,24 +1685,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cane.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cauliflower.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/catfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -1991,25 +1703,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cane.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cauliflower.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/chimeraland-beast-hide.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/chives.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/clan-contribution.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2027,6 +1739,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/clan-contribution.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/clownfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2036,34 +1757,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cod.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/common-wood-essence.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/condor-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cold-repelling-bead.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/chives.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2081,25 +1775,52 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cold-repelling-bead.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/condor-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/common-wood-essence.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cod.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/crab-claw-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/copper.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/coriander.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cray-pill.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2126,7 +1847,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/dace.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cyathea.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2135,7 +1856,25 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/cyathea.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/dark-jade.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/cray-pill.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/dace.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2162,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/dark-jade.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/dragon-pill.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2171,7 +1910,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/dragon-pill.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/coriander.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2189,24 +1928,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/eleboar-hide.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/crab-claw-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/dung.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2216,7 +1937,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/embergator-skin.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/eleboar-hide.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2234,16 +1955,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fiber.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/find-jade.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/embergator-skin.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2261,25 +1973,43 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fiber.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/ambusher-hair.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/find-jade.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/eyebiter.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/fire-repelling-bead.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fine-jade-liquid.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/first-jade.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2298,6 +2028,24 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/flamebug-primal-spirit.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fine-jade-liquid.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/first-jade.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2333,25 +2081,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fortuphant-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/flying-wolf-hide.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-leg.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2369,16 +2099,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-rib.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-skull.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fortuphant-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2396,7 +2117,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-spine.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-rib.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2405,7 +2126,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/freshwater-carp.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-leg.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2414,7 +2135,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/frost-dragon-primal-element.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-skull.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2432,6 +2153,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/fossilized-spine.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/frontosa.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2441,7 +2171,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/gilled-mushroom.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/freshwater-carp.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2459,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/gold-barb.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/gilled-mushroom.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2477,7 +2207,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/goldfin-carp.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/frost-dragon-primal-element.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/gold-barb.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2495,16 +2234,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/gourami.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/goldscale-shell.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/goldfin-carp.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2514,6 +2244,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/gourd.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/goldscale-shell.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2549,15 +2288,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/grizzly-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/greensuit-fish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2567,7 +2297,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/grouguana-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/grizzly-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2576,7 +2306,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/grizzly-primal-spirit.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/grouguana-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2603,15 +2333,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/eyebiter.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/hairtail.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2630,7 +2351,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/honeydew-melon.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/grizzly-primal-spirit.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2639,7 +2360,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/hoof-sinew.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/honeydew-melon.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2657,7 +2378,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/hot-pepper.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/hoof-sinew.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2675,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/icebug-primal-spirit.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/hot-pepper.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2684,7 +2405,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/insect-ichor.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/icebug-primal-spirit.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2702,7 +2423,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/iron.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/insect-ichor.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2720,7 +2441,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/job's-tears.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/iron.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2729,7 +2450,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/lemon-tree-leaf.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/job's-tears.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2747,33 +2468,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/leoparbeak-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/lettuce.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/lingzhi.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/leopardfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2783,7 +2477,25 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/litiger-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/lemon-tree-leaf.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/gourami.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/leoparbeak-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2801,7 +2513,34 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/luna-lionfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/lingzhi.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/lettuce.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/litiger-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/beetlefly-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2811,6 +2550,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/logs.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/luna-lionfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2846,6 +2594,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/magma-armor.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/magnificent-horn.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -2873,7 +2630,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/magma-armor.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/mist-wings.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2882,7 +2639,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/mist-wings.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/mola.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2909,25 +2666,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/mola.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/moon-resin-dew.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/moose-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2954,7 +2693,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/mulberry-root.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/moose-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2964,6 +2703,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/mousefish.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/mulberry-root.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -2990,15 +2738,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/newt-fat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/nibea.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3009,6 +2748,24 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/nirvana-feather.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/noble-beast-soul.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/newt-fat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3035,15 +2792,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/noble-beast-soul.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/orchid.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3062,7 +2810,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/palm-leaf.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/pale-jade.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3071,7 +2819,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/pale-jade.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/palm-leaf.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3089,24 +2837,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/peanut.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/perciformes.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/peacock-fish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3116,7 +2846,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/phoenixfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/peanut.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3134,7 +2864,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/phoenixfish.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/pine-resin.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/perciformes.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3170,7 +2918,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/pomfret.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/poplar-sap.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3179,7 +2927,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/poplar-sap.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/pomfret.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3197,15 +2945,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/primal-fluid.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/precious-jade.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3215,7 +2954,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/prowler-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/primal-bones.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3224,7 +2963,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/pumpkin.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/primal-fluid.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/prowler-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3251,7 +2999,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/primal-bones.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/pumpkin.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3287,7 +3035,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/purple-choy.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/rare-wood-essence.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3296,7 +3044,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/rare-wood-essence.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/purple-choy.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3341,7 +3089,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/red-goodfruit.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/red-gold.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3350,7 +3098,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/red-gold.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/red-goodfruit.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3368,25 +3116,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/rhino-hide.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/rhino-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/rhododendron.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/scale-of-reversal.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3404,16 +3134,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/royle's-spurge.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/scale-of-reversal.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/rhino-hide.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3423,6 +3144,24 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/scallion.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/rhododendron.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/scorab-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3449,24 +3188,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/scorab-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/sea-buckthorn.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/sesame.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3485,15 +3206,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/siderite.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/shovefish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3503,7 +3215,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/silver.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/siderite.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/sea-buckthorn.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3521,6 +3242,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/silver.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/skewerfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3530,7 +3260,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/slimfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/skyshark-primal-spirit.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3539,7 +3269,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/skyshark-primal-spirit.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/slimfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3629,7 +3359,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/stiffler-hide.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/star-stone.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3638,7 +3368,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/star-stone.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/stiffler-hide.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3665,33 +3395,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/stoneppo-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/stone.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/strange-beast-bone.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/stonespot-fish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3702,6 +3405,24 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/storrow-claw.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/stoneppo-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/strange-beast-bone.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3746,7 +3467,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/swallowfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/stone.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3755,7 +3476,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/sweet-potato.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/swallowfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3773,7 +3494,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/tang.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/sweet-potato.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3809,7 +3530,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/titanfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/tomato.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3819,15 +3540,6 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/tree-bark.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/tomato.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3854,7 +3566,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/titanfish.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/uncommon-wood-essence.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/tang.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3899,15 +3629,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/vulture-meat.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/vuldo-wing.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3917,7 +3638,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/warcrab-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/vulture-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3926,7 +3647,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/warcrab-shell.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/warcrab-meat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -3962,15 +3683,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/watery-bone.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/wild-garlic.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -3989,16 +3701,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/wolfspider-carapace.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/wolfspider-meat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/watery-bone.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4016,7 +3719,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/yellow-boxfish.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/wolfspider-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/warcrab-shell.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4034,7 +3746,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/materials/yellowfin.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/yellow-boxfish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4052,6 +3764,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/yellowfin.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/yurlungg's-fang.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -4061,7 +3782,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/apple-sauce.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/wolfspider-carapace.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4071,6 +3792,276 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/materials/zebrafish.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/crosoo.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/draco-violentine.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/letoo.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/lok-aqui.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-aquatine.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-regni.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/makoo.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/mantitrack.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/mantiguard.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/ocygatha.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/reisiger.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/remetrog.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/rhijin.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkel.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shahoragai.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaji.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-astra.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-joya.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-luna.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-regni.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/rhino-meat.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/materials/royle's-spurge.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/versamelaar.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/vulamber.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/attendants/vuloneer.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/apple-sauce.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4160,7 +4151,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruit-and-vegetable-stew.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruit-and-veggie-paste.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4169,7 +4160,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruit-and-veggie-paste.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/fruit-and-vegetable-stew.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4232,7 +4223,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/jobs-tears-sauce.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/overlord-hide-jelly.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4241,7 +4232,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/overlord-hide-jelly.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/jobs-tears-sauce.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4313,7 +4304,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/stir-fried-browtelope.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/tasty-wing-tip.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4322,7 +4313,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/recipes/tasty-wing-tip.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/recipes/stir-fried-browtelope.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4340,7 +4331,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/alligon.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4358,7 +4349,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/azure-light.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4367,7 +4358,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/azure-light.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/alligon.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4394,7 +4385,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/black-horse.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/beetlefly.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4403,7 +4394,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/beetlefly.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/black-horse.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4439,7 +4430,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/caeloptera.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/camel.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4457,7 +4448,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/camel.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/chimera.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4466,7 +4457,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/chimera.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/caeloptera.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4511,15 +4502,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/deerbull.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/diceramandra.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -4529,7 +4511,43 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/deerbull.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/dragon-horse.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/eleboar.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/embergator.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/eyebiter.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4565,34 +4583,16 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/frost-batolf.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/fortuphant.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/eleboar.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/eyebiter.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/embergator.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4628,7 +4628,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/frost-batolf.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4646,7 +4646,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/gratoise.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4655,7 +4655,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/gratoise.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/great-white-shark.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4682,15 +4682,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/great-white-shark.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/grouguana.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -4709,7 +4700,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/halcyonet.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/hillord.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4727,7 +4718,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/hillord.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/halcyonet.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4763,25 +4754,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/horsedeer.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/kuntur.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/horsedeer.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4799,6 +4781,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/kuntur.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/leoparbeak.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -4808,7 +4799,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/litiger.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/lime-lobcray.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4817,7 +4808,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/lime-lobcray.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/litiger.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4862,7 +4853,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/moogiradeer.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/minkrat.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4871,7 +4862,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/minkrat.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/moogiradeer.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4889,25 +4880,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/newt.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/muddled-catfish.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/noble-golden-crow.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4925,7 +4898,25 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/newt.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/noble-serpent.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/noble-golden-crow.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4943,7 +4934,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/palomino-horse.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/parasaurus.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4952,7 +4943,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/parasaurus.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/palomino-horse.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4970,7 +4961,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/parrot.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/piscertus.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4979,7 +4970,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/piscertus.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/parrot.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -4997,7 +4988,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/rhino.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/platyzard.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5006,7 +4997,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/platyzard.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/rhino.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5060,6 +5051,15 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/sharprush.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/silkhopper.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -5070,6 +5070,15 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/smobirdgon.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/snowie.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5096,7 +5105,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/snowie.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/spear-grouguana.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/specklehorn.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5114,24 +5132,6 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/spear-grouguana.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/sharprush.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/spike-alligon.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -5141,7 +5141,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/spimander.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5150,7 +5150,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/sprinowl.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5177,16 +5177,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/starefish.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/stoneppo.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/sprinowl.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5213,6 +5204,24 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/stoneppo.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/tang.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/turgator.html</loc>
     
     <lastmod>2022-09-28</lastmod>
@@ -5231,7 +5240,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/tang.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/vuldo.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5267,61 +5276,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/spimander.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/white-condor.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/specklehorn.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/white-fox.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/whitelope.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/white-maiden.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/wolfspider.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5339,7 +5294,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/vuldo.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/whitelope.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5348,7 +5303,16 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon.html</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/white-condor.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/starefish.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5367,6 +5331,33 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/monsters/yellow-batolf.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/wolfspider.html</loc>
+    
+    <lastmod>2022-09-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/monsters/white-fox.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
@@ -5495,6 +5486,13 @@
   </url>
   
   <url>
+    <loc>https://www.webmanajemen.com/chimeraland/tags/Craft/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Redeem-Code/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -5502,7 +5500,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/tags/Craft/</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/tags/Material/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -5523,14 +5521,14 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/tags/Attendant/</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/tags/Scenic-Spot/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/tags/Material/</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/tags/Attendant/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -5557,13 +5555,6 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/tags/Scenic-Spot/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
@@ -5581,7 +5572,7 @@
   </url>
   
   <url>
-    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Monsters/</loc>
+    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Materials/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -5589,6 +5580,20 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Tips-Tricks/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Monsters/</loc>
+    <lastmod>2022-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Scenic-Spot/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -5603,20 +5608,6 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Recipes/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Scenic-Spot/</loc>
-    <lastmod>2022-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Materials/</loc>
     <lastmod>2022-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
