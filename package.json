@@ -31,7 +31,7 @@
     "hexo": "github:hexojs/hexo",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
+    "hexo-generator-category": "file:packages/hexo-generator-category",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-redirect": "github:dimaslanjaka/hexo-generator-redirect",
     "hexo-generator-searchdb": "^1.4.0",
