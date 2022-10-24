@@ -74,7 +74,10 @@ gulp.task('deploy', async function () {
 // copy public to .deploy_git
 gulp.task('copy', function () {
   return gulp
-    .src(join(__dirname, 'public/**/*.*'))
+    .src(join(__dirname, 'public/**/*.*'), {
+      // ignore images, run for compress task
+      ignore: ['**/*.{jpg,png}']
+    })
     .pipe(gulp.dest(join(__dirname, '.deploy_git')))
 })
 
@@ -83,9 +86,9 @@ gulp.task('compress', async function () {
   const imagemin = await import('gulp-imagemin')
   const { gifsicle, mozjpeg, optipng, svgo } = await import('gulp-imagemin')
   return gulp
-    .src(join(deployDir, '**/*,{jpg,png}'))
+    .src(join(deployDir, '**/*.{jpg,png}'))
     .pipe(
-      imagemin([
+      imagemin.default([
         gifsicle({ interlaced: true }),
         mozjpeg({ quality: 75, progressive: true }),
         optipng({ optimizationLevel: 5 }),
