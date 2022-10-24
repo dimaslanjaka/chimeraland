@@ -6,7 +6,7 @@ import sf from 'safelinkify'
 import { getConfig } from 'static-blog-generator'
 import through2 from 'through2'
 
-const deployDir = join(__dirname, 'public')
+const deployDir = join(__dirname, '.deploy_git')
 const config = getConfig()
 const configSafelink = Object.assign(
   { enable: false },
