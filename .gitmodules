@@ -1,0 +1,4 @@
+[submodule "packages/hexo-generator-category"]
+	path = packages/hexo-generator-category
+	url = https://github.com/dimaslanjaka/hexo-generator-category
+	branch = mod

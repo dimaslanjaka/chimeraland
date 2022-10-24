@@ -110,7 +110,7 @@ MaterialsData.forEach((item) => {
 
         <div className="col-12 mb-2">
           <h5>{item.name} Spawn Locations</h5>
-          {item.images.length > 1 &&
+          {item.images.length > 1 ? (
             (
               item.images as {
                 absolutePath: string
@@ -139,7 +139,10 @@ MaterialsData.forEach((item) => {
                   />
                 </div>
               )
-            })}
+            })
+          ) : (
+            <p>{item.name} is randomly spawned</p>
+          )}
         </div>
       </div>
     </section>
