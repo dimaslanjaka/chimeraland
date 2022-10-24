@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
-const prettier = require('./.prettierrc.js')
+const prettier = require('./.prettierrc.json')
 
 /**
  * @type {import('eslint').ESLint.Options}
