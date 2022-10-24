@@ -16,6 +16,14 @@ author: L3n4r0x
 language: en
 timezone: 'Asia/Jakarta'
 
+# theme-next favicon/logo
+favicon:
+  small: /favicon.ico
+  medium: /android-icon-36x36.png
+  apple_touch_icon: /apple-icon.png
+  safari_pinned_tab: /logo.svg
+  android_manifest: /manifest.json
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 #url: https://chimeraland.webmanajemen.com/
