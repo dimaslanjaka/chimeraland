@@ -36,7 +36,7 @@
     "hexo-generator-category": "file:packages/hexo-generator-category",
     "hexo-generator-index": "^3.0.0",
     "hexo-generator-redirect": "github:dimaslanjaka/hexo-generator-redirect",
-    "hexo-generator-searchdb": "^1.4.0",
+    "hexo-generator-searchdb": "^1.4.1",
     "hexo-generator-sitemap": "3.0.1",
     "hexo-generator-tag": "^2.0.0",
     "hexo-renderer-markdown-it": "^6.1.0",
