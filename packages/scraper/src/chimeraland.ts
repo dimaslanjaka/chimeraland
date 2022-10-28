@@ -56,7 +56,13 @@ async function getContent(url: string) {
     };
 
     const build = hpost.buildPost({ metadata, body: scrapper.content.join('\n').trim() });
-    const postfilename = slugify(scrapper.title, { lower: true, trim: true }) + '.md';
+    const postfilename =
+      slugify(scrapper.title, {
+        lower: true,
+        trim: true,
+        strict: true,
+        replacement: '-'
+      }) + '.md';
     const saveTo = join(__dirname, '../../../src-posts/scrapped', postfilename);
     if (!existsSync(saveTo)) {
       if (!existsSync(dirname(saveTo))) mkdirSync(dirname(saveTo));
