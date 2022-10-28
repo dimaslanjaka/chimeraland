@@ -30,6 +30,7 @@
     "front-matter": "^4.0.2",
     "gulp-imagemin": "^8.0.0",
     "hexo": "github:hexojs/hexo",
+    "hexo-asset-link": "github:liolok/hexo-asset-link",
     "hexo-browsersync": "github:hexojs/hexo-browsersync",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "file:packages/hexo-generator-category",
