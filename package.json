@@ -16,6 +16,7 @@
     "server": "hexo server -p 4000",
     "serve": "hexo server -p 4000",
     "copy": "sbg copy --nocache",
+    "prebuild": "npm run copy",
     "build": "hexo generate",
     "postbuild": "gulp safelink && gulp copy",
     "update": "npx npm-check-updates -u -x hexo && npm update safelinkify hexo-generator-redirect"
