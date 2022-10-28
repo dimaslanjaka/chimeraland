@@ -153,6 +153,6 @@ Given how special the Black Mulberry Trial is, its rewards are also extraordinar
 
 Tips: It's worth mentioning that when a traveler obtains Xiangliu shards, the Blizzard will immediately cease, and all products of the mutation (including snowstorms and Sacred Trees) will disappear.
 
-![](https://sg-chimeraland.playerinfinite.com/cms/nrft/doc/parse/3c998a5b-6c57-4f79-ad49-1995f50db0fb_html_23385a0cd3d109ff.jpg)
+![Black Mulberry Trial](northmount-released/mulberry-trial.png)
 
 I'm not sure if any travelers will avoid participating in Black Mulberry Trials to keep the abundant celestial stalks around, but I'll say just in case: It's easy to get celestial stalks. The rewards for the Black Mulberry Trial on the other hand---not so easy. If the chance arises, give priority to the Black Mulberry Trial! After all, if you're in the right place, all you have to do is use Search > Resources > Encounter > Celestial Stalk and you'll be able to find tons of them!
