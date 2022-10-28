@@ -4,7 +4,16 @@
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/scenic-spots/</loc>
     
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/northmount-released.html</loc>
+    
+    <lastmod>2022-10-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5458,7 +5467,7 @@
 
   <url>
     <loc>https://www.webmanajemen.com/chimeraland</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -5466,91 +5475,98 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Chimeraland/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Recipes/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Location/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Craft/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Redeem-Code/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Material/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Monster/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Pet/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Scenic-Spot/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Attendant/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Recipe/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Buff/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/tags/Food/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.webmanajemen.com/chimeraland/tags/news/</loc>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -5559,56 +5575,56 @@
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Materials/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Tips-Tricks/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Monsters/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Scenic-Spot/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Attendants/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Recipes/</loc>
-    <lastmod>2022-10-24</lastmod>
+    <lastmod>2022-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -1,4 +1,5 @@
 https://www.webmanajemen.com/chimeraland/scenic-spots/
+https://www.webmanajemen.com/chimeraland/northmount-released.html
 https://www.webmanajemen.com/chimeraland/manifest.json
 https://www.webmanajemen.com/chimeraland/recipes/stinky-tofu.html
 https://www.webmanajemen.com/chimeraland/recipes/braised-wings.html
@@ -618,6 +619,7 @@ https://www.webmanajemen.com/chimeraland/tags/Attendant/
 https://www.webmanajemen.com/chimeraland/tags/Recipe/
 https://www.webmanajemen.com/chimeraland/tags/Buff/
 https://www.webmanajemen.com/chimeraland/tags/Food/
+https://www.webmanajemen.com/chimeraland/tags/news/
 https://www.webmanajemen.com/chimeraland/categories/Games/
 https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/
 https://www.webmanajemen.com/chimeraland/categories/Games/Chimeraland/Materials/
