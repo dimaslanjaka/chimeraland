@@ -13,9 +13,11 @@ import puppeteer from 'puppeteer';
 
   const contents = await page.evaluate((resultsSelector) => {
     return [...document.querySelectorAll(resultsSelector)].map((anchor) => {
-      console.log(anchor.innerHTML);
+      return anchor.innerHTML;
     });
   }, resultsSelector);
+
+  console.log(contents);
 
   await browser.close();
 })();
