@@ -1,6 +1,7 @@
 ---
 title: Illustrious evolved pet Finned Fox is coming!
 date: 2022-10-11
+permalink: illustrious-evolved-pet-finned-fox-is-coming.html
 ---
 
 <div class="news_detail scrollbar"><div class="news_title">Illustrious evolved pet Finned Fox is coming!</div><div class="news_date">2022-10-11</div><div id="news_player"></div><div>

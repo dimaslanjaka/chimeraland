@@ -2,6 +2,7 @@
 title: "Northmount Escapades: The Strange Beasts of Northmount—Revealed! Is the
   Age of All Mythic Strange Beasts Upon Us?"
 date: 2022-10-25
+permalink: northmount-escapades-the-strange-beasts-of-northmountrevealed-is-the-age-of-all-mythic-strange-beasts-upon-us.html
 ---
 
 <div class="news_detail scrollbar"><div class="news_title">Northmount Escapades: The Strange Beasts of Northmount—Revealed! Is the Age of All Mythic Strange Beasts Upon Us?</div><div class="news_date">2022-10-25</div><div id="news_player"></div><p align="justify"><span lang="en-US">Nearly 20 types of new strange beasts</span><span lang="en-US"> will be appearing on Northmount! Here, I've selected a few strange beasts I think you'll all like and introduced them below.</span></p>

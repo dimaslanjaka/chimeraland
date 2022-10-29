@@ -1,6 +1,7 @@
 ---
 title: The Merfolk Hymn treasure hunt event is about to start!
 date: 2022-9-23
+permalink: the-merfolk-hymn-treasure-hunt-event-is-about-to-start.html
 ---
 
 <div class="news_detail scrollbar"><div class="news_title">The Merfolk Hymn treasure hunt event is about to start!</div><div class="news_date">2022-9-23</div><div id="news_player"></div><div>

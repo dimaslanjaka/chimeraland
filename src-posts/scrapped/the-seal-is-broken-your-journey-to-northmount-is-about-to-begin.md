@@ -1,6 +1,7 @@
 ---
 title: The Seal is Broken! Your Journey to Northmount is About to Begin!
 date: 2022-10-27
+permalink: the-seal-is-broken-your-journey-to-northmount-is-about-to-begin.html
 ---
 
 <div class="news_detail scrollbar"><div class="news_title">The Seal is Broken! Your Journey to Northmount is About to Begin!</div><div class="news_date">2022-10-27</div><div id="news_player"></div><div>
