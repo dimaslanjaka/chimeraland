@@ -1,7 +1,7 @@
 ---
 title: New Map Northmount on Chimeraland
 date: 2022-10-27T20:59:32+07:00
-updated: 2022-10-27T20:59:32+07:00
+updated: 2022-10-31T03:24:34+07:00
 category:
   - Games
   - Chimeraland
@@ -18,7 +18,7 @@ New versions of Strategies: Northmount Specialties Area Mutation and Sacred Tree
 
 In Northmount, mutations cause the growth of mystical trees and grass, known to most as "Sacred Trees" and "Celestial Stalk."There are many kinds of Sacred Trees on Northmount with many different appearances.
 
-![Mutations in northmount](northmount-released/p2.jpg)
+![Mutations in northmount](/chimeraland/northmount-released/p2.jpg)
 
 ## Cultivation of Sacred Trees You can nurture Sacred Trees of Kitayama. (Sacred Tree Cultivation)
 
@@ -59,7 +59,7 @@ Those who activate Trials of the Sacred Tree  and  team members who consume Spir
 Common Sacred Trees can be found throughout Northmount . Special Sacred Tree:
 Black Mulberry can only be seen in blizzard weather! Travelers can quickly find common Sacred Trees using Search > Resources > Encounter > Sacred  Trees.
 
-![Search Resources](northmount-released/search-resources.png)
+![Search Resources](/chimeraland/northmount-released/search-resources.png)
 
 5. Notes
 
@@ -105,7 +105,7 @@ Use Catalyze to obtain Primordial Chi Crystals (Divine Weapon EXP). You will als
 #### Cinnabar:
 Touch to obtain Fine Eggs, Illustrious Eggs, Limited Blood Eggs, Dark Jade Shards, Cold Mountain Currency, Cinnabar's specialty Centuria Fruit, and other products. have a chance to.
 
-![Primeval Crystal](northmount-released/primeval-crystal.png)
+![Primeval Crystal](/chimeraland/northmount-released/primeval-crystal.png)
 
 (III) Blizzards 
 
@@ -153,7 +153,7 @@ Given how special the Black Mulberry Trial is, its rewards are also extraordinar
 
 Tips: It's worth mentioning that when a traveler obtains Xiangliu shards, the Blizzard will immediately cease, and all products of the mutation (including snowstorms and Sacred Trees) will disappear.
 
-![Black Mulberry Trial](northmount-released/mulberry-trial.png)
+![Black Mulberry Trial](/chimeraland/northmount-released/mulberry-trial.png)
 
 I'm not sure if any travelers will avoid participating in Black Mulberry Trials to keep the abundant celestial stalks around, but I'll say just in case: It's easy to get celestial stalks. The rewards for the Black Mulberry Trial on the other hand---not so easy. If the chance arises, give priority to the Black Mulberry Trial! After all, if you're in the right place, all you have to do is use Search > Resources > Encounter > Celestial Stalk and you'll be able to find tons of them!
 

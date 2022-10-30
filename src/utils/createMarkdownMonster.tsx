@@ -1,4 +1,5 @@
 import { existsSync, mkdirpSync, writeFileSync } from 'fs-extra'
+import moment from 'moment-timezone'
 import ReactDOMServer from 'react-dom/server'
 import slugify from 'slugify'
 import { dirname, join } from 'upath'
@@ -6,14 +7,19 @@ import yaml from 'yaml'
 import { AttendantsData, MonstersData, RecipesData } from './chimeraland'
 import { removeChimera } from './url'
 
-const publicDir = join(__dirname, '../../source/_posts/auto-generated/monsters')
-
 MonstersData.concat(AttendantsData as any).forEach((item) => {
+  const publicDir = join(
+    __dirname,
+    '../../source/_posts/auto-generated',
+    item.type
+  )
+
   const attr: Record<string, any> = {}
   attr.title = item.name
   attr.webtitle = 'Chimeraland'
   attr.author = 'L3n4r0x'
-  attr.updated = item.dateModified
+  ///attr.updated = item.dateModified
+  attr.updated = moment().format()
   attr.date = item.datePublished
   attr.permalink = removeChimera(item.pathname)
   attr.photos = item.images.map((image) => removeChimera(image.pathname))

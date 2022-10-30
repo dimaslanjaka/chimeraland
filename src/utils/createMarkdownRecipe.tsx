@@ -1,4 +1,5 @@
 import { existsSync, mkdirpSync, writeFileSync } from 'fs-extra'
+import moment from 'moment'
 import ReactDOMServer from 'react-dom/server'
 import slugify from 'slugify'
 import { dirname, join } from 'upath'
@@ -13,7 +14,8 @@ RecipesData.forEach((item) => {
   attr.title = item.name
   attr.webtitle = 'Chimeraland'
   attr.author = 'L3n4r0x'
-  attr.updated = item.dateModified
+  //attr.updated = item.dateModified
+  attr.updated = moment().format()
   attr.date = item.datePublished
   attr.permalink = removeChimera(item.pathname)
   attr.photos = [
