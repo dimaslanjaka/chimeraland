@@ -3,7 +3,7 @@
   #translator-wrapper {
     display: block;
     width: 90%;
-    max-width: 300px;
+    /*max-width: 300px;*/
     border: none;
     background-color: #fff;
     color: #444;
@@ -12,7 +12,21 @@
     height: 40px;
     line-height: 40px;
     border: 1px solid #e0e0e0;
+    margin-left: auto;
+    margin-right: auto;
   }
+
+  #translator-wrapper img {
+    width: 40px;
+    height: 40px;
+    display: block;
+    border: none;
+    appearance: none;
+    background: transparent;
+    position: absolute;
+    left: 0;
+  }
+
   #translator-wrapper select {
     border: none;
     background: transparent;
@@ -25,8 +39,9 @@
     box-sizing: border-box;
     appearance: none;
     cursor: text;
-    padding: 5px 10px;
+    padding: 5px 40px;
   }
+
   #translator-wrapper a,
   #translator-wrapper a:hover {
     display: block;
@@ -40,9 +55,10 @@
     right: 0;
     bottom: 0;
     cursor: pointer;
-    width: 14%;
+    width: 50px;
     transition: all 0.3s ease;
   }
+
   #translator-wrapper a:before {
     content: '';
     display: block;
@@ -55,12 +71,15 @@
     left: 45%;
     margin-top: -5px;
   }
+
   #translator-wrapper a:hover {
     opacity: 0.9;
   }
+
   #translator-wrapper a:active {
     opacity: 0.9;
   }
+
   #translator-wrapper select:focus,
   #translator-wrapper a:focus,
   #translator-wrapper select:active,
@@ -69,12 +88,14 @@
     outline: none;
     cursor: pointer;
   }
+
   option {
     background: #444;
     color: #e0e0e0;
   }
 </style>
 <div id="translator-wrapper" notranslate>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png" alt="Translate" id="t-icon">
   <select id="translate-language">
     <option value="en" selected="selected">English</option>
     <option value="id">Indonesian</option>
@@ -141,28 +162,33 @@
     <option value="ur">Urdu</option>
     <option value="vi">Vietnamese</option>
     <option value="cy">Welsh</option>
-    <option value="yi">Yiddish</option></select
-  ><a id="translate-me" href="#" title="Translate"></a>
+    <option value="yi">Yiddish</option>
+  </select><a id="translate-me" href="#" title="Translate"></a>
 </div>
 <script type="text/javascript">
-  (function () {
+  function translatorWidgetStart() {
     var mylang = 'id', // Your website language
-      anchor = document.getElementById('translate-me');
-    anchor.onclick = function () {
-      var toLang = document.getElementById('translate-language').value;
+      translateBtn = document.getElementById('translate-me'),
+      canonical = document.querySelector('link[rel="canonical"]');
+    // get href
+    if (canonical) canonical = canonical.getAttribute('href').toString().trim();
+    translateBtn.onclick = function () {
+      var toLang = document
+        .querySelector('select#translate-language')
+        .value.trim();
       window
         .open(
           'http://translate.google.com/translate?u=' +
-            encodeURIComponent(location.href) +
-            '&langpair=' +
-            mylang +
-            '%7C' +
-            toLang +
-            '&hl=en',
+          encodeURIComponent(canonical || location.href) +
+          '&sl=' +
+          mylang +
+          '&hl=' +
+          toLang,
           'translate'
         )
         .focus();
       return false;
     };
-  })();
+  }
+  document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>

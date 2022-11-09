@@ -467,8 +467,9 @@
   (function () {
     var mylang = 'id', // Your website language
       anchor = document.getElementById('translate-me');
+      console.log(document.querySelector('meta[rel="canonical"]'))
     anchor.onclick = function () {
-      var toLang = document.getElementById('translate-language').value;
+      var toLang = document.querySelector('select#translate-language').value.trim();
       window
         .open(
           'http://translate.google.com/translate?u=' +
@@ -477,7 +478,7 @@
             mylang +
             '%7C' +
             toLang +
-            '&hl=en',
+            '&hl=' + toLang,
           'translate'
         )
         .focus();
