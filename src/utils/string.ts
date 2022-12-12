@@ -1,3 +1,6 @@
+// https://raw.githubusercontent.com/dimaslanjaka/chimeraland/master/src/utils/string.ts
+// https://github.com/dimaslanjaka/chimeraland/tree/master/src/utils
+
 /**
  * escape regex string
  * @param string
