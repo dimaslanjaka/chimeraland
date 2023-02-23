@@ -1,0 +1,35 @@
+{
+  "name": "prerender-chrome-headless",
+  "version": "3.1.0",
+  "description": "Pre-render single page applications to static HTML file",
+  "keywords": [
+    "pre-render",
+    "static",
+    "headless",
+    "react"
+  ],
+  "homepage": "https://github.com/en-japan-air/prerender-chrome-headless",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/en-japan-air/prerender-chrome-headless"
+  },
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "DEBUG=prerender jest",
+    "test:watch": "DEBUG=prerender jest --watchAll",
+    "posttest": "npm run lint"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "puppeteer": "^1.17.0"
+  },
+  "engines": {
+    "node": ">=8.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  }
+}

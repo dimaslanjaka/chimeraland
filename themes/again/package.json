@@ -1,0 +1,17 @@
+{
+  "name": "hexo-theme-again",
+  "version": "1.0.0",
+  "description": "A dead simple theme which supports emoji 。",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Dimas Lanjaka <dimaslanjaka@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-markdown-it": "^6.1.0",
+    "hexo-renderer-sass": "file:../../packages/hexo-renderer-sass",
+    "markdown-it-emoji": "^2.0.2",
+    "twemoji": "^14.0.2"
+  }
+}
