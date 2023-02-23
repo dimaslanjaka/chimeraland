@@ -8,3 +8,4 @@ tmp
 temp
 *-private*
 /public
+.deploy_git
