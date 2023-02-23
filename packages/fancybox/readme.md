@@ -1,1 +1,0 @@
-fancybox for react

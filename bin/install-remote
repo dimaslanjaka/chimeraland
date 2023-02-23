@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz https://github.com/dimaslanjaka/hexo-post-parser.git https://gitpkg.now.sh/dimaslanjaka/static-blog-generator-hexo/packages/gulp-dom?master
-
-npm i https://github.com/dimaslanjaka/hexo-adsense.git https://github.com/dimaslanjaka/safelink.git https://github.com/dimaslanjaka/safelink.git

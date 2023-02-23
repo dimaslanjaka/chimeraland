@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-npm i -D file:../../hexo-post-parser file:../../static-blog-generator file:../../static-blog-generator-hexo/packages/gulp-dom
-
-npm i file:../../hexo-adsense file:../../safelink
