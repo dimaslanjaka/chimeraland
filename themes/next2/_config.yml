@@ -21,7 +21,7 @@ minify: false
 custom_file_path:
   head: source/_data/head.njk
   #header: source/_data/header.njk
-  #sidebar: source/_data/sidebar.njk
+  sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
   postBodyEnd: source/_data/post-body-end.njk
   #footer: source/_data/footer.njk
@@ -29,6 +29,7 @@ custom_file_path:
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
   #style: source/_data/styles.styl
+
 
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -43,13 +44,14 @@ scheme: Pisces
 # Dark Mode
 darkmode: false
 
+
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
 
 favicon:
-  small: /favicon.ico
-  medium: /android-icon-36x36.png
+  small: /favicon-16x16.png
+  medium: /favicon-32x32.png
   apple_touch_icon: /apple-icon.png
   safari_pinned_tab: /logo.svg
   android_manifest: /manifest.json
@@ -83,6 +85,7 @@ open_graph:
     #fb_admins: <fb:admin_id>
     #fb_app_id: <fb:app_id>
 
+
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -93,13 +96,12 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
-  monsters: /categories/games/chimeraland/monsters/ || fa fa-dragon
-  materials: /categories/games/chimeraland/materials/ || fa fa-box
-  attendants: /categories/games/chimeraland/attendants/ || fa fa-user-shield
-  recipes: /categories/games/chimeraland/recipes/ || fa fa-pizza-slice
-  scenic: /categories/games/chimeraland/scenic-Spot/ || fa fa-lightbulb
+  about: /about/ || fa fa-user
+  privacy: /p/privacy.html || fa fa-shield
+  tos: /p/tos.html || fa fa-shield
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
+  chimeraland: /chimeraland || fa fa-archive
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   sitemap: /sitemap.xml || fa fa-sitemap
@@ -109,6 +111,7 @@ menu:
 menu_settings:
   icons: true
   badges: false
+
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -193,6 +196,7 @@ toc:
   # Maximum heading depth of generated toc.
   max_depth: 6
 
+
 # ---------------------------------------------------------------
 # Footer Settings
 # See: https://theme-next.js.org/docs/theme-settings/footer
@@ -212,7 +216,7 @@ footer:
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
-    color: '#ff0000'
+    color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
@@ -230,6 +234,7 @@ footer:
     gongan_num:
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
     gongan_icon_url:
+
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -301,6 +306,7 @@ post_edit:
 # Available values: left | right | false
 post_navigation: left
 
+
 # ---------------------------------------------------------------
 # Custom Page Settings
 # See: https://theme-next.js.org/docs/theme-settings/custom-pages
@@ -327,6 +333,7 @@ calendar:
   singleEvents: true
   maxResults: 250
 
+
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # See: https://theme-next.js.org/docs/theme-settings/miscellaneous
@@ -347,8 +354,8 @@ mobile_layout_economy: false
 
 # Browser header panel color.
 theme_color:
-  light: '#222'
-  dark: '#222'
+  light: "#222"
+  dark: "#222"
 
 # Override browsers' default behavior.
 body_scrollbar:
@@ -387,14 +394,14 @@ reading_progress:
   # Available values: top | bottom
   position: top
   reversed: false
-  color: '#37c6c0'
+  color: "#37c6c0"
   height: 3px
 
 # Bookmark Support
 bookmark:
   enable: false
   # Customize the color of the bookmark.
-  color: '#222'
+  color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
   # If manual, only save it by clicking the bookmark-icon.
   save: auto
@@ -404,6 +411,7 @@ github_banner:
   enable: false
   permalink: https://github.com/dimaslanjaka
   title: Follow me on GitHub
+
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -456,6 +464,7 @@ font:
     external: true
     family:
 
+
 # ---------------------------------------------------------------
 # SEO Settings
 # See: https://theme-next.js.org/docs/theme-settings/seo
@@ -485,6 +494,7 @@ yandex_site_verification:
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
 baidu_site_verification:
+
 
 # ---------------------------------------------------------------
 # Third Party Plugins & Services Settings
@@ -552,6 +562,7 @@ quicklink:
   timeout: 3000
   # Default (true) will attempt to use the fetch() API if supported (rather than link[rel=prefetch]).
   priority: true
+
 
 # ---------------------------------------------------------------
 # Comments Settings
@@ -638,6 +649,7 @@ utterances:
 # For more information: https://posativ.org/isso/
 isso: # <data_isso>
 
+
 # ---------------------------------------------------------------
 # Post Widgets & Content Sharing Services
 # See: https://theme-next.js.org/docs/third-party-services/post-widgets
@@ -647,12 +659,13 @@ isso: # <data_isso>
 # To get your ID visit https://widgetpack.com
 rating:
   enable: false
-  id: # <app_id>
-  color: '#fc6423'
+  id:     # <app_id>
+  color:  "#fc6423"
 
 # AddThis Share. See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
 add_this_id:
+
 
 # ---------------------------------------------------------------
 # Statistics and Analytics
@@ -716,6 +729,7 @@ busuanzi_count:
   post_views: true
   post_views_icon: far fa-eye
 
+
 # ---------------------------------------------------------------
 # Search Services
 # See: https://theme-next.js.org/docs/third-party-services/search-services
@@ -741,6 +755,7 @@ local_search:
   unescape: false
   # Preload the search data when the page loads.
   preload: false
+
 
 # ---------------------------------------------------------------
 # Chat Services
@@ -775,6 +790,7 @@ tidio:
 gitter:
   enable: false
   room:
+
 
 # ---------------------------------------------------------------
 # Tags Settings
@@ -819,6 +835,7 @@ mermaid:
     light: default
     dark: dark
 
+
 # ---------------------------------------------------------------
 # Animation Settings
 # ---------------------------------------------------------------
@@ -856,6 +873,7 @@ canvas_ribbon:
   size: 300 # The width of the ribbon
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
+
 
 # ---------------------------------------------------------------
 # CDN Settings

@@ -1,0 +1,23 @@
+{% extends '_layout.njk' %}
+{% import '_macro/sidebar.njk' as sidebar_template with context %}
+
+{% set xtitle = title %}
+{% if page.title and page.webtitle %}
+{% set xtitle = page.title+' | '+page.webtitle %}
+{% elif page.title %}
+{% set xtitle = page.title+' | '+title %}
+{% endif %}
+
+{% block title %}{{ xtitle }}{% endblock %}
+
+{% block class %}post posts-expand{% endblock %}
+
+{% block content %}
+
+  {{ partial('_macro/post.njk', {post: page}) }}
+
+{% endblock %}
+
+{% block sidebar %}
+  {{ sidebar_template.render(true) }}
+{% endblock %}

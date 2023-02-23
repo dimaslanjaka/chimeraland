@@ -19,43 +19,45 @@ minify: false
 # Define custom file paths.
 # Create your custom files in site directory `source/_data` and uncomment needed files below.
 custom_file_path:
-  head: source/_data/head.njk
+  #head: source/_data/head.njk
   #header: source/_data/header.njk
   #sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
-  postBodyEnd: source/_data/post-body-end.njk
+  #postBodyEnd: source/_data/post-body-end.njk
   #footer: source/_data/footer.njk
-  bodyEnd: source/_data/body-end.njk
+  #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
   #style: source/_data/styles.styl
+
 
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
+scheme: Muse
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 #scheme: Gemini
 
 # Dark Mode
 darkmode: false
+
 
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
 
 favicon:
-  small: /favicon.ico
-  medium: /android-icon-36x36.png
-  apple_touch_icon: /apple-icon.png
-  safari_pinned_tab: /logo.svg
-  android_manifest: /manifest.json
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+  #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
-custom_logo: #/uploads/custom-logo.jpg
+custom_logo: #/uploads/custom-logo.png
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
@@ -83,6 +85,7 @@ open_graph:
     #fb_admins: <fb:admin_id>
     #fb_app_id: <fb:app_id>
 
+
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -92,23 +95,20 @@ open_graph:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
-  home: / || fa fa-home
-  monsters: /categories/games/chimeraland/monsters/ || fa fa-dragon
-  materials: /categories/games/chimeraland/materials/ || fa fa-box
-  attendants: /categories/games/chimeraland/attendants/ || fa fa-user-shield
-  recipes: /categories/games/chimeraland/recipes/ || fa fa-pizza-slice
-  scenic: /categories/games/chimeraland/scenic-Spot/ || fa fa-lightbulb
+  #home: / || fa fa-home
+  #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
+  #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
-  sitemap: /sitemap.xml || fa fa-sitemap
+  #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
   badges: false
+
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -117,8 +117,8 @@ menu_settings:
 
 sidebar:
   # Sidebar Position.
-  #position: left
-  position: right
+  position: left
+  #position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -130,7 +130,7 @@ sidebar:
   #  - always  expand for all pages automatically.
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  totally remove sidebar including sidebar toggle.
-  display: always
+  display: post
 
   # Sidebar padding in pixels.
   padding: 18
@@ -154,12 +154,12 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/dimaslanjaka || fab fa-github
-  E-Mail: mailto:dimaslanjaka@gmail.com || fa fa-envelope
+  #GitHub: https://github.com/yourname || fab fa-github
+  #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
-  FB Page: https://www.facebook.com/secretnetworkforces || fab fa-facebook
+  #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
@@ -193,6 +193,7 @@ toc:
   # Maximum heading depth of generated toc.
   max_depth: 6
 
+
 # ---------------------------------------------------------------
 # Footer Settings
 # See: https://theme-next.js.org/docs/theme-settings/footer
@@ -212,13 +213,13 @@ footer:
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
-    color: '#ff0000'
+    color: "#ff0000"
 
   # If not defined, `author` from Hexo `_config.yml` will be used.
   copyright:
 
   # Powered by Hexo & NexT
-  powered: false
+  powered: true
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
@@ -230,6 +231,7 @@ footer:
     gongan_num:
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
     gongan_icon_url:
+
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -280,13 +282,13 @@ reward:
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
   #Telegram: https://t.me/channel_name || fab fa-telegram
-  #WeChat: /images/wechat_channel.jpg || fab fa-weixin
+  #WeChat: /images/wechat_channel.png || fab fa-weixin
   #RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
 # Dependencies: https://github.com/sergeyzwezdin/hexo-related-posts
 related_posts:
-  enable: true
+  enable: false
   title: # Custom header, leave empty to use the default one
   display_in_home: false
 
@@ -294,12 +296,13 @@ related_posts:
 # Easily browse and edit blog source code online.
 post_edit:
   enable: false
-  url: https://github.com/dimaslanjaka/source-posts/tree/posts/ # Link for view source
-  #url: https://github.com/dimaslanjaka/source-posts/edit/posts/ # Link for fork & edit
+  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/ # Link for view source
+  #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/ # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
 post_navigation: left
+
 
 # ---------------------------------------------------------------
 # Custom Page Settings
@@ -327,6 +330,7 @@ calendar:
   singleEvents: true
   maxResults: 250
 
+
 # ---------------------------------------------------------------
 # Misc Theme Settings
 # See: https://theme-next.js.org/docs/theme-settings/miscellaneous
@@ -334,7 +338,7 @@ calendar:
 
 # Preconnect CDN for fonts and plugins.
 # For more information: https://www.w3.org/TR/resource-hints/#preconnect
-preconnect: true
+preconnect: false
 
 # Set the text alignment in posts / pages.
 text_align:
@@ -347,8 +351,8 @@ mobile_layout_economy: false
 
 # Browser header panel color.
 theme_color:
-  light: '#222'
-  dark: '#222'
+  light: "#222"
+  dark: "#222"
 
 # Override browsers' default behavior.
 body_scrollbar:
@@ -368,9 +372,9 @@ codeblock:
     dark: prism-dark
   # Add copy button on codeblock
   copy_button:
-    enable: true
+    enable: false
     # Available values: default | flat | mac
-    style: flat
+    style:
 
 back2top:
   enable: true
@@ -387,14 +391,14 @@ reading_progress:
   # Available values: top | bottom
   position: top
   reversed: false
-  color: '#37c6c0'
+  color: "#37c6c0"
   height: 3px
 
 # Bookmark Support
 bookmark:
   enable: false
   # Customize the color of the bookmark.
-  color: '#222'
+  color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
   # If manual, only save it by clicking the bookmark-icon.
   save: auto
@@ -402,8 +406,9 @@ bookmark:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: false
-  permalink: https://github.com/dimaslanjaka
+  permalink: https://github.com/yourname
   title: Follow me on GitHub
+
 
 # ---------------------------------------------------------------
 # Font Settings
@@ -456,6 +461,7 @@ font:
     external: true
     family:
 
+
 # ---------------------------------------------------------------
 # SEO Settings
 # See: https://theme-next.js.org/docs/theme-settings/seo
@@ -485,6 +491,7 @@ yandex_site_verification:
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
 baidu_site_verification:
+
 
 # ---------------------------------------------------------------
 # Third Party Plugins & Services Settings
@@ -519,7 +526,7 @@ pjax: false
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
-fancybox: true
+fancybox: false
 
 # A JavaScript library for zooming images like Medium.
 # Warning: Do not enable both `fancybox` and `mediumzoom`.
@@ -528,7 +535,7 @@ mediumzoom: false
 
 # Vanilla JavaScript plugin for lazyloading images.
 # For more information: https://apoorv.pro/lozad.js/demo/
-lazyload: true
+lazyload: false
 
 # Pangu Support
 # For more information: https://github.com/vinta/pangu.js
@@ -553,6 +560,7 @@ quicklink:
   # Default (true) will attempt to use the fetch() API if supported (rather than link[rel=prefetch]).
   priority: true
 
+
 # ---------------------------------------------------------------
 # Comments Settings
 # See: https://theme-next.js.org/docs/third-party-services/comments
@@ -568,7 +576,7 @@ comments:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
-  lazyload: true
+  lazyload: false
   # Modify texts or order for any naves, here are some examples.
   nav:
     #disqus:
@@ -580,8 +588,8 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: true
-  shortname: dimaslanjaka
+  enable: false
+  shortname:
   count: true
 
 # DisqusJS
@@ -594,7 +602,7 @@ disqusjs:
   # api: https://disqus.skk.moe/disqus/
   api:
   apikey: # Register new application from https://disqus.com/api/applications/
-  shortname: dimaslanjaka # See: https://disqus.com/admin/settings/general/
+  shortname: # See: https://disqus.com/admin/settings/general/
 
 # Changyan
 # For more information: https://changyan.kuaizhan.com
@@ -602,6 +610,8 @@ changyan:
   enable: false
   appid:
   appkey:
+  # Show comments count
+  count: true
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -638,6 +648,7 @@ utterances:
 # For more information: https://posativ.org/isso/
 isso: # <data_isso>
 
+
 # ---------------------------------------------------------------
 # Post Widgets & Content Sharing Services
 # See: https://theme-next.js.org/docs/third-party-services/post-widgets
@@ -647,12 +658,13 @@ isso: # <data_isso>
 # To get your ID visit https://widgetpack.com
 rating:
   enable: false
-  id: # <app_id>
-  color: '#fc6423'
+  id:     # <app_id>
+  color:  "#fc6423"
 
 # AddThis Share. See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
 add_this_id:
+
 
 # ---------------------------------------------------------------
 # Statistics and Analytics
@@ -662,7 +674,7 @@ add_this_id:
 # Google Analytics
 # See: https://analytics.google.com
 google_analytics:
-  tracking_id: UA-106238155-1 # <app_id>
+  tracking_id: # <app_id>
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
@@ -682,6 +694,13 @@ cloudflare_analytics:
 # Microsoft Clarity Analytics
 # See: https://clarity.microsoft.com/
 clarity_analytics: # <project_id>
+
+# Matomo Analytics
+# See: https://matomo.org/
+matomo:
+  enable: false
+  server_url: # https://www.example.com/
+  site_id: # <your site id>
 
 # Show number of visitors of each article.
 # You can visit https://www.leancloud.cn to get AppID and AppKey.
@@ -716,6 +735,7 @@ busuanzi_count:
   post_views: true
   post_views_icon: far fa-eye
 
+
 # ---------------------------------------------------------------
 # Search Services
 # See: https://theme-next.js.org/docs/third-party-services/search-services
@@ -731,7 +751,7 @@ algolia_search:
 # Local Search
 # Dependencies: https://github.com/next-theme/hexo-generator-searchdb
 local_search:
-  enable: true
+  enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -741,6 +761,7 @@ local_search:
   unescape: false
   # Preload the search data when the page loads.
   preload: false
+
 
 # ---------------------------------------------------------------
 # Chat Services
@@ -775,6 +796,7 @@ tidio:
 gitter:
   enable: false
   room:
+
 
 # ---------------------------------------------------------------
 # Tags Settings
@@ -819,6 +841,7 @@ mermaid:
     light: default
     dark: dark
 
+
 # ---------------------------------------------------------------
 # Animation Settings
 # ---------------------------------------------------------------
@@ -856,6 +879,7 @@ canvas_ribbon:
   size: 300 # The width of the ribbon
   alpha: 0.6 # The transparency of the ribbon
   zIndex: -1 # The display level of the ribbon
+
 
 # ---------------------------------------------------------------
 # CDN Settings
