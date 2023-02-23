@@ -34,7 +34,7 @@ redirect_to: /chimeraland/recipes.html
 window.location.href = 'https://www.webmanajemen.com/chimeraland/recipes.html';
 </script>
 <!-- translator -->
-<!-- include recipes/translator.html -->
+<!-- include Recipes-list/translator.html -->
 
 ## Chimeraland Cooking Guide
 Makanan sangat penting di Chimeraland karena memberikan buff dan stat sementara selama durasi. Dengan memasak dan mengonsumsi makanan atau minuman tertentu, Anda akan mendapatkan buff tertentu, dan untuk memasak makanan atau minuman tersebut Anda ingin memahami Resep Makanan Chimeraland.
@@ -54,11 +54,11 @@ Untuk waktu memasak. Anda dapat membatalkan sebelum memasak selesai jika Anda ti
 > **Informasi table:**
 > Nama material[Jumlah]
 
-<!-- include recipes/table.html -->
+<!-- include Recipes-list/table.html -->
 
 <!-- playground https://codepen.io/dimaslanjaka/pen/gOXWPra -->
-<link rel="stylesheet" href="recipes/style.css" />
-<script src="recipes/script.js"></script>
+<link rel="stylesheet" href="Recipes-list/style.css" />
+<script src="Recipes-list/script.js"></script>
 
 ### Unlock Stove II
 Grilled mushroom and Mushroom broth - Chimeraland cooking recipe to activate stove 2
