@@ -1,6 +1,7 @@
 ---
 title: Game Guide - Kumiho Upgrade Guide
 date: 2022-4-7
+updated: 2022-4-7
 permalink: game-guide-kumiho-upgrade-guide.html
 ---
 

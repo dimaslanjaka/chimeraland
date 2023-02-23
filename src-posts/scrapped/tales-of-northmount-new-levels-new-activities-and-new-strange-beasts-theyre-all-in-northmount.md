@@ -1,7 +1,7 @@
 ---
-title: "Tales of Northmount: New Levels, New Activities, and New Strange Beasts?
-  They're All in Northmount!"
+title: "Tales of Northmount: New Levels, New Activities, and New Strange Beasts? They're All in Northmount!"
 date: 2022-10-25
+updated: 2022-10-25
 permalink: tales-of-northmount-new-levels-new-activities-and-new-strange-beasts-theyre-all-in-northmount.html
 ---
 
