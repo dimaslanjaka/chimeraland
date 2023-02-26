@@ -1,0 +1,29 @@
+{
+  "/release/chimeraland-0.0.2.tgz": {
+    "integrity": {
+      "sha1": "dcf54f36d8918858883679d8bf152c339817c7d0",
+      "sha256": "Z8NxaHbb/PKfU9ZtylPNdxyLwjH35WQj+uqSuMxWgAQ=",
+      "md5": "4f18f5d1212bac6b84d6e732a64866cc",
+      "sha512": "xFW1G/Vyhyr43IJ40w4rjv7w7yIuSjFvHz2msuC3UC0rg554aBzfpdmQjtXlE39/HrVeg+u/VzFs++sbJFUHMQ=="
+    },
+    "size": "6.15 KB"
+  },
+  "/release/chimeraland.tgz": {
+    "integrity": {
+      "sha1": "dcf54f36d8918858883679d8bf152c339817c7d0",
+      "sha256": "Z8NxaHbb/PKfU9ZtylPNdxyLwjH35WQj+uqSuMxWgAQ=",
+      "md5": "4f18f5d1212bac6b84d6e732a64866cc",
+      "sha512": "xFW1G/Vyhyr43IJ40w4rjv7w7yIuSjFvHz2msuC3UC0rg554aBzfpdmQjtXlE39/HrVeg+u/VzFs++sbJFUHMQ=="
+    },
+    "size": "6.15 KB"
+  },
+  "/package-lock.json": {
+    "integrity": {
+      "sha1": "dbeb407f369d514a45012483d22f0e4ae3928761",
+      "sha256": "7/iMyB1VgeU1LD9VCtAOSXBgQSAix7l9LmiXQiaeS50=",
+      "md5": "5609dbcae05f4c52bd21a7e11d749bc7",
+      "sha512": "NGBPX6T/oI6ypGwH4WBxaJQD3NuB7K1/nuRnqRATMSeVCgzJxQ3RexQqBIkRv0H93rk++b7JkEDGkaBFTfU6RQ=="
+    },
+    "size": "426.43 KB"
+  }
+}

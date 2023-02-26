@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/gulp.snapshot-server.ts",
+      "name": "Dev Snap",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    },
+    {
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/snapshot2.ts",
+      "name": "Dev Snap2",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    },
+    {
+      "command": "cross-env-shell DEBUG=chimera-* ts-node ${workspaceFolder}/ssg.ts",
+      "name": "SSG",
+      "request": "launch",
+      "type": "node-terminal",
+      "env": {
+        "NODE_ENV": "development"
+      }
+    }
+  ]
+}

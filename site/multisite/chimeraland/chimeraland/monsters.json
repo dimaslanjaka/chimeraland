@@ -1,0 +1,1892 @@
+{
+  "data": [
+    {
+      "datePublished": "2022-11-01T14:00:58+07:00",
+      "dateModified": "2022-11-01T14:00:58+07:00",
+      "name": "Frostppo",
+      "qty": "GRADE A ATK 71 HP 72 DEF 68",
+      "delicacies": [
+        "Braised Lobcray Meat",
+        "Sparrow Beak",
+        "Overlord Hide Jelly"
+      ],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP Damage Reduction 4.8%"
+      ],
+      "skill": []
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:18:27+07:00",
+      "name": "Alligon",
+      "qty": "GRADE B ATK 61 HP 56 DEF 64",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T23:56:03+07:00",
+      "dateModified": "2022-09-29T03:18:27+07:00",
+      "name": "Ancient Piranha",
+      "qty": "GRADE B ATK 65 HP 66 DEF 64",
+      "delicacies": [
+        "Aromatic Litiger Ball",
+        "Flame Roasted Horn",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T03:56:03+07:00",
+      "dateModified": "2022-09-29T04:18:27+07:00",
+      "name": "Ashfoot Gripine",
+      "qty": "GRADE C ATK 63 HP 64 DEF 70",
+      "delicacies": [
+        "Woodsmoked Gator Meat",
+        "Moddly Wings Topped Rice",
+        "Hot Stone Icefox Meat"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T05:56:03+07:00",
+      "dateModified": "2022-09-28T22:18:27+07:00",
+      "name": "Azure Light",
+      "qty": "GRADE B ATK 60 HP 61 DEF 62",
+      "delicacies": [
+        "Tasty Exotic Crab",
+        "Hot 'n Sour Jelly",
+        "Flamebug Meat Claypot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T08:56:03+07:00",
+      "dateModified": "2022-09-29T06:18:27+07:00",
+      "name": "Banshee",
+      "qty": "GRADE B ATK 60 HP 61 DEF 62",
+      "delicacies": [
+        "Braised Tenderloin",
+        "Flame Roasted Horn",
+        "Stir-Fried Browtelope"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T09:56:03+07:00",
+      "dateModified": "2022-09-29T05:18:27+07:00",
+      "name": "Batolf",
+      "qty": "GRADE B ATK 60 HP 56 DEF 64",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG Reduction 6.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T04:56:03+07:00",
+      "dateModified": "2022-09-29T02:18:27+07:00",
+      "name": "Beetlefly",
+      "qty": "GRADE C ATK 35 HP 35 DEF 50",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T13:56:03+07:00",
+      "dateModified": "2022-09-29T12:18:27+07:00",
+      "name": "Black Horse",
+      "qty": "GRADE C ATK 50 HP 50 DEF 50",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T01:56:03+07:00",
+      "dateModified": "2022-09-29T00:18:27+07:00",
+      "name": "Blushpuff",
+      "qty": "Grade B ATK 60 HP 61 DEF 59",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Reslience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T11:56:03+07:00",
+      "dateModified": "2022-09-28T21:18:27+07:00",
+      "name": "Bone Dragon",
+      "qty": "GRADE A ATK 73 HP 71 DEF 69",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T21:56:03+07:00",
+      "dateModified": "2022-09-29T01:18:27+07:00",
+      "name": "Brownfoot Gripine",
+      "qty": "GRADE C ATK 63 HP 62 DEF 66",
+      "delicacies": [
+        "Succulent Ox Marrow",
+        "Exotic Herbal Jelly",
+        "Steamed Sweet & Sour Icebug"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T00:56:03+07:00",
+      "dateModified": "2022-09-29T07:18:27+07:00",
+      "name": "Caeloptera",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T07:56:03+07:00",
+      "dateModified": "2022-09-29T08:18:27+07:00",
+      "name": "Camel",
+      "qty": "GRADE C ATK 30 HP 50 DEF 60",
+      "delicacies": [
+        "Savory Wolf Meat",
+        "Pepper Salt Scorpion Pincer",
+        "Stir-Fried Browtelope"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Attack 60"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T10:56:03+07:00",
+      "dateModified": "2022-09-29T11:18:27+07:00",
+      "name": "Chimera",
+      "qty": "GRADE A ATK 71 HP 72 DEF 67",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged Damage Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T12:56:03+07:00",
+      "dateModified": "2022-09-29T10:18:27+07:00",
+      "name": "Chimpanimbus",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee damage increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T22:56:03+07:00",
+      "dateModified": "2022-09-29T13:18:27+07:00",
+      "name": "Cloud Drune",
+      "qty": "GRADE C ATK 45 HP 45 DEF 45",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 1.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T14:56:03+07:00",
+      "dateModified": "2022-09-28T23:18:27+07:00",
+      "name": "Coracrab",
+      "qty": "GRADE B ATK 63 HP 66 DEF 54",
+      "delicacies": [
+        "Tasty Exotic Crab",
+        "Pepper Salt Scorpion Pincer",
+        "Hot Stone Icefox Meat"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T16:56:03+07:00",
+      "dateModified": "2022-09-29T09:18:27+07:00",
+      "name": "Crocupine",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T02:56:03+07:00",
+      "dateModified": "2022-09-29T18:18:27+07:00",
+      "name": "Deerbull",
+      "qty": "GRADE B ATK 61 HP 63 DEF 56",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T18:56:03+07:00",
+      "dateModified": "2022-09-29T15:18:27+07:00",
+      "name": "Diceramandra",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T22:56:03+07:00",
+      "dateModified": "2022-09-29T17:18:27+07:00",
+      "name": "Dragon Horse",
+      "qty": "Grade B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "HP 5400",
+        "Ranged DMG Reduction 4.8%",
+        "Resilience 15",
+        "Defense 135"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T00:56:03+07:00",
+      "dateModified": "2022-09-29T14:18:27+07:00",
+      "name": "Eleboar",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T02:56:03+07:00",
+      "dateModified": "2022-09-29T19:18:27+07:00",
+      "name": "Embergator",
+      "qty": "GRADE B ATK 60 HP 63 DEF 57",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T06:56:03+07:00",
+      "dateModified": "2022-09-29T16:18:27+07:00",
+      "name": "Eyebiter",
+      "qty": "GRADE C ATK 45 HP 45 DEF 45",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T15:56:03+07:00",
+      "dateModified": "2022-09-29T20:18:27+07:00",
+      "name": "Fantafly",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T17:56:03+07:00",
+      "dateModified": "2022-09-29T22:18:27+07:00",
+      "name": "Fire Batolf",
+      "qty": "GRADE A ATK 70 HP 68 DEF 72",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T21:56:03+07:00",
+      "dateModified": "2022-09-29T21:18:27+07:00",
+      "name": "Flamewolf",
+      "qty": "GRADE B ATK 61 HP 63 DEF 57",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T04:56:03+07:00",
+      "dateModified": "2022-09-30T04:18:27+07:00",
+      "name": "Fortuphant",
+      "qty": "GRADE C ATK 50 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "Melee DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T09:56:03+07:00",
+      "dateModified": "2022-09-29T23:18:27+07:00",
+      "name": "Frost Batolf",
+      "qty": "GRADE A ATK 71 HP 72 DEF 68",
+      "delicacies": [
+        "Spicy Fish & Mutton Soup",
+        "Moddly Wings Topped Rice",
+        "Steamed Sweet & Sour Icebug"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged Dmg +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T20:56:03+07:00",
+      "dateModified": "2022-09-30T00:18:27+07:00",
+      "name": "Frostwolf",
+      "qty": "GRADE B ATK 61 HP 57 DEF 63",
+      "delicacies": [
+        "Brined Silkhopper Meat",
+        "Hot 'n Sour Jelly",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T10:56:03+07:00",
+      "dateModified": "2022-09-30T07:18:27+07:00",
+      "name": "Giant Newt",
+      "qty": "GRADE B ATK 63 HP 61 DEF 59",
+      "delicacies": [
+        "Spiced Alligon",
+        "Moddly Wings Topped Rice",
+        "Flamebug Meat Claypot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T19:56:03+07:00",
+      "dateModified": "2022-09-30T02:18:27+07:00",
+      "name": "Globonisus",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T07:56:03+07:00",
+      "dateModified": "2022-09-30T06:18:27+07:00",
+      "name": "Gold Horsedeer",
+      "qty": "GRADE C ATK 48 HP 60 DEF 56",
+      "delicacies": [
+        "Spiced Alligon",
+        "Exotic Herbal Jelly",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP Damage Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T08:56:03+07:00",
+      "dateModified": "2022-09-30T05:18:27+07:00",
+      "name": "Golquito",
+      "qty": "GRADE C ATK 49 HP 48 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T03:56:03+07:00",
+      "dateModified": "2022-09-30T14:18:27+07:00",
+      "name": "Gratoise",
+      "qty": "GRADE C ATK 40 HP 60 DEF 70",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T13:56:03+07:00",
+      "dateModified": "2022-09-30T08:18:27+07:00",
+      "name": "Great White Shark",
+      "qty": "GRADE C ATK 45 HP 45 DEF 45",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T05:56:03+07:00",
+      "dateModified": "2022-09-30T16:18:27+07:00",
+      "name": "Grizzly",
+      "qty": "GRADE C ATK 50 HP 60 DEF 60",
+      "delicacies": [
+        "Hot Stone Ox Marrow",
+        "Hot 'n Sour Jelly",
+        "Steamed Sweet & Sour Icebug"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T23:56:03+07:00",
+      "dateModified": "2022-09-30T09:18:27+07:00",
+      "name": "Grooveswine",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T11:56:03+07:00",
+      "dateModified": "2022-09-30T13:18:27+07:00",
+      "name": "Grouguana",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T16:56:03+07:00",
+      "dateModified": "2022-09-30T03:18:27+07:00",
+      "name": "Hagpy",
+      "qty": "GRADE A ATK 70 HP 72 DEF 68",
+      "delicacies": [
+        "Dry Fried Vuldo Wings",
+        "Moddly Wings Topped Rice",
+        "Dragon Serpent Combo"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Armor Pierce 188"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T12:56:03+07:00",
+      "dateModified": "2022-09-30T23:18:27+07:00",
+      "name": "Halcyonet",
+      "qty": "GRADE C ATK 48 HP 45 DEF 20",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T01:56:03+07:00",
+      "dateModified": "2022-09-30T11:18:27+07:00",
+      "name": "Hillord",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [
+        "Smoked Eleboar Meat",
+        "Crispy Fried Stinger",
+        "Flamebug Meat Claypot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T19:56:03+07:00",
+      "dateModified": "2022-09-30T15:18:27+07:00",
+      "name": "Hornbirdgon",
+      "qty": "GRADE A ATK 72 HP 67 DEF 73",
+      "delicacies": [
+        "Spiced Alligon",
+        "Crispy Fried Stinger",
+        "Stir-Fried Browtelope"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "Melee DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T15:56:03+07:00",
+      "dateModified": "2022-09-30T20:18:27+07:00",
+      "name": "Horned Bosalo",
+      "qty": "GRADE C ATK 52 HP 62 DEF 57",
+      "delicacies": [
+        "Five Venom Serpent Soup",
+        "Moddly Wings Topped Rice",
+        "Dragon Serpent Combo"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Hp 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T17:56:03+07:00",
+      "dateModified": "2022-09-30T22:18:27+07:00",
+      "name": "Horned Denglong",
+      "qty": "GRADE A ATK 71 HP 73 DEF 67",
+      "delicacies": [
+        "Spicy Fish & Mutton Soup",
+        "Exotic Herbal Jelly",
+        "Hot Stone Icefox Meat"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee Damage Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T01:56:03+07:00",
+      "dateModified": "2022-09-30T19:18:27+07:00",
+      "name": "Horned Fortuphant",
+      "qty": "GRADE C ATK 53 HP 63 DEF 63",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T14:56:03+07:00",
+      "dateModified": "2022-09-30T18:18:27+07:00",
+      "name": "Horned Rhino",
+      "qty": "GRADE C ATK 55 HP 66 DEF 62",
+      "delicacies": [
+        "Aromatic Litiger Ball",
+        "Moddly Wings Topped Rice",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T06:56:03+07:00",
+      "dateModified": "2022-09-30T17:18:27+07:00",
+      "name": "Horsedeer",
+      "qty": "GRADE C ATK 45 HP 57 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T18:56:03+07:00",
+      "dateModified": "2022-10-01T04:18:27+07:00",
+      "name": "Inkdrop",
+      "qty": "GRADE B ATK 62 HP 61 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Melee DMG Increase 4.8%",
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T02:56:03+07:00",
+      "dateModified": "2022-10-01T07:18:27+07:00",
+      "name": "Kuntur",
+      "qty": "GRADE B ATK 60 HP 65 DEF 55",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "PvP DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T23:56:03+07:00",
+      "dateModified": "2022-09-30T21:18:27+07:00",
+      "name": "Leoparbeak",
+      "qty": "GRADE C ATK 57 HP 35 DEF 50",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Attack 60"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T20:56:03+07:00",
+      "dateModified": "2022-09-30T01:18:27+07:00",
+      "name": "Lime Lobcray",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T04:56:03+07:00",
+      "dateModified": "2022-10-01T00:18:27+07:00",
+      "name": "Litiger",
+      "qty": "GRADE B ATK 62 HP 61 DEF 58",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T21:56:03+07:00",
+      "dateModified": "2022-09-30T12:18:27+07:00",
+      "name": "Lotus Horsedeer",
+      "qty": "GRADE C ATK 46 HP 58 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T03:56:03+07:00",
+      "dateModified": "2022-10-01T08:18:27+07:00",
+      "name": "Lupine",
+      "qty": "GRADE C ATK 57 HP 55 DEF 50",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T05:56:03+07:00",
+      "dateModified": "2022-10-01T10:18:27+07:00",
+      "name": "Mallard",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG Reduction 6.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T00:56:03+07:00",
+      "dateModified": "2022-10-01T01:18:27+07:00",
+      "name": "Mallestial",
+      "qty": "GRADE C ATK 49 HP 48 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Armor Pierce 188"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T22:56:03+07:00",
+      "dateModified": "2022-10-01T03:18:27+07:00",
+      "name": "Minkrat",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "HP 1800",
+        "Crit DMG 4.8%",
+        "Resilience 5",
+        "Defense 45"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T09:56:03+07:00",
+      "dateModified": "2022-10-01T14:18:27+07:00",
+      "name": "Moogiradeer",
+      "qty": "GRADE C ATK 53 HP 63 DEF 63",
+      "delicacies": [
+        "Braised Lobcray Meat",
+        "Yurlunggur Mixed Vegetables",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T08:56:03+07:00",
+      "dateModified": "2022-10-01T09:18:27+07:00",
+      "name": "Mountspider",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T12:56:03+07:00",
+      "dateModified": "2022-10-01T12:18:27+07:00",
+      "name": "Muddled Catfish",
+      "qty": "GRADE C ATK 45 HP 45 DEF 45",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T07:56:03+07:00",
+      "dateModified": "2022-10-01T19:18:27+07:00",
+      "name": "Mukrider",
+      "qty": "GRADE A ATK 70 HP 70 DEF 70",
+      "delicacies": [
+        "Steamed Fortuphant Meat",
+        "Flame Roasted Horn",
+        "Flamebug Meat Claypot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T11:56:03+07:00",
+      "dateModified": "2022-10-01T11:18:27+07:00",
+      "name": "Newt",
+      "qty": "GRADE C ATK 49 HP 58 DEF 62",
+      "delicacies": [
+        "Spiced Alligon",
+        "Exotic Herbal Jelly",
+        "Stir-Fried Browtelope"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T14:56:03+07:00",
+      "dateModified": "2022-10-01T05:18:27+07:00",
+      "name": "Osterlope",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [
+        "Rustic Preserved Deer Roll",
+        "Flame Roasted Horn",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T13:56:03+07:00",
+      "dateModified": "2022-11-01T14:09:43+07:00",
+      "name": "Palomino Horse",
+      "delicacies": [
+        "Braised Lobcray Meat",
+        "Tasty Wing Tip",
+        "Steamed Sweet & Sour Icebug"
+      ],
+      "skill": [],
+      "qty": "Need admin to write (auto build)",
+      "buff": []
+    },
+    {
+      "datePublished": "2022-01-09T06:56:03+07:00",
+      "dateModified": "2022-10-01T21:18:27+07:00",
+      "name": "Parasaurus",
+      "qty": "GRADE B ATK 62 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T16:56:03+07:00",
+      "dateModified": "2022-10-01T06:18:27+07:00",
+      "name": "Parrot",
+      "qty": "GRADE B ATK 63 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T15:56:03+07:00",
+      "dateModified": "2022-10-01T15:18:27+07:00",
+      "name": "Pinchpion",
+      "qty": "GRADE B ATK 63 HP 66 DEF 54",
+      "delicacies": [
+        "3-Flavor Braised Wing",
+        "Hearty Meatball Soup",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T23:56:03+07:00",
+      "dateModified": "2022-10-01T02:18:27+07:00",
+      "name": "Piscertus",
+      "qty": "GRADE B ATK 61 HP 56 DEF 64",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T10:56:03+07:00",
+      "dateModified": "2022-10-02T01:18:27+07:00",
+      "name": "Plate Fortuphant",
+      "qty": "GRADE C ATK 55 HP 65 DEF 65",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T21:56:03+07:00",
+      "dateModified": "2022-10-01T18:18:27+07:00",
+      "name": "Platyzard",
+      "qty": "GRADE C ATK 58 HP 55 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T18:56:03+07:00",
+      "dateModified": "2022-09-30T10:18:27+07:00",
+      "name": "Rhino",
+      "qty": "GRADE C ATK 51 HP 62 DEF 58",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "Attack 60"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T00:56:03+07:00",
+      "dateModified": "2022-10-02T00:18:27+07:00",
+      "name": "Roarbor",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T19:56:03+07:00",
+      "dateModified": "2022-10-01T13:18:27+07:00",
+      "name": "Roarclops",
+      "qty": "GRADE B ATK 62 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T01:56:03+07:00",
+      "dateModified": "2022-10-01T16:18:27+07:00",
+      "name": "Rockboar",
+      "qty": "GRADE C ATK 50 HP 58 DEF 58",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Armor Pierce 188"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T17:56:03+07:00",
+      "dateModified": "2022-10-01T17:18:27+07:00",
+      "name": "Rockram",
+      "qty": "GRADE C ATK 50 HP 50 DEF 50",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Attack 60"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T02:56:03+07:00",
+      "dateModified": "2022-10-02T02:18:27+07:00",
+      "name": "Scorab",
+      "qty": "GRADE C ATK 57 HP 51 DEF 52",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG Reduction 6.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T06:56:03+07:00",
+      "dateModified": "2022-10-02T07:18:27+07:00",
+      "name": "Sharprush",
+      "delicacies": [],
+      "skill": [],
+      "qty": "Need admin to write (auto build)",
+      "buff": []
+    },
+    {
+      "datePublished": "2022-01-10T14:56:03+07:00",
+      "dateModified": "2022-10-02T08:18:27+07:00",
+      "name": "Silkhopper",
+      "qty": "GRADE B ATK 63 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T03:56:03+07:00",
+      "dateModified": "2022-10-02T16:18:27+07:00",
+      "name": "Smobirdgon",
+      "qty": "Grade B ATK 63 HP 67 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T04:56:03+07:00",
+      "dateModified": "2022-10-02T10:18:27+07:00",
+      "name": "Snopine",
+      "qty": "GRADE C ATK 58 HP 56 DEF 51",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Attack 60"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T20:56:03+07:00",
+      "dateModified": "2022-10-01T22:18:27+07:00",
+      "name": "Snowbear",
+      "qty": "GRADE C ATK 65 HP 69 DEF 63",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "Ranged DMG + 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T22:56:03+07:00",
+      "dateModified": "2022-10-02T06:18:27+07:00",
+      "name": "Snowie",
+      "qty": "GRADE B ATK 58 HP 58 DEF 58",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T08:56:03+07:00",
+      "dateModified": "2022-10-02T03:18:27+07:00",
+      "name": "Spear Grouguana",
+      "qty": "GRADE C ATK 55 HP 50 DEF 55",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP Damage Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T12:56:03+07:00",
+      "dateModified": "2022-10-02T11:18:27+07:00",
+      "name": "Spear Rhino",
+      "qty": "GRADE C ATK 54 HP 65 DEF 61",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit 328"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T05:56:03+07:00",
+      "dateModified": "2022-10-02T14:18:27+07:00",
+      "name": "Specklehorn",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [
+        "Newt Meat Dry Pot",
+        "Flame Roasted Horn",
+        "Flamebug Meat Claypot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP Damage Bonus +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T11:56:03+07:00",
+      "dateModified": "2022-10-02T09:18:27+07:00",
+      "name": "Spike Alligon",
+      "qty": "GRADE C ATK 55 HP 50 DEF 55",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Red. 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T10:56:03+07:00",
+      "dateModified": "2022-10-02T15:18:27+07:00",
+      "name": "Spike Grizzly",
+      "qty": "GRADE C ATK 55 HP 65 DEF 65",
+      "delicacies": [
+        "Stewed Snow Goose Feet",
+        "Hot 'n Sour Jelly",
+        "Dragon Serpent Combo"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T09:56:03+07:00",
+      "dateModified": "2022-10-01T20:18:27+07:00",
+      "name": "Spimander",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T16:56:03+07:00",
+      "dateModified": "2022-10-02T13:18:27+07:00",
+      "name": "Sprinowl",
+      "qty": "GRADE B ATK 62 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T20:56:03+07:00",
+      "dateModified": "2022-10-02T04:18:27+07:00",
+      "name": "Stampdragon",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T22:56:03+07:00",
+      "dateModified": "2022-10-02T19:18:27+07:00",
+      "name": "Stappo",
+      "qty": "GRADE B ATK 60 HP 64 DEF 56",
+      "delicacies": [
+        "Brined Silkhopper Meat",
+        "Pepper Salt Scorpion Pincer",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "PvP Damage Bonus 4.8%",
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T19:56:03+07:00",
+      "dateModified": "2022-10-02T05:18:27+07:00",
+      "name": "Starefish",
+      "qty": "GRADE B ATK 63 HP 66 DEF 54",
+      "delicacies": [
+        "Bear Meatball",
+        "Moddly Wings Topped Rice",
+        "Hot Stone Icefox Meat"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T13:56:03+07:00",
+      "dateModified": "2022-10-02T20:18:27+07:00",
+      "name": "Startlewing",
+      "qty": "GRADE A ATK 71 HP 70 DEF 70",
+      "delicacies": [
+        "Newt Meat Dry Pot",
+        "Pepper Salt Scorpion Pincer",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Armor Pierce 188"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T23:56:03+07:00",
+      "dateModified": "2022-10-02T23:18:27+07:00",
+      "name": "Stoatle",
+      "qty": "Grade A ATK 72 HP 67 DEF 73",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T08:56:03+07:00",
+      "dateModified": "2022-10-02T18:18:27+07:00",
+      "name": "Stonebug",
+      "qty": "GRADE A ATK 73 HP 76 DEF 74",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T18:56:03+07:00",
+      "dateModified": "2022-10-03T01:18:27+07:00",
+      "name": "Stoneppo",
+      "qty": "GRADE C ATK 51 HP 55 DEF 52",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T07:56:03+07:00",
+      "dateModified": "2022-10-03T08:18:27+07:00",
+      "name": "Tang",
+      "qty": "GRADE C ATK 45 HP 45 DEF 45",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T02:56:03+07:00",
+      "dateModified": "2022-10-03T03:18:27+07:00",
+      "name": "Turgator",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T06:56:03+07:00",
+      "dateModified": "2022-10-02T12:18:27+07:00",
+      "name": "Venus Flytrap",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [
+        "Tasty Crispy Spider",
+        "Soy Braised Dragon Bone",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T01:56:03+07:00",
+      "dateModified": "2022-10-02T17:18:27+07:00",
+      "name": "Verdypterid",
+      "qty": "GRADE B ATK 60 HP 60 DEF 60",
+      "delicacies": [
+        "Aromatic Litiger Ball",
+        "Sparrow Beak",
+        "Bear Ball Pot"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Defense 44"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T21:56:03+07:00",
+      "dateModified": "2022-10-01T23:18:27+07:00",
+      "name": "Vuldo",
+      "qty": "GRADE C ATK 50 HP 60 DEF 55",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T15:56:03+07:00",
+      "dateModified": "2022-10-02T21:18:27+07:00",
+      "name": "Vultura",
+      "qty": "GRADE C ATK 55 HP 51 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "HP 339"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T04:56:03+07:00",
+      "dateModified": "2022-10-03T02:18:27+07:00",
+      "name": "Water Giradeer",
+      "qty": "GRADE B ATK 63 HP 59 DEF 61",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP DMG Bonus 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T10:56:03+07:00",
+      "dateModified": "2022-10-02T22:18:27+07:00",
+      "name": "White Condor",
+      "qty": "GRADE C ATK 67 HP 32 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG Reduction 6.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T03:56:03+07:00",
+      "dateModified": "2022-10-03T00:18:27+07:00",
+      "name": "White Fox",
+      "qty": "GRADE A ATK 72 HP 76 DEF 64",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged DMG Reduction 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T17:56:03+07:00",
+      "dateModified": "2022-10-03T12:18:27+07:00",
+      "name": "White Maiden",
+      "qty": "GRADE A ATK 83 HP 79 DEF 78",
+      "delicacies": [
+        "Spicy Fish & Mutton Soup",
+        "Yurlunggur Mixed Vegetables",
+        "Stir-Fried Browtelope"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 5.0%",
+        "HP 12600",
+        "Ranged Dmg +4.8%",
+        "Resilience 35",
+        "Defense 315"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T12:56:03+07:00",
+      "dateModified": "2022-10-03T09:18:27+07:00",
+      "name": "Whitelope",
+      "qty": "GRADE B ATK 60 HP 56 DEF 64",
+      "delicacies": [
+        "Dry Fried Vuldo Wing",
+        "Exotic Herbal Jelly",
+        "Steamed Sweet & Sour Icebug"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T00:56:03+07:00",
+      "dateModified": "2022-10-03T14:18:27+07:00",
+      "name": "Wolfspider",
+      "qty": "GRADE C ATK 59 HP 60 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Crit DMG 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T18:56:03+07:00",
+      "dateModified": "2022-10-03T05:18:27+07:00",
+      "name": "Yellow Batolf",
+      "qty": "GRADE B ATK 63 HP 66 DEF 54",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Melee DMG Increase 4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T07:56:03+07:00",
+      "dateModified": "2022-10-03T07:18:27+07:00",
+      "name": "Yellow Lobcray",
+      "qty": "GRADE B ATK 61 HP 66 DEF 53",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Resilience 257"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T05:56:03+07:00",
+      "dateModified": "2022-10-03T06:18:27+07:00",
+      "name": "Yungang Dragon",
+      "qty": "GRADE B ATK 50 HP 54 DEF 66",
+      "delicacies": [
+        "Brined Silkhopper Meat",
+        "Hot 'n Sour Jelly",
+        "Overlord Hide Jelly"
+      ],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Ranged Dmg +4.8%"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T11:56:03+07:00",
+      "dateModified": "2022-10-03T11:18:27+07:00",
+      "name": "Noble Golden Crow",
+      "qty": "GRADE A ATK 75 HP 75 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
+    },
+    {
+      "datePublished": "2022-01-11T20:56:03+07:00",
+      "dateModified": "2022-10-03T04:18:27+07:00",
+      "name": "Noble Serpent",
+      "qty": "GRADE A ATK 75 HP 60 DEF 75",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
+    },
+    {
+      "datePublished": "2022-01-11T17:56:03+07:00",
+      "dateModified": "2022-10-03T10:18:27+07:00",
+      "name": "Bony Sabretooth",
+      "qty": "GRADE A ATK 72 HP 72 DEF HP",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
+    },
+    {
+      "name": "hermit crab",
+      "datePublished": "2022-11-25T20:17:54+07:00",
+      "dateModified": "2022-11-25T20:28:54+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lusterewt",
+      "datePublished": "2022-11-25T20:17:54+07:00",
+      "dateModified": "2022-11-25T20:28:54+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "spike rhino",
+      "datePublished": "2022-11-25T20:17:54+07:00",
+      "dateModified": "2022-11-25T20:28:54+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "spike stoneppo",
+      "datePublished": "2023-02-13T12:21:53+07:00",
+      "dateModified": "2023-02-13T12:32:53+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "grand carnivore bloom",
+      "datePublished": "2023-02-13T12:31:22+07:00",
+      "dateModified": "2023-02-13T12:42:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "yunqi",
+      "datePublished": "2023-02-13T12:31:22+07:00",
+      "dateModified": "2023-02-13T12:42:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "carnivore blossom",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant batolf",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant fantafish",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant ice whale",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant scale batolf",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant stonebug",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "mulberry lady",
+      "datePublished": "2023-02-16T20:42:22+07:00",
+      "dateModified": "2023-02-16T20:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "cicada",
+      "datePublished": "2023-02-18T13:58:02+07:00",
+      "dateModified": "2023-02-18T14:09:02+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "brontosaur",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "centaurite",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "centaurlius",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "centaurmina",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "crystal horsedeer",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant batnix",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant bone dragon",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant caeloptera",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant crowned quentzal",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant feroboar",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant fire bear",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant fire bosalo",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant fire rhino",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant flamegator",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant flamehorn rhino",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant flamewolf",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant frost giradeer",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant nian",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant parasaurus",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant rush ray",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant sparromu",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant spimander",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant stampdragon",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant stoatle",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "jindipelta",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "mongpion",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "stegosaurus",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    }
+  ]
+}

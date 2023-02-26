@@ -1,0 +1,82 @@
+[
+  {
+    "starName": "alpha Ursae Majoris",
+    "faction": "Eastmount",
+    "region": "Twilight Valley"
+  },
+  {
+    "starName": "Vega",
+    "faction": "Eastmount",
+    "region": "Mount Hooke"
+  },
+  {
+    "starName": "Cloudstop Star",
+    "faction": "Eastmount",
+    "region": "Spelga Bay"
+  },
+  {
+    "starName": "Roaming Heart Star",
+    "faction": "Eastmount",
+    "region": "Pirates Beach"
+  },
+  {
+    "starName": "Alkaid",
+    "faction": "Eastmount",
+    "region": "Duster Plains (Sirocco Islet border)"
+  },
+  {
+    "starName": "Thrillseeker Star",
+    "faction": "Eastmount",
+    "region": "Flying Goose Peak"
+  },
+  {
+    "starName": "Cultivation Star",
+    "faction": "Eastmount",
+    "region": "Inclinati Plains"
+  },
+  {
+    "starName": "Hot-Cold Star",
+    "faction": "Eastmount",
+    "region": "Pluviae Meadows"
+  },
+  {
+    "starName": "Perished Day Star",
+    "faction": "Eastmount",
+    "region": "Drizzly Pond"
+  },
+  {
+    "starName": "Soaring Flame Star",
+    "faction": "Eastmount",
+    "region": "Mount Yue"
+  },
+  {
+    "starName": "Orion",
+    "faction": "Eastmount",
+    "region": "Brewer's Beach"
+  },
+  {
+    "starName": "Big Dipper",
+    "faction": "Eastmount",
+    "region": "Riverine Plains"
+  },
+  {
+    "starName": "Collecting Star",
+    "faction": "Eastmount",
+    "region": "Mount Veneret"
+  },
+  {
+    "starName": "Blue-green Star",
+    "faction": "Eastmount",
+    "region": "Green Meadows"
+  },
+  {
+    "starName": "Migrating Star",
+    "faction": "Eastmount",
+    "region": "Galatea Quay"
+  },
+  {
+    "starName": "Altair",
+    "faction": "Eastmount",
+    "region": "Painted Beach"
+  }
+]

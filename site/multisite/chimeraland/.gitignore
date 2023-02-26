@@ -1,0 +1,14 @@
+#/chimeraland
+/.vscode/sftp*.json
+node_modules
+tmp
+.cache
+*.rar
+google-api-key*.json
+client_secret*.json
+**/desktop.ini
+.env
+package-lock.json
+yarn.lock
+.yarn/cache
+.yarn/*.gz
