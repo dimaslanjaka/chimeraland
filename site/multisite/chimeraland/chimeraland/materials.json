@@ -1,0 +1,4637 @@
+{
+  "data": [
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:26:37+07:00",
+      "name": "Duahawk Evol Pill",
+      "craft-components": [
+        {
+          "name": "Illustrious Beast Soul",
+          "total": 4
+        },
+        {
+          "name": "Fortuphant Primal Spirit",
+          "total": 8
+        },
+        {
+          "name": "Nirvana Feather",
+          "total": 8
+        },
+        {
+          "name": "Pining Feather",
+          "total": 10
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T21:56:03+07:00",
+      "dateModified": "2022-09-28T21:26:37+07:00",
+      "name": "Pining Feather",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/guide/how-to-evovle-duahawk/pining-feather.jpg"
+      ],
+      "details": [
+        "Used for Evolve Duahawk"
+      ],
+      "howto": [
+        "Obtain by purchase Pinning Feather from Pendant Merchant or from home."
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T22:56:03+07:00",
+      "dateModified": "2022-09-28T22:26:37+07:00",
+      "name": "Minkrat Evolution Powder",
+      "howto": [
+        "Purchase from Clan Shop for 500 Clan Contribution"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/guide/how-to-evolve-minkrat/minkrat-evolution-powder.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T23:56:03+07:00",
+      "dateModified": "2022-09-28T23:26:37+07:00",
+      "name": "Clan Contribution",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/guide/how-to-evolve-minkrat/clan-contribution.jpg"
+      ],
+      "howto": [
+        "Donating supplies to clan, completing Clan Quest, and completing Clan Guardian"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T00:56:03+07:00",
+      "dateModified": "2022-09-29T00:26:37+07:00",
+      "name": "Bone Sheep Primal Spirit",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt and search for the illustrious giant beast Browtelope to obtain it",
+        "Explore the world to get."
+      ],
+      "details": [
+        "Used to fuse Sheep Ring."
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bone-sheep-primal-spirit-chimeraland.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T01:56:03+07:00",
+      "dateModified": "2022-09-29T01:26:37+07:00",
+      "name": "Chimeraland Beast Hide",
+      "howto": [
+        "Hunt and Search for any giant beast to obtain it",
+        "Got to the Auction House to obtain it.",
+        "Obtained from the Beast Hunt.",
+        "Orient the Resource Finder to find.",
+        "Explore the world to get.",
+        "Obtained from defeating giant beasts in Chimeraland."
+      ],
+      "details": [
+        "It is an exclusive material used to create high-quality weapons and equipment. It can also be exchanged for the Beast Set in the Clan Shop."
+      ],
+      "usages": [
+        "Exchanged for beast sets in the clan shop"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/chimeraland-beast-hide.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T02:56:03+07:00",
+      "dateModified": "2022-09-29T02:26:37+07:00",
+      "name": "Precious Jade",
+      "usages": [
+        "Used for crafting processed materials"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/precious-jade.jpg"
+      ],
+      "details": [
+        "Can be used for Creation, There is a chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "Crystal-marrow appears as ice, hidden and unwavering, minds clear as violet descends, on the edge as well as the beginning.",
+      "howto": [
+        "Mine Fine Stone.",
+        "Purchase Precious Jade from Grocer or Home Shop.",
+        "Auction House.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, mine fine stone."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T03:56:03+07:00",
+      "dateModified": "2022-09-29T03:26:37+07:00",
+      "name": "Pale Jade",
+      "usages": [
+        "Used for crafting processed materials"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pale-jade.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Mining skill conditions have been met. Pale stone can be found everywhere."
+      ],
+      "background-info": "The color of jade s pale such as water, cool to the touch such as water, even its sound is alike to water.",
+      "howto": [
+        "To obtain this item, mine pale stone.",
+        "Purchase Pale Jade from Grocer or Home Shop.",
+        "Mine Pale Stone.",
+        "Orient the Resource Finder to find.",
+        "Auction Store."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T04:56:03+07:00",
+      "dateModified": "2022-09-29T04:26:37+07:00",
+      "name": "Brilliant Jade",
+      "usages": [
+        "Used for crafting processed materials"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/brilliant-jade-chimeraland.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "Five-colored jade, rolling and boiling, five-fragranced, goodness of heaven, oh flawless luster, ever propitious.",
+      "howto": [
+        "Mine jadeite to get Brilliant Jade.",
+        "Auction House.",
+        "orient the Resource Finder to find.",
+        "To obtain this item, mine brilliant stone."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T05:56:03+07:00",
+      "dateModified": "2022-09-29T05:26:37+07:00",
+      "name": "Stone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stone.jpg"
+      ],
+      "details": [
+        "Mine any ore to obtain this basic Mining product."
+      ],
+      "background-info": "Stone often come in Large chunks with a wide range of uses, various types are typically product from large veins.",
+      "howto": [
+        "Purchase from: Grocer, Home Shop, Newbie Resource Pack, or Prosperous Year (Small).",
+        "Mine Ore.",
+        "Orient the Resource Finder to find.",
+        "Auction Store."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T06:56:03+07:00",
+      "dateModified": "2022-09-29T06:26:37+07:00",
+      "name": "Hoof Sinew",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/hoof-sinew.jpg"
+      ],
+      "details": [
+        "Eating restores 120 Fullness, but also causes Food Poisoning. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Go to the Action House to obtain it.",
+        "Defeat a strange beast to get Hoof Sinew."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T07:56:03+07:00",
+      "dateModified": "2022-09-29T07:26:37+07:00",
+      "name": "Silver",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/silver.jpg"
+      ],
+      "details": [
+        "Eastmount is rich in silver ore. To obtain this item, mine silver. It can be used for Creation. There is a chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "White when pure, imperfections much darker, soft as well as ductile.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Mine silver ore.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T08:56:03+07:00",
+      "dateModified": "2022-09-29T08:26:37+07:00",
+      "name": "Copper",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/copper.jpg"
+      ],
+      "details": [
+        "Westmount is rich in copper ore. To obtain this item, mine copper. It can be used for Creation. There is a chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "Red-orange when pure, imperfections are often greenish, pliable yet tough.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Mine copper ore.",
+        "Orient the Resource Finder to find.",
+        "Explore world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T09:56:03+07:00",
+      "dateModified": "2022-09-29T09:26:37+07:00",
+      "name": "Iron",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/iron.jpg"
+      ],
+      "details": [
+        "Southmount is rich in iron ore. To obtain this item, mine iron. It can be used for Creation. There is a chance to obtain it when gathering iron."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Mine Iron ore.",
+        "Orient the Resource Finder to find.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T10:56:03+07:00",
+      "dateModified": "2022-09-29T10:26:37+07:00",
+      "name": "Crystal",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/crystal.jpg"
+      ],
+      "details": [
+        "Found in deposits on the seabed. Clear as crystal, it makes for a good craft material."
+      ],
+      "howto": [
+        "Mine Crystals at the bottom of the sea.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T11:56:03+07:00",
+      "dateModified": "2022-09-29T11:26:37+07:00",
+      "name": "Red Gold",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-gold.jpg"
+      ],
+      "details": [
+        "Obtain this item from the red gold mine. There is a chance to obtain it when Mining skill conditions have been met The red gold mine is in Eastmount."
+      ],
+      "background-info": "Gold that's been mixed with reddish minerals. Less pure than lux gold, it's soft and malleable.",
+      "howto": [
+        "Mine Red Gold Mine.",
+        "Fusing Coin Maker.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T12:56:03+07:00",
+      "dateModified": "2022-09-29T12:26:37+07:00",
+      "name": "Gold",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gold.jpg"
+      ],
+      "details": [
+        "Obtain this item from the gold mine. There is a chance to obtain it when Mining skill conditions have been met, The gold mine is in Westmount."
+      ],
+      "background-info": "Nearly pure gold and more pure than red or lux gold. It's stable, soft, and malleable.",
+      "howto": [
+        "Mine Gold Mine.",
+        "Fusing Coin Maker.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T13:56:03+07:00",
+      "dateModified": "2022-09-29T13:26:37+07:00",
+      "name": "Siderite",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/siderite.jpg"
+      ],
+      "details": [
+        "Made from fallen meteorites, makes for a good craft material."
+      ],
+      "howto": [
+        "Collect Siderite from the fallen meteors.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T14:56:03+07:00",
+      "dateModified": "2022-09-29T14:26:37+07:00",
+      "name": "Dark Jade",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/dark-jade.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Mining skill condition have been met."
+      ],
+      "howto": [
+        "Purchase Dark Jade from Grocer or Home Shop.",
+        "Mine Deepstone to get Dark Jade.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, mine deepstone."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T15:56:03+07:00",
+      "dateModified": "2022-09-29T15:26:37+07:00",
+      "name": "Lux Gold",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/lux-gold.jpg"
+      ],
+      "details": [
+        "Obtain this item from the lux gold mine. There is a chance to obtain it when Mining skill conditions have been met. The lux gold mine is in Southmount."
+      ],
+      "background-info": "Gold that's been mixed with white minerals, higher purity than red gold but less than gold, soft and malleable.",
+      "howto": [
+        "Mine at Lux Gold Mine to get Lux Gold.",
+        "Fusing Coin Maker.",
+        "Orient the Resource Finder to Find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T16:56:03+07:00",
+      "dateModified": "2022-09-29T16:26:37+07:00",
+      "name": "First Jade",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/first-jade.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "Glowing like a star, with crystals like dew on a leaf. It is the color of the sky and water, and has a mist-pattern.",
+      "howto": [
+        "Mine jadesum to get First Jade.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, mine first stone."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T17:56:03+07:00",
+      "dateModified": "2022-09-29T17:26:37+07:00",
+      "name": "Star Stone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/star-stone.jpg"
+      ],
+      "details": [
+        "Found around the stars, makes for a good craft material."
+      ],
+      "howto": [
+        "Mine Star Stone in the starry sky.",
+        "Auction House.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T18:56:03+07:00",
+      "dateModified": "2022-09-29T18:26:37+07:00",
+      "name": "Find Jade",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fine-jade-chimeraland.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is chance to obtain it when Mining skill conditions have been met."
+      ],
+      "background-info": "Half-bathed in light, half obscured in shadow, see the goblet overfloweth, savor the delightful fragrance.",
+      "howto": [
+        "Mine Jadestone.",
+        "Orient Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, mine fine stone."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T19:56:03+07:00",
+      "dateModified": "2022-09-29T19:26:37+07:00",
+      "name": "Chunk of Fat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/chunk-of-fat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T20:56:03+07:00",
+      "dateModified": "2022-09-29T20:26:37+07:00",
+      "name": "Vulture Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/vulture-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Vultures to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T21:56:03+07:00",
+      "dateModified": "2022-09-29T21:26:37+07:00",
+      "name": "Flatsnout Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/flatsnout-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Flastsnout to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T22:56:03+07:00",
+      "dateModified": "2022-09-29T22:26:37+07:00",
+      "name": "Gratoise Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gratoise-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Gratoise to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T23:56:03+07:00",
+      "dateModified": "2022-09-29T23:26:37+07:00",
+      "name": "Moose Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/moose-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Horsedeer to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T00:56:03+07:00",
+      "dateModified": "2022-09-30T00:26:37+07:00",
+      "name": "Warcrab Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/warcrab-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Warcrab to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T01:56:03+07:00",
+      "dateModified": "2022-09-30T01:26:37+07:00",
+      "name": "Winnow Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/winnor-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Platyzard to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T02:56:03+07:00",
+      "dateModified": "2022-09-30T02:26:37+07:00",
+      "name": "Newt Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/newt-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Newt to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T03:56:03+07:00",
+      "dateModified": "2022-09-30T03:26:37+07:00",
+      "name": "Condor Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/condor-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Condor to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T04:56:03+07:00",
+      "dateModified": "2022-09-30T04:26:37+07:00",
+      "name": "Litiger Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/litiger-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Litiger to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T05:56:03+07:00",
+      "dateModified": "2022-09-30T05:26:37+07:00",
+      "name": "Leoparbeak Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/leaoparbeak-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Leoparbeak to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T06:56:03+07:00",
+      "dateModified": "2022-09-30T06:26:37+07:00",
+      "name": "Grizzly Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/grizzly-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Grizzly to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T07:56:03+07:00",
+      "dateModified": "2022-09-30T07:26:37+07:00",
+      "name": "Vuldo Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/vuldo-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Vuldo to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T08:56:03+07:00",
+      "dateModified": "2022-09-30T08:26:37+07:00",
+      "name": "Rhino Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rhino-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Rhino to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T09:56:03+07:00",
+      "dateModified": "2022-09-30T09:26:37+07:00",
+      "name": "Fortuphant Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fortuphant-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Fortuphant to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T10:56:03+07:00",
+      "dateModified": "2022-09-30T10:26:37+07:00",
+      "name": "Prowler Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/prowler-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Gripine to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T11:56:03+07:00",
+      "dateModified": "2022-09-30T11:26:37+07:00",
+      "name": "Alligon Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/alligon-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Alligon to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T12:56:03+07:00",
+      "dateModified": "2022-09-30T12:26:37+07:00",
+      "name": "Beetlefly Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beetlefly-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Beetlefly to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T13:56:03+07:00",
+      "dateModified": "2022-09-30T13:26:37+07:00",
+      "name": "Scorab Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/scorab-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Scorab to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T14:56:03+07:00",
+      "dateModified": "2022-09-30T14:26:37+07:00",
+      "name": "Bosalo Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bosalo-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Bosalo to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T15:56:03+07:00",
+      "dateModified": "2022-09-30T15:26:37+07:00",
+      "name": "Stoneppo Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stoneppo-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Stoneppo to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T16:56:03+07:00",
+      "dateModified": "2022-09-30T16:26:37+07:00",
+      "name": "Grouguana Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/grouguana-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Viper to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T17:56:03+07:00",
+      "dateModified": "2022-09-30T17:26:37+07:00",
+      "name": "Wolfspider Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/wolfspider-meat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Wolfspider to get.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T18:56:03+07:00",
+      "dateModified": "2022-09-30T18:26:37+07:00",
+      "name": "Beast Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-hide.jpg"
+      ],
+      "details": [
+        "A usual item produced from searching strange beasts. Can be made into leather."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Beast Hide from Grocer.",
+        "Purchase Beast Hide from Home Shop.",
+        "Purchase Newbie Resource Pack.",
+        "Purchase Prosperous Year (Small)",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T19:56:03+07:00",
+      "dateModified": "2022-09-30T19:26:37+07:00",
+      "name": "Kidney",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/kidney.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T20:56:03+07:00",
+      "dateModified": "2022-09-30T20:26:37+07:00",
+      "name": "Beast Intestines",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-intestines.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T21:56:03+07:00",
+      "dateModified": "2022-09-30T21:26:37+07:00",
+      "name": "Beast Brain",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-brain.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T22:56:03+07:00",
+      "dateModified": "2022-09-30T22:26:37+07:00",
+      "name": "Beast Liver",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-liver.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T23:56:03+07:00",
+      "dateModified": "2022-09-30T23:26:37+07:00",
+      "name": "Beast Heart",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-heart.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Defeat a strange beast to get this."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T00:56:03+07:00",
+      "dateModified": "2022-10-01T00:26:37+07:00",
+      "name": "Insect Ichor",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/insect-ichor.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "Bug Saliva, brown and murky, sticky, dissolves wood and stone.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Small Insects to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T01:56:03+07:00",
+      "dateModified": "2022-10-01T01:26:37+07:00",
+      "name": "Small Beast Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/small-beast-meat.jpg"
+      ],
+      "details": [
+        "Eating restores 60 fullness, but also causes Food Poisoning. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt Small animal to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T02:56:03+07:00",
+      "dateModified": "2022-10-01T02:26:37+07:00",
+      "name": "Crab Claw Meat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/crab-claw-meat.jpg"
+      ],
+      "details": [
+        "Eating restores 180 fullness, but also causes Food Poisoning. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Hunt some crab-type creatures to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T03:56:03+07:00",
+      "dateModified": "2022-10-01T03:26:37+07:00",
+      "name": "Bear Paw",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bear-paw.jpg"
+      ],
+      "details": [
+        "Eating restores 180 fullness, but also causes Food Poisoning. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Hunt some bear-type creatures to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T04:56:03+07:00",
+      "dateModified": "2022-10-01T04:26:37+07:00",
+      "name": "Bird Wing",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bird-wing.jpg"
+      ],
+      "details": [
+        "Eating restores 180 fullness, but also causes Food Poisoning. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Hunt some bird-type creatures to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T05:56:03+07:00",
+      "dateModified": "2022-10-01T05:26:37+07:00",
+      "name": "Strange Beast Tendon",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/strange-beast-tendon.jpg"
+      ],
+      "details": [
+        "Som bug, bird, and fish type strange beasts can be obtained by searching for them and used to fuse uncommon weapons and equipment."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Strange Beast Tendon from Grocer.",
+        "Purchase Strange Beast Tendon from Home Shop.",
+        "Defeat a strange beast to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T06:56:03+07:00",
+      "dateModified": "2022-10-01T06:26:37+07:00",
+      "name": "Strange Beast Horn",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/strange-beast-horn.jpg"
+      ],
+      "details": [
+        "Some horned strange beasts can be obtained by searching fro them and usedto fuse uncommon weapons and equipment."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Strange Beast Horn from Grocer.",
+        "Purchase Strange Beast Horn from Home Shop.",
+        "Defeat a strange beast to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T07:56:03+07:00",
+      "dateModified": "2022-10-01T07:26:37+07:00",
+      "name": "Strange Beast Tooth",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/strange-beast-tooth.jpg"
+      ],
+      "details": [
+        "Some predatory strange beasts can be obtained by searching for them and used to fuse uncommon weapons and equipment."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Strange Beast Tooth from Grocer.",
+        "Purchase Strange Beast Tooth from Home Shop.",
+        "Defeat a strange beast to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T08:56:03+07:00",
+      "dateModified": "2022-10-01T08:26:37+07:00",
+      "name": "Strange Beast Bone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/strange-beast-bone.jpg"
+      ],
+      "details": [
+        "Most horned strange beasts can be obtained by searching for them and used to fuse uncommon weapons and equipment."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Strange Beast Bone from Grocer.",
+        "Purchase Strange Beast Bone from Home Shop.",
+        "Defeat a strange beast to get this.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T09:56:03+07:00",
+      "dateModified": "2022-10-01T09:26:37+07:00",
+      "name": "Glow Deer Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/glow-deer-hide.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Glow Deer Hide from Ursalton.",
+        "Purchase Strange Beast Bone from Home Shop.",
+        "Hunt deer-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Deer-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T10:56:03+07:00",
+      "dateModified": "2022-10-01T10:26:37+07:00",
+      "name": "Coiled Snake Scale",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/coiled-snake-scale.jpg"
+      ],
+      "details": [
+        "Obtained when searching fro Wyrm. Used in Creation."
+      ],
+      "background-info": "A giant Snake's skin. It's simply fascinating.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Obtain from hunting Wyrms.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T11:56:03+07:00",
+      "dateModified": "2022-10-01T11:26:37+07:00",
+      "name": "Trileaf Skin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/trileaf-skin.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusion."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Trileaf Skin from Ursalton.",
+        "Purchase Trileaf Skin from Home Shop.",
+        "Hunt Lobcray-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, seach from Giant Lobcray-typeproduct."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T12:56:03+07:00",
+      "dateModified": "2022-10-01T12:26:37+07:00",
+      "name": "Ambusher Hair",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ambusher-hair.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Direwolf fur, provides camouflage.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Ambusher Hair from Ursalton.",
+        "Purchase Ambusher Hair from Home Shop.",
+        "Hunt wolf-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Wolf-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T13:56:03+07:00",
+      "dateModified": "2022-10-01T13:26:37+07:00",
+      "name": "Blood Jade",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/blood-jade.jpg"
+      ],
+      "details": [
+        "A specialty of the Centralmount mainland."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Blood Jade from Handelaar.",
+        "Purchase Blood Jade from Home Shop.",
+        "Go beasts hunting on Centralmount to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T14:56:03+07:00",
+      "dateModified": "2022-10-01T14:26:37+07:00",
+      "name": "Beast Vital Qi Pill",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beast-vital-qi-pill.jpg"
+      ],
+      "details": [
+        "A specialty of the Centralmount mainland."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Beast Vital Qi Pill from Handelaar.",
+        "Purchase Beast Vital Qi Pill from Home Shop.",
+        "Go beasts hunting on Centralmount to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T15:56:03+07:00",
+      "dateModified": "2022-10-01T15:26:37+07:00",
+      "name": "Grouguana Scales",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/grouguana-scales.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Viper Scale, worn to not sink.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Grouguana Scales from Handelaar.",
+        "Purchase Grouguana Scales from Home Shop.",
+        "Hunt lizard-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Lizard-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T16:56:03+07:00",
+      "dateModified": "2022-10-01T16:26:37+07:00",
+      "name": "Bone Sheep Skin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bone-sheep-skin.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Bone Sheep Skin from Shaho.",
+        "Purchase Bone Sheep Skin from Home Shop.",
+        "Hunt antelope-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Antelope-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T17:56:03+07:00",
+      "dateModified": "2022-10-01T17:26:37+07:00",
+      "name": "Litiger Mane",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/litiger-mane.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Litiger mane, born from the water, so it resists water.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Litiger Mane from Shaho.",
+        "Purchase Litiger Mane from Home Shop.",
+        "Hunt litiger-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Litiger-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T18:56:03+07:00",
+      "dateModified": "2022-10-01T18:26:37+07:00",
+      "name": "Flying Wolf Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/flying-wolf-hide.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Flying Wolf Hide from Ursalton.",
+        "Purchase Flying Wolf Hide from Home Shop.",
+        "Hunt batolf-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Batolf-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T19:56:03+07:00",
+      "dateModified": "2022-10-01T19:26:37+07:00",
+      "name": "Ox Mane Hair",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ox-mane-hair.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Ox Mane, fortifies clothes against cold.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Ox Mane Hair from Handelaar.",
+        "Purchase Ox Mane Hair from Home Shop.",
+        "Hunt land cattle-type beast to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Land Cattle-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T20:56:03+07:00",
+      "dateModified": "2022-10-01T20:26:37+07:00",
+      "name": "Snow Goose Claw",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/snow-goose-claw.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Condor Claw, no trace in the snow, can overcome the strong stone, wear to be unblockable.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Snow Goose Claw from Shaho.",
+        "Purchase Snow Goose Claw from Home Shop.",
+        "Hunt land Giant Kunturs to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Kuntur product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T21:56:03+07:00",
+      "dateModified": "2022-10-01T21:26:37+07:00",
+      "name": "Watery Bone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/watery-bone.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Stoneppo bone, worn for excellent swimming.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Watery Bone from Handelaar.",
+        "Purchase Watery Bone from Home Shop.",
+        "Hunt aquatic cattle-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Aquatic Cattle-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T22:56:03+07:00",
+      "dateModified": "2022-10-01T22:26:37+07:00",
+      "name": "Warcrab Shell",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/warcrab-shell.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and Refining."
+      ],
+      "background-info": "Warcrab shell, resembles a fan or plate, can command soldiers.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Hunt Giant Coracrab to obtain it.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Coracrab product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T23:56:03+07:00",
+      "dateModified": "2022-10-01T23:26:37+07:00",
+      "name": "Wolfspider Carapace",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/wolfspider-carapace.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and Refiner."
+      ],
+      "background-info": "Wolfspider shell, worn to repel bugs.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Obtained from Mountspiders.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Mountspider product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T00:56:03+07:00",
+      "dateModified": "2022-10-02T00:26:37+07:00",
+      "name": "Embergator Skin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/embergator-skin.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Embergator Skin from Ursalton.",
+        "Purchase Embergator Skin from Home Shop.",
+        "Orient the resource Finder to find.",
+        "To obtain this item, search for Giant Gator-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T01:56:03+07:00",
+      "dateModified": "2022-10-02T01:26:37+07:00",
+      "name": "Noble Beast Soul",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/noble-beast-soul.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Orient the resource Finder to find.",
+        "Explore the world to get.",
+        "To obtain this item, search for noble beast product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T02:56:03+07:00",
+      "dateModified": "2022-10-02T02:26:37+07:00",
+      "name": "Eleboar Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/eleboar-hide.jpg"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Eleboar Hide from Handelaar.",
+        "Purchase Eleboar Hide from Home Shop.",
+        "Hunt Eleboars to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Eleboar product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T03:56:03+07:00",
+      "dateModified": "2022-10-02T03:26:37+07:00",
+      "name": "Vuldo Wing",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/vuldo-wing.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and Refiner."
+      ],
+      "background-info": "Vuldo feather, strength may fall, but wear to not be slowed.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Obtained from Sprinowls.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Sprinowl product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T04:56:03+07:00",
+      "dateModified": "2022-10-02T04:26:37+07:00",
+      "name": "Alligon Scales",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/alligon-scales.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Alligon scale, resists weapons.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Alligon Scales from Shaho.",
+        "Purchase Alligon Scales from Home Shop.",
+        "Hunt Alligonodiles to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Alligon product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T05:56:03+07:00",
+      "dateModified": "2022-10-02T05:26:37+07:00",
+      "name": "Stiffler Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stiffler-hide.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Stiffler Hide from Ursalton.",
+        "Purchase Stiffler Hide from Home Shop.",
+        "Hunt dragon-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Dragon-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T06:56:03+07:00",
+      "dateModified": "2022-10-02T06:26:37+07:00",
+      "name": "Centipede Skin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/centipede-skin.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Centipede Skin from Ursalton.",
+        "Purchase Centipede Skin from Home Shop.",
+        "Hunt Silkhopper to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Silkhopper product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T07:56:03+07:00",
+      "dateModified": "2022-10-02T07:26:37+07:00",
+      "name": "Deerbull Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/deerbull-hide.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Deerbull Hide from Shaho.",
+        "Purchase Deerbull Hide from Home Shop.",
+        "Hunt Roarclops to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Roarclopse product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T08:56:03+07:00",
+      "dateModified": "2022-10-02T08:26:37+07:00",
+      "name": "Scorpion King Stinger",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/scorpion-king-stinger.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Rigidm indestrucible, and filled with venom that is difficult to cure.",
+      "howto": [
+        "Got to the Auction House to obtain it.",
+        "Purchase Scorpion King Stinger from Shaho.",
+        "Purchase Scorpion King Stinger from Home Shop.",
+        "Hunt scorpion-type beast.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Scorab product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T09:56:03+07:00",
+      "dateModified": "2022-10-02T09:26:37+07:00",
+      "name": "Mist Wings",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mist-wings.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and in the Refiner."
+      ],
+      "background-info": "It has wings like a cicada, appears with the night mist, and is found in bushes.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Fantaflies.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Fantafly product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T10:56:03+07:00",
+      "dateModified": "2022-10-02T10:26:37+07:00",
+      "name": "Rhino Tusk",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rhino-tusk.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Rhino tusk. Heaven may be fickle, but wearing it can help avoid adversity.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Rhino Tusk from Handelaar.",
+        "Purchase Rhino Tusk from Home Shop",
+        "Hunter elephant-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Elephant-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T11:56:03+07:00",
+      "dateModified": "2022-10-02T11:26:37+07:00",
+      "name": "Fire Repelling Bead",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fire-repelling-bead.jpg"
+      ],
+      "details": [
+        "Obtain by searching giant ocen beasts, Used to craft advanced furniture."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from the beast hunt.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T12:56:03+07:00",
+      "dateModified": "2022-10-02T12:26:37+07:00",
+      "name": "Water Repelling Bead",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/water-repelling-bead.jpg"
+      ],
+      "details": [
+        "Obtain by searching giant ocen beasts, Used to craft advanced furniture."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from the beast hunt.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T13:56:03+07:00",
+      "dateModified": "2022-10-02T13:26:37+07:00",
+      "name": "Cold Repelling Bead",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cold-repelling-bead.jpg"
+      ],
+      "details": [
+        "Obtain by searching giant ocen beasts, Used to craft advanced furniture."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from the beast hunt.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T14:56:03+07:00",
+      "dateModified": "2022-10-02T14:26:37+07:00",
+      "name": "Storrow Claw",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/storrow-claw.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and in the Refiner."
+      ],
+      "background-info": "Its claws are long and short and its feet are webbed. It can stand and crouch and is and excellent fighter.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from searching Giant Mallard.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Mallard product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T15:56:03+07:00",
+      "dateModified": "2022-10-02T15:26:37+07:00",
+      "name": "Fine Jade Liquid",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fine-jade-liquid.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/fine-jade-liquid.png"
+      ],
+      "details": [
+        "Use it to craft the Skywatch set.",
+        "Used for Evolve Noble Golden Crow"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get.",
+        "Search for Noble giant beasts. Startlewings, for a chance to obtain it.",
+        "Fine Jade Liquid Obtain by Auction House, Hunt a Noble Beast, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T16:56:03+07:00",
+      "dateModified": "2022-10-02T16:26:37+07:00",
+      "name": "Rhino Hide",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rhino-hide.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Rhino Hide from Shaho.",
+        "Purchase Rhino Hide from Home Shop.",
+        "Hunt Giant Flame Rhinos to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Flame Rhino product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T17:56:03+07:00",
+      "dateModified": "2022-10-02T17:26:37+07:00",
+      "name": "Vangard Bear Thorn",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/vangard-bear-thorn.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "background-info": "Grizzly thorn, Wearer does not need to eat or drink and can rest on the ground.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Vangard Bear Thorn from Shaho.",
+        "Purchase Vangard Bear Thorn from Home Shop.",
+        "Hunt bear-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for Giant Bear-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T18:56:03+07:00",
+      "dateModified": "2022-10-02T18:26:37+07:00",
+      "name": "Newt Fat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/newt-fat.jpg"
+      ],
+      "details": [
+        "An Extremely uncommon material used in advanced fusions."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Vangard Bear Thorn from Shaho.",
+        "Purchase Vangard Bear Thorn from Home Shop.",
+        "Hunt bear-type beasts to get.",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, search for <b>Giant Newt</b> product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T19:56:03+07:00",
+      "dateModified": "2022-10-02T19:26:37+07:00",
+      "name": "Winnow Tail",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/winnow-tail.jpg"
+      ],
+      "details": [
+        "Extremely uncommon can be used for Creation and in the Refiner."
+      ],
+      "background-info": "It's agile and powerful. It can crush wood and stones and can even control water to form pearls.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Parrots.",
+        "Explore the world to get.",
+        "Search for Giant Parrot product to obtain it."
+      ],
+      "category": [
+        "searching"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T20:56:03+07:00",
+      "dateModified": "2022-10-02T20:26:37+07:00",
+      "name": "Beetlefly Wing",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beetlefly-wing.jpg"
+      ],
+      "details": [
+        "Extremely uncommon can be used for Creation and in the Refiner."
+      ],
+      "background-info": "Beetlefly wing, hold to see far.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Cicadas.",
+        "Explore the world to get.",
+        "Search for Giant Cicada product to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T21:56:03+07:00",
+      "dateModified": "2022-10-02T21:26:37+07:00",
+      "name": "Primal Fluid",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Explore the world to get.",
+        "Search for Parasaurus product to obtain it."
+      ],
+      "details": [
+        "Used for crafting noble summon book",
+        "Used for evolving dragon horse"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T22:56:03+07:00",
+      "dateModified": "2022-10-02T22:26:37+07:00",
+      "name": "Primal Bones",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/primal-bones.jpg"
+      ],
+      "details": [
+        "Chance to obtain from summoned giant beasts when searching for Common Giant Seal. Used in Creation."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from the Beast Hunt."
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T23:56:03+07:00",
+      "dateModified": "2022-10-02T23:26:37+07:00",
+      "name": "Goldscale Shell",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/goldscale-shell.jpg"
+      ],
+      "details": [
+        "A specialty of the Centralmount mainland."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Goldscale Shell from Handelaar.",
+        "Purchase Goldscale Shell from Home Shop.",
+        "Go beast hunting on Centralmount to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T00:56:03+07:00",
+      "dateModified": "2022-10-03T00:26:37+07:00",
+      "name": "Fleet Feather",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fleet-feather.jpg"
+      ],
+      "details": [
+        "A specialty of the Centralmount mainland."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Purchase Fleet Feather from Handelaar.",
+        "Purchase Fleet Feather from Home Shop.",
+        "Go beast hunting on Centralmount to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T01:56:03+07:00",
+      "dateModified": "2022-10-03T01:26:37+07:00",
+      "name": "Magnificent Horn",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/magnificent-horn.jpg"
+      ],
+      "details": [
+        "Search for Noble and Illustrious giant beasts, bug types, for a chance to obtain it. Use it to Craft the Ancient set."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T02:56:03+07:00",
+      "dateModified": "2022-10-03T02:26:37+07:00",
+      "name": "Nirvana Feather",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/nirvana-feather.jpg"
+      ],
+      "details": [
+        "Search for Noble giant beasts, Gripperbirds, for a chance to obtain it. Use it to craft the Feather Set."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T03:56:03+07:00",
+      "dateModified": "2022-10-03T03:26:37+07:00",
+      "name": "Stoatle Shell",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stoatle-shell.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/goldscale-shell.png"
+      ],
+      "details": [
+        "Search for Noble giant beasts, Stoatles, for a chance to obtain it. Use it to craft the Coppercast Set.",
+        "Used for Evolve Bony Sabretooth"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T04:56:03+07:00",
+      "dateModified": "2022-10-03T04:26:37+07:00",
+      "name": "Ancient Bone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ancient-bone.jpg"
+      ],
+      "details": [
+        "Search for Noble giant beasts, Bone Dragons, for a chance to obtain it. Use it to craft the Divine Tree set."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T05:56:03+07:00",
+      "dateModified": "2022-10-03T05:26:37+07:00",
+      "name": "Skyshark Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/skyshard-primal-spirit.jpg"
+      ],
+      "details": [
+        "Search for the Eternal giant beasts, Drune to obtain it. Use it to craft advanced equipment."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T06:56:03+07:00",
+      "dateModified": "2022-10-03T06:26:37+07:00",
+      "name": "Beetlefly Stinger",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/beetlefly-stinger.jpg"
+      ],
+      "details": [
+        "Extremely uncommon can be used for Creation and in the Refiner."
+      ],
+      "background-info": "Contains a poison that kills plants and animals.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Cicadas.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Cicada product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T07:56:03+07:00",
+      "dateModified": "2022-10-03T07:26:37+07:00",
+      "name": "Yurlungg's Fang",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/yurlunggurs-fang.jpg"
+      ],
+      "details": [
+        "Obtained when searching for Noble Wyrm. Used in Creation."
+      ],
+      "background-info": "A giant snake's fang. It's sure to give you fever.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from hunting Noble Wyrms.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T08:56:03+07:00",
+      "dateModified": "2022-10-03T08:26:37+07:00",
+      "name": "Scorpion Claw",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/scorpion-claw.jpg"
+      ],
+      "details": [
+        "Extremely precious. Can be used for Creation and in the Refiner."
+      ],
+      "background-info": "Scorab pincer, serrated, firm and sharp.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from scorpion-type beasts.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Scorpion-type product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T09:56:03+07:00",
+      "dateModified": "2022-10-03T09:26:37+07:00",
+      "name": "Pombug Wing",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pombug-wing.jpg"
+      ],
+      "details": [
+        "Obtained when searching for Noble Giant Pombug. Used in Creation."
+      ],
+      "background-info": "Pombug wings are thin but windproof.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from hunting Pombug.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T10:56:03+07:00",
+      "dateModified": "2022-10-03T10:26:37+07:00",
+      "name": "Moddly Wings",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/moddly-wings.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/moddly-wings.png"
+      ],
+      "details": [
+        "Extremely precious. Can be used for Creation and in the Refiner.",
+        "Used for Evolve Noble Serpent"
+      ],
+      "background-info": "It likes to spread its green wings and glide with the wind.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Sparrodacts.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Sparrodact product.",
+        "Moddly Wings Obtain by Auction House, Sparrodacts, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T11:56:03+07:00",
+      "dateModified": "2022-10-03T11:26:37+07:00",
+      "name": "Spear Beak",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spear-beak.jpg"
+      ],
+      "details": [
+        "Extremely uncommon. Can be used for Creation and in the Refiner."
+      ],
+      "background-info": "Its beak is long and narrow and it's strong as a spear. It prey best on water.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from Haporses.",
+        "Explore the world to get.",
+        "To obtain this item, search for Giant Haporse product."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T12:56:03+07:00",
+      "dateModified": "2022-10-03T12:26:37+07:00",
+      "name": "Spirit Fox Fur",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spirit-fox-fur.jpg"
+      ],
+      "details": [
+        "Search for fox-type giant beasts for a chance to obtain this. Use it to craft the Ninetail set."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Explore the world to get/"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T13:56:03+07:00",
+      "dateModified": "2022-10-03T13:26:37+07:00",
+      "name": "Red and White Beak",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-and-white-beak.jpg"
+      ],
+      "details": [
+        "Search for sparrow-type Noble giant beasts for a chance to obtain this. Use it to craft the Crane set."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt a Noble Giant Beast to get this.",
+        "Exploe the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T14:56:03+07:00",
+      "dateModified": "2022-10-03T14:26:37+07:00",
+      "name": "Magma Armor",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/magma-armor-chimeraland.jpg"
+      ],
+      "details": [
+        "Material obtained from hunting Magma Beast. Used in Creation."
+      ],
+      "background-info": "The armor of a Magma Beast shines like a blazing day and is indestructible.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from hunting Giant Magma Beast.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T15:56:03+07:00",
+      "dateModified": "2022-10-03T15:26:37+07:00",
+      "name": "Fortuphant Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fortuphant-primal-spirit-chimeraland.jpg"
+      ],
+      "details": [
+        "Search for the Illustrious giant beast, Stonespine Rhinom to obtain it. Used to fuse Blazing Helmet."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T16:56:03+07:00",
+      "dateModified": "2022-10-03T16:26:37+07:00",
+      "name": "Octofish Tentacle",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/octofish-tentacle-chimeraland.jpg"
+      ],
+      "details": [
+        "Material obtained from hunting Octofish. Used in Creation."
+      ],
+      "background-info": "The legs of the Octofish are flexible and strong.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from hunting Giant Octofish.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T17:56:03+07:00",
+      "dateModified": "2022-10-03T17:26:37+07:00",
+      "name": "Scale of Reversal",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/scale-of-reversal-chimeraland.jpg"
+      ],
+      "details": [
+        "Material obtained from hunting Miragon. Used in Creation."
+      ],
+      "background-info": "Death Scale. A death scale from the Miragon's throat, and it hunts those with an infant.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Obtained from hunting Giant Miragon.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T18:56:03+07:00",
+      "dateModified": "2022-10-03T18:26:37+07:00",
+      "name": "Spirit Fox Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spirit-fox-primal-spirit-chimeraland.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/spirit-fox-primal-spirit.png"
+      ],
+      "details": [
+        "Search for fox-type illustrious giant beasts to obtain it. Used to fuse Blazing Pauldrons and Frosty Pauldrons.",
+        "Used for Evolve Bony Sabretooth"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T19:56:03+07:00",
+      "dateModified": "2022-10-03T19:26:37+07:00",
+      "name": "Grizzly Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/grizzly-primal-spirit-chimeraland.jpg"
+      ],
+      "details": [
+        "Search for fox-type illustrious giant beasts, Plate Bear, to obtain it. Used to fuse Frosty Helmet."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Explore the world to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T20:56:03+07:00",
+      "dateModified": "2022-10-03T20:26:37+07:00",
+      "name": "Illustrious Beast Soul",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/illustrious-beast-soul.png"
+      ],
+      "details": [
+        "An extremely uncommon material used in advanced fusions.",
+        "Used for Evolve White Maiden",
+        "Used for Evolve Bony Sabretooth"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Orient the Resource Finder to find.",
+        "Explore the world to get.",
+        "To obtain this item, seach for illustrious beast product.",
+        "Illustrious Beast Soul Obtain by Auction House, Hunt the Illustrious Beast, Orient the Resource Finder, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T21:56:03+07:00",
+      "dateModified": "2022-10-03T21:26:37+07:00",
+      "name": "Flamebug Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/flamebug-primal-spirit-chimeraland.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/flamebug-primal-spirit.png"
+      ],
+      "details": [
+        "Search for fox-type illustrious giant beasts, Flamebug, to obtain it. Used to fuse Blazing Chest Armor.",
+        "Used for Evolve Noble Golden Crow"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Explore the world to get.",
+        "Flamebug Primal Spirit Obtain by Auction House, Purchase Illustrious Hunt Prize Pack from Grocer or Home Shop, Hunt the Illustrious Beast, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T22:56:03+07:00",
+      "dateModified": "2022-10-03T22:26:37+07:00",
+      "name": "Icebug Primal Spirit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/icebug-primal-spirit-chimeraland.jpg",
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/bone-sheep-primal-spirit.png"
+      ],
+      "details": [
+        "Search for fox-type illustrious giant beasts, Icebug, to obtain it. Used to fuse Frosty Chest Armor.",
+        "Used for Evolve Noble Serpent"
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Hunt the Illustrious Beast to get this.",
+        "Explore the world to get.",
+        "Icebug Primal Spirit Obtain by Purchase Illustrious Hunt Prize Pack at Grocer or Home Hunt Illustrious Beast, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T23:56:03+07:00",
+      "dateModified": "2022-10-03T23:26:37+07:00",
+      "name": "Peanut",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/peanut.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather peanuts to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T00:56:03+07:00",
+      "dateModified": "2022-10-04T00:26:37+07:00",
+      "name": "Bok Choy",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bok-choy.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Bok Choy to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T01:56:03+07:00",
+      "dateModified": "2022-10-04T01:26:37+07:00",
+      "name": "Gourd",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gourd.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Gourd to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T02:56:03+07:00",
+      "dateModified": "2022-10-04T02:26:37+07:00",
+      "name": "Sweet Potato",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/sweet-potato.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Sweet Potato to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T03:56:03+07:00",
+      "dateModified": "2022-10-04T03:26:37+07:00",
+      "name": "Sowthistle",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/sowthistle.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Sowthisle to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T04:56:03+07:00",
+      "dateModified": "2022-10-04T04:26:37+07:00",
+      "name": "Scallion",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/scallion.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Scallion to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T05:56:03+07:00",
+      "dateModified": "2022-10-04T05:26:37+07:00",
+      "name": "Broccoli",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/broccoli.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Broccoli to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T06:56:03+07:00",
+      "dateModified": "2022-10-04T06:26:37+07:00",
+      "name": "Amaranth",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/amaranth.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Amaranth to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T07:56:03+07:00",
+      "dateModified": "2022-10-04T07:26:37+07:00",
+      "name": "Sesame",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/sesame.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Sesame to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T08:56:03+07:00",
+      "dateModified": "2022-10-04T08:26:37+07:00",
+      "name": "Pumpkin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pumpkin.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Pumpkin to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T09:56:03+07:00",
+      "dateModified": "2022-10-04T09:26:37+07:00",
+      "name": "Chives",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/chives.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Chives to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T10:56:03+07:00",
+      "dateModified": "2022-10-04T10:26:37+07:00",
+      "name": "Pure Wood Genio",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pure-wood-genio.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T11:56:03+07:00",
+      "dateModified": "2022-10-04T11:26:37+07:00",
+      "name": "Mixed Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mixed-wood-essence.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T12:56:03+07:00",
+      "dateModified": "2022-10-04T12:26:37+07:00",
+      "name": "Pure Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pure-wood-essence.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T13:56:03+07:00",
+      "dateModified": "2022-10-04T13:26:37+07:00",
+      "name": "Uncommon Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/uncommon-wood-essence.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T14:56:03+07:00",
+      "dateModified": "2022-10-04T14:26:37+07:00",
+      "name": "Uncommon Wood Genio",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/uncommon-wood-genio.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T15:56:03+07:00",
+      "dateModified": "2022-10-04T15:26:37+07:00",
+      "name": "Honeydew Melon",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/honeydew-melon.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather honeydew melons to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T16:56:03+07:00",
+      "dateModified": "2022-10-04T16:26:37+07:00",
+      "name": "Flat Cabbage",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/flat-cabbage.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather flat cabbage to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T17:56:03+07:00",
+      "dateModified": "2022-10-04T17:26:37+07:00",
+      "name": "Coriander",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/coriander.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather coriander to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T18:56:03+07:00",
+      "dateModified": "2022-10-04T18:26:37+07:00",
+      "name": "Watermelon",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/watermelon.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Watermelon to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T19:56:03+07:00",
+      "dateModified": "2022-10-04T19:26:37+07:00",
+      "name": "Purple Choy",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/purple-choy.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather flat Purple Choy to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T20:56:03+07:00",
+      "dateModified": "2022-10-04T20:26:37+07:00",
+      "name": "Common Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/common-wood-essence.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T21:56:03+07:00",
+      "dateModified": "2022-10-04T21:26:37+07:00",
+      "name": "Turnip",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/turnip.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Turnip to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T22:56:03+07:00",
+      "dateModified": "2022-10-04T22:26:37+07:00",
+      "name": "Tomato",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/tomato.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Tomato to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T23:56:03+07:00",
+      "dateModified": "2022-10-04T23:26:37+07:00",
+      "name": "Lettuce",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/lettuce.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Lettuce to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T00:56:03+07:00",
+      "dateModified": "2022-10-05T00:26:37+07:00",
+      "name": "Spinach",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spinach.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather Spinach to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T01:56:03+07:00",
+      "dateModified": "2022-10-05T01:26:37+07:00",
+      "name": "Cucumber",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cucumber.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Gather cucumber to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T02:56:03+07:00",
+      "dateModified": "2022-10-05T02:26:37+07:00",
+      "name": "Cyathea",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cyathea.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T03:56:03+07:00",
+      "dateModified": "2022-10-05T03:26:37+07:00",
+      "name": "Rhododendron",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rhododendron.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T04:56:03+07:00",
+      "dateModified": "2022-10-05T04:26:37+07:00",
+      "name": "Rare Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rare-wood-essence-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T05:56:03+07:00",
+      "dateModified": "2022-10-05T05:26:37+07:00",
+      "name": "Rare Wood Genio",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/rare-wood-genio-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T06:56:03+07:00",
+      "dateModified": "2022-10-05T06:26:37+07:00",
+      "name": "Superb Wood Essence",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/superb-wood-essence-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T07:56:03+07:00",
+      "dateModified": "2022-10-05T07:26:37+07:00",
+      "name": "Superb Wood Genio",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/superb-wood-genio-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Obtain from harvesting crops in Base fields."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T08:56:03+07:00",
+      "dateModified": "2022-10-05T08:26:37+07:00",
+      "name": "Dung",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/dung.jpg"
+      ],
+      "details": [
+        "A beast dung that is rich in nutrients and is used to fertilize. Reduces cultivation time by 30 minutes if used to fertilize plants, and grants 3000 Fertility if used to fertilize fields."
+      ],
+      "howto": [
+        "Go to Auction House to obtain",
+        "Gather dung near the giant beasts to obtain"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T09:56:03+07:00",
+      "dateModified": "2022-10-05T09:26:37+07:00",
+      "name": "Fossilized Skull",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-skull.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T10:56:03+07:00",
+      "dateModified": "2022-10-05T10:26:37+07:00",
+      "name": "Fossilized Tailbone",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-tailbone.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T11:56:03+07:00",
+      "dateModified": "2022-10-05T11:26:37+07:00",
+      "name": "Fossilized Pelvis",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-pelvis.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T12:56:03+07:00",
+      "dateModified": "2022-10-05T12:26:37+07:00",
+      "name": "Fossilized Leg",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-leg.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T13:56:03+07:00",
+      "dateModified": "2022-10-05T13:26:37+07:00",
+      "name": "Fossilized Rib",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-rib.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T14:56:03+07:00",
+      "dateModified": "2022-10-05T14:26:37+07:00",
+      "name": "Fossilized Spine",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fossilized-spine.jpg"
+      ],
+      "details": [
+        "Fossils quarried in the wild make for good materials."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T15:56:03+07:00",
+      "dateModified": "2022-10-05T15:26:37+07:00",
+      "name": "Phosphorus",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/phosphorus.jpg"
+      ],
+      "details": [
+        "Contains a great amount of energy and is a craft material."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine wild fossils to get",
+        "Orient the Resource Finder to find",
+        "Explore the wild to get."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T16:56:03+07:00",
+      "dateModified": "2022-10-05T16:26:37+07:00",
+      "name": "Bluewater Pearl",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bluewater-pearl.jpg"
+      ],
+      "details": [
+        "Water essence gathered from the ocean depths is good craft material."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Mine essence of water at the bottom of the sea to obtain",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T17:56:03+07:00",
+      "dateModified": "2022-10-05T17:26:37+07:00",
+      "name": "Logs",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/logs.jpg"
+      ],
+      "details": [
+        "Base product obtained by chopping down certain trees."
+      ],
+      "background-info": "Wood on the edge of the trunk. Its sow texture makes it vulnerable to rot.",
+      "howto": [
+        "Purchase from: Home Shop, Newbie Resource Pack, Prosperpous Year (Small)",
+        "Chop down trees",
+        "Orient the Resource Finder to find.",
+        "Auction Store."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T18:56:03+07:00",
+      "dateModified": "2022-10-05T18:26:37+07:00",
+      "name": "Cane",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cane.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some arrow bamboo, daimyo oaks, or bunge cherry trees to obtain",
+        "Orient the Resource Finder to find.",
+        "To obtain this item, chop down bamboo, daimyo oak and bunge cherry trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T19:56:03+07:00",
+      "dateModified": "2022-10-05T19:26:37+07:00",
+      "name": "Bamboo Leaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bamboo-leaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "howto": [
+        "Go to the Auction How to obtain",
+        "Chop down some bamboo to get",
+        "To obtain this item, chop down bamboo."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T20:56:03+07:00",
+      "dateModified": "2022-10-05T20:26:37+07:00",
+      "name": "Lemon Tree Leaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/lemon-tree-leaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down lemon trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down lemon trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T21:56:03+07:00",
+      "dateModified": "2022-10-05T21:26:37+07:00",
+      "name": "Oak Tree Leaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/oak-tree-leaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down oak trees to get",
+        "To obtain this item, chop down oak trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T22:56:03+07:00",
+      "dateModified": "2022-10-05T22:26:37+07:00",
+      "name": "Red Apricot Wood",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-apricot-wood.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Cherry tree core. Formed over many years, can be used for vehicles.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some red apricot trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down red apricot trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-13T23:56:03+07:00",
+      "dateModified": "2022-10-05T23:26:37+07:00",
+      "name": "Binge Cherry Leaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/binge-cherry-leaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Elm leaf. Oval-shaped spiral with settled edges, eaten to dispel poison.",
+      "howto": [
+        "Go to the eAuction House to obtain",
+        "Chop down some bunge cherry trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down bunge cherry trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T00:56:03+07:00",
+      "dateModified": "2022-10-06T00:26:37+07:00",
+      "name": "Mulberry Root",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mulberry-root.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Mulberry root. Curved, grayish-brown tendrils, eat to relieve pain.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some mulberry trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down mulberry trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T01:56:03+07:00",
+      "dateModified": "2022-10-06T01:26:37+07:00",
+      "name": "Longleaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/longleaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Longleaf tree leaf. Multi-leaf pattern, eaten to relieve sores.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some longleaf trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down longleaf trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T02:56:03+07:00",
+      "dateModified": "2022-10-06T02:26:37+07:00",
+      "name": "Ironwood Stem",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ironwood-stem.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some ironwood to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down ironwood."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T03:56:03+07:00",
+      "dateModified": "2022-10-06T03:26:37+07:00",
+      "name": "Thorny Pipfruit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/thorny-pipfruit.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging conditions have been met."
+      ],
+      "background-info": "Yellowthorn fruit. Many seeds and with a bitter taste, eaten to relieve discomfort.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down some yellowthorns to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down yellowthorn."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T04:56:03+07:00",
+      "dateModified": "2022-10-06T04:26:37+07:00",
+      "name": "Tree Bark",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/tree-bark.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Daimyo oak bark. Ash gray, split into layers, eaten to relieve pain.",
+      "howto": [
+        "Got to the Auction House to obtain",
+        "Chop down some daimyo oaks to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down daimyo oak."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T05:56:03+07:00",
+      "dateModified": "2022-10-06T05:26:37+07:00",
+      "name": "Ancient Coconut",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ancient-coconut.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Old coconut tree fruit. Juicy on the inside with a clear and sweet texture, eaten to quench thirst.",
+      "howto": [
+        "Got to the Auction House to obtain",
+        "Chop down some coconut trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down ancient coconut trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T06:56:03+07:00",
+      "dateModified": "2022-10-06T06:26:37+07:00",
+      "name": "Poplar Sap",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/poplar-sap.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Poplar trees essence. Resemble water, transparent, eaten to relieve exhaustion.",
+      "howto": [
+        "Got to the Auction House to obtain",
+        "Chop down some poplar trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down poplar trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T07:56:03+07:00",
+      "dateModified": "2022-10-06T07:26:37+07:00",
+      "name": "Pine Resin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pine-resin.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "background-info": "Tree secretion. Oozing, glistening, and rather pungent.",
+      "howto": [
+        "Got to the Auction House to obtain",
+        "Chop down some pine trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down pine trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T08:56:03+07:00",
+      "dateModified": "2022-10-06T08:26:37+07:00",
+      "name": "Palm Leaf",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/palm-leaf.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when Logging skill conditions have been met."
+      ],
+      "howto": [
+        "Got to the Auction House to obtain",
+        "Chop down some palm trees to get",
+        "Orient the Resource Finder to find",
+        "To obtain this item, chop down palm trees."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T09:56:03+07:00",
+      "dateModified": "2022-10-06T09:26:37+07:00",
+      "name": "30 Catties of Logs",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/30-catties-of-logs.jpg"
+      ],
+      "details": [
+        "A magical wood that can be used in Creation."
+      ],
+      "background-info": "Just a small chunk of this divine tree's wood can weigh over 30 pounds.",
+      "howto": [
+        "Go to the Auction House to obtain",
+        "Chop down Laurel Wood, Traveler's Blessing Wood, Longevity Wood, and Boundless Wood",
+        "Orient the Resource Finder to find"
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T10:56:03+07:00",
+      "dateModified": "2022-10-06T10:26:37+07:00",
+      "name": "Grand Tree Soul",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/grand-tree-soul.jpg"
+      ],
+      "details": [
+        "The spirit of a divine tree, it can be used in Creation."
+      ],
+      "howto": [
+        "Go to the Auction House to obtain"
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T11:56:03+07:00",
+      "dateModified": "2022-10-06T11:26:37+07:00",
+      "name": "Red Starefish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-starefish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a body like a tadpole. It is red with an ugly, twisted face and lacks fat. The Eastmount Sea is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near the ocean to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T12:56:03+07:00",
+      "dateModified": "2022-10-06T12:26:37+07:00",
+      "name": "Archerfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/archerfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with an almost egg-like body. It has a flat head and pointed snout, flattened body, and big eyes. Found in various areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Archerfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T13:56:03+07:00",
+      "dateModified": "2022-10-06T13:26:37+07:00",
+      "name": "Black Carp",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/black-carp.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "Freshwater fish with a long body, slightly blunt snout, and two rows of comb-shaped narrow teeth. It is dorsal fin no hard spines and the outer edge is flat. Often seen nearby the Westmount Freshwaters.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in freshwater somewhere inland to obtain Black Carp."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T14:56:03+07:00",
+      "dateModified": "2022-10-06T14:26:37+07:00",
+      "name": "Greensuit Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/greensuit-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish, tiny in size and green all over with a white abdomen and large eyes. Commonly found in Westmount Sea.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near the ocean to obtain Greensuit Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T15:56:03+07:00",
+      "dateModified": "2022-10-06T15:26:37+07:00",
+      "name": "Moonfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/moonfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish that is thin and tall, with a long and slender tail, forked tail fin, and long slender chest fins in the shape of sickles. Found in various sea areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on near the ocean to obtain Moon Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T16:56:03+07:00",
+      "dateModified": "2022-10-06T16:26:37+07:00",
+      "name": "Pufferfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pufferfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a round body, flat head, and tapered tail. It has a pale black back with thick black markings, and a white belly with no scales. Often found nearby Eastmount freshwaters.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount in freshwater somewhere inland to obtain Pufferfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T17:56:03+07:00",
+      "dateModified": "2022-10-06T17:26:37+07:00",
+      "name": "Peacock Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/peacock-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "Freshwater fish with a thin body, flamboyantly colorful and an elegant body shape, In various freshwater areas traces of it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in Freshwater somewhere inland to obtain Peacock Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T18:56:03+07:00",
+      "dateModified": "2022-10-06T18:26:37+07:00",
+      "name": "Zebrafish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/zebrafish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "Freshwater fish with a spindle-shaped body, small and slightly pointed head, and short snout. In various freshwater areas traces of it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in Freshwater somewhere inland to obtain Zebrafish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T19:56:03+07:00",
+      "dateModified": "2022-10-06T19:26:37+07:00",
+      "name": "Hairtail",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/hairtail.jpg",
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/barbled-dragonfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A deep-sea fish that is small, with a large head, large number of long fangs, and luminous part. It is fierce. Sealand Sea area is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in freshwater somewhere inland to obtain Hairtail.",
+        "Go fishing around Centralmount near the small island there to obtain Hairtail."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T20:56:03+07:00",
+      "dateModified": "2022-10-06T20:26:37+07:00",
+      "name": "Nibea",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/nibea.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with an extended, flattened body and slightly raised back. The snout protrudes a little. It has a large maw tilted upwards. Centralmount sea areas are where it can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount in freshwater somewhere inland to obtain Hairtail."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T21:56:03+07:00",
+      "dateModified": "2022-10-06T21:26:37+07:00",
+      "name": "Purple Snapper",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/purple-snapper.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long and oval body. It has rounded back and belly, and its dorsal fin curves slightly in an arc. Both eyes are evenly spaced. Southmount Sea is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near the ocean to obtain Purple Snapper."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T22:56:03+07:00",
+      "dateModified": "2022-10-06T22:26:37+07:00",
+      "name": "Freshwater Carp",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/freshwater-carp.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a slightly flattened body, a large head with a pointed end, and a flat and wide back of the head, with a raised dorsal posterior. The mouth is less prominent, and it has two pairs of whiskers, with a snout whiskers shorter than the jaw. Often found in Southmount freshwater.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in freshwater somewhere inland to obtain Freshwater Carp."
+      ]
+    },
+    {
+      "datePublished": "2022-01-14T23:56:03+07:00",
+      "dateModified": "2022-10-06T23:26:37+07:00",
+      "name": "Dace",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/dace.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish that is spindle-Shaped and flattened. It has a short head, rounded and blunt snout, and two pairs of whiskers. It has no spines on its dorsal fin, and short chest fins. It tail fin is board and forked. Usually found nearby Westmount freshwater areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in freshwater somewhere inland to obtain Dace."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T00:56:03+07:00",
+      "dateModified": "2022-10-07T00:26:37+07:00",
+      "name": "Pomfret",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pomfret.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a short yet tall body. It is very flat and slightly diamond-shaped. It has a fairly small head, round snout, small mouth, and fine teeth, Southmount sea is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near the ocean to obtain Pomfret."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T01:56:03+07:00",
+      "dateModified": "2022-10-07T01:26:37+07:00",
+      "name": "Tang",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/tang.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a oval body, flat. It has a thin and powerful caudal peduncle. It has a small mouth with dense row of incisor-like teeth, or bristle-like teeth. Various sea areas are where it can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Tang."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T02:56:03+07:00",
+      "dateModified": "2022-10-07T02:26:37+07:00",
+      "name": "Mola",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mola.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a flat body, oval in shape with no caudal peduncle. It has small eyes on the upper sides of its head and a protruding septum. Its snout it round and blunt. Eastmount sea is where it can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near the ocean to obtain Mola."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T03:56:03+07:00",
+      "dateModified": "2022-10-07T03:26:37+07:00",
+      "name": "Black Kingfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/black-kingfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long nearly cylindrical body. It is head is flat and wide and its eyes are small with squeezed fat. Its mouth is horizontal and close to the tip of its snout. Southmount Sea is where it maybe found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near the ocean to obtain Black Kingfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T04:56:03+07:00",
+      "dateModified": "2022-10-07T04:26:37+07:00",
+      "name": "Slimfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/slimfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount near the ocean to obtain Slimfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T05:56:03+07:00",
+      "dateModified": "2022-10-07T05:26:37+07:00",
+      "name": "Silvercut Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/silvercut-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish, slim, slivery, with a singular short dorsal fin. No lateral line, no scales on the head. Westmount Sea is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near the ocean to obtain Silvercut Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T06:56:03+07:00",
+      "dateModified": "2022-10-07T06:26:37+07:00",
+      "name": "Stonespot Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stonespot-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a generally oval or long oval flattened body. The head is taller than the body, the dorsal fin is strong and connected to the fin selections. Centralmount Sea is where it maybe found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount near the ocean to obtain Slimfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T07:56:03+07:00",
+      "dateModified": "2022-10-07T07:26:37+07:00",
+      "name": "Mackerel",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mackerel.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a smooth and delicate body. It is spindle-shaped, has a blue-black back, is covered in blue sports, and has a slivery gray abdomen. It is swift and fierce. Various sea areas are here it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Mackerel."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T08:56:03+07:00",
+      "dateModified": "2022-10-07T08:26:37+07:00",
+      "name": "Gurnard",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gurnard.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish, red in color and with body like a slender woman. Traditionally known as a gurnard or red maiden fish. Most often seen near the Eastmount Sea.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near the ocean to obtain Gurnard."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T09:56:03+07:00",
+      "dateModified": "2022-10-07T09:26:37+07:00",
+      "name": "Black Scraper",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/black-scraper.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long oval body and tall sides. Its skin is rough and thick. Often found nearby the Westmount Sea.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near the ocean to obtain Gurnard."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T10:56:03+07:00",
+      "dateModified": "2022-10-07T10:26:37+07:00",
+      "name": "Frost Silver Carp",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/frost-silver-carp.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a tall and flat body, small in size. It has a dull-colored black and ligh-colored, almost white belly. Often seen around Eastmount freshwaters.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount freshwater somewhere inland to obtain Frost Silver Carp."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T11:56:03+07:00",
+      "dateModified": "2022-10-07T11:26:37+07:00",
+      "name": "Spotted Scat",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spotted-scat.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a slightly oval body, flat and tall. It has deep notching between the hard spine and soft lines of its dorsal fin.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in freshwater somewhere inland to obtain Spotted Scat."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T12:56:03+07:00",
+      "dateModified": "2022-10-07T12:26:37+07:00",
+      "name": "Frontosa",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/frontosa.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a high dorsal arc and a gentle ventral arc. The dorsal fin is broad and the tail fin is forked. It is black and white. In various freshwater areas traces of it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in freshwater somewhere inland to obtain Frontosa."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T13:56:03+07:00",
+      "dateModified": "2022-10-07T13:26:37+07:00",
+      "name": "Catfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/catfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with an elongated body, flattened head and tail. The mouth is located on the lower part of its head and is small, with the corners reaching below the front edge of its eyes. Usually found nearby Southmount freshwater areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount freshwater somewhere inland to obtain Catfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T14:56:03+07:00",
+      "dateModified": "2022-10-07T14:26:37+07:00",
+      "name": "Firemouth Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/firemouth-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish that is small and has colorful stripes. Its fin spines carry venom. Westmount sea is where it can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near the ocean to obtain Firemouth Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T15:56:03+07:00",
+      "dateModified": "2022-10-07T15:26:37+07:00",
+      "name": "Blue Butterflyfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/blue-butterflyfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Blue Butterflyfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T16:56:03+07:00",
+      "dateModified": "2022-10-07T16:26:37+07:00",
+      "name": "Bullet Mackerel",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bullet-mackerel.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish, quite large, peculiar in shape, with sharp teeth. It like to live alone.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Bullet Mackerel."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T17:56:03+07:00",
+      "dateModified": "2022-10-07T17:26:37+07:00",
+      "name": "Moorish Idol",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/moorish-idol.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a disc-shape body, triangular head, pointed mouth, and eyes near the top of the head. It has a slivery-white and pale yellow body, and golden yellow dorsal, rear, and tail fin. Eastmount Sea is where is can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near the ocean to obtain Moorish Idol."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T18:56:03+07:00",
+      "dateModified": "2022-10-07T18:26:37+07:00",
+      "name": "Titan Triggerfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/titan-triggerfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with flattened body and small mouth. It has rough skin and non-overlapping prickly scale. Centralmount Sea is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount near the ocean to obtain Titan Triggerfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T19:56:03+07:00",
+      "dateModified": "2022-10-07T19:26:37+07:00",
+      "name": "Gourami",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gourami.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount Shogawater somewhere inland to obtain Titan Gourami."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T20:56:03+07:00",
+      "dateModified": "2022-10-07T20:26:37+07:00",
+      "name": "Yellow Boxfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/yellow-boxfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a yellow box-shape body with brown spots. The yellow color turns brown when it be comes an adult fish.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near ocean to obtain Yellow Boxfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T21:56:03+07:00",
+      "dateModified": "2022-10-07T21:26:37+07:00",
+      "name": "Yellowfin",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/yellowfin.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount in freshwater somewhere inland to obtain Yellowfin."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T22:56:03+07:00",
+      "dateModified": "2022-10-07T22:26:37+07:00",
+      "name": "Clownfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/clownfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with an oval shape-body and lot of scale. It is brightly colored, with black stripes splitting orange and white live with anemones.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near ocean to obtain Clownfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-15T23:56:03+07:00",
+      "dateModified": "2022-10-07T23:26:37+07:00",
+      "name": "Porgies",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/porgies.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with an oval shape-body, large head and small mouth. It has continuous dorsal fin with no notches in the middle, and the rear and dorsal fin are in parralled, while its tai ifs forked.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount near ocean to obtain Porgies."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T00:56:03+07:00",
+      "dateModified": "2022-10-08T00:26:37+07:00",
+      "name": "Gold Barb",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gold-barb.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish which is spindle-shaped, slightly flat and resembles the common carp, but without the feelers at the mouth. Southmount is where traces of it maybe found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount on Seide Islet somewhere inland to obtain Gold Barb."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T01:56:03+07:00",
+      "dateModified": "2022-10-08T01:26:37+07:00",
+      "name": "Eyebiter",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/eyebiter.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in freshwater somewhere inland to obtain Eyebiter."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T02:56:03+07:00",
+      "dateModified": "2022-10-08T02:26:37+07:00",
+      "name": "Bigeye",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bigeye.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long flat body and short snout. It has big eyes on a mid-sized head, and a short, large upturned mouth. The Eastmount Sea is where it can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near the ocean to obtain Bigeye."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T03:56:03+07:00",
+      "dateModified": "2022-10-08T03:26:37+07:00",
+      "name": "Pirarucu",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/pirarucu.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A Freshwater fish with a well-developed teeth and tongue. It can bite with the teeth that grow on its palate. It has a green body and reddish tail fin.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in freshwater somewhere inland to obtain Pirarucu."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T04:56:03+07:00",
+      "dateModified": "2022-10-08T04:26:37+07:00",
+      "name": "Cod",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cod.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near the ocean to obtain Cod."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T05:56:03+07:00",
+      "dateModified": "2022-10-08T05:26:37+07:00",
+      "name": "Perciformes",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/perciformes.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish that is ligh orange-red or orange-yellow from head and throat at the abdomen. It is ligh green-gray on the back, with light gray-back lines.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount in the lake of beauties somewhere inland to obtain Perciformes."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T06:56:03+07:00",
+      "dateModified": "2022-10-08T06:26:37+07:00",
+      "name": "Goldfin Carp",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/goldfin-carp.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with flattened body and rounded abdomen. It has horseshoe-shaped mouth and two pair of feelers. The dorsal mouth and back fins have tough serrated spines. The side of its body are golden yellow.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount on Stort Islet somewhere inland to obtain Goldfin Carp."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T07:56:03+07:00",
+      "dateModified": "2022-10-08T07:26:37+07:00",
+      "name": "Boxfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/boxfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish, the body is covered with plates, and the cross selection is quadrangular. All fin have no spines. Westmount Blizzard Plains Sea Area where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount Blizzard Plains near ocean to obtain Boxfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T08:56:03+07:00",
+      "dateModified": "2022-10-08T08:26:37+07:00",
+      "name": "Stingray",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/stingray.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in the Yume River Basin somewhere inland to obtain Stringary."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T09:56:03+07:00",
+      "dateModified": "2022-10-08T09:26:37+07:00",
+      "name": "Eleotris",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/eleotris.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long flat body, It has small, flat head, and short rounded snout. It has large eyes on the top of its head.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near the ocean to obtain Eleotris."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T10:56:03+07:00",
+      "dateModified": "2022-10-08T10:26:37+07:00",
+      "name": "Titanfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/titanfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount near the ocean to obtain Titanfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T11:56:03+07:00",
+      "dateModified": "2022-10-08T11:26:37+07:00",
+      "name": "Bluewirl Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bluewirl-fish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish that is diamond shaped, with a very flat body and blue parttern. The edge of its trailing caudal fins is flat, and the dorsal and rear fins extend backward.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount near the ocean to obtain Bluewirl Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T12:56:03+07:00",
+      "dateModified": "2022-10-08T12:26:37+07:00",
+      "name": "Blamprey",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/blamprey.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in the Gossamer River Basin somewhere inland to obtain Blamprey."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T13:56:03+07:00",
+      "dateModified": "2022-10-08T13:26:37+07:00",
+      "name": "Hilsa Herring",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/hilsa-herring.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with green black. Its sides and belly are slivery-white. The back of its snout is pale gray, fins are yellowish, and dorsal and tail fin edge grayish-black.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount at Mount Ascendus near ocean to obtain Blamprey."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T14:56:03+07:00",
+      "dateModified": "2022-10-08T14:26:37+07:00",
+      "name": "Mousefish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/mousefish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with bony plate all over its body. the pectoral fins and first dorsal fin are hard spines. It has whiskers at its mouth corners, resembling a mouse.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount in freshwater somewhere inland to obtain Mousefish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T15:56:03+07:00",
+      "dateModified": "2022-10-08T15:26:37+07:00",
+      "name": "Tigerfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/tigerfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a long body and horizontal stripes. Its tail is forked, has large teeth, and it is fierce in nature. Westmount Chandelier Coast is Where traces can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount by the Chandelier Coast somewhere inland to obtain Tigerfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T16:56:03+07:00",
+      "dateModified": "2022-10-08T16:26:37+07:00",
+      "name": "Luna Lionfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/luna-lionfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish that is small and light brown with bright stripes. Its fin spines carry Venom.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount near ocean to obtain Luna Lionfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T17:56:03+07:00",
+      "dateModified": "2022-10-08T17:26:37+07:00",
+      "name": "Leopardfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/leopardfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a strong body with a large and heavy head. Fierce and tough, it's not picky about food.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in freshwater somewhere inland to obtain Leopardfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T18:56:03+07:00",
+      "dateModified": "2022-10-08T18:26:37+07:00",
+      "name": "Wrasse",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/wrasse.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a long and oval body. It has flat head from the back to the eye, ending in a protrusion. The adult fish has a prominent forhead, and it is medium-large.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near ocean to obtain Wrasse."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T19:56:03+07:00",
+      "dateModified": "2022-10-08T19:26:37+07:00",
+      "name": "Spinibarbus",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/spinibarbus.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a slightly flattened body. It has a small and slightly pointed head, and its mouth low on its head. It has two pairs of whiskers, with the jaw whiskers longer than the diamater of its eye and it snout whiskers are slightly shorter.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in freshwater somewhere inland to obtain Spinibarbus."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T20:56:03+07:00",
+      "dateModified": "2022-10-08T20:26:37+07:00",
+      "name": "Shovefish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/shovefish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a long and slightly flattened body, and the snout is long and flattened resembling a duckbill.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in freshwater somewhere inland to obtain Shovefish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T21:56:03+07:00",
+      "dateModified": "2022-10-08T21:26:37+07:00",
+      "name": "Swallowfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/swallowfish.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish that is diamond-shaped, with a very flat body, and very flat tail fin edge. It has dorsal and rear fin which extended backwards symmertrically, above and below.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount near ocean to obtain Swallowfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T22:56:03+07:00",
+      "dateModified": "2022-10-08T22:26:37+07:00",
+      "name": "Shark",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/shark-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with hard skin, strong tail, sharp teeth, and a spindle-like body. It has no swim bladder and has to keep swimming to avoid sinking to the bottom.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing inland in the Eastmount Riverine Plains to obtain Shark."
+      ]
+    },
+    {
+      "datePublished": "2022-01-16T23:56:03+07:00",
+      "dateModified": "2022-10-08T23:26:37+07:00",
+      "name": "Barramunkun",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/barramunkun-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a spindle-shaped body. It is thicker in the center and tapers out toward the head and tail. It is fierce in nature a good swimmer, and very fast.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in Kotalo Quay somewhere inland to obtain Barramunkun."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T00:56:03+07:00",
+      "dateModified": "2022-10-09T00:26:37+07:00",
+      "name": "Great White Shark",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/great-white-shark-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a spindle-shaped body and stout torso. It head is generally long. There are depressions on the top and bottom of its tail base, which tapers and pointy.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in Bridle Sea somewhere inland to obtain Great White Shark."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T01:56:03+07:00",
+      "dateModified": "2022-10-09T01:26:37+07:00",
+      "name": "Skewerfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/skewerfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish which is spindle-shaped. It is slightly flattened, with longer and thinner tail. Its second dorsal fins and rear fins are extended, ventral fins atits chest, and tail fin crescent-shaped. its tail is developed.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Centralmount on Yellowsun Slope near the ocean to obtain Skewerfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T02:56:03+07:00",
+      "dateModified": "2022-10-09T02:26:37+07:00",
+      "name": "Bluejade Fish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bluejade-fish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a flattened oval body, a triangular head, and slightly thick snout. The dorsal fin is extended and a dozen hard spines are in rows in front.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Eastmount at the Sputnik River Basin somewhere inland to obtain Bluejade Fish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T03:56:03+07:00",
+      "dateModified": "2022-10-09T03:26:37+07:00",
+      "name": "Muddled Catfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/muddled-catfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish with a brownish body. It Swims with its belly facing up. The upper part of its body lighter than its lower part so that it can hide easily. It likes to eat floating bait, and swims backward when eating. Westmount Frost-covered Lake is where traces can be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Westmount in the Frost-covered Lake somewhere inland to obtain Muddled Catfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T04:56:03+07:00",
+      "dateModified": "2022-10-09T04:26:37+07:00",
+      "name": "Bream",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bream-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish that is small, with a blue body and fierce temperament. It feeds on shellfish and has astonishing bite power.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing on Southmount in the Oceanbreath Sea somewhere inland to obtain Bream."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T05:56:03+07:00",
+      "dateModified": "2022-10-09T05:26:37+07:00",
+      "name": "Butterflyfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/butterflyfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a flattened body, prominent snout, and colorful, elegant look. Found in various sea areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near ocean to obtain Butterflyfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T06:56:03+07:00",
+      "dateModified": "2022-10-09T06:26:37+07:00",
+      "name": "Phoenixfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/phoenixfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A marine fish with a spindle-shaped body, flat, with fan-shaped caudal fins, not forked. Found in various sea areas.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing near ocean to obtain Phoenixfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T07:56:03+07:00",
+      "dateModified": "2022-10-09T07:26:37+07:00",
+      "name": "Red-bellied Piranha",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-bellied-piranha-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A freshwater fish that is oval, flat, and has a shaped tail fin. It has sharp teeth and well-developed lower jaw with spines. It is known for its ferocity.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing in a freshwater somewhere inland to obtain Red-bellied Piranha."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T08:56:03+07:00",
+      "dateModified": "2022-10-09T08:26:37+07:00",
+      "name": "Viperfish",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/viperfish-chimeraland.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "A deep-sea fish, small, with luminous parts. It has large and prominent teeth like a python and is ugly. Sealand Sea area is where it may be found.",
+      "howto": [
+        "Go to the Auction House to obtain it.",
+        "Go fishing around Centralmount near the small island there to obtain Viperfish."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T09:56:03+07:00",
+      "dateModified": "2022-10-09T09:26:37+07:00",
+      "name": "Wild Garlic",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/wild-garlic.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and reduces Toxins by 30, but also inflicts cold. Feed pets to increase Fullness an EXP."
+      ],
+      "howto": [
+        "Gather at the top of a mountain to get Wild Garlic.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T10:56:03+07:00",
+      "dateModified": "2022-10-09T10:26:37+07:00",
+      "name": "Dew",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/dew.jpg"
+      ],
+      "details": [
+        "Consume to gain 20 Fullness and 5 Heat Resistance, but inflicts cold. It can be fed to pets to increase their Fullness and EXP, used to fertilize plants to reduce cultivation time by 5 minutes, or used to fertilize fields to increase Fertility by 500."
+      ],
+      "howto": [
+        "Gather Wild Fruit to get Dew.",
+        "Explore world to get.",
+        "Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T11:56:03+07:00",
+      "dateModified": "2022-10-09T11:26:37+07:00",
+      "name": "Ice Piece",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/ice-piece.jpg"
+      ],
+      "details": [
+        "Eating restores 30 Fullness and grants Heat Resistance +5, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Gather in the Tundra or at Snowy Peak to get Ice Piece.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T12:56:03+07:00",
+      "dateModified": "2022-10-09T12:26:37+07:00",
+      "name": "Apple",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/apple.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "background-info": "Crystal fruit looks like an ice crystal and feels cold to match.",
+      "howto": [
+        "Explore the World to get.",
+        "Auction House.",
+        "Orient the Resource Finder to find."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T13:56:03+07:00",
+      "dateModified": "2022-10-09T13:26:37+07:00",
+      "name": "Cauliflower",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/cauliflower.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and gives a little bit of EXP, but inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Explore the world to gather.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T14:56:03+07:00",
+      "dateModified": "2022-10-09T14:26:37+07:00",
+      "name": "Orchid",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/orchid.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering orchids."
+      ],
+      "background-info": "An common herb found anywhere. It's leaves are like an orchid, it's stem like a bellflower. It flourishes in brilliant light. Apply it to dispelhunger. it has a lavender glow at night.",
+      "howto": [
+        "Explore the world to gather.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, gather orchids."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T15:56:03+07:00",
+      "dateModified": "2022-10-09T15:26:37+07:00",
+      "name": "Parasitic Grass",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/parasitic-grass.jpg"
+      ],
+      "details": [
+        "Gather any plants to obtain this basic gathering items."
+      ],
+      "howto": [
+        "Gather medicinal materials to get Parasitic Grass.",
+        "Hunt Grand Venus Flytrap to obtain it.",
+        "Orient the Resource Finder to find.",
+        "Go to the Auction House to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T16:56:03+07:00",
+      "dateModified": "2022-10-09T16:26:37+07:00",
+      "name": "Melon",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/melon.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and gives a little bit of EXP, but inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Explore the world to gather.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T17:56:03+07:00",
+      "dateModified": "2022-10-09T17:26:37+07:00",
+      "name": "Anise",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/anise.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering skill conditions have been met."
+      ],
+      "background-info": "A relatively common herb, often mistaken for a tree even though it is not. With a thick stem, green leaves, and red flowers, it is found everywhere on the prairie. Taken to boost memory.",
+      "howto": [
+        "Explore the world to get Anise.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, gather anise."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T18:56:03+07:00",
+      "dateModified": "2022-10-09T18:26:37+07:00",
+      "name": "Fiber",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/fiber.jpg"
+      ],
+      "details": [
+        ""
+      ],
+      "background-info": "Silk produced from a silk tree. Soft and smooth to the though as well as translucent, it is often used to make cloth.",
+      "howto": [
+        "Purchase Fiber from Grocer or Home Shop.",
+        "Purchase Newbie Resource Pack.",
+        "Purchase Prosperous Year (Small).",
+        "Gather plants to get Grass Fiber.",
+        "Hunt Grand Venus Flytrap to obtain it.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T19:56:03+07:00",
+      "dateModified": "2022-10-09T19:26:37+07:00",
+      "name": "Job's Tears",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/jobs-tears.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and reduces Humidity by 30, but also inflicts cold. Feed pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Gather at the water's edge to get Job's Tears.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T20:56:03+07:00",
+      "dateModified": "2022-10-09T20:26:37+07:00",
+      "name": "Waterproof Mushroom",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/waterproof-mushroom.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and reduces Humidity by 30, but inflicts cold."
+      ],
+      "howto": [
+        "Gather Waterproof mushrooms on the prairie while it's raining to obtain it.",
+        "Orient the Resource Finder to find.",
+        "Go to the Auction House to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T21:56:03+07:00",
+      "dateModified": "2022-10-09T21:26:37+07:00",
+      "name": "Gilled Mushroom",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/gilled-mushroom.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and grants Cold Resistance +5, but inflicts cold."
+      ],
+      "howto": [
+        "Gather gilled mushrooms on the prairie at night to obtain it.",
+        "Orient the Resource Finder to find.",
+        "Go to the Auction House to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T22:56:03+07:00",
+      "dateModified": "2022-10-09T22:26:37+07:00",
+      "name": "Sea Buckthorn",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/sea-buckthorn.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and grants Lv.1 Sandstorm resistance, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Gather in the Desert or at the Deserted Mountain to get Sea Buckthorn.",
+        "Orient the Resource Finder to find.",
+        "Go to the Auction House to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-17T23:56:03+07:00",
+      "dateModified": "2022-10-09T23:26:37+07:00",
+      "name": "Hot Pepper",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/hot-pepper.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and grants Lv.1 Sandstorm resistance, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "howto": [
+        "Gather in the Desert or at the Deserted Mountain to get Hot Pepper.",
+        "Orient the Resource Finder to find.",
+        "Go to the Auction House to obtain it."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T00:56:03+07:00",
+      "dateModified": "2022-10-10T00:26:37+07:00",
+      "name": "Royle's Spurge",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/royles-spurge.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering skill conditions have been met."
+      ],
+      "background-info": "A somewhat rare herb, its creeping stem holds many branches and matching leaves. Often taken to increase longevity. It can be found growing on the scorchingly hot Deserted Mountain.",
+      "howto": [
+        "Explore the world to gather Royle's Spurge.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this items, gather royle's spurge."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T01:56:03+07:00",
+      "dateModified": "2022-10-10T01:26:37+07:00",
+      "name": "Bodhi Fruit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/bodhi-fruit.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and grants Cold Resistance +5, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "background-info": "Like a jade ship endowed with mountain mist, this rare wild fruit is found in the desert.",
+      "howto": [
+        "Gather in the Desert or at the Deserted Mountain to get Bodhi Fruit.",
+        "Orient the Resource Finder to find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T02:56:03+07:00",
+      "dateModified": "2022-10-10T02:26:37+07:00",
+      "name": "Red Goodfruit",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/red-goodfruit.jpg"
+      ],
+      "details": [
+        "Eating restores 60 Fullness and grants Cold Resistance +5, but also inflicts cold. Feed to pets to increase Fullness and EXP."
+      ],
+      "background-info": "Like a sun-kissed mango responding to a flock of birds, this rare wild fruit is found only at Snowy Peak.",
+      "howto": [
+        "Gather in the Tundra or at Snowy Peak.",
+        "Orient the Resource Finder to Find.",
+        "Auction House."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T03:56:03+07:00",
+      "dateModified": "2022-10-10T03:26:37+07:00",
+      "name": "Honor Grass",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/honor-grass.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering skill conditions have been met."
+      ],
+      "background-info": "An extremely rare herb, distinguished by tangled, branching roots as well as purple leaves and flowers. Taken to protect against thunder, it can only be found on Snowy Peak.",
+      "howto": [
+        "Explore the world to gather Honor Grass.",
+        "Orient the Resource Finder to Find.",
+        "Auction House.",
+        "To obtain this item, gather honor grass."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T04:56:03+07:00",
+      "dateModified": "2022-10-10T04:26:37+07:00",
+      "name": "Yellow Grass",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/yellow-grass.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering skill conditions have been met."
+      ],
+      "background-info": "A somewhat rare herb with a straight stalk and yellow fruit similar to an apricot, sweet tasting as well as nutritious, found only on the Deserted Mountain.",
+      "howto": [
+        "Explore the world to gather Yellow Grass.",
+        "Orient the Resource Finder to find.",
+        "Go to Auction House to obtain it.",
+        "To obtain this item, gather yellow grass."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T05:56:03+07:00",
+      "dateModified": "2022-10-10T05:26:37+07:00",
+      "name": "Lingzhi",
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/materials-list/basic-materialist-list/lingzhi.jpg"
+      ],
+      "details": [
+        "Can be used for Creation. There is a chance to obtain it when gathering skill conditions have been met."
+      ],
+      "background-info": "An extremely rare herb grown from dew. Its fruit resembles Lingzhi mushrooms. Taken to increase longevity. Found only on Snowy Peak.",
+      "howto": [
+        "Explore the world to gather Lingzhi.",
+        "Orient the Resource Finder to find.",
+        "Auction House.",
+        "To obtain this item, gather Lingzhi."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T06:56:03+07:00",
+      "dateModified": "2022-10-10T06:26:37+07:00",
+      "name": "Moon Resin Dew",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/moon-resin-dew.png"
+      ],
+      "details": [
+        "Used for Evolve White Maiden"
+      ],
+      "howto": [
+        "Moon Resin Dew Obtain from smelting Illustrious giant beast materials."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T07:56:03+07:00",
+      "dateModified": "2022-10-10T07:26:37+07:00",
+      "name": "Dragon Pill",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/dragon-pill.png"
+      ],
+      "details": [
+        "Used for Evolve White Maiden"
+      ],
+      "howto": [
+        "Dragon Pill Obtain by Auction House, Hunt the Illustrious Wyrm Greenie, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T08:56:03+07:00",
+      "dateModified": "2022-10-10T08:26:37+07:00",
+      "name": "Primal",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/primal.png"
+      ],
+      "details": [
+        "Used for Evolve Noble Golden Crow",
+        "Used for Evolve Noble Serpent"
+      ],
+      "howto": [
+        "Primal Obtain from shattering Limited Blood Eggs.",
+        "Primal Obtain from smelting Limited Blood Eggs."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T09:56:03+07:00",
+      "dateModified": "2022-10-10T09:26:37+07:00",
+      "name": "Cray Pill",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/dragon-pill.png"
+      ],
+      "details": [
+        "Used for Evolve Noble Golden Crow"
+      ],
+      "howto": [
+        "Dragon Pill Obtain by Auction House, Hunt the ocean beast Noble Cray, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T10:56:03+07:00",
+      "dateModified": "2022-10-10T10:26:37+07:00",
+      "name": "Frost Dragon Primal Element",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/frost-dragon-primal-element.png"
+      ],
+      "details": [
+        "Used for Evolve Noble Serpent"
+      ],
+      "howto": [
+        "Frost Dragon Primal Element Obtain Hunt a Noble Ice Whale, and Explore the world."
+      ]
+    },
+    {
+      "datePublished": "2022-01-18T11:56:03+07:00",
+      "dateModified": "2022-10-10T11:26:37+07:00",
+      "name": "Fallen Snow Bone",
+      "images": [
+        "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/fallen-snow-bone.png"
+      ],
+      "details": [
+        "Used for Evolve Bony Sabretooth"
+      ]
+    }
+  ]
+}
