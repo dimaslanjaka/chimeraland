@@ -38,7 +38,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pining-feather/pining-feather.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pining-feather/pining-feather.webp",
         "pathname": "/chimeraland/materials/pining-feather/pining-feather.webp"
       }
     ],
@@ -56,7 +56,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp",
         "pathname": "/chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp"
       }
     ],
@@ -74,7 +74,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/clan-contribution/clan-contribution.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/clan-contribution/clan-contribution.webp",
         "pathname": "/chimeraland/materials/clan-contribution/clan-contribution.webp"
       }
     ],
@@ -96,7 +96,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp",
         "pathname": "/chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp"
       }
     ],
@@ -121,7 +121,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp",
         "pathname": "/chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp"
       }
     ],
@@ -149,31 +149,31 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/precious-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/precious-jade.webp",
         "pathname": "/chimeraland/materials/precious-jade/precious-jade.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/eastmount-3.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/eastmount-3.webp",
         "pathname": "/chimeraland/materials/precious-jade/eastmount-3.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/eastmount.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/eastmount.webp",
         "pathname": "/chimeraland/materials/precious-jade/eastmount.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/southmount.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/southmount.webp",
         "pathname": "/chimeraland/materials/precious-jade/southmount.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/westmount-2.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/westmount-2.webp",
         "pathname": "/chimeraland/materials/precious-jade/westmount-2.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/westmount-3.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/westmount-3.webp",
         "pathname": "/chimeraland/materials/precious-jade/westmount-3.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/precious-jade/westmount.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/precious-jade/westmount.webp",
         "pathname": "/chimeraland/materials/precious-jade/westmount.webp"
       }
     ],
@@ -201,11 +201,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pale-jade/pale-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pale-jade/pale-jade.webp",
         "pathname": "/chimeraland/materials/pale-jade/pale-jade.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pale-jade/eastmount.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pale-jade/eastmount.webp",
         "pathname": "/chimeraland/materials/pale-jade/eastmount.webp"
       }
     ],
@@ -232,7 +232,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/brilliant-jade/brilliant-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/brilliant-jade/brilliant-jade.webp",
         "pathname": "/chimeraland/materials/brilliant-jade/brilliant-jade.webp"
       }
     ],
@@ -259,7 +259,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stone/stone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stone/stone.webp",
         "pathname": "/chimeraland/materials/stone/stone.webp"
       }
     ],
@@ -280,7 +280,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/hoof-sinew/hoof-sinew.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/hoof-sinew/hoof-sinew.webp",
         "pathname": "/chimeraland/materials/hoof-sinew/hoof-sinew.webp"
       }
     ],
@@ -303,7 +303,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/silver/silver.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/silver/silver.webp",
         "pathname": "/chimeraland/materials/silver/silver.webp"
       }
     ],
@@ -327,7 +327,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/copper/copper.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/copper/copper.webp",
         "pathname": "/chimeraland/materials/copper/copper.webp"
       }
     ],
@@ -350,7 +350,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/iron/iron.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/iron/iron.webp",
         "pathname": "/chimeraland/materials/iron/iron.webp"
       }
     ],
@@ -372,7 +372,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/crystal/crystal.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/crystal/crystal.webp",
         "pathname": "/chimeraland/materials/crystal/crystal.webp"
       }
     ],
@@ -396,7 +396,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-gold/red-gold.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-gold/red-gold.webp",
         "pathname": "/chimeraland/materials/red-gold/red-gold.webp"
       }
     ],
@@ -420,7 +420,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gold/gold.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gold/gold.webp",
         "pathname": "/chimeraland/materials/gold/gold.webp"
       }
     ],
@@ -442,7 +442,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/siderite/siderite.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/siderite/siderite.webp",
         "pathname": "/chimeraland/materials/siderite/siderite.webp"
       }
     ],
@@ -466,7 +466,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/dark-jade/dark-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/dark-jade/dark-jade.webp",
         "pathname": "/chimeraland/materials/dark-jade/dark-jade.webp"
       }
     ],
@@ -489,7 +489,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/lux-gold/lux-gold.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/lux-gold/lux-gold.webp",
         "pathname": "/chimeraland/materials/lux-gold/lux-gold.webp"
       }
     ],
@@ -513,7 +513,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/first-jade/first-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/first-jade/first-jade.webp",
         "pathname": "/chimeraland/materials/first-jade/first-jade.webp"
       }
     ],
@@ -535,7 +535,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/star-stone/star-stone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/star-stone/star-stone.webp",
         "pathname": "/chimeraland/materials/star-stone/star-stone.webp"
       }
     ],
@@ -559,11 +559,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/find-jade/find-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/find-jade/find-jade.webp",
         "pathname": "/chimeraland/materials/find-jade/find-jade.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/find-jade/fine-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/find-jade/fine-jade.webp",
         "pathname": "/chimeraland/materials/find-jade/fine-jade.webp"
       }
     ],
@@ -582,7 +582,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/chunk-of-fat/chunk-of-fat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/chunk-of-fat/chunk-of-fat.webp",
         "pathname": "/chimeraland/materials/chunk-of-fat/chunk-of-fat.webp"
       }
     ],
@@ -602,7 +602,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/vulture-meat/vulture-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/vulture-meat/vulture-meat.webp",
         "pathname": "/chimeraland/materials/vulture-meat/vulture-meat.webp"
       }
     ],
@@ -622,7 +622,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/flatsnout-meat/flatsnout-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/flatsnout-meat/flatsnout-meat.webp",
         "pathname": "/chimeraland/materials/flatsnout-meat/flatsnout-meat.webp"
       }
     ],
@@ -642,7 +642,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gratoise-meat/gratoise-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gratoise-meat/gratoise-meat.webp",
         "pathname": "/chimeraland/materials/gratoise-meat/gratoise-meat.webp"
       }
     ],
@@ -662,7 +662,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/moose-meat/moose-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/moose-meat/moose-meat.webp",
         "pathname": "/chimeraland/materials/moose-meat/moose-meat.webp"
       }
     ],
@@ -682,7 +682,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/warcrab-meat/warcrab-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/warcrab-meat/warcrab-meat.webp",
         "pathname": "/chimeraland/materials/warcrab-meat/warcrab-meat.webp"
       }
     ],
@@ -702,11 +702,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/winnow-meat/winnow-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/winnow-meat/winnow-meat.webp",
         "pathname": "/chimeraland/materials/winnow-meat/winnow-meat.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/winnow-meat/winnor-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/winnow-meat/winnor-meat.webp",
         "pathname": "/chimeraland/materials/winnow-meat/winnor-meat.webp"
       }
     ],
@@ -726,7 +726,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/newt-meat/newt-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/newt-meat/newt-meat.webp",
         "pathname": "/chimeraland/materials/newt-meat/newt-meat.webp"
       }
     ],
@@ -746,7 +746,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/condor-meat/condor-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/condor-meat/condor-meat.webp",
         "pathname": "/chimeraland/materials/condor-meat/condor-meat.webp"
       }
     ],
@@ -766,7 +766,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/litiger-meat/litiger-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/litiger-meat/litiger-meat.webp",
         "pathname": "/chimeraland/materials/litiger-meat/litiger-meat.webp"
       }
     ],
@@ -786,11 +786,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp",
         "pathname": "/chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/leoparbeak-meat/leaoparbeak-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/leoparbeak-meat/leaoparbeak-meat.webp",
         "pathname": "/chimeraland/materials/leoparbeak-meat/leaoparbeak-meat.webp"
       }
     ],
@@ -810,7 +810,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/grizzly-meat/grizzly-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/grizzly-meat/grizzly-meat.webp",
         "pathname": "/chimeraland/materials/grizzly-meat/grizzly-meat.webp"
       }
     ],
@@ -830,7 +830,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/vuldo-meat/vuldo-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/vuldo-meat/vuldo-meat.webp",
         "pathname": "/chimeraland/materials/vuldo-meat/vuldo-meat.webp"
       }
     ],
@@ -850,7 +850,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rhino-meat/rhino-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rhino-meat/rhino-meat.webp",
         "pathname": "/chimeraland/materials/rhino-meat/rhino-meat.webp"
       }
     ],
@@ -870,7 +870,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fortuphant-meat/fortuphant-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fortuphant-meat/fortuphant-meat.webp",
         "pathname": "/chimeraland/materials/fortuphant-meat/fortuphant-meat.webp"
       }
     ],
@@ -890,7 +890,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/prowler-meat/prowler-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/prowler-meat/prowler-meat.webp",
         "pathname": "/chimeraland/materials/prowler-meat/prowler-meat.webp"
       }
     ],
@@ -910,7 +910,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/alligon-meat/alligon-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/alligon-meat/alligon-meat.webp",
         "pathname": "/chimeraland/materials/alligon-meat/alligon-meat.webp"
       }
     ],
@@ -930,7 +930,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beetlefly-meat/beetlefly-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beetlefly-meat/beetlefly-meat.webp",
         "pathname": "/chimeraland/materials/beetlefly-meat/beetlefly-meat.webp"
       }
     ],
@@ -950,7 +950,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/scorab-meat/scorab-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/scorab-meat/scorab-meat.webp",
         "pathname": "/chimeraland/materials/scorab-meat/scorab-meat.webp"
       }
     ],
@@ -970,7 +970,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bosalo-meat/bosalo-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bosalo-meat/bosalo-meat.webp",
         "pathname": "/chimeraland/materials/bosalo-meat/bosalo-meat.webp"
       }
     ],
@@ -990,7 +990,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stoneppo-meat/stoneppo-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stoneppo-meat/stoneppo-meat.webp",
         "pathname": "/chimeraland/materials/stoneppo-meat/stoneppo-meat.webp"
       }
     ],
@@ -1010,7 +1010,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/grouguana-meat/grouguana-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/grouguana-meat/grouguana-meat.webp",
         "pathname": "/chimeraland/materials/grouguana-meat/grouguana-meat.webp"
       }
     ],
@@ -1030,7 +1030,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/wolfspider-meat/wolfspider-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/wolfspider-meat/wolfspider-meat.webp",
         "pathname": "/chimeraland/materials/wolfspider-meat/wolfspider-meat.webp"
       }
     ],
@@ -1055,7 +1055,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-hide/beast-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-hide/beast-hide.webp",
         "pathname": "/chimeraland/materials/beast-hide/beast-hide.webp"
       }
     ],
@@ -1074,7 +1074,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/kidney/kidney.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/kidney/kidney.webp",
         "pathname": "/chimeraland/materials/kidney/kidney.webp"
       }
     ],
@@ -1093,7 +1093,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-intestines/beast-intestines.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-intestines/beast-intestines.webp",
         "pathname": "/chimeraland/materials/beast-intestines/beast-intestines.webp"
       }
     ],
@@ -1112,7 +1112,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-brain/beast-brain.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-brain/beast-brain.webp",
         "pathname": "/chimeraland/materials/beast-brain/beast-brain.webp"
       }
     ],
@@ -1131,7 +1131,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-liver/beast-liver.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-liver/beast-liver.webp",
         "pathname": "/chimeraland/materials/beast-liver/beast-liver.webp"
       }
     ],
@@ -1150,7 +1150,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-heart/beast-heart.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-heart/beast-heart.webp",
         "pathname": "/chimeraland/materials/beast-heart/beast-heart.webp"
       }
     ],
@@ -1171,7 +1171,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/insect-ichor/insect-ichor.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/insect-ichor/insect-ichor.webp",
         "pathname": "/chimeraland/materials/insect-ichor/insect-ichor.webp"
       }
     ],
@@ -1193,7 +1193,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/small-beast-meat/small-beast-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/small-beast-meat/small-beast-meat.webp",
         "pathname": "/chimeraland/materials/small-beast-meat/small-beast-meat.webp"
       }
     ],
@@ -1214,7 +1214,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/crab-claw-meat/crab-claw-meat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/crab-claw-meat/crab-claw-meat.webp",
         "pathname": "/chimeraland/materials/crab-claw-meat/crab-claw-meat.webp"
       }
     ],
@@ -1235,7 +1235,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bear-paw/bear-paw.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bear-paw/bear-paw.webp",
         "pathname": "/chimeraland/materials/bear-paw/bear-paw.webp"
       }
     ],
@@ -1256,7 +1256,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bird-wing/bird-wing.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bird-wing/bird-wing.webp",
         "pathname": "/chimeraland/materials/bird-wing/bird-wing.webp"
       }
     ],
@@ -1280,7 +1280,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp",
         "pathname": "/chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp"
       }
     ],
@@ -1304,7 +1304,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/strange-beast-horn/strange-beast-horn.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/strange-beast-horn/strange-beast-horn.webp",
         "pathname": "/chimeraland/materials/strange-beast-horn/strange-beast-horn.webp"
       }
     ],
@@ -1328,7 +1328,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp",
         "pathname": "/chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp"
       }
     ],
@@ -1352,7 +1352,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/strange-beast-bone/strange-beast-bone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/strange-beast-bone/strange-beast-bone.webp",
         "pathname": "/chimeraland/materials/strange-beast-bone/strange-beast-bone.webp"
       }
     ],
@@ -1377,7 +1377,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/glow-deer-hide/glow-deer-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/glow-deer-hide/glow-deer-hide.webp",
         "pathname": "/chimeraland/materials/glow-deer-hide/glow-deer-hide.webp"
       }
     ],
@@ -1400,7 +1400,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp",
         "pathname": "/chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp"
       }
     ],
@@ -1425,7 +1425,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/trileaf-skin/trileaf-skin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/trileaf-skin/trileaf-skin.webp",
         "pathname": "/chimeraland/materials/trileaf-skin/trileaf-skin.webp"
       }
     ],
@@ -1451,7 +1451,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ambusher-hair/ambusher-hair.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ambusher-hair/ambusher-hair.webp",
         "pathname": "/chimeraland/materials/ambusher-hair/ambusher-hair.webp"
       }
     ],
@@ -1474,7 +1474,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/blood-jade/blood-jade.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/blood-jade/blood-jade.webp",
         "pathname": "/chimeraland/materials/blood-jade/blood-jade.webp"
       }
     ],
@@ -1497,7 +1497,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp",
         "pathname": "/chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp"
       }
     ],
@@ -1523,7 +1523,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/grouguana-scales/grouguana-scales.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/grouguana-scales/grouguana-scales.webp",
         "pathname": "/chimeraland/materials/grouguana-scales/grouguana-scales.webp"
       }
     ],
@@ -1548,7 +1548,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp",
         "pathname": "/chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp"
       }
     ],
@@ -1574,7 +1574,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/litiger-mane/litiger-mane.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/litiger-mane/litiger-mane.webp",
         "pathname": "/chimeraland/materials/litiger-mane/litiger-mane.webp"
       }
     ],
@@ -1599,7 +1599,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp",
         "pathname": "/chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp"
       }
     ],
@@ -1625,7 +1625,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ox-mane-hair/ox-mane-hair.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ox-mane-hair/ox-mane-hair.webp",
         "pathname": "/chimeraland/materials/ox-mane-hair/ox-mane-hair.webp"
       }
     ],
@@ -1651,7 +1651,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/snow-goose-claw/snow-goose-claw.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/snow-goose-claw/snow-goose-claw.webp",
         "pathname": "/chimeraland/materials/snow-goose-claw/snow-goose-claw.webp"
       }
     ],
@@ -1677,7 +1677,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/watery-bone/watery-bone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/watery-bone/watery-bone.webp",
         "pathname": "/chimeraland/materials/watery-bone/watery-bone.webp"
       }
     ],
@@ -1701,7 +1701,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/warcrab-shell/warcrab-shell.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/warcrab-shell/warcrab-shell.webp",
         "pathname": "/chimeraland/materials/warcrab-shell/warcrab-shell.webp"
       }
     ],
@@ -1725,7 +1725,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp",
         "pathname": "/chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp"
       }
     ],
@@ -1749,7 +1749,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/embergator-skin/embergator-skin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/embergator-skin/embergator-skin.webp",
         "pathname": "/chimeraland/materials/embergator-skin/embergator-skin.webp"
       }
     ],
@@ -1773,7 +1773,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/noble-beast-soul/noble-beast-soul.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/noble-beast-soul/noble-beast-soul.webp",
         "pathname": "/chimeraland/materials/noble-beast-soul/noble-beast-soul.webp"
       }
     ],
@@ -1798,7 +1798,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/eleboar-hide/eleboar-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/eleboar-hide/eleboar-hide.webp",
         "pathname": "/chimeraland/materials/eleboar-hide/eleboar-hide.webp"
       }
     ],
@@ -1822,7 +1822,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/vuldo-wing/vuldo-wing.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/vuldo-wing/vuldo-wing.webp",
         "pathname": "/chimeraland/materials/vuldo-wing/vuldo-wing.webp"
       }
     ],
@@ -1848,7 +1848,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/alligon-scales/alligon-scales.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/alligon-scales/alligon-scales.webp",
         "pathname": "/chimeraland/materials/alligon-scales/alligon-scales.webp"
       }
     ],
@@ -1873,7 +1873,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stiffler-hide/stiffler-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stiffler-hide/stiffler-hide.webp",
         "pathname": "/chimeraland/materials/stiffler-hide/stiffler-hide.webp"
       }
     ],
@@ -1898,7 +1898,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/centipede-skin/centipede-skin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/centipede-skin/centipede-skin.webp",
         "pathname": "/chimeraland/materials/centipede-skin/centipede-skin.webp"
       }
     ],
@@ -1923,7 +1923,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/deerbull-hide/deerbull-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/deerbull-hide/deerbull-hide.webp",
         "pathname": "/chimeraland/materials/deerbull-hide/deerbull-hide.webp"
       }
     ],
@@ -1949,7 +1949,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp",
         "pathname": "/chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp"
       }
     ],
@@ -1973,7 +1973,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mist-wings/mist-wings.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mist-wings/mist-wings.webp",
         "pathname": "/chimeraland/materials/mist-wings/mist-wings.webp"
       }
     ],
@@ -1999,7 +1999,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rhino-tusk/rhino-tusk.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rhino-tusk/rhino-tusk.webp",
         "pathname": "/chimeraland/materials/rhino-tusk/rhino-tusk.webp"
       }
     ],
@@ -2021,7 +2021,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp",
         "pathname": "/chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp"
       }
     ],
@@ -2043,7 +2043,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/water-repelling-bead/water-repelling-bead.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/water-repelling-bead/water-repelling-bead.webp",
         "pathname": "/chimeraland/materials/water-repelling-bead/water-repelling-bead.webp"
       }
     ],
@@ -2065,7 +2065,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp",
         "pathname": "/chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp"
       }
     ],
@@ -2089,7 +2089,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/storrow-claw/storrow-claw.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/storrow-claw/storrow-claw.webp",
         "pathname": "/chimeraland/materials/storrow-claw/storrow-claw.webp"
       }
     ],
@@ -2114,7 +2114,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp",
         "pathname": "/chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp"
       }
     ],
@@ -2139,7 +2139,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rhino-hide/rhino-hide.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rhino-hide/rhino-hide.webp",
         "pathname": "/chimeraland/materials/rhino-hide/rhino-hide.webp"
       }
     ],
@@ -2165,7 +2165,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp",
         "pathname": "/chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp"
       }
     ],
@@ -2190,7 +2190,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/newt-fat/newt-fat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/newt-fat/newt-fat.webp",
         "pathname": "/chimeraland/materials/newt-fat/newt-fat.webp"
       }
     ],
@@ -2217,7 +2217,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/winnow-tail/winnow-tail.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/winnow-tail/winnow-tail.webp",
         "pathname": "/chimeraland/materials/winnow-tail/winnow-tail.webp"
       }
     ],
@@ -2241,7 +2241,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beetlefly-wing/beetlefly-wing.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beetlefly-wing/beetlefly-wing.webp",
         "pathname": "/chimeraland/materials/beetlefly-wing/beetlefly-wing.webp"
       }
     ],
@@ -2264,7 +2264,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/primal-fluid/primal-fluid.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/primal-fluid/primal-fluid.webp",
         "pathname": "/chimeraland/materials/primal-fluid/primal-fluid.webp"
       }
     ],
@@ -2285,7 +2285,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/primal-bones/primal-bones.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/primal-bones/primal-bones.webp",
         "pathname": "/chimeraland/materials/primal-bones/primal-bones.webp"
       }
     ],
@@ -2308,7 +2308,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/goldscale-shell/goldscale-shell.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/goldscale-shell/goldscale-shell.webp",
         "pathname": "/chimeraland/materials/goldscale-shell/goldscale-shell.webp"
       }
     ],
@@ -2331,7 +2331,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fleet-feather/fleet-feather.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fleet-feather/fleet-feather.webp",
         "pathname": "/chimeraland/materials/fleet-feather/fleet-feather.webp"
       }
     ],
@@ -2353,7 +2353,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/magnificent-horn/magnificent-horn.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/magnificent-horn/magnificent-horn.webp",
         "pathname": "/chimeraland/materials/magnificent-horn/magnificent-horn.webp"
       }
     ],
@@ -2375,7 +2375,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/nirvana-feather/nirvana-feather.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/nirvana-feather/nirvana-feather.webp",
         "pathname": "/chimeraland/materials/nirvana-feather/nirvana-feather.webp"
       }
     ],
@@ -2398,7 +2398,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stoatle-shell/stoatle-shell.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stoatle-shell/stoatle-shell.webp",
         "pathname": "/chimeraland/materials/stoatle-shell/stoatle-shell.webp"
       }
     ],
@@ -2420,7 +2420,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ancient-bone/ancient-bone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ancient-bone/ancient-bone.webp",
         "pathname": "/chimeraland/materials/ancient-bone/ancient-bone.webp"
       }
     ],
@@ -2441,11 +2441,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp",
         "pathname": "/chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/skyshark-primal-spirit/skyshard-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/skyshark-primal-spirit/skyshard-primal-spirit.webp",
         "pathname": "/chimeraland/materials/skyshark-primal-spirit/skyshard-primal-spirit.webp"
       }
     ],
@@ -2469,7 +2469,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp",
         "pathname": "/chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp"
       }
     ],
@@ -2492,7 +2492,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp",
         "pathname": "/chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp"
       }
     ],
@@ -2516,7 +2516,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/scorpion-claw/scorpion-claw.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/scorpion-claw/scorpion-claw.webp",
         "pathname": "/chimeraland/materials/scorpion-claw/scorpion-claw.webp"
       }
     ],
@@ -2539,7 +2539,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pombug-wing/pombug-wing.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pombug-wing/pombug-wing.webp",
         "pathname": "/chimeraland/materials/pombug-wing/pombug-wing.webp"
       }
     ],
@@ -2565,7 +2565,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/moddly-wings/moddly-wings.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/moddly-wings/moddly-wings.webp",
         "pathname": "/chimeraland/materials/moddly-wings/moddly-wings.webp"
       }
     ],
@@ -2589,7 +2589,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spear-beak/spear-beak.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spear-beak/spear-beak.webp",
         "pathname": "/chimeraland/materials/spear-beak/spear-beak.webp"
       }
     ],
@@ -2611,7 +2611,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp",
         "pathname": "/chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp"
       }
     ],
@@ -2633,7 +2633,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-and-white-beak/red-and-white-beak.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-and-white-beak/red-and-white-beak.webp",
         "pathname": "/chimeraland/materials/red-and-white-beak/red-and-white-beak.webp"
       }
     ],
@@ -2656,7 +2656,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/magma-armor/magma-armor.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/magma-armor/magma-armor.webp",
         "pathname": "/chimeraland/materials/magma-armor/magma-armor.webp"
       }
     ],
@@ -2678,7 +2678,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp",
         "pathname": "/chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp"
       }
     ],
@@ -2701,7 +2701,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/octofish-tentacle/octofish-tentacle.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/octofish-tentacle/octofish-tentacle.webp",
         "pathname": "/chimeraland/materials/octofish-tentacle/octofish-tentacle.webp"
       }
     ],
@@ -2724,7 +2724,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/scale-of-reversal/scale-of-reversal.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/scale-of-reversal/scale-of-reversal.webp",
         "pathname": "/chimeraland/materials/scale-of-reversal/scale-of-reversal.webp"
       }
     ],
@@ -2747,7 +2747,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp",
         "pathname": "/chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp"
       }
     ],
@@ -2769,7 +2769,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/grizzly-primal-spirit/grizzly-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/grizzly-primal-spirit/grizzly-primal-spirit.webp",
         "pathname": "/chimeraland/materials/grizzly-primal-spirit/grizzly-primal-spirit.webp"
       }
     ],
@@ -2796,7 +2796,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp",
         "pathname": "/chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp"
       }
     ],
@@ -2820,7 +2820,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp",
         "pathname": "/chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp"
       }
     ],
@@ -2844,7 +2844,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp",
         "pathname": "/chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp"
       }
     ],
@@ -2863,7 +2863,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/peanut/peanut.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/peanut/peanut.webp",
         "pathname": "/chimeraland/materials/peanut/peanut.webp"
       }
     ],
@@ -2882,7 +2882,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bok-choy/bok-choy.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bok-choy/bok-choy.webp",
         "pathname": "/chimeraland/materials/bok-choy/bok-choy.webp"
       }
     ],
@@ -2901,7 +2901,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gourd/gourd.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gourd/gourd.webp",
         "pathname": "/chimeraland/materials/gourd/gourd.webp"
       }
     ],
@@ -2920,7 +2920,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/sweet-potato/sweet-potato.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/sweet-potato/sweet-potato.webp",
         "pathname": "/chimeraland/materials/sweet-potato/sweet-potato.webp"
       }
     ],
@@ -2939,7 +2939,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/sowthistle/sowthistle.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/sowthistle/sowthistle.webp",
         "pathname": "/chimeraland/materials/sowthistle/sowthistle.webp"
       }
     ],
@@ -2958,7 +2958,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/scallion/scallion.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/scallion/scallion.webp",
         "pathname": "/chimeraland/materials/scallion/scallion.webp"
       }
     ],
@@ -2977,7 +2977,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/broccoli/broccoli.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/broccoli/broccoli.webp",
         "pathname": "/chimeraland/materials/broccoli/broccoli.webp"
       }
     ],
@@ -2996,7 +2996,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/amaranth/amaranth.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/amaranth/amaranth.webp",
         "pathname": "/chimeraland/materials/amaranth/amaranth.webp"
       }
     ],
@@ -3015,7 +3015,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/sesame/sesame.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/sesame/sesame.webp",
         "pathname": "/chimeraland/materials/sesame/sesame.webp"
       }
     ],
@@ -3034,7 +3034,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pumpkin/pumpkin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pumpkin/pumpkin.webp",
         "pathname": "/chimeraland/materials/pumpkin/pumpkin.webp"
       }
     ],
@@ -3053,7 +3053,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/chives/chives.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/chives/chives.webp",
         "pathname": "/chimeraland/materials/chives/chives.webp"
       }
     ],
@@ -3072,7 +3072,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pure-wood-genio/pure-wood-genio.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pure-wood-genio/pure-wood-genio.webp",
         "pathname": "/chimeraland/materials/pure-wood-genio/pure-wood-genio.webp"
       }
     ],
@@ -3091,7 +3091,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mixed-wood-essence/mixed-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mixed-wood-essence/mixed-wood-essence.webp",
         "pathname": "/chimeraland/materials/mixed-wood-essence/mixed-wood-essence.webp"
       }
     ],
@@ -3110,7 +3110,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pure-wood-essence/pure-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pure-wood-essence/pure-wood-essence.webp",
         "pathname": "/chimeraland/materials/pure-wood-essence/pure-wood-essence.webp"
       }
     ],
@@ -3129,7 +3129,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp",
         "pathname": "/chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp"
       }
     ],
@@ -3148,7 +3148,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp",
         "pathname": "/chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp"
       }
     ],
@@ -3167,7 +3167,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/honeydew-melon/honeydew-melon.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/honeydew-melon/honeydew-melon.webp",
         "pathname": "/chimeraland/materials/honeydew-melon/honeydew-melon.webp"
       }
     ],
@@ -3186,7 +3186,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/flat-cabbage/flat-cabbage.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/flat-cabbage/flat-cabbage.webp",
         "pathname": "/chimeraland/materials/flat-cabbage/flat-cabbage.webp"
       }
     ],
@@ -3205,7 +3205,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/coriander/coriander.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/coriander/coriander.webp",
         "pathname": "/chimeraland/materials/coriander/coriander.webp"
       }
     ],
@@ -3224,7 +3224,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/watermelon/watermelon.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/watermelon/watermelon.webp",
         "pathname": "/chimeraland/materials/watermelon/watermelon.webp"
       }
     ],
@@ -3243,7 +3243,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/purple-choy/purple-choy.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/purple-choy/purple-choy.webp",
         "pathname": "/chimeraland/materials/purple-choy/purple-choy.webp"
       }
     ],
@@ -3262,7 +3262,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/common-wood-essence/common-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/common-wood-essence/common-wood-essence.webp",
         "pathname": "/chimeraland/materials/common-wood-essence/common-wood-essence.webp"
       }
     ],
@@ -3281,7 +3281,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/turnip/turnip.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/turnip/turnip.webp",
         "pathname": "/chimeraland/materials/turnip/turnip.webp"
       }
     ],
@@ -3300,7 +3300,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/tomato/tomato.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/tomato/tomato.webp",
         "pathname": "/chimeraland/materials/tomato/tomato.webp"
       }
     ],
@@ -3319,7 +3319,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/lettuce/lettuce.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/lettuce/lettuce.webp",
         "pathname": "/chimeraland/materials/lettuce/lettuce.webp"
       }
     ],
@@ -3338,7 +3338,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spinach/spinach.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spinach/spinach.webp",
         "pathname": "/chimeraland/materials/spinach/spinach.webp"
       }
     ],
@@ -3357,7 +3357,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cucumber/cucumber.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cucumber/cucumber.webp",
         "pathname": "/chimeraland/materials/cucumber/cucumber.webp"
       }
     ],
@@ -3375,7 +3375,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cyathea/cyathea.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cyathea/cyathea.webp",
         "pathname": "/chimeraland/materials/cyathea/cyathea.webp"
       }
     ],
@@ -3393,7 +3393,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rhododendron/rhododendron.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rhododendron/rhododendron.webp",
         "pathname": "/chimeraland/materials/rhododendron/rhododendron.webp"
       }
     ],
@@ -3412,7 +3412,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rare-wood-essence/rare-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rare-wood-essence/rare-wood-essence.webp",
         "pathname": "/chimeraland/materials/rare-wood-essence/rare-wood-essence.webp"
       }
     ],
@@ -3431,7 +3431,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/rare-wood-genio/rare-wood-genio.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/rare-wood-genio/rare-wood-genio.webp",
         "pathname": "/chimeraland/materials/rare-wood-genio/rare-wood-genio.webp"
       }
     ],
@@ -3450,7 +3450,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/superb-wood-essence/superb-wood-essence.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/superb-wood-essence/superb-wood-essence.webp",
         "pathname": "/chimeraland/materials/superb-wood-essence/superb-wood-essence.webp"
       }
     ],
@@ -3469,7 +3469,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/superb-wood-genio/superb-wood-genio.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/superb-wood-genio/superb-wood-genio.webp",
         "pathname": "/chimeraland/materials/superb-wood-genio/superb-wood-genio.webp"
       }
     ],
@@ -3490,7 +3490,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/dung/dung.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/dung/dung.webp",
         "pathname": "/chimeraland/materials/dung/dung.webp"
       }
     ],
@@ -3512,7 +3512,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-skull/fossilized-skull.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-skull/fossilized-skull.webp",
         "pathname": "/chimeraland/materials/fossilized-skull/fossilized-skull.webp"
       }
     ],
@@ -3534,7 +3534,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp",
         "pathname": "/chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp"
       }
     ],
@@ -3556,7 +3556,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-pelvis/fossilized-pelvis.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-pelvis/fossilized-pelvis.webp",
         "pathname": "/chimeraland/materials/fossilized-pelvis/fossilized-pelvis.webp"
       }
     ],
@@ -3578,7 +3578,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-leg/fossilized-leg.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-leg/fossilized-leg.webp",
         "pathname": "/chimeraland/materials/fossilized-leg/fossilized-leg.webp"
       }
     ],
@@ -3600,7 +3600,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-rib/fossilized-rib.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-rib/fossilized-rib.webp",
         "pathname": "/chimeraland/materials/fossilized-rib/fossilized-rib.webp"
       }
     ],
@@ -3622,7 +3622,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fossilized-spine/fossilized-spine.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fossilized-spine/fossilized-spine.webp",
         "pathname": "/chimeraland/materials/fossilized-spine/fossilized-spine.webp"
       }
     ],
@@ -3645,7 +3645,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/phosphorus/phosphorus.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/phosphorus/phosphorus.webp",
         "pathname": "/chimeraland/materials/phosphorus/phosphorus.webp"
       }
     ],
@@ -3667,7 +3667,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bluewater-pearl/bluewater-pearl.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bluewater-pearl/bluewater-pearl.webp",
         "pathname": "/chimeraland/materials/bluewater-pearl/bluewater-pearl.webp"
       }
     ],
@@ -3691,7 +3691,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/logs/logs.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/logs/logs.webp",
         "pathname": "/chimeraland/materials/logs/logs.webp"
       }
     ],
@@ -3714,7 +3714,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cane/cane.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cane/cane.webp",
         "pathname": "/chimeraland/materials/cane/cane.webp"
       }
     ],
@@ -3736,7 +3736,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bamboo-leaf/bamboo-leaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bamboo-leaf/bamboo-leaf.webp",
         "pathname": "/chimeraland/materials/bamboo-leaf/bamboo-leaf.webp"
       }
     ],
@@ -3759,7 +3759,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp",
         "pathname": "/chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp"
       }
     ],
@@ -3781,7 +3781,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp",
         "pathname": "/chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp"
       }
     ],
@@ -3805,7 +3805,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-apricot-wood/red-apricot-wood.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-apricot-wood/red-apricot-wood.webp",
         "pathname": "/chimeraland/materials/red-apricot-wood/red-apricot-wood.webp"
       }
     ],
@@ -3829,7 +3829,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp",
         "pathname": "/chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp"
       }
     ],
@@ -3853,7 +3853,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mulberry-root/mulberry-root.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mulberry-root/mulberry-root.webp",
         "pathname": "/chimeraland/materials/mulberry-root/mulberry-root.webp"
       }
     ],
@@ -3877,7 +3877,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/longleaf/longleaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/longleaf/longleaf.webp",
         "pathname": "/chimeraland/materials/longleaf/longleaf.webp"
       }
     ],
@@ -3901,7 +3901,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ironwood-stem/ironwood-stem.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ironwood-stem/ironwood-stem.webp",
         "pathname": "/chimeraland/materials/ironwood-stem/ironwood-stem.webp"
       }
     ],
@@ -3925,7 +3925,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp",
         "pathname": "/chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp"
       }
     ],
@@ -3949,7 +3949,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/tree-bark/tree-bark.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/tree-bark/tree-bark.webp",
         "pathname": "/chimeraland/materials/tree-bark/tree-bark.webp"
       }
     ],
@@ -3973,7 +3973,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ancient-coconut/ancient-coconut.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ancient-coconut/ancient-coconut.webp",
         "pathname": "/chimeraland/materials/ancient-coconut/ancient-coconut.webp"
       }
     ],
@@ -3997,7 +3997,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/poplar-sap/poplar-sap.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/poplar-sap/poplar-sap.webp",
         "pathname": "/chimeraland/materials/poplar-sap/poplar-sap.webp"
       }
     ],
@@ -4021,7 +4021,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pine-resin/pine-resin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pine-resin/pine-resin.webp",
         "pathname": "/chimeraland/materials/pine-resin/pine-resin.webp"
       }
     ],
@@ -4044,7 +4044,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/palm-leaf/palm-leaf.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/palm-leaf/palm-leaf.webp",
         "pathname": "/chimeraland/materials/palm-leaf/palm-leaf.webp"
       }
     ],
@@ -4067,7 +4067,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp",
         "pathname": "/chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp"
       }
     ],
@@ -4087,7 +4087,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/grand-tree-soul/grand-tree-soul.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/grand-tree-soul/grand-tree-soul.webp",
         "pathname": "/chimeraland/materials/grand-tree-soul/grand-tree-soul.webp"
       }
     ],
@@ -4107,7 +4107,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-starefish/red-starefish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-starefish/red-starefish.webp",
         "pathname": "/chimeraland/materials/red-starefish/red-starefish.webp"
       }
     ],
@@ -4127,7 +4127,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/archerfish/archerfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/archerfish/archerfish.webp",
         "pathname": "/chimeraland/materials/archerfish/archerfish.webp"
       }
     ],
@@ -4147,7 +4147,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/black-carp/black-carp.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/black-carp/black-carp.webp",
         "pathname": "/chimeraland/materials/black-carp/black-carp.webp"
       }
     ],
@@ -4167,7 +4167,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/greensuit-fish/greensuit-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/greensuit-fish/greensuit-fish.webp",
         "pathname": "/chimeraland/materials/greensuit-fish/greensuit-fish.webp"
       }
     ],
@@ -4187,7 +4187,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/moonfish/moonfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/moonfish/moonfish.webp",
         "pathname": "/chimeraland/materials/moonfish/moonfish.webp"
       }
     ],
@@ -4207,7 +4207,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pufferfish/pufferfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pufferfish/pufferfish.webp",
         "pathname": "/chimeraland/materials/pufferfish/pufferfish.webp"
       }
     ],
@@ -4227,7 +4227,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/peacock-fish/peacock-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/peacock-fish/peacock-fish.webp",
         "pathname": "/chimeraland/materials/peacock-fish/peacock-fish.webp"
       }
     ],
@@ -4247,7 +4247,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/zebrafish/zebrafish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/zebrafish/zebrafish.webp",
         "pathname": "/chimeraland/materials/zebrafish/zebrafish.webp"
       }
     ],
@@ -4268,11 +4268,11 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/hairtail/hairtail.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/hairtail/hairtail.webp",
         "pathname": "/chimeraland/materials/hairtail/hairtail.webp"
       },
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/hairtail/barbled-dragonfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/hairtail/barbled-dragonfish.webp",
         "pathname": "/chimeraland/materials/hairtail/barbled-dragonfish.webp"
       }
     ],
@@ -4292,7 +4292,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/nibea/nibea.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/nibea/nibea.webp",
         "pathname": "/chimeraland/materials/nibea/nibea.webp"
       }
     ],
@@ -4312,7 +4312,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/purple-snapper/purple-snapper.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/purple-snapper/purple-snapper.webp",
         "pathname": "/chimeraland/materials/purple-snapper/purple-snapper.webp"
       }
     ],
@@ -4332,7 +4332,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/freshwater-carp/freshwater-carp.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/freshwater-carp/freshwater-carp.webp",
         "pathname": "/chimeraland/materials/freshwater-carp/freshwater-carp.webp"
       }
     ],
@@ -4352,7 +4352,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/dace/dace.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/dace/dace.webp",
         "pathname": "/chimeraland/materials/dace/dace.webp"
       }
     ],
@@ -4372,7 +4372,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pomfret/pomfret.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pomfret/pomfret.webp",
         "pathname": "/chimeraland/materials/pomfret/pomfret.webp"
       }
     ],
@@ -4392,7 +4392,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/tang/tang.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/tang/tang.webp",
         "pathname": "/chimeraland/materials/tang/tang.webp"
       }
     ],
@@ -4412,7 +4412,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mola/mola.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mola/mola.webp",
         "pathname": "/chimeraland/materials/mola/mola.webp"
       }
     ],
@@ -4432,7 +4432,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/black-kingfish/black-kingfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/black-kingfish/black-kingfish.webp",
         "pathname": "/chimeraland/materials/black-kingfish/black-kingfish.webp"
       }
     ],
@@ -4451,7 +4451,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/slimfish/slimfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/slimfish/slimfish.webp",
         "pathname": "/chimeraland/materials/slimfish/slimfish.webp"
       }
     ],
@@ -4471,7 +4471,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/silvercut-fish/silvercut-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/silvercut-fish/silvercut-fish.webp",
         "pathname": "/chimeraland/materials/silvercut-fish/silvercut-fish.webp"
       }
     ],
@@ -4491,7 +4491,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stonespot-fish/stonespot-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stonespot-fish/stonespot-fish.webp",
         "pathname": "/chimeraland/materials/stonespot-fish/stonespot-fish.webp"
       }
     ],
@@ -4511,7 +4511,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mackerel/mackerel.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mackerel/mackerel.webp",
         "pathname": "/chimeraland/materials/mackerel/mackerel.webp"
       }
     ],
@@ -4531,7 +4531,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gurnard/gurnard.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gurnard/gurnard.webp",
         "pathname": "/chimeraland/materials/gurnard/gurnard.webp"
       }
     ],
@@ -4551,7 +4551,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/black-scraper/black-scraper.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/black-scraper/black-scraper.webp",
         "pathname": "/chimeraland/materials/black-scraper/black-scraper.webp"
       }
     ],
@@ -4571,7 +4571,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/frost-silver-carp/frost-silver-carp.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/frost-silver-carp/frost-silver-carp.webp",
         "pathname": "/chimeraland/materials/frost-silver-carp/frost-silver-carp.webp"
       }
     ],
@@ -4591,7 +4591,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spotted-scat/spotted-scat.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spotted-scat/spotted-scat.webp",
         "pathname": "/chimeraland/materials/spotted-scat/spotted-scat.webp"
       }
     ],
@@ -4611,7 +4611,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/frontosa/frontosa.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/frontosa/frontosa.webp",
         "pathname": "/chimeraland/materials/frontosa/frontosa.webp"
       }
     ],
@@ -4631,7 +4631,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/catfish/catfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/catfish/catfish.webp",
         "pathname": "/chimeraland/materials/catfish/catfish.webp"
       }
     ],
@@ -4651,7 +4651,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/firemouth-fish/firemouth-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/firemouth-fish/firemouth-fish.webp",
         "pathname": "/chimeraland/materials/firemouth-fish/firemouth-fish.webp"
       }
     ],
@@ -4670,7 +4670,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp",
         "pathname": "/chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp"
       }
     ],
@@ -4690,7 +4690,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bullet-mackerel/bullet-mackerel.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bullet-mackerel/bullet-mackerel.webp",
         "pathname": "/chimeraland/materials/bullet-mackerel/bullet-mackerel.webp"
       }
     ],
@@ -4710,7 +4710,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/moorish-idol/moorish-idol.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/moorish-idol/moorish-idol.webp",
         "pathname": "/chimeraland/materials/moorish-idol/moorish-idol.webp"
       }
     ],
@@ -4730,7 +4730,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/titan-triggerfish/titan-triggerfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/titan-triggerfish/titan-triggerfish.webp",
         "pathname": "/chimeraland/materials/titan-triggerfish/titan-triggerfish.webp"
       }
     ],
@@ -4749,7 +4749,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gourami/gourami.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gourami/gourami.webp",
         "pathname": "/chimeraland/materials/gourami/gourami.webp"
       }
     ],
@@ -4769,7 +4769,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/yellow-boxfish/yellow-boxfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/yellow-boxfish/yellow-boxfish.webp",
         "pathname": "/chimeraland/materials/yellow-boxfish/yellow-boxfish.webp"
       }
     ],
@@ -4788,7 +4788,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/yellowfin/yellowfin.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/yellowfin/yellowfin.webp",
         "pathname": "/chimeraland/materials/yellowfin/yellowfin.webp"
       }
     ],
@@ -4808,7 +4808,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/clownfish/clownfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/clownfish/clownfish.webp",
         "pathname": "/chimeraland/materials/clownfish/clownfish.webp"
       }
     ],
@@ -4828,7 +4828,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/porgies/porgies.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/porgies/porgies.webp",
         "pathname": "/chimeraland/materials/porgies/porgies.webp"
       }
     ],
@@ -4848,7 +4848,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gold-barb/gold-barb.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gold-barb/gold-barb.webp",
         "pathname": "/chimeraland/materials/gold-barb/gold-barb.webp"
       }
     ],
@@ -4867,7 +4867,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/eyebiter/eyebiter.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/eyebiter/eyebiter.webp",
         "pathname": "/chimeraland/materials/eyebiter/eyebiter.webp"
       }
     ],
@@ -4887,7 +4887,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bigeye/bigeye.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bigeye/bigeye.webp",
         "pathname": "/chimeraland/materials/bigeye/bigeye.webp"
       }
     ],
@@ -4907,7 +4907,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/pirarucu/pirarucu.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/pirarucu/pirarucu.webp",
         "pathname": "/chimeraland/materials/pirarucu/pirarucu.webp"
       }
     ],
@@ -4926,7 +4926,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cod/cod.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cod/cod.webp",
         "pathname": "/chimeraland/materials/cod/cod.webp"
       }
     ],
@@ -4946,7 +4946,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/perciformes/perciformes.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/perciformes/perciformes.webp",
         "pathname": "/chimeraland/materials/perciformes/perciformes.webp"
       }
     ],
@@ -4966,7 +4966,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/goldfin-carp/goldfin-carp.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/goldfin-carp/goldfin-carp.webp",
         "pathname": "/chimeraland/materials/goldfin-carp/goldfin-carp.webp"
       }
     ],
@@ -4986,7 +4986,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/boxfish/boxfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/boxfish/boxfish.webp",
         "pathname": "/chimeraland/materials/boxfish/boxfish.webp"
       }
     ],
@@ -5005,7 +5005,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/stingray/stingray.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/stingray/stingray.webp",
         "pathname": "/chimeraland/materials/stingray/stingray.webp"
       }
     ],
@@ -5025,7 +5025,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/eleotris/eleotris.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/eleotris/eleotris.webp",
         "pathname": "/chimeraland/materials/eleotris/eleotris.webp"
       }
     ],
@@ -5044,7 +5044,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/titanfish/titanfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/titanfish/titanfish.webp",
         "pathname": "/chimeraland/materials/titanfish/titanfish.webp"
       }
     ],
@@ -5064,7 +5064,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bluewirl-fish/bluewirl-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bluewirl-fish/bluewirl-fish.webp",
         "pathname": "/chimeraland/materials/bluewirl-fish/bluewirl-fish.webp"
       }
     ],
@@ -5083,7 +5083,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/blamprey/blamprey.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/blamprey/blamprey.webp",
         "pathname": "/chimeraland/materials/blamprey/blamprey.webp"
       }
     ],
@@ -5103,7 +5103,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/hilsa-herring/hilsa-herring.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/hilsa-herring/hilsa-herring.webp",
         "pathname": "/chimeraland/materials/hilsa-herring/hilsa-herring.webp"
       }
     ],
@@ -5123,7 +5123,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/mousefish/mousefish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/mousefish/mousefish.webp",
         "pathname": "/chimeraland/materials/mousefish/mousefish.webp"
       }
     ],
@@ -5143,7 +5143,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/tigerfish/tigerfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/tigerfish/tigerfish.webp",
         "pathname": "/chimeraland/materials/tigerfish/tigerfish.webp"
       }
     ],
@@ -5163,7 +5163,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/luna-lionfish/luna-lionfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/luna-lionfish/luna-lionfish.webp",
         "pathname": "/chimeraland/materials/luna-lionfish/luna-lionfish.webp"
       }
     ],
@@ -5183,7 +5183,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/leopardfish/leopardfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/leopardfish/leopardfish.webp",
         "pathname": "/chimeraland/materials/leopardfish/leopardfish.webp"
       }
     ],
@@ -5203,7 +5203,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/wrasse/wrasse.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/wrasse/wrasse.webp",
         "pathname": "/chimeraland/materials/wrasse/wrasse.webp"
       }
     ],
@@ -5223,7 +5223,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/spinibarbus/spinibarbus.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/spinibarbus/spinibarbus.webp",
         "pathname": "/chimeraland/materials/spinibarbus/spinibarbus.webp"
       }
     ],
@@ -5243,7 +5243,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/shovefish/shovefish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/shovefish/shovefish.webp",
         "pathname": "/chimeraland/materials/shovefish/shovefish.webp"
       }
     ],
@@ -5263,7 +5263,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/swallowfish/swallowfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/swallowfish/swallowfish.webp",
         "pathname": "/chimeraland/materials/swallowfish/swallowfish.webp"
       }
     ],
@@ -5283,7 +5283,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/shark/shark.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/shark/shark.webp",
         "pathname": "/chimeraland/materials/shark/shark.webp"
       }
     ],
@@ -5303,7 +5303,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/barramunkun/barramunkun.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/barramunkun/barramunkun.webp",
         "pathname": "/chimeraland/materials/barramunkun/barramunkun.webp"
       }
     ],
@@ -5323,7 +5323,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/great-white-shark/great-white-shark.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/great-white-shark/great-white-shark.webp",
         "pathname": "/chimeraland/materials/great-white-shark/great-white-shark.webp"
       }
     ],
@@ -5343,7 +5343,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/skewerfish/skewerfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/skewerfish/skewerfish.webp",
         "pathname": "/chimeraland/materials/skewerfish/skewerfish.webp"
       }
     ],
@@ -5363,7 +5363,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bluejade-fish/bluejade-fish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bluejade-fish/bluejade-fish.webp",
         "pathname": "/chimeraland/materials/bluejade-fish/bluejade-fish.webp"
       }
     ],
@@ -5383,7 +5383,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/muddled-catfish/muddled-catfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/muddled-catfish/muddled-catfish.webp",
         "pathname": "/chimeraland/materials/muddled-catfish/muddled-catfish.webp"
       }
     ],
@@ -5403,7 +5403,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bream/bream.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bream/bream.webp",
         "pathname": "/chimeraland/materials/bream/bream.webp"
       }
     ],
@@ -5423,7 +5423,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/butterflyfish/butterflyfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/butterflyfish/butterflyfish.webp",
         "pathname": "/chimeraland/materials/butterflyfish/butterflyfish.webp"
       }
     ],
@@ -5443,7 +5443,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/phoenixfish/phoenixfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/phoenixfish/phoenixfish.webp",
         "pathname": "/chimeraland/materials/phoenixfish/phoenixfish.webp"
       }
     ],
@@ -5463,7 +5463,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp",
         "pathname": "/chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp"
       }
     ],
@@ -5483,7 +5483,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/viperfish/viperfish.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/viperfish/viperfish.webp",
         "pathname": "/chimeraland/materials/viperfish/viperfish.webp"
       }
     ],
@@ -5505,7 +5505,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/wild-garlic/wild-garlic.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/wild-garlic/wild-garlic.webp",
         "pathname": "/chimeraland/materials/wild-garlic/wild-garlic.webp"
       }
     ],
@@ -5528,7 +5528,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/dew/dew.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/dew/dew.webp",
         "pathname": "/chimeraland/materials/dew/dew.webp"
       }
     ],
@@ -5550,7 +5550,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/ice-piece/ice-piece.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/ice-piece/ice-piece.webp",
         "pathname": "/chimeraland/materials/ice-piece/ice-piece.webp"
       }
     ],
@@ -5573,7 +5573,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/apple/apple.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/apple/apple.webp",
         "pathname": "/chimeraland/materials/apple/apple.webp"
       }
     ],
@@ -5594,7 +5594,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cauliflower/cauliflower.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cauliflower/cauliflower.webp",
         "pathname": "/chimeraland/materials/cauliflower/cauliflower.webp"
       }
     ],
@@ -5618,7 +5618,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/orchid/orchid.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/orchid/orchid.webp",
         "pathname": "/chimeraland/materials/orchid/orchid.webp"
       }
     ],
@@ -5641,7 +5641,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/parasitic-grass/parasitic-grass.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/parasitic-grass/parasitic-grass.webp",
         "pathname": "/chimeraland/materials/parasitic-grass/parasitic-grass.webp"
       }
     ],
@@ -5662,7 +5662,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/melon/melon.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/melon/melon.webp",
         "pathname": "/chimeraland/materials/melon/melon.webp"
       }
     ],
@@ -5686,7 +5686,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/anise/anise.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/anise/anise.webp",
         "pathname": "/chimeraland/materials/anise/anise.webp"
       }
     ],
@@ -5711,7 +5711,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fiber/fiber.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fiber/fiber.webp",
         "pathname": "/chimeraland/materials/fiber/fiber.webp"
       }
     ],
@@ -5733,7 +5733,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/job's-tears/jobs-tears.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/job's-tears/jobs-tears.webp",
         "pathname": "/chimeraland/materials/job's-tears/jobs-tears.webp"
       }
     ],
@@ -5755,7 +5755,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp",
         "pathname": "/chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp"
       }
     ],
@@ -5777,7 +5777,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/gilled-mushroom/gilled-mushroom.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/gilled-mushroom/gilled-mushroom.webp",
         "pathname": "/chimeraland/materials/gilled-mushroom/gilled-mushroom.webp"
       }
     ],
@@ -5799,7 +5799,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/sea-buckthorn/sea-buckthorn.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/sea-buckthorn/sea-buckthorn.webp",
         "pathname": "/chimeraland/materials/sea-buckthorn/sea-buckthorn.webp"
       }
     ],
@@ -5821,7 +5821,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/hot-pepper/hot-pepper.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/hot-pepper/hot-pepper.webp",
         "pathname": "/chimeraland/materials/hot-pepper/hot-pepper.webp"
       }
     ],
@@ -5845,7 +5845,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/royle's-spurge/royles-spurge.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/royle's-spurge/royles-spurge.webp",
         "pathname": "/chimeraland/materials/royle's-spurge/royles-spurge.webp"
       }
     ],
@@ -5868,7 +5868,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/bodhi-fruit/bodhi-fruit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/bodhi-fruit/bodhi-fruit.webp",
         "pathname": "/chimeraland/materials/bodhi-fruit/bodhi-fruit.webp"
       }
     ],
@@ -5891,7 +5891,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/red-goodfruit/red-goodfruit.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/red-goodfruit/red-goodfruit.webp",
         "pathname": "/chimeraland/materials/red-goodfruit/red-goodfruit.webp"
       }
     ],
@@ -5915,7 +5915,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/honor-grass/honor-grass.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/honor-grass/honor-grass.webp",
         "pathname": "/chimeraland/materials/honor-grass/honor-grass.webp"
       }
     ],
@@ -5939,7 +5939,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/yellow-grass/yellow-grass.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/yellow-grass/yellow-grass.webp",
         "pathname": "/chimeraland/materials/yellow-grass/yellow-grass.webp"
       }
     ],
@@ -5963,7 +5963,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/lingzhi/lingzhi.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/lingzhi/lingzhi.webp",
         "pathname": "/chimeraland/materials/lingzhi/lingzhi.webp"
       }
     ],
@@ -5983,7 +5983,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/moon-resin-dew/moon-resin-dew.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/moon-resin-dew/moon-resin-dew.webp",
         "pathname": "/chimeraland/materials/moon-resin-dew/moon-resin-dew.webp"
       }
     ],
@@ -6003,7 +6003,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/dragon-pill/dragon-pill.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/dragon-pill/dragon-pill.webp",
         "pathname": "/chimeraland/materials/dragon-pill/dragon-pill.webp"
       }
     ],
@@ -6025,7 +6025,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/primal/primal.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/primal/primal.webp",
         "pathname": "/chimeraland/materials/primal/primal.webp"
       }
     ],
@@ -6045,7 +6045,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/cray-pill/cray-pill.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/cray-pill/cray-pill.webp",
         "pathname": "/chimeraland/materials/cray-pill/cray-pill.webp"
       }
     ],
@@ -6065,7 +6065,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp",
         "pathname": "/chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp"
       }
     ],
@@ -6082,7 +6082,7 @@
     ],
     "images": [
       {
-        "absolutePath": "D:/Repositories/static-blog-generator-hexo/source/chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp",
+        "absolutePath": "/media/dimaslanjaka/DATA/Repositories/static-blog-generator-hexo/site/source/chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp",
         "pathname": "/chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp"
       }
     ],
