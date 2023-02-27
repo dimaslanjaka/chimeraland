@@ -27,14 +27,11 @@
 | arkep | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Shelby | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Suvi | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 sebagai LEADER PARTY |
-| PrimalHunter | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | HitsuiTH | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Dikoo | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Glitch | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Sakuraz | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | jiejie/Jiejie | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
-| HitsuiTH | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
-| Glitch | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Corleonx | | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
 | Shelby | | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
 | PrimalHunter | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
