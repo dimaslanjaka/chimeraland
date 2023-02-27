@@ -12,7 +12,7 @@ on:
       ref:
         description: "checkout branch or commit"
         required: true
-        default: "master"
+        default: "gh-pages"
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
