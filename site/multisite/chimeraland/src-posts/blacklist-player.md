@@ -277,11 +277,6 @@ author: L3n4r0x
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16 sebagai LEADER PARTY</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="PrimalHunter">PrimalHunter</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="HitsuiTH">HitsuiTH</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
@@ -307,16 +302,6 @@ author: L3n4r0x
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate">HitsuiTH</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate">Glitch</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Corleonx">Corleonx</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16</td>
@@ -327,7 +312,7 @@ author: L3n4r0x
 <td style="text-align:left">Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate">PrimalHunter</td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="PrimalHunter">PrimalHunter</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
