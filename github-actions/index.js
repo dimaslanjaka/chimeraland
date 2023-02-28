@@ -11,7 +11,7 @@ const config = yaml.parse(
 		.toString()
 );
 
-(config["validate"] || []).forEach((obj) => {
+Object.keys(config["validate"] || {}).forEach((obj) => {
 	Object.keys(obj).forEach((name) => {
 		validate(path.join(root, obj[name]), name);
 	});
