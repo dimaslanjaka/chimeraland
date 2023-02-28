@@ -4,7 +4,14 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["master"]
-    paths: ["**/*.html", "**/*.css", "**/*.js", "**/*.json"]
+    paths:
+      [
+        "**/*.html",
+        "**/*.css",
+        "**/*.js",
+        "**/*.json",
+        ".github/workflows/install.yml",
+      ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -53,6 +60,7 @@ jobs:
           rm -rf node_modules
         working-directory: github-actions
         if: steps.install.outcome == 'failure'
+        name: clean install
       - run: node github-actions/index.js
         id: validate
       - name: Setup Pages
