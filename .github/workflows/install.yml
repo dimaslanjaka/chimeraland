@@ -10,7 +10,7 @@ on:
         "**/*.css",
         "**/*.js",
         "**/*.json",
-        ".github/workflows/install.yml",
+        "**/workflows/install.yml",
       ]
 
   # Allows you to run this workflow manually from the Actions tab
