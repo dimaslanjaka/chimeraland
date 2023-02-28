@@ -58,6 +58,7 @@ jobs:
           rm -rf yarn.lock
           yarn cache clean
           rm -rf node_modules
+          yarn install
         working-directory: github-actions
         if: steps.install.outcome == 'failure'
         name: clean install
