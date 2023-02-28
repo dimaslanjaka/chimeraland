@@ -55,7 +55,7 @@ jobs:
         id: install
         continue-on-error: true
       - run: |
-          rm -rf yarn.lock
+          echo "" > yarn.lock
           yarn cache clean
           rm -rf node_modules
           yarn install
