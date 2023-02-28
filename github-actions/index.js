@@ -6,9 +6,9 @@ const jsdom = require("jsdom");
 const path = require("path");
 const yaml = require("yaml");
 const config = yaml.parse(
-	fs.readFileSync(
-		path.join(root, "github-actions-validator.config.yml").toString()
-	)
+	fs
+		.readFileSync(path.join(root, "github-actions-validator.config.yml"))
+		.toString()
 );
 
 (config["validate"] || []).forEach((obj) => {
