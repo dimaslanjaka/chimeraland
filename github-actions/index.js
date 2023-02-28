@@ -11,6 +11,15 @@ const config = yaml.parse(
 		.toString()
 );
 
+// save schema
+if (!fs.existsSync(path.join(__dirname, "tmp"))) {
+	fs.mkdirSync(path.join(__dirname, "tmp"));
+}
+fs.writeFileSync(
+	path.join(__dirname, "tmp/schema.json"),
+	JSON.stringify(config)
+);
+
 Object.keys(config["validate"] || {}).forEach((obj) => {
 	Object.keys(obj).forEach((name) => {
 		validate(path.join(root, obj[name]), name);
@@ -34,6 +43,7 @@ Object.keys(config["validate"] || {}).forEach((obj) => {
  * @param {string} as what is this file used for. ex: homepage
  */
 function validate(file, as) {
+	console.log("validating", file);
 	if (fs.statSync(file).size === 0) {
 		throw new Error(`file is empty ${as || file}`);
 	}
