@@ -1,10 +1,11 @@
-import color from 'ansi-colors'
-import gulp from 'gulp'
-import { join } from 'upath'
-import { hexoProject } from '../project'
+import color from 'ansi-colors';
+import gulp from 'gulp';
+import { join } from 'upath';
+import fs from 'fs-extra';
+import { hexoProject } from '../project';
 
-const srcPostFolder = join(__dirname, '../src-posts')
-const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland')
+const srcPostFolder = join(__dirname, '../src-posts');
+const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland');
 
 /**
  * copy multisite/chimeraland/src-post
@@ -13,17 +14,15 @@ const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland')
 export function copySrcPost() {
   console.log(
     'copy',
-    color.yellowBright(srcPostFolder),
+    color.yellowBright(srcPostFolder.replace(process.cwd(), '')),
     'to',
-    color.greenBright(srcPostOutputFolder)
-  )
-  return gulp.src(['**/*.*'], { base: srcPostFolder }).pipe(
-    gulp.dest(srcPostOutputFolder)
-  )
+    color.greenBright(srcPostOutputFolder.replace(process.cwd(), ''))
+  );
+  return fs.copySync(srcPostFolder, srcPostOutputFolder, { overwrite: true });
 }
 
-export default copySrcPost
+export default copySrcPost;
 
 if (require.main === module) {
-  copySrcPost()
+  copySrcPost();
 }
