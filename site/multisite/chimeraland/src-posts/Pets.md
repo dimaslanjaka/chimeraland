@@ -32,8 +32,8 @@ Memiliki hewan peliharaan bisa menjadi tugas yang cukup berat setelah pemain men
 ### Pet Attributes Information
 
 <!-- include Pets/table.html -->
-<script src='Pets/script.js'></script>
-<link rel="stylesheet" href="Pets/style.css" />
+<script src='/chimeraland/Pets/script.js'></script>
+<link rel="stylesheet" href="/chimeraland/Pets/style.css" />
 
 ### Menjinakkan binatang buas dengan Mustard-Shot X-Bow di Chimeraland
 
