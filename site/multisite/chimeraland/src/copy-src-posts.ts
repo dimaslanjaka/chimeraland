@@ -1,5 +1,5 @@
 import color from 'ansi-colors'
-import GulpClient from 'gulp'
+import gulp from 'gulp'
 import { join } from 'upath'
 import { hexoProject } from '../project'
 
@@ -17,8 +17,8 @@ export function copySrcPost() {
     'to',
     color.greenBright(srcPostOutputFolder)
   )
-  return GulpClient.src(['**/*.*'], { cwd: srcPostFolder }).pipe(
-    GulpClient.dest(srcPostOutputFolder)
+  return gulp.src(['**/*.*'], { base: srcPostFolder }).pipe(
+    gulp.dest(srcPostOutputFolder)
   )
 }
 
