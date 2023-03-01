@@ -52,7 +52,7 @@ lang: en
             <td>
                 <img
                     title="Astra"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/astra.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/astra.jpg"
                     alt="Astra | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -61,7 +61,7 @@ lang: en
             <td>
                 <img
                     title="Twinkle"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/twinkle.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/twinkle.jpg"
                     alt="Twinkle | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -70,7 +70,7 @@ lang: en
             <td>
                 <img
                     title="Violetine"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/violetine.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/violetine.jpg"
                     alt="Violetine | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -132,7 +132,7 @@ lang: en
             <td>
                 <img
                     title="Agni"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/agni.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/agni.jpg"
                     alt="Agni | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -141,7 +141,7 @@ lang: en
             <td>
                 <img
                     title="Siren"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/siren.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/siren.jpg"
                     alt="Siren | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -150,7 +150,7 @@ lang: en
             <td>
                 <img
                     title="Moonset"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/moonset.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/moonset.jpg"
                     alt="Moonset | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -212,7 +212,7 @@ lang: en
             <td>
                 <img
                     title="Emeraldine"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/emeraldine.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/emeraldine.jpg"
                     alt="Emeraldine | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -221,7 +221,7 @@ lang: en
             <td>
                 <img
                     title="Immortia"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/immortia.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/immortia.jpg"
                     alt="Immortia | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -230,7 +230,7 @@ lang: en
             <td>
                 <img
                     title="Wisteria"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/wisteria.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/wisteria.jpg"
                     alt="Wisteria | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -292,7 +292,7 @@ lang: en
             <td>
                 <img
                     title="Seraphin"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/seraphin.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/seraphin.jpg"
                     alt="Seraphin | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -301,7 +301,7 @@ lang: en
             <td>
                 <img
                     title="Luna"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/luna.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/luna.jpg"
                     alt="Luna | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
@@ -310,7 +310,7 @@ lang: en
             <td>
                 <img
                     title="Jade"
-                    src="https://zilliongamer.com/uploads/chimeraland/guide/mermaid-attendant/jade.jpg"
+                    src="/chimeraland/breeding-mermaid-in-aquarium/jade.jpg"
                     alt="Jade | Chimeraland - zilliongamer"
                     width="50"
                     height="50"
