@@ -1,5 +1,5 @@
 <!DOCTYPE html><html class="appearance-auto" lang="id"><head><meta charset="UTF-8"><title>Pet and attendant delicacies tasty informations Chimeraland</title><meta name="description" content="Website Management Indonesia is a blog about scripts, tips and tricks, games, software. Covering php, javascript, jquery, mysql, seo, e-commerce and others."><meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, initial-scale=1">
-<link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/style/common/bulma.css"><link rel="stylesheet" href="/style/base.css"><link rel="stylesheet" href="/style/common/helper.css"><script src="/js/common.js"></script><link rel="stylesheet" href="/style/post.css"><link rel="stylesheet" href="/style/themes/highlight-theme-light.css"><link rel="stylesheet" href="/style/common/jquery.fancybox.min.css"><script src="/js/highlight.pack.js"></script><meta name="description" content="
+<link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/style/common/bulma.css"><link rel="stylesheet" href="/style/base.css"><link rel="stylesheet" href="/style/common/helper.css"><link rel="stylesheet" href="/style/post.css"><link rel="stylesheet" href="/style/themes/highlight-theme-light.css"><link rel="stylesheet" href="/style/common/jquery.fancybox.min.css"><meta name="description" content="
   h2, td, blockquote { text-transform: capitalize; }
 
 
@@ -35,7 +35,7 @@ Update Notice
     "potentialAction": {
       "@type": "SearchAction",
       "@id": "https://developers.google.com/search/docs/advanced/structured-data/sitelinks-searchbox",
-      "target": "https://www.webmanajemen.com/search?q=",
+      "target": "https://www.webmanajemen.com/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   },
@@ -393,134 +393,4 @@ Update Notice
   <iframe src="https://www.youtube.com/embed/cTViqpwvxqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen="true" title="Pet and attendant delicacies tasty informations Chimeraland - https://www.youtube.com/embed/cTViqpwvxqU"></iframe>
 </div>
 
-<script>// source https://codepen.io/dimaslanjaka/pen/dymMwxL?editors=0010#shaman-regni
-// source https://www.webmanajemen.com/chimeraland/pet-attendant-delicacies.html#rosary-twinkel
-// backend https://hexo-backend.herokuapp.com/chimeraland/attendant
-// backend https://hexo-backend.herokuapp.com/chimeraland/pet
-const attendantWrapper = document.querySelector('#a-tbl');
-const petWrapper = document.querySelector('#p-tbl');
-
-if (location.host === 'cdpn.io') {
-  console.clear();
-}
-
-window.onload = function () {
-  getAttendant()
-    .then((data) => {
-      data.data = uniq(data.data, 'name');
-      //console.log(data);
-      return data;
-    })
-    .then((attendant_data) => {
-      /**
-       * @type {string[]}
-       */
-      const attendants = attendant_data.data;
-      const tbh =
-        "<table class='table'><thead><tr><th>Name</th><th>Value</th></thead><tbody>";
-      const tbf = '</tbody></table>';
-      let results = [];
-      attendants.forEach((item) => {
-        //console.log(item);
-        let build = [];
-        Object.keys(item).forEach((key) => {
-          let val = item[key];
-          if (key === 'qty') key = 'Quality';
-          if (key === 'delicacies') {
-            val = val.map((str) => {
-              const query = str.replace('-', '').toLowerCase();
-              return `<a href='/chimeraland/Recipes.html?query=${query}'>${query}</a><span class='mr-2'>,</span>`;
-            });
-            val = val.join('');
-          }
-          if (Array.isArray(val)) val = val.join(', ');
-          key = key.toUpperCase();
-          //console.log(key, val);
-          build.push(`<tr><td>${key}</td><td>${val}</td></tr>`);
-        });
-        //console.log(build);
-        const header_id = item['name']
-          .replace(/\s+/gm, '-')
-          .replace(/-+/gm, '-')
-          .toLowerCase();
-        const header = `<div class="d-flex justify-content-between"><div id='${header_id}'><h3>${item['name']}</h3></div><div><a href="#${header_id}">${header_id}</a></div></div>`;
-        results.push({ header, items: build.join('') });
-      });
-      // merge table
-      results = results.map((o) => {
-        return o.header + tbh + o.items + tbf;
-      });
-      //console.log(results);
-      attendantWrapper.innerHTML = results.join('');
-      console.log('attendant updated successfully');
-    })
-    .then(() => {
-      scrollTo().then((o) => {
-        setTimeout(() => {
-          scrollTo().then((o1) => {
-            console.log(o, o1);
-          });
-        }, 3000);
-      });
-    });
-};
-
-function getAttendant() {
-  return fetch(attendantJson())
-    .then((res) => res.json())
-    .then((data) => {
-      return data;
-    });
-}
-
-function attendantJson() {
-  return (
-    '//backend.webmanajemen.com/chimeraland/attendant.php?show=' +
-    new Date().getTime()
-  );
-}
-
-// https://stackoverflow.com/a/67322087/6404439
-function uniq(arr, field) {
-  //console.log(array);
-  if (!Array.isArray(arr)) {
-    throw new Error('array param must be instance of ARRAY');
-  }
-  return arr.filter(
-    (a, i) => arr.findIndex((s) => a[field] === s[field]) === i
-  );
-}
-
-// scroll to div
-function scrollTo(id) {
-  return new Promise((resolve) => {
-    const end_id = id || window.location.hash.split('#')[1] || null;
-    if (!end_id) return console.log('[scroll] empty id');
-    const selector = "[id*='" + end_id + "']";
-    const target = document.querySelector(selector);
-    target.scrollIntoView(true);
-    if (!target)
-      return console.log('[scroll] empty target element with id=' + end_id);
-    console.log('[scroll] to #' + end_id);
-    const isFirefox = 'netscape' in window && / rv:/.test(navigator.userAgent);
-
-    if (isFirefox) {
-      // scroll to center element
-      target.scrollIntoView({ block: 'center' });
-    } else {
-      // scroll to top element
-      window.scroll({
-        top: target.offsetTop,
-        left: 0,
-        behavior: 'smooth'
-      });
-    }
-
-    resolve({
-      offset: target.offsetTop,
-      id: end_id,
-      selector
-    });
-  });
-}
-</script></article><section class="jump-container is-flex is-justify-content-space-between my-6"><a class="button is-default" href="/chimeraland/cara-reclaim-draka-gift.html" title="cara reclaim draka gift"><i class="iconfont icon-prev mr-2 has-text-grey"></i><span class="has-text-weight-semibold">Previous: cara reclaim draka gift</span></a><a class="button is-default" href="/GitHub/handle-git-gc-fatal-bad-object-refs.html" title="How to handle git gc fatal bad object refs/remotes/origin/HEAD error?"><span class="has-text-weight-semibold">Next: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?</span><i class="iconfont icon-next ml-2 has-text-grey"></i></a></section><div id="disqus_thread"></div><article class="mt-6 comment-container" id="disqus"><script>var disqus_config = function () {this.page.url = 'https://www.webmanajemen.com/chimeraland/pet-attendant-delicacies.html';this.page.identifier = 'dimaslanjaka';};</script><script>(function() {var d = document, s = d.createElement('script');s.src = 'https://dimaslanjaka.disqus.com/embed.js';s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);})();</script><script id="dsq-count-scr" src="//blog-pubgj2togw.disqus.com/count.js" async=""></script></article></div></div></main></main><footer class="is-flex is-flex-direction-column is-align-items-center is-flex-shrink-0 is-family-serif"><section class="sns-container"><a title="github" target="_blank" rel="nofollow noopener noreferer noreferrer external" href="//github.com/dimaslanjaka" alt="Pet and attendant delicacies tasty informations Chimeraland"><i class="iconfont icon-github"></i></a><a title="facebook" target="_blank" rel="nofollow noopener noreferer noreferrer external" href="//www.facebook.com//dimaslanjaka1" alt="Pet and attendant delicacies tasty informations Chimeraland"><i class="iconfont icon-tian7_facebook"></i></a></section><p><span>Copyright ©</span><span> dimaslanjaka 2023</span></p><div class="is-flex is-justify-content-center is-flex-wrap-wrap hidden"><p>Powered by Hexo |&nbsp;</p><p class="is-flex is-justify-content-center"><a title="Hexo theme author" target="_blank" href="//github.com/haojen" rel="nofollow noopener noreferer noreferrer external" alt="Pet and attendant delicacies tasty informations Chimeraland">Theme by Haojen&nbsp;</a></p><div style="margin-top: 2px"><a class="github-button" title="github-button" target="_blank" href="https://www.webmanajemen.com/page/safelink.html?url=aHR0cHM6Ly9naXRodWIuY29tL0hhb2plbi9oZXhvLXRoZW1lLUNsYXVkaWE=" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" rel="nofollow noopener noreferer noreferrer external" alt="Pet and attendant delicacies tasty informations Chimeraland"></a></div></div><div><span></span></div></footer><script src="/r-ads.js" type="text/javascript"></script><script src="/js/jquery-3.6.1.min.js"></script><script src="/js/jquery-fancybox.min.js"></script><script src="/js/img_zoom.js"></script><script src="/js/post.js"></script></body></html>
+</article><section class="jump-container is-flex is-justify-content-space-between my-6"><a class="button is-default" href="/chimeraland/cara-reclaim-draka-gift.html" title="cara reclaim draka gift"><i class="iconfont icon-prev mr-2 has-text-grey"></i><span class="has-text-weight-semibold">Previous: cara reclaim draka gift</span></a><a class="button is-default" href="/GitHub/handle-git-gc-fatal-bad-object-refs.html" title="How to handle git gc fatal bad object refs/remotes/origin/HEAD error?"><span class="has-text-weight-semibold">Next: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?</span><i class="iconfont icon-next ml-2 has-text-grey"></i></a></section><div id="disqus_thread"></div><article class="mt-6 comment-container" id="disqus"><script id="dsq-count-scr" src="//blog-pubgj2togw.disqus.com/count.js" async=""></script></article></div></div></main></main><footer class="is-flex is-flex-direction-column is-align-items-center is-flex-shrink-0 is-family-serif"><section class="sns-container"><a title="github" target="_blank" rel="nofollow noopener noreferer noreferrer external" href="//github.com/dimaslanjaka" alt="Pet and attendant delicacies tasty informations Chimeraland"><i class="iconfont icon-github"></i></a><a title="facebook" target="_blank" rel="nofollow noopener noreferer noreferrer external" href="//www.facebook.com//dimaslanjaka1" alt="Pet and attendant delicacies tasty informations Chimeraland"><i class="iconfont icon-tian7_facebook"></i></a></section><p><span>Copyright ©</span><span> dimaslanjaka 2023</span></p><div class="is-flex is-justify-content-center is-flex-wrap-wrap hidden"><p>Powered by Hexo |&nbsp;</p><p class="is-flex is-justify-content-center"><a title="Hexo theme author" target="_blank" href="//github.com/haojen" rel="nofollow noopener noreferer noreferrer external" alt="Pet and attendant delicacies tasty informations Chimeraland">Theme by Haojen&nbsp;</a></p><div style="margin-top: 2px"><a class="github-button" title="github-button" target="_blank" href="https://www.webmanajemen.com/page/safelink.html?url=aHR0cHM6Ly9naXRodWIuY29tL0hhb2plbi9oZXhvLXRoZW1lLUNsYXVkaWE=" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" rel="nofollow noopener noreferer noreferrer external" alt="Pet and attendant delicacies tasty informations Chimeraland"></a></div></div><div><span></span></div></footer><script src="/hexo-seo-js/concat-82a076c94da0e960c9d6b13ad8778048.js"></script</body></html></script></body></html>
