@@ -19,8 +19,7 @@ const errors: Error[] = []
 Bluebird.all(MaterialsData)
   .each((item) => {
     const attr: Record<string, any> = {}
-    attr.title = 'Material ' + item.name
-    attr.webtitle = 'Chimeraland'
+    attr.title = 'Material ' + item.name + ' Chimeraland'
     attr.date = item.datePublished
     attr.updated = item.dateModified
     //attr.updated = moment().format()
@@ -48,7 +47,7 @@ Bluebird.all(MaterialsData)
           rel="stylesheet"
           href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"
         />
-        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative">
+        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark">
           <div className="col p-4 d-flex flex-column position-static">
             <strong className="d-inline-block mb-2 text-success">
               {item.type}
@@ -77,7 +76,7 @@ Bluebird.all(MaterialsData)
           </div>
         </div>
 
-        <div className="row">
+        <div className="row bg-light text-dark">
           <div className="col-lg-6 col-12 mb-2">
             {'details' in item && (
               <div className="card">
