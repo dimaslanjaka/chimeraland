@@ -8,7 +8,7 @@ export const ScenicData = scenicData.map((item) => {
   return Object.assign({}, { type: 'scenics' }, item)
 })
 
-export type DataProp = typeof monstersData[number] & {
+export type DataProp = (typeof monstersData)[number] & {
   pathname: string
   type: string
 }

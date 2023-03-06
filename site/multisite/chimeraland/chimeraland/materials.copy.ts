@@ -58,9 +58,10 @@ Bluebird.all(materials.data)
         })
     )
     // find spawn spot location
-    const spot = join(__dirname, 'locations', type + '-spot')
-    if (existsSync(spot)) {
-      const location = walkDir(spot)
+    const spotDir = join(__dirname, 'locations', type + '-spot')
+    //const spotResult: string[] = []
+    if (existsSync(spotDir)) {
+      const location = walkDir(spotDir)
         .filter((map) => {
           const filename = map.filename.toLowerCase()
           // remove desktop.ini
@@ -84,7 +85,10 @@ Bluebird.all(materials.data)
 
       if (location.length > 0) {
         // console.log(mat.name, location)
-        location.forEach((loc) => imgFiles.push(loc))
+        location.forEach((loc) => {
+          imgFiles.push(loc)
+          //spotResult.push(loc)
+        })
       }
     }
     const imgProcessed: { absolutePath: string; pathname: string }[] = []
@@ -129,6 +133,7 @@ Bluebird.all(materials.data)
       imgFiles.shift()
     }
     result.images = <any>array_unique(imgProcessed, 'pathname')
+    // result.location = spotResult
 
     return Object.fromEntries(Object.entries(result).sort())
   })

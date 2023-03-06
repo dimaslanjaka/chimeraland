@@ -9,7 +9,11 @@ const chimeralandProject = toUnix(__dirname)
  */
 function copyPost() {
   console.log('npm run copy on', hexoProject)
-  spawn('npm', ['run', 'post:copy'], { cwd: hexoProject, stdio: 'inherit', shell: true })
+  spawn('npm', ['run', 'post:copy'], {
+    cwd: hexoProject,
+    stdio: 'inherit',
+    shell: true
+  })
 }
 
 /**
@@ -17,7 +21,11 @@ function copyPost() {
  */
 function generateSite() {
   console.log('npm run build on', hexoProject)
-  spawn('npm', ['run', 'build'], { cwd: hexoProject, stdio: 'inherit', shell: true })
+  spawn('npm', ['run', 'build'], {
+    cwd: hexoProject,
+    stdio: 'inherit',
+    shell: true
+  })
 }
 
 module.exports = {

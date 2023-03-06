@@ -8,12 +8,9 @@
     "resolveJsonModule": true,
     "allowJs": true,
     "checkJs": false,
+    "noEmit": true,
     "jsx": "react-jsx",
-    "lib": [
-      "DOM",
-      "DOM.Iterable",
-      "ES2016"
-    ],
+    "lib": ["DOM", "DOM.Iterable", "ES2016"]
   },
   "include": [
     "chimeraland",
@@ -22,5 +19,6 @@
     "package.json",
     "sync",
     "build.ts"
-  ]
+  ],
+  "exclude": ["**/node_modules", "**/tmp"]
 }
