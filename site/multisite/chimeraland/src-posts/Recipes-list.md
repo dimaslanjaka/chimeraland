@@ -21,8 +21,7 @@ tags:
   - Chimeraland
   - Recipes
 title: Cooking Recipes Chimeraland
-webtitle: Chimeraland
-updated: 2022-09-14T12:13:00+0700
+updated: 2023-03-04T22:54:24+07:00
 thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 redirect_to: /chimeraland/recipes.html
 ---
