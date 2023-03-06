@@ -1,8 +1,7 @@
 ---
-title: Script auto fishing
-webtitle: Chimeraland
+title: Script auto fishing Chimeraland
 date: 2022-12-12
-updated: 2022-12-12
+updated: 2023-03-05T06:29:01+07:00
 tags: [chimeraland, fishing, script]
 categories: [chimeraland]
 ---
