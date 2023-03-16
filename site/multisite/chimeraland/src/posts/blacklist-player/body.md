@@ -101,6 +101,6 @@
 ![image](https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png)
 
 
-## ALL
+## semua Screenshots
 
 <!-- tangkapan.layar -->
