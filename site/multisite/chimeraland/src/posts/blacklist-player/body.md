@@ -46,6 +46,7 @@
 | Sus | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | HEE | | this account got hacked, and new owner is SCAMMER, last activity SCAMMING chimeraland MAP ILLUSTRIOUS 16 |
 | doraemon | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
+| Raemakuu | GruGgClan Elder | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
@@ -76,7 +77,6 @@
 | HODE | LastEmperror | dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party |
 | Deshwan | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 | VenKy | | dicurigai sebagai SCAMMER ruby |
-| Raemakuu | GruGgClan Elder | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
 
 ## Daftar Nama Player Yang Dihapus Dari List Diatas
 
