@@ -93,4 +93,14 @@
 - shortlink halaman ini: [http://bit.ly/chimeraland-blacklist](http://bit.ly/chimeraland-blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+## Raemakuu Screenshots
+![image](https://user-images.githubusercontent.com/12471057/225566251-25718631-3f0d-452e-81e0-712317105cd6.png)
+![image](https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png)
+![image](https://user-images.githubusercontent.com/12471057/225566471-f288bc46-a014-4a8a-bfe2-aef4045c6963.png)
+![image](https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png)
+
+
+## ALL
+
 <!-- tangkapan.layar -->
