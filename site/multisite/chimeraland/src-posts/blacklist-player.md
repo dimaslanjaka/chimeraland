@@ -4,17 +4,16 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-25T23:25:55+07:00
+updated: 2023-03-16T15:56:41+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
   id: /chimeraland/blacklist-player.html
-  en: /en/chimeraland/blacklist-player.html
+  en: /chimeraland/en/blacklist-player.html
 tags:
-  - Chimeraland
-  - Blacklist
-  - Player
-  - Scammer
+  - chimeraland
+  - blacklist
+  - guide
 categories:
   - Games
   - Chimeraland
@@ -371,6 +370,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Raemakuu">Raemakuu</td>
+<td style="text-align:left">GruGgClan Elder</td>
+<td style="text-align:left">SCAM ORTZI ILANCE SWORD korban scam <strong>Ell</strong> pada party chimeraland MAP ILLUSTRIOUS 16 tanggal <strong>March 16, 2023 2:32 PM</strong></td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
@@ -525,6 +529,12 @@ author: L3n4r0x
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="raemakuu-screenshots" tabindex="-1"><a href="#raemakuu-screenshots">Raemakuu Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/225566251-25718631-3f0d-452e-81e0-712317105cd6.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225566471-f288bc46-a014-4a8a-bfe2-aef4045c6963.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png" alt="image"></p>
+<h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
