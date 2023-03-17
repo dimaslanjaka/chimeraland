@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-03-16T15:56:41+07:00
+updated: 2023-03-17T17:53:10+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -467,6 +467,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
+<td style="text-align:left">INDONESIA</td>
+<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>cilla</strong> &amp; <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
+</tr>
 </tbody>
 </table>
 <h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
@@ -527,6 +532,7 @@ author: L3n4r0x
 <ul>
 <li>scammer midman/rekber (rekening bersama): <a href="https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz">https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz</a></li>
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
+<li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 <h2 id="raemakuu-screenshots" tabindex="-1"><a href="#raemakuu-screenshots">Raemakuu Screenshots</a></h2>
@@ -534,6 +540,14 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225566471-f288bc46-a014-4a8a-bfe2-aef4045c6963.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png" alt="image"></p>
+<h2 id="narapidana-screenshots" tabindex="-1"><a href="#narapidana-screenshots">NARAPIDANA Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/225884796-db699ebe-946d-4aba-9333-73f39ac3bb48.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884813-413d971d-b94e-4266-8e03-98377da72e77.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884835-c0f9213c-84d9-4ffd-aa13-614c5a0fe610.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884859-71c07e7c-3b59-4df8-89a3-619473323099.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884889-8147bac3-758d-42f1-b651-c9eb2e1a1f17.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
