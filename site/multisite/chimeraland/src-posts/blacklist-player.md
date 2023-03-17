@@ -372,7 +372,7 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Raemakuu">Raemakuu</td>
-<td style="text-align:left">GruGgClan Elder</td>
+<td style="text-align:left">GruGgClan</td>
 <td style="text-align:left">SCAM ORTZI ILANCE SWORD korban scam <strong>Ell</strong> pada party chimeraland MAP ILLUSTRIOUS 16 tanggal <strong>March 16, 2023 2:32 PM</strong></td>
 </tr>
 </tbody>
@@ -469,7 +469,7 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
-<td style="text-align:left">INDONESIA</td>
+<td style="text-align:left">BOOM</td>
 <td style="text-align:left">SCAMMER ruby, korban terakhir <strong>cilla</strong> &amp; <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
 </tr>
 </tbody>
@@ -491,7 +491,7 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="HODE">HODE</td>
-<td style="text-align:left">LastEmperror</td>
+<td style="text-align:left">-</td>
 <td style="text-align:left">dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party</td>
 </tr>
 <tr>
