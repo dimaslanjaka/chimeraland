@@ -46,7 +46,7 @@
 | Sus | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | HEE | | this account got hacked, and new owner is SCAMMER, last activity SCAMMING chimeraland MAP ILLUSTRIOUS 16 |
 | doraemon | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
-| Raemakuu | GruGgClan Elder | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
+| Raemakuu | GruGgClan | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
@@ -68,7 +68,7 @@
 | Freecss | | SCAMMER ruby alasan baru main dan new owner |
 | drin | APPOCALYPSE | SCAMMER ruby |
 | Naru/naru | | SCAMMER ruby |
-| NARAPIDANA | INDONESIA | SCAMMER ruby, korban terakhir **cilla** & **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
+| NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **cilla** & **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
 
 ## Daftar player yang dicurigai sebagai scammer
 
