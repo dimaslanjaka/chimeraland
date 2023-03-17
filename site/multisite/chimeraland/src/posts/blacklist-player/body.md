@@ -68,6 +68,7 @@
 | Freecss | | SCAMMER ruby alasan baru main dan new owner |
 | drin | APPOCALYPSE | SCAMMER ruby |
 | Naru/naru | | SCAMMER ruby |
+| NARAPIDANA | INDONESIA | SCAMMER ruby, korban terakhir **cilla** & **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
 
 ## Daftar player yang dicurigai sebagai scammer
 
@@ -100,6 +101,14 @@
 ![image](https://user-images.githubusercontent.com/12471057/225566471-f288bc46-a014-4a8a-bfe2-aef4045c6963.png)
 ![image](https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png)
 
+## NARAPIDANA Screenshots
+![image](https://user-images.githubusercontent.com/12471057/225884796-db699ebe-946d-4aba-9333-73f39ac3bb48.png)
+![image](https://user-images.githubusercontent.com/12471057/225884813-413d971d-b94e-4266-8e03-98377da72e77.png)
+![image](https://user-images.githubusercontent.com/12471057/225884835-c0f9213c-84d9-4ffd-aa13-614c5a0fe610.png)
+![image](https://user-images.githubusercontent.com/12471057/225884859-71c07e7c-3b59-4df8-89a3-619473323099.png)
+![image](https://user-images.githubusercontent.com/12471057/225884889-8147bac3-758d-42f1-b651-c9eb2e1a1f17.png)
+![image](https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png)
+![image](https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png)
 
 ## semua Screenshots
 
