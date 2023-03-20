@@ -42,7 +42,7 @@
     "hexo-renderer-markdown-it": "^7.0.0",
     "hexo-renderer-stylus": "github:hexojs/hexo-renderer-stylus",
     "hexo-server": "^3.0.0",
-    "hexo-theme-next": "^8.14.2",
+    "hexo-theme-next": "^8.15.0",
     "js-yaml": "^4.1.0",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-sub": "^1.0.0",
