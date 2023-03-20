@@ -472,6 +472,11 @@ author: L3n4r0x
 <td style="text-align:left">BOOM</td>
 <td style="text-align:left">SCAMMER ruby, korban terakhir <strong>cilla</strong> &amp; <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="rapiRapi">rapi/Rapi</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA</td>
+</tr>
 </tbody>
 </table>
 <h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
@@ -503,6 +508,11 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="VenKy">VenKy</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">dicurigai sebagai SCAMMER ruby</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Salony">Salony</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">dicurigai sebagai scammer map illus</td>
 </tr>
 </tbody>
 </table>
