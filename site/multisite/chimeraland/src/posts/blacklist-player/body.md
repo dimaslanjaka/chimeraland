@@ -47,6 +47,8 @@
 | HEE | | this account got hacked, and new owner is SCAMMER, last activity SCAMMING chimeraland MAP ILLUSTRIOUS 16 |
 | doraemon | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Raemakuu | GruGgClan | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
+| Harjit | Revenge | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
+| zhuras | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
