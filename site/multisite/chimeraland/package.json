@@ -48,7 +48,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sbg-utility": "^1.0.6",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.0",
     "slugify": "^1.6.5",
     "through2": "^4.0.2",
     "true-case-path": "^2.2.1",
