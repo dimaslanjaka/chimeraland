@@ -7788,18 +7788,67 @@
   {
     "name": "giant armoxerous",
     "datePublished": "2023-03-10T19:19:18+07:00",
-    "dateModified": "2023-03-10T19:30:18+07:00",
+    "dateModified": "2023-03-26T18:52:49+07:00",
     "qty": "",
     "skill": [],
     "buff": [],
     "delicacies": [],
     "images": [
       {
+        "filename": "Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-18-50_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-18-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-18-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-18-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
         "filename": "Screenshot_2023-02-26-13-09-23-38_f4fc9fb10454fc3a3dacb99dff89b568.webp",
         "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
         "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-23-38_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "originalFilename": "Screenshot_2023-02-26-13-09-23-38_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-23-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-28-50_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-28-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-28-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-28-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-33-25_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-33-25_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-33-25_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-33-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-38-08_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-38-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-38-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-38-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-42-29_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-42-29_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-02-26-13-09-47-80_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant armoxerous/Screenshot_2023-02-26-13-09-47-80_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-02-26-13-09-47-80_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-47-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
       }
     ],
     "videos": [],
