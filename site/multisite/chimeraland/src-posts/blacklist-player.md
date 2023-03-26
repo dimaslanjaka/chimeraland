@@ -385,6 +385,16 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="EggBlack">EggBlack</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="nekotao">nekotao</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
@@ -486,6 +496,11 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="rapiRapi">rapi/Rapi</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Devil-God">Devil God</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER sebagai pembeli</td>
 </tr>
 </tbody>
 </table>
