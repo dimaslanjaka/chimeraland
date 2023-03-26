@@ -49,6 +49,7 @@
 | Raemakuu | GruGgClan | SCAM ORTZI ILANCE SWORD korban scam **Ell** pada party chimeraland MAP ILLUSTRIOUS 16 tanggal __March 16, 2023 2:32 PM__ |
 | Harjit | Revenge | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | zhuras | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
+| EggBlack | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
@@ -72,6 +73,7 @@
 | Naru/naru | | SCAMMER ruby |
 | NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **cilla** & **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
 | rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA |
+| Devil God | | SCAMMER sebagai pembeli |
 
 ## Daftar player yang dicurigai sebagai scammer
 
