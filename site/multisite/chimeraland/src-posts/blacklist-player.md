@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-03-17T17:53:10+07:00
+updated: 2023-03-28T23:49:49+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -394,6 +394,11 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="nekotao">nekotao</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="wolverine">wolverine</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik <strong>doub</strong></td>
 </tr>
 </tbody>
 </table>
