@@ -2283,7 +2283,57 @@
       "Attributes Conversion Rate 4.0%",
       "Crit 328"
     ],
-    "images": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/litiger.html"
@@ -3210,7 +3260,57 @@
       "Attributes Conversion Rate 5.0%",
       "Attack 60"
     ],
-    "images": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/rhino.html"
@@ -3940,7 +4040,64 @@
       "Attributes Conversion Rate 4.0%",
       "Defense 44"
     ],
-    "images": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/stoneppo.html"
@@ -8801,6 +8958,13 @@
         "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-12-21_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "originalFilename": "Screenshot_2023-02-24-22-53-12-21_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "pathname": "/chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-12-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/gripine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/gripine/Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/gripine/Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
       }
     ],
     "videos": [],
@@ -9212,5 +9376,383 @@
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/yunshu.html"
+  },
+  {
+    "name": "artigra",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/artigra.html"
+  },
+  {
+    "name": "giant piranha",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant piranha/Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-piranha.html"
+  },
+  {
+    "name": "giant tiger shark",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-13-44-52_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-13-44-52_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-13-44-52_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-44-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-13-48-66_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-13-48-66_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-13-48-66_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-48-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-13-52-87_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-13-52-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-13-52-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-52-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-13-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-13-57-88_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-13-57-88_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-02-41_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-14-02-41_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-02-41_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-14-02-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/giant tiger shark/Screenshot_2023-03-25-12-14-06-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-06-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-14-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-tiger-shark.html"
+  },
+  {
+    "name": "swordfish",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/swordfish.html"
   }
 ]

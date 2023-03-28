@@ -5210,5 +5210,143 @@
     "videos": [],
     "type": "attendants",
     "pathname": "/chimeraland/attendants/vulchining.html"
+  },
+  {
+    "name": "shaman violetine",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/shaman violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "attendants",
+    "pathname": "/chimeraland/attendants/shaman-violetine.html"
+  },
+  {
+    "name": "stellar regni",
+    "datePublished": "2023-03-28T08:59:08+07:00",
+    "dateModified": "2023-03-28T09:10:08+07:00",
+    "qty": "",
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/attendants/stellar regni/Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/attendants/stellar-regni/Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "attendants",
+    "pathname": "/chimeraland/attendants/stellar-regni.html"
   }
 ]

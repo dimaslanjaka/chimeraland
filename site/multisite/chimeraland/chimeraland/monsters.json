@@ -2112,6 +2112,42 @@
       "skill": [],
       "buff": [],
       "delicacies": []
+    },
+    {
+      "name": "artigra",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant piranha",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant tiger shark",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "swordfish",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
     }
   ]
 }
