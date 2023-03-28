@@ -51,6 +51,7 @@
 | zhuras | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | EggBlack | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | nekotao | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
+| wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik **doub** |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
