@@ -77,6 +77,12 @@
 | rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 
+<h2 id="scammer-bitter">Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</h2>
+
+| Nama Player | Clan | Keterangan |
+| :--- | :--- | :--- |
+| Allderosa | | Roll drop dari Black Mullbery Guardian - Bitter Cold Spring |
+
 ## Daftar player yang dicurigai sebagai scammer
 
 | Nama Player | Clan | Keterangan |
@@ -105,12 +111,14 @@
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
 ## Raemakuu Screenshots
+
 ![image](https://user-images.githubusercontent.com/12471057/225566251-25718631-3f0d-452e-81e0-712317105cd6.png)
 ![image](https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png)
 ![image](https://user-images.githubusercontent.com/12471057/225566471-f288bc46-a014-4a8a-bfe2-aef4045c6963.png)
 ![image](https://user-images.githubusercontent.com/12471057/225566536-bfbb03d6-ca2e-4cff-80c1-3c4c8d7737b2.png)
 
 ## NARAPIDANA Screenshots
+
 ![image](https://user-images.githubusercontent.com/12471057/225884796-db699ebe-946d-4aba-9333-73f39ac3bb48.png)
 ![image](https://user-images.githubusercontent.com/12471057/225884813-413d971d-b94e-4266-8e03-98377da72e77.png)
 ![image](https://user-images.githubusercontent.com/12471057/225884835-c0f9213c-84d9-4ffd-aa13-614c5a0fe610.png)
@@ -120,5 +128,7 @@
 ![image](https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png)
 
 ## semua Screenshots
+
+![image](https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png)
 
 <!-- tangkapan.layar -->
