@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-03-28T23:49:49+07:00
+updated: 2023-03-29T13:47:51+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -509,6 +509,23 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
+<h2 id="scammer-bitter">Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</h2>
+<table style="width:100%;">
+<thead>
+<tr>
+<th style="text-align:left">Nama Player</th>
+<th style="text-align:left">Clan</th>
+<th style="text-align:left">Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Allderosa">Allderosa</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drop dari Black Mullbery Guardian - Bitter Cold Spring</td>
+</tr>
+</tbody>
+</table>
 <h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
 <table style="width:100%;">
 <thead>
@@ -589,6 +606,7 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
