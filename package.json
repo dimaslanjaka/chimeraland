@@ -61,7 +61,7 @@
     "@types/imagemin": "^8.0.1",
     "@types/js-yaml": "^4.0.5",
     "@types/node": "^18.15.10",
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.0.31",
     "@types/react-dom": "^18.0.8",
     "@types/sharp": "^0.31.0",
     "@types/through2": "git+https://github.com/dimaslanjaka/nodejs-package-types#through2",
