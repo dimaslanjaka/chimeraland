@@ -92,7 +92,8 @@
 | HODE | - | dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party |
 | Deshwan | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 | VenKy | | dicurigai sebagai SCAMMER ruby |
-| Salony | | dicurigai sebagai scammer map illus |
+| Salony | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
+| 7uP | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 
 ## Daftar Nama Player Yang Dihapus Dari List Diatas
 
