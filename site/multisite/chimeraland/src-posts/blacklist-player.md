@@ -547,11 +547,6 @@ author: L3n4r0x
 <td style="text-align:left">dicurigai sebagai scammer chimeraland MAP ILLUSTRIOUS 16 party</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="HODE">HODE</td>
-<td style="text-align:left">-</td>
-<td style="text-align:left">dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party</td>
-</tr>
-<tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Deshwan">Deshwan</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
@@ -564,10 +559,11 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Salony">Salony</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">dicurigai sebagai scammer map illus</td>
+<td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
 </tr>
 </tbody>
 </table>
+<!-- | 7uP | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 | -->
 <h2 id="daftar-nama-player-yang-dihapus-dari-list-diatas" tabindex="-1"><a href="#daftar-nama-player-yang-dihapus-dari-list-diatas">Daftar Nama Player Yang Dihapus Dari List Diatas</a></h2>
 <table style="width:100%;">
 <thead>
