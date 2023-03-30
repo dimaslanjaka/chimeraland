@@ -52,6 +52,7 @@
 | EggBlack | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | nekotao | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik **doub** |
+| khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 
