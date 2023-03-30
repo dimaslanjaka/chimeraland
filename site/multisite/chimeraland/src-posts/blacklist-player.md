@@ -400,6 +400,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik <strong>doub</strong></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="khoautopia">khoautopia</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
