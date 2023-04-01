@@ -130,6 +130,11 @@
 ![image](https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png)
 ![image](https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png)
 
+## Sofys Screenshots
+![image](https://user-images.githubusercontent.com/12471057/229296141-5294161a-fe40-4ce4-a904-4343084209d5.png)
+![image](https://user-images.githubusercontent.com/12471057/229296145-8da52534-4850-487b-a19f-9f52768c584b.png)
+![image](https://user-images.githubusercontent.com/12471057/229296151-5ce3b561-5260-49a5-b9fa-c66730e10ff5.png)
+
 ## semua Screenshots
 
 ![image](https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png)
