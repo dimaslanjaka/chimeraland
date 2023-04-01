@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-03-29T13:47:51+07:00
+updated: 2023-04-01T21:53:57+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -500,17 +500,22 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
 <td style="text-align:left">BOOM</td>
-<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>cilla</strong> &amp; <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
+<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="rapiRapi">rapi/Rapi</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA</td>
+<td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir <strong>cilla</strong>. Sama halnya NARAPIDANA</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Devil-God">Devil God</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER sebagai pembeli</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Sofys">Sofys</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER seller ruby, korban terakhir <strong>Kazeoo</strong></td>
 </tr>
 </tbody>
 </table>
@@ -606,6 +611,10 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/225884889-8147bac3-758d-42f1-b651-c9eb2e1a1f17.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png" alt="image"></p>
+<h2 id="sofys-screenshots" tabindex="-1"><a href="#sofys-screenshots">Sofys Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/229296141-5294161a-fe40-4ce4-a904-4343084209d5.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229296145-8da52534-4850-487b-a19f-9f52768c584b.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229296151-5ce3b561-5260-49a5-b9fa-c66730e10ff5.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
