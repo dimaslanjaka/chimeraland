@@ -74,8 +74,8 @@
 | Freecss | | SCAMMER ruby alasan baru main dan new owner |
 | drin | APPOCALYPSE | SCAMMER ruby |
 | Naru/naru | | SCAMMER ruby |
-| NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **cilla** & **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
-| rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA |
+| NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
+| rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby |
 
