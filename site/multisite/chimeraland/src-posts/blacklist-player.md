@@ -495,7 +495,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Narunaru">Naru/naru</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby</td>
+<td style="text-align:left">SCAMMER ruby , korban lebih dari 3 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru 083843615781 083172982549 083144392156</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
