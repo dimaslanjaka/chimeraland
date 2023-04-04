@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-04-01T21:53:57+07:00
+updated: 2023-04-04T18:51:01+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -536,6 +536,21 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
+<h2 id="scammer-fb">Daftar scammer akun facebook</h2>
+<table style="width:100%;">
+<thead>
+<tr>
+<th style="text-align:left">Link</th>
+<th style="text-align:left">Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="lessa-href&quot;https:www.facebook.comm.rfauzi.7169709mibextidZbWKwL&quot;greaterDaren-m.rfauzi.7169709lessagreater"><a href="https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL">Daren - m.rfauzi.7169709</a></td>
+<td style="text-align:left">Menawarkan akun <strong>OhMyRynn</strong> dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. <a href="#daren-screenshots">screenshots</a></td>
+</tr>
+</tbody>
+</table>
 <h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
 <table style="width:100%;">
 <thead>
@@ -598,6 +613,11 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="daren-screenshots" tabindex="-1"><a href="#daren-screenshots">Daren Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/229782658-991286f8-dbc3-43e6-af41-29971adae576.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782801-60788b86-b808-466e-a5c0-6394b7b11fba.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782831-81821db8-bb2d-4b42-85e5-6b0d618d2fb9.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782860-4aff146a-5ecc-4b80-aaf4-4119e23d8d49.png" alt="image"></p>
 <h2 id="raemakuu-screenshots" tabindex="-1"><a href="#raemakuu-screenshots">Raemakuu Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/225566251-25718631-3f0d-452e-81e0-712317105cd6.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png" alt="image">
