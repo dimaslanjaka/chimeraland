@@ -89,7 +89,7 @@
 
 | Link | Keterangan |
 | :--- | :--- |
-| https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL | Menawarkan akun **OhMyRynn** dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. |
+| [Daren - m.rfauzi.7169709](https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL) | Menawarkan akun **OhMyRynn** dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. [screenshots](#daren-screenshots) |
 
 ## Daftar player yang dicurigai sebagai scammer
 
@@ -118,6 +118,12 @@
 - [GamersBahagia Blacklist](https://www.gamersbahagia.com/blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+## Daren Screenshots
+![image](https://user-images.githubusercontent.com/12471057/229782658-991286f8-dbc3-43e6-af41-29971adae576.png)
+![image](https://user-images.githubusercontent.com/12471057/229782801-60788b86-b808-466e-a5c0-6394b7b11fba.png)
+![image](https://user-images.githubusercontent.com/12471057/229782831-81821db8-bb2d-4b42-85e5-6b0d618d2fb9.png)
+![image](https://user-images.githubusercontent.com/12471057/229782860-4aff146a-5ecc-4b80-aaf4-4119e23d8d49.png)
 
 ## Raemakuu Screenshots
 
