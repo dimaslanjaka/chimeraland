@@ -39,17 +39,6 @@ Bluebird.all(RecipesData)
           rel="stylesheet"
           href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"
         />
-        <style>
-          .bg-dark {
-            /* top, transparent black, faked with gradient */ 
-            linear-gradient(
-              rgba(0, 0, 0, 0.7), 
-              rgba(0, 0, 0, 0.7)
-            ),
-            /* bottom, image */
-            url("https://images.unsplash.com/photo-1614030424754-24d0eebd46b2");
-          }
-        </style>
 
         <div className="row mb-2">
           <div className="col-md-12 mb-2">
