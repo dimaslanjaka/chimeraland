@@ -85,6 +85,12 @@
 | :--- | :--- | :--- |
 | Allderosa | | Roll drop dari Black Mullbery Guardian - Bitter Cold Spring |
 
+<h2 id="scammer-fb">Daftar scammer akun facebook</h2>
+
+| Link | Keterangan |
+| :--- | :--- |
+| https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL | Menawarkan akun **OhMyRynn** dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. |
+
 ## Daftar player yang dicurigai sebagai scammer
 
 | Nama Player | Clan | Keterangan |
