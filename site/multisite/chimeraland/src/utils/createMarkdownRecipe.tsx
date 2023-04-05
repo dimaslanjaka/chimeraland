@@ -14,7 +14,7 @@ const publicDir = join(hexoProject, 'src-posts/chimeraland/recipes')
 Bluebird.all(RecipesData)
   .each((item) => {
     const attr: Record<string, any> = {}
-    attr.title = 'Recipe ' + item.name+ ' Chimeraland'
+    attr.title = 'Recipe ' + item.name + ' Chimeraland'
     attr.author = 'L3n4r0x'
     attr.updated = item.dateModified
     //attr.updated = moment().format()
@@ -37,7 +37,7 @@ Bluebird.all(RecipesData)
       <section id="bootstrap-wrapper">
         <link
           rel="stylesheet"
-          href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/bb6505ea081a75a7c845f65fb9d939276931c82f/css/bootstrap-4.5-wrapper.css"
+          href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/0c3b5aa1813bd4abcd2c11bf3e37928b15c28664/css/bootstrap-5-3-0-alpha3-wrapper.css"
         />
 
         <div className="row mb-2">
