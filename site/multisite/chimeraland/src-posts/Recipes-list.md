@@ -10,7 +10,7 @@ comments: true
 cover: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 date: 2022-01-11T07:00:00+07:00
 keywords:
-  - recipes
+  - recipe
   - chimeraland
 lang: id
 location: Indonesia
@@ -18,10 +18,10 @@ subtitle: Chimeraland cooking recipes and food functions such as buffs and
   attendant preferences, Chimeraland resep masakan dan fungsi-fungsi makanan
   seperti buff dan kesukaan attendant
 tags:
-  - Chimeraland
-  - Recipes
+  - chimeraland
+  - recipe
 title: Cooking Recipes Chimeraland
-updated: 2023-03-04T22:54:24+07:00
+updated: 2023-04-05T10:19:50+07:00
 thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 redirect_to: /chimeraland/recipes.html
 ---
