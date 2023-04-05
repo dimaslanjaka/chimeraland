@@ -1,15 +1,14 @@
-import * as gulp from 'gulp';
-import { join } from 'upath';
-import { hexoProject } from '../project';
-import fs from 'fs-extra';
+import fs from 'fs-extra'
+import { join } from 'upath'
+import { hexoProject } from '../project'
 
-const sourceFolder = join(__dirname, '../source');
-const sourceOutputFolder = join(hexoProject, 'source/chimeraland');
+const sourceFolder = join(__dirname, '../source')
+const sourceOutputFolder = join(hexoProject, 'source/chimeraland')
 
 export function copySource() {
-  return fs.copySync(sourceFolder, sourceOutputFolder, { overwrite: true });
+  return fs.copySync(sourceFolder, sourceOutputFolder, { overwrite: true })
 }
 
-if (require.main === module) copySource();
+if (require.main === module) copySource()
 
-export default copySource;
+export default copySource
