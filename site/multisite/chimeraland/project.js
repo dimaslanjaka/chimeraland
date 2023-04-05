@@ -8,8 +8,8 @@ const chimeralandProject = toUnix(__dirname)
  * run post:copy
  */
 function copyPost() {
-  console.log('npm run copy on', hexoProject)
-  spawn('npm', ['run', 'post:copy'], {
+  // console.log('npm run copy on', hexoProject)
+  spawn('yarn', ['workspace', 'wmi', 'run', 'post:copy'], {
     cwd: hexoProject,
     stdio: 'inherit',
     shell: true

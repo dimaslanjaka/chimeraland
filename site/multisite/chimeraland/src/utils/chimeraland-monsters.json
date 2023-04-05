@@ -9569,11 +9569,18 @@
   {
     "name": "giant piranha",
     "datePublished": "2023-03-28T08:59:08+07:00",
-    "dateModified": "2023-03-28T09:10:08+07:00",
-    "qty": "",
+    "dateModified": "2023-04-05T16:43:22+07:00",
+    "qty": "GRADE B ATK 60 HP 59 DEF 61",
     "skill": [],
-    "buff": [],
-    "delicacies": [],
+    "buff": [
+      "Attributes Conversion Rate 4.0%",
+      "Attack 60"
+    ],
+    "delicacies": [
+      "Aged Butterfly Wing Broth",
+      "Hearty Meatball Soup",
+      "Hot Stone Icefox Meat"
+    ],
     "images": [
       {
         "filename": "Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp",
