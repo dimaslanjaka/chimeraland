@@ -23,7 +23,6 @@ tags:
 title: Cooking Recipes Chimeraland
 updated: 2023-04-05T10:19:50+07:00
 thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
-redirect_to: /chimeraland/recipes.html
 ---
 
 <!-- include index2/update.html -->
