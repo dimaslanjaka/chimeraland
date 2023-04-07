@@ -20,7 +20,7 @@ categories:
 keywords:
   - scammer list chimeraland
   - blacklist player chimeraland
-thumbnail: /chimeraland/blacklist-player/thumbnail.png
+thumbnail: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
 author: L3n4r0x
 ---
 
