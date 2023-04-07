@@ -1,18 +1,5 @@
 <!-- include translator.html -->
 
-> IGN Akun admin **L3n4r0x** berada di **S101-116** clan **Hellvius**, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.
->
-> Daftar akun tuyul admin:
-> - L3n4r0x PC (S101-116)
-> - Melfork (S101-116)
-> - NavaMilim (S101-116)
->
-> Selain daftar diatas merupakan akun palsu orang lain.
->
-> Admin tidak bertanggung jawab atas hal-hal yang tidak admin lakukan seperti SCAM.
->
-> Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.
-
 ## Scammer Map Illus 16
 > Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY
 
@@ -162,3 +149,18 @@
 ![image](https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png)
 
 <!-- tangkapan.layar -->
+
+> ## ATTENTION
+>
+> IGN Akun admin **L3n4r0x** berada di **S101-116** clan **Hellvius**, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.
+>
+> Daftar akun tuyul admin:
+> - L3n4r0x PC (S101-116)
+> - Melfork (S101-116)
+> - NavaMilim (S101-116)
+>
+> Selain daftar diatas merupakan akun palsu orang lain.
+>
+> Admin tidak bertanggung jawab atas hal-hal yang tidak admin lakukan seperti SCAM.
+>
+> Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.
