@@ -13,7 +13,8 @@
 >
 > Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.
 
-<h2 id="scammer-map-illus-16">Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</h2>
+## Scammer Map Illus 16
+> Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY
 
 > Pastikan **Auto abadon roll sudah cek** pada **Team Settings** setiap masuk sebuah team.
 > - Klik Team
@@ -54,7 +55,8 @@
 | wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik **doub** |
 | khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 
-<h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
+## Scammer Payments
+> Daftar scammer/blacklist player kategori SCAMMER RUBY (pembelian, penjualan, dan transaksi pembayaran lainnya)
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
@@ -78,14 +80,17 @@
 | rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
+| BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023 |
 
-<h2 id="scammer-bitter">Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</h2>
+## Scammer Bitter
+> Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
 | Allderosa | | Roll drop dari Black Mullbery Guardian - Bitter Cold Spring |
 
-<h2 id="scammer-fb">Daftar scammer akun facebook</h2>
+## Scammer FB
+> Daftar scammer akun facebook
 
 | Link | Keterangan |
 | :--- | :--- |
@@ -118,6 +123,11 @@
 - [GamersBahagia Blacklist](https://www.gamersbahagia.com/blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+## BabyLordz Screenshots
+![image](https://user-images.githubusercontent.com/12471057/230568662-c7b9d7c4-a062-4c18-aa5a-89346582859f.png)
+![image](https://user-images.githubusercontent.com/12471057/230568618-a6e74992-8a88-486d-891a-f1233a0e965f.png)
+![image](https://user-images.githubusercontent.com/12471057/230568643-f19a1800-016c-4ca1-8457-fca5f95060c6.png)
 
 ## Daren Screenshots
 ![image](https://user-images.githubusercontent.com/12471057/229782658-991286f8-dbc3-43e6-af41-29971adae576.png)
