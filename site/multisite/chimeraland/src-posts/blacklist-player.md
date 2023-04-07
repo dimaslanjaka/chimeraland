@@ -224,19 +224,12 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
+<p>Melansir <a href="https://www.avast.com/c-scam" title="Avast">Avast</a>, <strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
+<!-- include translator.html -->
+<h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
 <blockquote>
-<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong> clan <strong>Hellvius</strong>, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.</p>
-<p>Daftar akun tuyul admin:</p>
-<ul>
-<li>L3n4r0x PC (S101-116)</li>
-<li>Melfork (S101-116)</li>
-<li>NavaMilim (S101-116)</li>
-</ul>
-<p>Selain daftar diatas merupakan akun palsu orang lain.</p>
-<p>Admin tidak bertanggung jawab atas hal-hal yang tidak admin lakukan seperti SCAM.</p>
-<p>Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.</p>
+<p>Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</p>
 </blockquote>
-<h2 id="scammer-map-illus-16">Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</h2>
 <blockquote>
 <p>Pastikan <strong>Auto abadon roll sudah cek</strong> pada <strong>Team Settings</strong> setiap masuk sebuah team.</p>
 <ul>
@@ -407,7 +400,10 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
+<h2 id="scammer-payments" tabindex="-1"><a href="#scammer-payments">Scammer Payments</a></h2>
+<blockquote>
+<p>Daftar scammer/blacklist player kategori SCAMMER RUBY (pembelian, penjualan, dan transaksi pembayaran lainnya)</p>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -517,9 +513,17 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER seller ruby, korban terakhir <strong>Kazeoo</strong></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="BabyLordz">BabyLordz</td>
+<td style="text-align:left">APPOCALYPZE</td>
+<td style="text-align:left">SCAM daily service 500,000 IDR, reported by <strong>Ell</strong> at 03-07-2023. <a href="#babylordz-screenshots">screenshots</a></td>
+</tr>
 </tbody>
 </table>
-<h2 id="scammer-bitter">Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</h2>
+<h2 id="scammer-bitter" tabindex="-1"><a href="#scammer-bitter">Scammer Bitter</a></h2>
+<blockquote>
+<p>Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</p>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -536,7 +540,10 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="scammer-fb">Daftar scammer akun facebook</h2>
+<h2 id="scammer-fb" tabindex="-1"><a href="#scammer-fb">Scammer FB</a></h2>
+<blockquote>
+<p>Daftar scammer akun facebook</p>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -613,6 +620,10 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="baby-lordz-screenshots" tabindex="-1"><a href="#baby-lordz-screenshots">BabyLordz Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/230568662-c7b9d7c4-a062-4c18-aa5a-89346582859f.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/230568618-a6e74992-8a88-486d-891a-f1233a0e965f.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/230568643-f19a1800-016c-4ca1-8457-fca5f95060c6.png" alt="image"></p>
 <h2 id="daren-screenshots" tabindex="-1"><a href="#daren-screenshots">Daren Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/229782658-991286f8-dbc3-43e6-af41-29971adae576.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/229782801-60788b86-b808-466e-a5c0-6394b7b11fba.png" alt="image">
@@ -680,3 +691,16 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Yunas%20-%20masalah%20selesai.jpg" alt="Yunas - masalah selesai.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%202.jpg" alt="yurikosangyi - 2.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%203.jpg" alt="yurikosangyi - 3.jpg" />
+<blockquote>
+<h2 id="attention" tabindex="-1"><a href="#attention">ATTENTION</a></h2>
+<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong> clan <strong>Hellvius</strong>, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.</p>
+<p>Daftar akun tuyul admin:</p>
+<ul>
+<li>L3n4r0x PC (S101-116)</li>
+<li>Melfork (S101-116)</li>
+<li>NavaMilim (S101-116)</li>
+</ul>
+<p>Selain daftar diatas merupakan akun palsu orang lain.</p>
+<p>Admin tidak bertanggung jawab atas hal-hal yang tidak admin lakukan seperti SCAM.</p>
+<p>Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.</p>
+</blockquote>
