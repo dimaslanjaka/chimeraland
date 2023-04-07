@@ -44,8 +44,8 @@ Melansir [Avast](https://www.avast.com/c-scam "Avast"), **scam** adalah sebuah u
 | wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik **doub** |
 | khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 
-## Scammer Payments
-> Daftar scammer/blacklist player kategori SCAMMER RUBY (pembelian, penjualan, dan transaksi pembayaran lainnya)
+## Scammer Jual-Beli
+> Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
