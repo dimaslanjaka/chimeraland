@@ -1,3 +1,5 @@
+![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
+
 ## Apa itu scam?
 
 **scam** adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. _Pelaku yang melakukan scam_ disebut dengan **scammer**. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.
