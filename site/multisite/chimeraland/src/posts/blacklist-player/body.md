@@ -69,7 +69,7 @@ Melansir [Avast](https://www.avast.com/c-scam "Avast"), **scam** adalah sebuah u
 | rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
-| BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#babylordz-screenshots) |
+| BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
