@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-04-08T20:29:40+07:00
+updated: 2023-04-08T22:19:11+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -393,7 +393,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="wolverine">wolverine</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik <strong>doub</strong></td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16. Roll ortzi earrings milik <strong>doub</strong>.</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="khoautopia">khoautopia</td>
@@ -448,7 +448,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="hella">hella</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER sebagai penjual telur rare, player korban scam <strong>oishitamango</strong></td>
+<td style="text-align:left">SCAMMER sebagai penjual telur rare. Player korban scam <strong>oishitamango</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="LORD">LORD</td>
@@ -493,12 +493,12 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Narunaru">Naru/naru</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby , korban lebih dari 3 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru 083843615781 083172982549 083144392156</td>
+<td style="text-align:left">SCAMMER ruby , korban lebih dari 1 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru +6283843615781 +6283172982549 +6283144392156</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
 <td style="text-align:left">BOOM</td>
-<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
+<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>NeBisIndem</strong>. Nomor kontak +6289526134254 Uang dikirim ke dana +6289623476668</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="rapiRapi">rapi/Rapi</td>
@@ -523,7 +523,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="ucil">ucil</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62 895-0396-7390</td>
+<td style="text-align:left">SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam <strong>KYUKI</strong>.</td>
 </tr>
 </tbody>
 </table>
@@ -565,7 +565,10 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
+<h2 id="suspected-list" tabindex="-1"><a href="#suspected-list">Suspected List</a></h2>
+<blockquote>
+<p>Daftar player yang dicurigai sebagai scammer</p>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -597,8 +600,10 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<!-- | 7uP | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 | -->
-<h2 id="daftar-nama-player-yang-dihapus-dari-list-diatas" tabindex="-1"><a href="#daftar-nama-player-yang-dihapus-dari-list-diatas">Daftar Nama Player Yang Dihapus Dari List Diatas</a></h2>
+<h2 id="dihapus-dari-daftar" tabindex="-1"><a href="#dihapus-dari-daftar">Dihapus Dari Daftar</a></h2>
+<blockquote>
+<p>Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas</p>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
