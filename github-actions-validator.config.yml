@@ -1,3 +1,0 @@
-validate:
-  blacklist: "blacklist-player.html"
-  recipes: "recipes.html"
