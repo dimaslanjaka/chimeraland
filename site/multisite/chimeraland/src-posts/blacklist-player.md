@@ -224,7 +224,9 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
-<p>Melansir <a href="https://www.avast.com/c-scam" title="Avast">Avast</a>, <strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
+<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer"></p>
+<h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
+<p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
 <!-- include translator.html -->
 <h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
 <blockquote>
@@ -516,7 +518,12 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="BabyLordz">BabyLordz</td>
 <td style="text-align:left">APPOCALYPZE</td>
-<td style="text-align:left">SCAM daily service 500,000 IDR, reported by <strong>Ell</strong> at 03-07-2023. <a href="#babylordz-screenshots">screenshots</a></td>
+<td style="text-align:left">SCAM daily service 500,000 IDR, reported by <strong>Ell</strong> at 03-07-2023. <a href="#baby-lordz-screenshots">screenshots</a></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="ucil">ucil</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62 895-0396-7390</td>
 </tr>
 </tbody>
 </table>
