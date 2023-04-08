@@ -90,7 +90,8 @@
 | :--- | :--- |
 | [Daren - m.rfauzi.7169709](https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL) | Menawarkan akun **OhMyRynn** dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. [screenshots](#daren-screenshots) |
 
-## Daftar player yang dicurigai sebagai scammer
+## Suspected List
+> Daftar player yang dicurigai sebagai scammer
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
@@ -101,7 +102,8 @@
 
 <!-- | 7uP | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 | -->
 
-## Daftar Nama Player Yang Dihapus Dari List Diatas
+## Dihapus Dari Daftar
+> Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas
 
 | IGN | Clan | Keterangan |
 | :--- | :--- | :--- |
