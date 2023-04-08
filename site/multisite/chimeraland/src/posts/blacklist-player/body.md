@@ -45,7 +45,7 @@
 | zhuras | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | EggBlack | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | nekotao | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
-| wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16, Roll ortzi earrings milik **doub** |
+| wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16. Roll ortzi earrings milik **doub**. |
 | khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 
 ## Scammer Jual-Beli
@@ -59,7 +59,7 @@
 | Tusboll | | SCAMMER ruby dengan alasan **harga pensiun bermain** / rate pensiun bermain |
 | Ryujin | | SCAMMER ruby dengan alasan **harga pensiun bermain** / rate pensiun bermain |
 | Ryuukendo | | SCAMMER ruby dengan alasan **harga pensiun bermain** / rate pensiun bermain |
-| hella | | SCAMMER sebagai penjual telur rare, player korban scam **oishitamango** |
+| hella | | SCAMMER sebagai penjual telur rare. Player korban scam **oishitamango** |
 | LORD | | AKUN KEDUA **[hella](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=hella&scroll=true)** |
 | Yayan bae | | SCAMMER Illus Seal, Toxic |
 | Rishya | | SCAMMER ruby |
@@ -68,13 +68,13 @@
 | Xaiii | | SCAMMER ruby, akun kedua dari **[Xalll](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&scroll=true)** |
 | Freecss | | SCAMMER ruby alasan baru main dan new owner |
 | drin | APPOCALYPSE | SCAMMER ruby |
-| Naru/naru | | SCAMMER ruby , korban lebih dari 3 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru 083843615781 083172982549 083144392156 |
-| NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **NeBisIndem**. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668 |
+| Naru/naru | | SCAMMER ruby , korban lebih dari 1 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru +6283843615781 +6283172982549 +6283144392156 |
+| NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **NeBisIndem**. Nomor kontak +6289526134254 Uang dikirim ke dana +6289623476668 |
 | rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-| ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62 895-0396-7390 |
+| ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390 |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -99,8 +99,6 @@
 | Deshwan | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 | VenKy | | dicurigai sebagai SCAMMER ruby |
 | Salony | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
-
-<!-- | 7uP | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 | -->
 
 ## Dihapus Dari Daftar
 > Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas
