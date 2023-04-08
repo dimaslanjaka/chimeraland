@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-04-07T17:22:40+07:00
+updated: 2023-04-08T20:29:40+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -541,7 +541,7 @@ author: L3n4r0x
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Allderosa">Allderosa</td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="AllderosaAlderosa">Allderosa/Alderosa</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drop dari Black Mullbery Guardian - Bitter Cold Spring</td>
 </tr>
@@ -611,7 +611,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Yunas">Yunas</td>
 <td style="text-align:left">CheeseCake</td>
-<td style="text-align:left">dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya permasalahan tersebut sudah diselesaikan.</td>
+<td style="text-align:left">dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya (dari anggota clan CheeseCake) permasalahan tersebut sudah diselesaikan.</td>
 </tr>
 </tbody>
 </table>
