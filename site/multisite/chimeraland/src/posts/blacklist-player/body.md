@@ -81,7 +81,7 @@
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
-| Allderosa | | Roll drop dari Black Mullbery Guardian - Bitter Cold Spring |
+| Allderosa/Alderosa | | Roll drop dari Black Mullbery Guardian - Bitter Cold Spring |
 
 ## Scammer FB
 > Daftar scammer akun facebook
@@ -105,7 +105,7 @@
 
 | IGN | Clan | Keterangan |
 | :--- | :--- | :--- |
-| Yunas | CheeseCake | dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya permasalahan tersebut sudah diselesaikan. |
+| Yunas | CheeseCake | dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya (dari anggota clan CheeseCake) permasalahan tersebut sudah diselesaikan. |
 
 ## Hindari Hal-Hal Berikut Agar Tidak Kena Scam
 - Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).
