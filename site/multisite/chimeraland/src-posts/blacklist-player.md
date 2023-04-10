@@ -224,7 +224,8 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
-<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer"></p>
+<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
+<center><small>short link https://bit.ly/chimeraland-blacklist</small></center>
 <h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
 <p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
 <!-- include translator.html -->
@@ -622,7 +623,7 @@ author: L3n4r0x
 </table>
 <h2 id="hindari-hal-hal-berikut-agar-tidak-kena-scam" tabindex="-1"><a href="#hindari-hal-hal-berikut-agar-tidak-kena-scam">Hindari Hal-Hal Berikut Agar Tidak Kena Scam</a></h2>
 <ul>
-<li>Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).</li>
+<li>Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).</li>
 <li>Jangan melakukan transaksi dengan <strong>AKUN SMURF</strong> (orang indonesia menyebutnya <strong>AKUN TUYUL</strong>), 90% merupakan scammer.</li>
 </ul>
 <h2 id="tautan-yang-merujuk-tentang-scammer" tabindex="-1"><a href="#tautan-yang-merujuk-tentang-scammer">Tautan yang merujuk tentang scammer</a></h2>
