@@ -462,9 +462,9 @@ author: L3n4r0x
 <td style="text-align:left">SCAMMER Illus Seal, Toxic</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Rishya">Rishya</td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="RishyaRishnya">Rishya/Rishnya</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby</td>
+<td style="text-align:left">SCAMMER ruby, korban sekaligus pelapor adalah <strong>Azure Javane</strong>.</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="BangPo">BangPo</td>
