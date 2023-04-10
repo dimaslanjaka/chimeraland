@@ -1,4 +1,6 @@
-![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
+![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png "scammer chimeraland thumbnail")
+
+<center>https://bit.ly/chimeraland-blacklist</center>
 
 ## Apa itu scam?
 
