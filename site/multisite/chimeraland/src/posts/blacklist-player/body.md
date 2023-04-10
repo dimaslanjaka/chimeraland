@@ -64,7 +64,7 @@
 | hella | | SCAMMER sebagai penjual telur rare. Player korban scam **oishitamango** |
 | LORD | | AKUN KEDUA **[hella](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=hella&scroll=true)** |
 | Yayan bae | | SCAMMER Illus Seal, Toxic |
-| Rishya | | SCAMMER ruby |
+| Rishya/Rishnya | | SCAMMER ruby, korban sekaligus pelapor adalah **Azure Javane**. |
 | BangPo | CheeseCake | SCAMMER ruby |
 | Xalll | | SCAMMER ruby |
 | Xaiii | | SCAMMER ruby, akun kedua dari **[Xalll](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&scroll=true)** |
