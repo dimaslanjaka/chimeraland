@@ -706,7 +706,7 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%203.jpg" alt="yurikosangyi - 3.jpg" />
 <blockquote>
 <h2 id="attention" tabindex="-1"><a href="#attention">ATTENTION</a></h2>
-<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong> clan <strong>Hellvius</strong>, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.</p>
+<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong>, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.</p>
 <p>Daftar akun tuyul admin:</p>
 <ul>
 <li>L3n4r0x PC (S101-116)</li>
