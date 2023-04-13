@@ -161,7 +161,7 @@
 
 > ## ATTENTION
 >
-> IGN Akun admin **L3n4r0x** berada di **S101-116** clan **Hellvius**, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.
+> IGN Akun admin **L3n4r0x** berada di **S101-116**, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.
 >
 > Daftar akun tuyul admin:
 > - L3n4r0x PC (S101-116)
