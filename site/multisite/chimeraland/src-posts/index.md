@@ -9,26 +9,17 @@ permalink: /chimeraland/index.html
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [Senjo craft lists](/chimeraland/senjo.html)
-![Senjo craft lists](//via.placeholder.com/200x50/FFFFFF/000000/?text=Senjo craft lists)
-
 ## [All about totem in chimeraland](/chimeraland/totem.html)
 ![All about totem in chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=All about totem in chimeraland)
 
-## [Taming Pets Chimeraland](/chimeraland/Taming.html)
-![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+## [Senjo craft lists](/chimeraland/senjo.html)
+![Senjo craft lists](//via.placeholder.com/200x50/FFFFFF/000000/?text=Senjo craft lists)
 
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 ![Script auto fishing Chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=Script auto fishing Chimeraland)
 
-## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
-![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
-
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 ![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
-
-## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
-![Chimeraland Pets Attribute Stats Information](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Pets Attribute Stats Information)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 ![Pet and attendant delicacies tasty informations Chimeraland](https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg)
@@ -48,11 +39,11 @@ All in one recipes
 ## [Index Chimeraland](/chimeraland/index2.html)
 ![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
 
-## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
-![Lokasi Spawn Bunga Di Chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=Lokasi Spawn Bunga Di Chimeraland)
-
 ## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
 ![Chimeraland Unofficial Wikipedia](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Unofficial Wikipedia)
+
+## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
+![Lokasi Spawn Bunga Di Chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=Lokasi Spawn Bunga Di Chimeraland)
 
 ## [Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0.html)
 ![Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0/teleport-war-banner-chimera-2-0.jpg)
@@ -74,4 +65,13 @@ All in one recipes
 
 ## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
 ![Chimeraland Attendant List](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Attendant List)
+
+## [Taming Pets Chimeraland](/chimeraland/Taming.html)
+![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+
+## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
+![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
+
+## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
+![Chimeraland Pets Attribute Stats Information](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Pets Attribute Stats Information)
 
