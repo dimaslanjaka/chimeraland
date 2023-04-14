@@ -110,29 +110,35 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
         rel="stylesheet"
         href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/0c3b5aa1813bd4abcd2c11bf3e37928b15c28664/css/bootstrap-5-3-0-alpha3-wrapper.css"
       />
-      <h2>{item.name} Information from Chimeraland</h2>
+      <h2 id="attribute">{item.name} Information from Chimeraland</h2>
       <p>
         <b>{item.name}</b> default attribute {item.qty}
         {qtyhtm}
       </p>
       <hr />
-      <h2>Delicacies/Tasty for {item.name}</h2>
-      {item.delicacies &&
-        item.delicacies.map((recipeName) => {
-          const recipe = RecipesData.find(
-            (recipe) => recipe.name === recipeName
-          )
-          return (
-            <li key={recipeName} className="d-flex justify-content-between">
-              {recipeName}{' '}
-              {recipe && (
-                <a href={recipe.pathname}>
-                  Click here to view recipe <i>{recipeName}</i> details
-                </a>
-              )}
-            </li>
-          )
-        })}
+      <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
+      <div className="text-white bg-dark">
+        {item.delicacies &&
+          item.delicacies.map((recipeName) => {
+            const recipe = RecipesData.find(
+              (recipe) => recipe.name === recipeName
+            )
+            return (
+              <li key={recipeName} className="d-flex justify-content-between">
+                {recipeName}{' '}
+                {recipe && (
+                  <a
+                    href={recipe.pathname}
+                    title={
+                      'Click here to view recipe ' + recipeName + ' details'
+                    }>
+                    <i>{recipeName}</i> details
+                  </a>
+                )}
+              </li>
+            )
+          })}
+      </div>
       <hr />
       {gallery && gallery}
     </section>
