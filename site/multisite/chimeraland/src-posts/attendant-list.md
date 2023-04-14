@@ -2,7 +2,7 @@
 ---
 title: Chimeraland Attendant List
 date: 2023-04-12T13:38:00+0700
-updated: 2023-04-12T13:38:00+0700
+updated: 2023-04-12T20:38:00+07:00
 categories: ['games', 'chimeraland']
 tags: ['attendant']
 permalink: /chimeraland/attendant-list.html
