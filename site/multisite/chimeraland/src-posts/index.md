@@ -6,14 +6,17 @@ type: page
 permalink: /chimeraland/index.html
 ---
 
-## [Taming Pets Chimeraland](/chimeraland/Taming.html)
-![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+## [Cooking Recipes](/chimeraland/recipes.html)
+All in one recipes
+
+## [Senjo craft lists](/chimeraland/senjo.html)
+![Senjo craft lists](//via.placeholder.com/200x50/FFFFFF/000000/?text=Senjo craft lists)
 
 ## [All about totem in chimeraland](/chimeraland/totem.html)
 ![All about totem in chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=All about totem in chimeraland)
 
-## [Senjo craft lists](/chimeraland/senjo.html)
-![Senjo craft lists](//via.placeholder.com/200x50/FFFFFF/000000/?text=Senjo craft lists)
+## [Taming Pets Chimeraland](/chimeraland/Taming.html)
+![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
 
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 ![Script auto fishing Chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=Script auto fishing Chimeraland)
@@ -45,11 +48,11 @@ permalink: /chimeraland/index.html
 ## [Index Chimeraland](/chimeraland/index2.html)
 ![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
 
-## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
-![Chimeraland Unofficial Wikipedia](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Unofficial Wikipedia)
-
 ## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
 ![Lokasi Spawn Bunga Di Chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=Lokasi Spawn Bunga Di Chimeraland)
+
+## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
+![Chimeraland Unofficial Wikipedia](//via.placeholder.com/200x50/FFFFFF/000000/?text=Chimeraland Unofficial Wikipedia)
 
 ## [Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0.html)
 ![Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0/teleport-war-banner-chimera-2-0.jpg)
