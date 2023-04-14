@@ -9754,5 +9754,75 @@
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/swordfish.html"
+  },
+  {
+    "name": "mamba",
+    "datePublished": "2023-04-14T15:46:10+07:00",
+    "dateModified": "2023-04-14T15:57:10+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba",
+        "originalPath": "/home/runner/work/static-blog-generator-hexo/static-blog-generator-hexo/site/multisite/chimeraland/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/mamba.html"
   }
 ]
