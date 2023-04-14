@@ -661,6 +661,7 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/229296151-5ce3b561-5260-49a5-b9fa-c66730e10ff5.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/BangPo.jpeg" alt="BangPo.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
@@ -702,7 +703,6 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yukie.jpg" alt="yukie.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yukie%20-%202.jpg" alt="yukie - 2.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Yunas%20-%20masalah%20selesai.jpg" alt="Yunas - masalah selesai.jpg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%202.jpg" alt="yurikosangyi - 2.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%203.jpg" alt="yurikosangyi - 3.jpg" />
 <blockquote>
 <h2 id="attention" tabindex="-1"><a href="#attention">ATTENTION</a></h2>
