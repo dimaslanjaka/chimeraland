@@ -15,13 +15,15 @@ import {
 
 // create /chimeraland/index.html
 const base = path.join(__dirname, '../../src-posts')
-let body = ''
+let body =
+  `
+## [Cooking Recipes](/chimeraland/recipes.html)
+All in one recipes
+`.trim() + '\n\n'
 const dates = AttendantsData.concat(
   ...(MonstersData as any[]),
   ...(MaterialsData as any[])
 ).map((o) => moment(o.dateModified).valueOf())
-
-const updated = moment(Math.max.apply(null, dates))
 
 glob('**/*.md', { cwd: base, realpath: true, absolute: true })
   .then((paths) => {
@@ -30,8 +32,11 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
       for (let i = 0; i < unix_paths.length; i++) {
         const post_path = unix_paths[i]
         const parsed = await parsePost(post_path)
-        const { title } = parsed.metadata
+        const { title, updated } = parsed.metadata
         let { permalink, thumbnail } = parsed.metadata
+
+        // push updated to dates
+        dates.push(moment(String(updated)).valueOf())
 
         // thumbnail fix
         if (!thumbnail || thumbnail.trim().length === 0) {
@@ -57,6 +62,7 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
       }
     }
     parse().then(function () {
+      const updated = moment(Math.max.apply(null, dates))
       const metadata =
         `
 ---
