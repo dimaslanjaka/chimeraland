@@ -3,13 +3,26 @@
 // export * from './material-location'
 import { glob } from 'glob'
 import { parsePost } from 'hexo-post-parser'
+import moment from 'moment-timezone'
 import { writefile } from 'sbg-utility'
 import { trueCasePathSync } from 'true-case-path'
 import path from 'upath'
+import {
+  AttendantsData,
+  MaterialsData,
+  MonstersData
+} from '../utils/chimeraland'
 
 // create /chimeraland/index.html
 const base = path.join(__dirname, '../../src-posts')
 let body = ''
+const dates = AttendantsData.concat(
+  ...(MonstersData as any[]),
+  ...(MaterialsData as any[])
+).map((o) => moment(o.dateModified).valueOf())
+
+const updated = moment(Math.max.apply(null, dates))
+
 glob('**/*.md', { cwd: base, realpath: true, absolute: true })
   .then((paths) => {
     const unix_paths = paths.map(path.toUnix)
@@ -49,7 +62,7 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2022-09-10 12:13:30
+updated: ${updated.format('YYYY-MM-DDTHH:mm:ssZ')}
 type: page
 permalink: /chimeraland/index.html
 ---
