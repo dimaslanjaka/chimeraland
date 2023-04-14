@@ -3,6 +3,12 @@
   "files.exclude": {
     "**/node_modules": true
   },
+  "terminal.integrated.env.linux": {
+    "PATH": "${env:PATH}:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/bin"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin"
+  },
   "editor.codeActionsOnSave": {
     "source.fixAll": true,
     "source.organizeImports": true,
@@ -49,8 +55,8 @@
   "code-runner.saveAllFilesBeforeRun": true,
   "code-runner.runInTerminal": true,
   "code-runner.executorMap": {
-    "xxtypescript": "npx cross-env-shell DEBUG=chimera-*,chimera,chimera:* ts-node",
-    "xxtypescriptreact": "npx cross-env-shell DEBUG=chimera-*,chimera,chimera:* ts-node",
+    "xxtypescript": "cross-env-shell DEBUG=chimera-*,chimera,chimera:* ts-node",
+    "typescriptreact": "node -r ts-node/register",
     "typescript": "node -r ts-node/register"
   },
   "code-runner.respectShebang": true,
