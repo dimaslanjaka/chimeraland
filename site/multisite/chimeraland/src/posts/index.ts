@@ -57,7 +57,8 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
         body +=
           `
 ## [${title}](${permalink})
-![${title}]("${thumbnail}")
+                                            
+![${title}](${thumbnail})
       `.trim() + '\n\n'
       }
     }
