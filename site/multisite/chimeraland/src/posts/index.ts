@@ -40,7 +40,10 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
 
         // thumbnail fix
         if (!thumbnail || thumbnail.trim().length === 0) {
-          thumbnail = `https://via.placeholder.com/200x50/FFFFFF/000000/?text=${title.replace(/\s/gmi, '+')}`
+          thumbnail = `https://via.placeholder.com/700x500/FFFFFF/000000/?text=${title.replace(
+            /\s/gim,
+            '+'
+          )}`
         }
 
         // permalink fix
@@ -57,7 +60,7 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
         body +=
           `
 ## [${title}](${permalink})
-                                            
+
 ![${title}](${thumbnail})
       `.trim() + '\n\n'
       }
