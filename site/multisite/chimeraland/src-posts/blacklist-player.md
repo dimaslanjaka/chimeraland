@@ -401,6 +401,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="sendalkumana">sendalkumana</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Out party sebelum giliran map dia, sedangkan map sudah berjalan 3 kali</td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-jual-beli" tabindex="-1"><a href="#scammer-jual-beli">Scammer Jual-Beli</a></h2>
