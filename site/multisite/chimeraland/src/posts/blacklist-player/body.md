@@ -32,7 +32,7 @@
 | Shelby | | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
 | PrimalHunter | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 | blackblades | | Roll telur illus 30,000 years dan tidak dikembalikan (tidak ada penyelesaian) |
-| maraa | undead | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
+| maraa | undead | SCAMMER chimeraland MAP ILLUSTRIOUS 16, dilaporkan oleh **Luckios** |
 | xSOLETAx | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Elacan | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | YurikoSanGyi | | Roll and SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
