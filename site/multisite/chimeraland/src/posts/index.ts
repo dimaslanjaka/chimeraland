@@ -40,7 +40,7 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
 
         // thumbnail fix
         if (!thumbnail || thumbnail.trim().length === 0) {
-          thumbnail = `//via.placeholder.com/200x50/FFFFFF/000000/?text=${title}`
+          thumbnail = `https://via.placeholder.com/200x50/FFFFFF/000000/?text=${title}`
         }
 
         // permalink fix
