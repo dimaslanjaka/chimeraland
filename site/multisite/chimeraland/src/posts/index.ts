@@ -74,6 +74,7 @@ title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
 updated: ${updated.format('YYYY-MM-DDTHH:mm:ssZ')}
 type: page
+layout: page
 permalink: /chimeraland/index.html
 ---
     `.trim() + '\n\n'
