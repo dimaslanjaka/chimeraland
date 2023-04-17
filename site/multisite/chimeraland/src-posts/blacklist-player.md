@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-04-16T06:39:15+07:00
+updated: 2023-04-17T20:35:35+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -404,7 +404,17 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="sendalkumana">sendalkumana</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Out party sebelum giliran map dia, sedangkan map sudah berjalan 3 kali</td>
+<td style="text-align:left">Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="afnc">afnc</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Xx-kri-xX">Xx kri xX</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops item di party illus map, korban terakhir <strong>WAKANDA</strong>, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em></td>
 </tr>
 </tbody>
 </table>
@@ -638,6 +648,11 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="xx-kri-x-x-screenshots" tabindex="-1"><a href="#xx-kri-x-x-screenshots">Xx kri xX Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/232496879-8fa44627-c9f1-4488-be48-a23ee5bc44f6.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/232496944-5ad4cecd-2f8d-429e-8732-7df21bbaf43d.png" alt="image"></p>
+<h2 id="afnc-screenshots" tabindex="-1"><a href="#afnc-screenshots">afnc Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/232495225-6daf4eae-63dc-4726-b211-29496e075c59.png" alt="image"></p>
 <h2 id="baby-lordz-screenshots" tabindex="-1"><a href="#baby-lordz-screenshots">BabyLordz Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/230568662-c7b9d7c4-a062-4c18-aa5a-89346582859f.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/230568618-a6e74992-8a88-486d-891a-f1233a0e965f.png" alt="image">
