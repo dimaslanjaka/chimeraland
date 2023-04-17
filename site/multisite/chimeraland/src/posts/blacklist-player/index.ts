@@ -124,9 +124,11 @@ const screenshots = function (): Promise<string[]> {
         /*const jpgDataUrlPrefix =
           'data:image/' + extname(path).replace('.', '') + ';base64,'
         const base64 = readFileSync(path, 'base64')
-        return `<img src="${jpgDataUrlPrefix}${base64}" alt="${basename(
+        return `<figure><img src="${jpgDataUrlPrefix}${base64}" alt="${basename(
           path
-        )}" />`*/
+        )}" /><figcaption>${basename(
+          path
+        )}</figcaption></figure>`*/
       })
   })
 }
