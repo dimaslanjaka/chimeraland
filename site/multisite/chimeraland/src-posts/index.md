@@ -10,13 +10,13 @@ permalink: /chimeraland/index.html
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
+
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
