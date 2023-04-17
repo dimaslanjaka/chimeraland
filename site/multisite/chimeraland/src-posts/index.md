@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-04-17T20:35:35+07:00
+updated: 2023-04-18T00:00:28+07:00
 type: page
 layout: page
 permalink: /chimeraland/index.html
@@ -10,13 +10,13 @@ permalink: /chimeraland/index.html
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [Senjo craft lists](/chimeraland/senjo.html)
-
-![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
-
 ## [All about totem in chimeraland](/chimeraland/totem.html)
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
+
+## [Senjo craft lists](/chimeraland/senjo.html)
+
+![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
