@@ -65,12 +65,12 @@
 | Ryujin | | SCAMMER ruby dengan alasan **harga pensiun bermain** / rate pensiun bermain |
 | Ryuukendo | | SCAMMER ruby dengan alasan **harga pensiun bermain** / rate pensiun bermain |
 | hella | | SCAMMER sebagai penjual telur rare. Player korban scam **oishitamango** |
-| LORD | | AKUN KEDUA **[hella](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=hella&scroll=true)** |
+| LORD | | AKUN KEDUA **[hella](https://www.webmanajemen.com/chimeraland/blacklist-player.html#hella)** |
 | Yayan bae | | SCAMMER Illus Seal, Toxic |
 | Rishya/Rishnya | | SCAMMER ruby, korban sekaligus pelapor adalah **Azure Javane**. |
 | BangPo | CheeseCake | SCAMMER ruby |
 | Xalll | | SCAMMER ruby |
-| Xaiii | | SCAMMER ruby, akun kedua dari **[Xalll](https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&scroll=true)** |
+| Xaiii | | SCAMMER ruby, akun kedua dari **[Xalll](https://www.webmanajemen.com/chimeraland/blacklist-player.html#Xalll)** |
 | Freecss | | SCAMMER ruby alasan baru main dan new owner |
 | drin | APPOCALYPSE | SCAMMER ruby |
 | Naru/naru | | SCAMMER ruby , korban lebih dari 1 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru +6283843615781 +6283172982549 +6283144392156 |
@@ -96,7 +96,7 @@
 | [Daren - m.rfauzi.7169709](https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL) | Menawarkan akun **OhMyRynn** dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. [screenshots](#daren-screenshots) |
 
 ## Suspected List
-> Daftar player yang dicurigai sebagai scammer
+> Daftar player yang dicurigai sebagai scammer, tidak ada bukti otentik
 
 | Nama Player | Clan | Keterangan |
 | :--- | :--- | :--- |
