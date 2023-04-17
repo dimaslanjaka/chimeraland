@@ -14,7 +14,7 @@ const metadata: postMeta = {
   description:
     'Blacklist player chimeraland (scammer list meliputi ruby trader, map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.',
   date: '2022-11-07T19:54:01+07:00',
-  updated: '2023-04-16T06:39:15+07:00',
+  updated: '2023-04-17T20:35:35+07:00',
   lang: 'id',
   permalink: '/chimeraland/blacklist-player.html',
   multilang: {
