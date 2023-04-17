@@ -106,9 +106,7 @@ const screenshots = function (): Promise<string[]> {
 
                     sbgutil.debug('chimera-blacklist')('img', url.toString())
 
-                    const img = `<img src="${url.toString()}" alt="${basename(
-                      path
-                    )}" />`
+                    const img = `<figure><img src="${url.toString()}" alt="${basename(path)}" /><figcaption>${basename(path)}</figcaption></figure>`
                     results.push(img)
 
                     if (index === all.length - 1) {
