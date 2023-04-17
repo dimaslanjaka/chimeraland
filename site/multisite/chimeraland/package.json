@@ -36,7 +36,7 @@
     "front-matter": "^4.0.2",
     "fs-extra": "^11.1.1",
     "glob": "^10.0.0",
-    "googleapis": "^117.0.0",
+    "googleapis": "^118.0.0",
     "i18n": "^0.15.1",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
