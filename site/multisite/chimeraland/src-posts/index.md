@@ -10,9 +10,21 @@ permalink: /chimeraland/index.html
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
+
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
+
+## [Senjo craft lists](/chimeraland/senjo.html)
+
+![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
@@ -54,9 +66,9 @@ All in one recipes
 
 ![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
 
-## [All about totem in chimeraland](/chimeraland/totem.html)
+## [Cara grinding skill pet dengan cepat](/chimeraland/cara-grinding-skill-pet-dengan-cepat.html)
 
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
+![Cara grinding skill pet dengan cepat](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Cara+grinding+skill+pet+dengan+cepat)
 
 ## [How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium.html)
 
@@ -81,18 +93,6 @@ All in one recipes
 ## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
 
 ![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
-
-## [Senjo craft lists](/chimeraland/senjo.html)
-
-![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
-
-## [Cara grinding skill pet dengan cepat](/chimeraland/cara-grinding-skill-pet-dengan-cepat.html)
-
-![Cara grinding skill pet dengan cepat](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Cara+grinding+skill+pet+dengan+cepat)
-
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
