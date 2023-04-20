@@ -9,7 +9,7 @@ tags: [chimeraland, bug]
 ## Chimeraland v2.0.2.117 - Bug Report
 list of bugs Chimeraland v2.0.2.117
 
-### Display of weapon stats and armor sets
+### Broken display of weapon stats and armor sets
 
 ### Many item names have been changed
 
