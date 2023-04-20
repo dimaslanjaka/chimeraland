@@ -23,5 +23,5 @@ list of bugs Chimeraland v2.0.2.117
 ![item name changed charcoal](https://user-images.githubusercontent.com/12471057/233282572-f3647c81-2e07-437a-88cc-a74b0d512779.png)
 
 ### Auction Menu Changed
-#### Request Display Changed
+#### Auction Request Display Changed
 ![image](https://user-images.githubusercontent.com/12471057/233282214-c3900101-b652-4533-aca2-03d0530a0e3c.png)
