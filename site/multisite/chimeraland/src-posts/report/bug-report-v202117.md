@@ -19,4 +19,9 @@ list of bugs Chimeraland v2.0.2.117
 ### Many item names have been changed
 #### Lingzhi
 ![item name changed lingzhi](https://user-images.githubusercontent.com/12471057/233281336-c0215ddc-55cb-49e6-8fef-1c6a3fbfde96.png)
+#### Charcoal
+![item name changed charcoal](https://user-images.githubusercontent.com/12471057/233282572-f3647c81-2e07-437a-88cc-a74b0d512779.png)
 
+### Auction Menu Changed
+#### Request Display Changed
+![image](https://user-images.githubusercontent.com/12471057/233282214-c3900101-b652-4533-aca2-03d0530a0e3c.png)
