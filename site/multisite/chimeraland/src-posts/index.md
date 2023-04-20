@@ -2,9 +2,10 @@
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
 updated: 2023-04-20T13:26:16+07:00
-permalink: /chimeraland/index.html
 tags: [chimeraland]
 categories: [games, chimeraland]
+permalink: /chimeraland/index.html
+thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg
 ---
 
 ## [Cooking Recipes](/chimeraland/recipes.html)
@@ -52,7 +53,7 @@ All in one recipes
 
 ## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
 
-![Chimeraland Unofficial Wikipedia](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Unofficial+Wikipedia)
+![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
 
 ## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
 
