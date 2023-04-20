@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-04-18T00:00:28+07:00
+updated: 2023-04-20T13:26:16+07:00
 type: page
 layout: page
 permalink: /chimeraland/index.html
@@ -14,13 +14,13 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
-## [Senjo craft lists](/chimeraland/senjo.html)
-
-![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
-
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
+
+## [Senjo craft lists](/chimeraland/senjo.html)
+
+![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
@@ -30,13 +30,13 @@ All in one recipes
 
 ![Pet and attendant delicacies tasty informations Chimeraland](https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg)
 
-## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
-
-![Apa itu NSC di chimeraland?](https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg)
-
 ## [New Map Northmount on Chimeraland](/chimeraland/northmount-released.html)
 
 ![New Map Northmount on Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=New+Map+Northmount+on+Chimeraland)
+
+## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
+
+![Apa itu NSC di chimeraland?](https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg)
 
 ## [Mengatasi lag chimeraland](/chimeraland/network-troubleshooting.html)
 
@@ -97,4 +97,8 @@ All in one recipes
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
 ![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
+
+## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
+
+![Bug Report Chimeraland v2.0.2.117](https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
 
