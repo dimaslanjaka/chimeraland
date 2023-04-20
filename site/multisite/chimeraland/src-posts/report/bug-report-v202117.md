@@ -25,3 +25,6 @@ list of bugs Chimeraland v2.0.2.117
 ### Auction Menu Changed
 #### Auction Request Display Changed
 ![image](https://user-images.githubusercontent.com/12471057/233282214-c3900101-b652-4533-aca2-03d0530a0e3c.png)
+
+### Illustrious Artigra Lost
+many players reported their illustrious artigra has been lost from their **pet slot** and their **bloodline slot** but remains in **world info**
