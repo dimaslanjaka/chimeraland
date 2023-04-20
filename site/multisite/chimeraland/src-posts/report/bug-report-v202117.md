@@ -15,4 +15,5 @@ list of bugs Chimeraland v2.0.2.117
 ![broken display stats heavy sword](https://user-images.githubusercontent.com/12471057/233280877-e000d7e0-e375-4498-85d0-10504a23c2fd.png)
 
 ### Many item names have been changed
+![item name changed lingzhi](https://user-images.githubusercontent.com/12471057/233281336-c0215ddc-55cb-49e6-8fef-1c6a3fbfde96.png)
 
