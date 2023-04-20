@@ -76,6 +76,7 @@ updated: ${updated.format('YYYY-MM-DDTHH:mm:ssZ')}
 tags: [chimeraland]
 categories: [games, chimeraland]
 permalink: /chimeraland/index.html
+thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg
 ---
     `.trim() + '\n\n'
 
