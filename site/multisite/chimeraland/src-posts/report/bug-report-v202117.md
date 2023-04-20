@@ -6,7 +6,7 @@ categories: [games, chimeraland]
 tags: [chimeraland, bug]
 ---
 
-## Bug Report Chimeraland v2.0.2.117
+## Chimeraland v2.0.2.117 - Bug Report
 list of bugs Chimeraland v2.0.2.117
 
 ### Display of weapon stats and armor sets
