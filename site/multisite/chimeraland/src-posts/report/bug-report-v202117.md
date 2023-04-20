@@ -12,6 +12,7 @@ list of bugs Chimeraland v2.0.2.117
 
 ### Broken display of weapon stats and armor sets
 ![broken display stats tranquil fan](https://user-images.githubusercontent.com/12471057/233280392-12b301f3-0f78-4f05-a4c2-81e59089c76a.png)
+![broken display stats heavy sword](https://user-images.githubusercontent.com/12471057/233280877-e000d7e0-e375-4498-85d0-10504a23c2fd.png)
 
 ### Many item names have been changed
 
