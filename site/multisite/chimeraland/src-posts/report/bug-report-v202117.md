@@ -12,3 +12,5 @@ list of bugs Chimeraland v2.0.2.117
 ### Display of weapon stats and armor sets
 
 ### Many item names have been changed
+
+![bug report](https://raw.githubusercontent.com/DXHeroes/knowledge-base-content/master/files/bug_reporting.png)
