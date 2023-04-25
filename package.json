@@ -87,6 +87,6 @@
     "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/static-blog-generator/release/static-blog-generator.tgz",
     "through2": "^4.0.2",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.3"
+    "typescript": "^5.0.4"
   }
 }
