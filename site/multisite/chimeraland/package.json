@@ -89,7 +89,6 @@
     "nodejs-package-types": "https://github.com/dimaslanjaka/nodejs-package-types/raw/main/release/nodejs-package-types.tgz",
     "nodemon": "^2.0.22",
     "npm-run-all": "^4.1.5",
-    "persistent-cache": "https://github.com/dimaslanjaka/persistent-cache/raw/improve2/release/persistent-cache.tgz",
     "safelinkify": "https://github.com/dimaslanjaka/safelink/raw/monorepo/release/safelinkify.tgz",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
