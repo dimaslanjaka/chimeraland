@@ -8,7 +8,8 @@
     "type": "git"
   },
   "files": [
-    "postinstall.js"
+    "postinstall.js",
+    "packer.js"
   ],
   "scripts": {
     "start": "node -r ts-node/register src/manager.ts",
