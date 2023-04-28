@@ -54,7 +54,7 @@
     "sharp": "^0.32.0",
     "slugify": "^1.6.6",
     "upath": "^2.0.1",
-    "yaml": "^2.2.1"
+    "yaml": "^2.2.2"
   },
   "devDependencies": {
     "@types/gulp": "^4.0.10",
