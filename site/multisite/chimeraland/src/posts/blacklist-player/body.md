@@ -44,8 +44,8 @@
 | EggBlack | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | nekotao | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16. Roll ortzi earrings milik **doub**. |
-| khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
-| sendalkumana | | Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali |
+| khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16, dilaporkan oleh **L3n4r0x** |
+| sendalkumana | | Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali, dilaporkan oleh **L3n4r0x** |
 | AfnC | | Out party sebelum giliran map-nya, dilaporkan oleh **iBaB** _17-04-2023 07:00 PM_ [screenshot](#afnc-screenshots) |
 | Xx kri xX | | Roll drops item di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ [screenshot](#xx-kri-xx-screenshots) |
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _17-04-2023 02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
