@@ -4,8 +4,6 @@
 
 **scam** adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. _Pelaku yang melakukan scam_ disebut dengan **scammer**. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.
 
-<!-- include translator.html -->
-
 ## Scammer Map Illus 16
 > Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY
 
