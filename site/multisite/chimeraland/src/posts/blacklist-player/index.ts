@@ -139,8 +139,8 @@ screenshots().then(function (ss) {
 
   const post: postMap = {
     metadata,
-    body: translator + '\n\n' + body,
-    rawbody: translator + '\n\n' + body
+    body: `![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png "scammer chimeraland thumbnail")\n\n` + translator + '\n\n' + body,
+    rawbody: `![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png "scammer chimeraland thumbnail")\n\n` + translator + '\n\n' + body
   }
   const build = buildPost(post)
   const saveTo = join(chimeralandProject, 'src-posts/blacklist-player.md')
