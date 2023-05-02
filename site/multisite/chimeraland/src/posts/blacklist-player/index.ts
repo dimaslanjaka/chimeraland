@@ -14,7 +14,7 @@ const metadata: postMeta = {
   description:
     'Blacklist player chimeraland (scammer list meliputi ruby trader, map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.',
   date: '2022-11-07T19:54:01+07:00',
-  updated: '2023-05-02T22:05:05+07:00',
+  updated: '2023-05-02T23:49:17+07:00',
   lang: 'id',
   permalink: '/chimeraland/blacklist-player.html',
   multilang: {
@@ -24,7 +24,8 @@ const metadata: postMeta = {
   tags: ['chimeraland', 'blacklist', 'guide'],
   categories: ['Games', 'Chimeraland'],
   keywords: ['scammer list chimeraland', 'blacklist player chimeraland'],
-  thumbnail: 'https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png',
+  thumbnail:
+    'https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png',
   author: 'L3n4r0x'
 }
 const translator = readFileSync(join(__dirname, 'translator.html')).toString()
@@ -106,7 +107,9 @@ const screenshots = function (): Promise<string[]> {
 
                     sbgutil.debug('chimera-blacklist')('img', url.toString())
 
-                    const img = `<figure><img src="${url.toString()}" alt="${basename(path)}" /><figcaption>${basename(path)}</figcaption></figure>`
+                    const img = `<figure><img src="${url.toString()}" alt="${basename(
+                      path
+                    )}" /><figcaption>${basename(path)}</figcaption></figure>`
                     results.push(img)
 
                     if (index === all.length - 1) {
@@ -139,8 +142,8 @@ screenshots().then(function (ss) {
 
   const post: postMap = {
     metadata,
-    body: `![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png "scammer chimeraland thumbnail")\n\n` + translator + '\n\n' + body,
-    rawbody: `![chimeraland scammer](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png "scammer chimeraland thumbnail")\n\n` + translator + '\n\n' + body
+    body: body.replace('<!-- ss -->', translator),
+    rawbody: body.replace('<!-- ss -->', translator)
   }
   const build = buildPost(post)
   const saveTo = join(chimeralandProject, 'src-posts/blacklist-player.md')
