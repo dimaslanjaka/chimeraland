@@ -50,8 +50,9 @@
 | wolverine | | SCAMMER chimeraland MAP ILLUSTRIOUS 16. Roll ortzi earrings milik **doub**. |
 | khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 | sendalkumana | | Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali |
-| AfnC | | Out party sebelum giliran map-nya, dilaporkan oleh **iBaB** _17-04-2023 7PM_ |
+| AfnC | | Out party sebelum giliran map-nya, dilaporkan oleh **iBaB** _17-04-2023 07:00 PM_ |
 | Xx kri xX | | Roll drops item di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ |
+| Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _17-04-2023 02-05-2023 10:03 PM_ |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
