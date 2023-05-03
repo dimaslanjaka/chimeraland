@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-04-18T00:00:28+07:00
+updated: 2023-05-02T23:49:17+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -24,6 +24,8 @@ thumbnail: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85c
 author: L3n4r0x
 ---
 
+<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
+<center><small>short link https://bit.ly/chimeraland-blacklist</small></center>
 <!-- https://codepen.io/dimaslanjaka/pen/rXMVRj -->
 <style type="text/css" notranslate>
   #translator-wrapper {
@@ -223,12 +225,8 @@ author: L3n4r0x
   }
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
-
-<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
-<center><small>short link https://bit.ly/chimeraland-blacklist</small></center>
 <h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
 <p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
-<!-- include translator.html -->
 <h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
 <blockquote>
 <p>Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</p>
@@ -399,22 +397,27 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="khoautopia">khoautopia</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16</td>
+<td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16, dilaporkan oleh <strong>L3n4r0x</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="sendalkumana">sendalkumana</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali</td>
+<td style="text-align:left">Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali, dilaporkan oleh <strong>L3n4r0x</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="AfnC">AfnC</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em></td>
+<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 07:00 PM</em> <a href="#afnc-screenshots">screenshot</a></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Xx-kri-xX">Xx kri xX</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops item di party illus map, korban terakhir <strong>WAKANDA</strong>, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em></td>
+<td style="text-align:left">Roll drops item di party illus map, korban terakhir <strong>WAKANDA</strong>, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em> <a href="#xx-kri-xx-screenshots">screenshot</a></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Dio-j">Dio j</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>DinoBird</strong> <em>17-04-2023 02-05-2023 10:03 PM</em> <a href="#dio-j-screenshots">screenshot</a></td>
 </tr>
 </tbody>
 </table>
@@ -679,6 +682,11 @@ author: L3n4r0x
 <p><img src="https://user-images.githubusercontent.com/12471057/229296141-5294161a-fe40-4ce4-a904-4343084209d5.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/229296145-8da52534-4850-487b-a19f-9f52768c584b.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/229296151-5ce3b561-5260-49a5-b9fa-c66730e10ff5.png" alt="image"></p>
+<h2 id="dio-j-screenshots" tabindex="-1"><a href="#dio-j-screenshots">Dio j Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/235729221-61fa8ad3-6d21-41fd-9d7d-87fc33f4eab4.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/235729267-080d359c-1f4f-476d-983b-53630c963037.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/235729284-61c6de1b-6e26-48e0-9c04-5438d2b3cefb.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/235729302-4bec9dc2-03db-4fde-8a56-35714aa9cdd4.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" /><figcaption>batagor & sus & unknown.jpg</figcaption></figure>
