@@ -50,8 +50,9 @@
 | khoautopia | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16, dilaporkan oleh **L3n4r0x** |
 | sendalkumana | | Out party sebelum giliran map-nya, sedangkan party map sudah berjalan 3 kali, dilaporkan oleh **L3n4r0x** |
 | AfnC | | Out party sebelum giliran map-nya, dilaporkan oleh **iBaB** _17-04-2023 07:00 PM_ [screenshot](#afnc-screenshots) |
-| Xx kri xX | | Roll drops item di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ [screenshot](#xx-kri-xx-screenshots) |
+| Xx kri xX | | Roll drops items di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ [screenshot](#xx-kri-xx-screenshots) |
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _17-04-2023 02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
+| JELLYOE2022 | | Roll drops items di party chiyou map, dilaporkan oleh **saayaang** _03-05-2023 10:15 PM_ [screenshot](#jellyoe2022-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
