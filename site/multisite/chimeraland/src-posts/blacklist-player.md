@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-05-02T23:49:17+07:00
+updated: 2023-05-03T22:21:40+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -412,12 +412,17 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Xx-kri-xX">Xx kri xX</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops item di party illus map, korban terakhir <strong>WAKANDA</strong>, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em> <a href="#xx-kri-xx-screenshots">screenshot</a></td>
+<td style="text-align:left">Roll drops items di party illus map, korban terakhir <strong>WAKANDA</strong>, dilaporkan oleh <strong>iBaB</strong> <em>17-04-2023 7PM</em> <a href="#xx-kri-xx-screenshots">screenshot</a></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Dio-j">Dio j</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>DinoBird</strong> <em>17-04-2023 02-05-2023 10:03 PM</em> <a href="#dio-j-screenshots">screenshot</a></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="JELLYOE2022">JELLYOE2022</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops items di party chiyou map, dilaporkan oleh <strong>saayaang</strong> <em>03-05-2023 10:15 PM</em> <a href="#jellyoe2022-screenshots">screenshot</a></td>
 </tr>
 </tbody>
 </table>
@@ -687,6 +692,9 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/235729267-080d359c-1f4f-476d-983b-53630c963037.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/235729284-61c6de1b-6e26-48e0-9c04-5438d2b3cefb.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/235729302-4bec9dc2-03db-4fde-8a56-35714aa9cdd4.png" alt="image"></p>
+<h2 id="jellyoe-2022-screenshots" tabindex="-1"><a href="#jellyoe-2022-screenshots">JELLYOE2022 Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/235960861-6bd00fda-f6a1-469a-b307-1b1cddf37f6e.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/235960895-a1cf18e6-e8e8-4c4c-8f9d-3940b824c812.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" /><figcaption>batagor & sus & unknown.jpg</figcaption></figure>

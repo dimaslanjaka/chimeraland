@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-05-02T23:49:17+07:00
+updated: 2023-05-03T22:21:40+07:00
 tags: [chimeraland]
 categories: [games, chimeraland]
 permalink: /chimeraland/index.html
