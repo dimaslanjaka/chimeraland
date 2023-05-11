@@ -49,7 +49,7 @@
     "prettier": "^2.8.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sbg-utility/release/sbg-utility.tgz",
+    "sbg-utility": "^1.1.0",
     "sharp": "^0.32.1",
     "slugify": "^1.6.6",
     "through2": "^4.0.2",
