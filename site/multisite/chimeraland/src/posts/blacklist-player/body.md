@@ -80,7 +80,7 @@
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-| ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam **KYUKI**. |
+<!-- | ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam **KYUKI**. | -->
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -106,12 +106,13 @@
 | VenKy | | dicurigai sebagai SCAMMER ruby |
 | Salony | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 
-## Dihapus Dari Daftar
+## Nama player yang sudah bersih
 > Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas
 
 | IGN | Clan | Keterangan |
 | :--- | :--- | :--- |
 | Yunas | CheeseCake | dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya (dari anggota clan CheeseCake) permasalahan tersebut sudah diselesaikan. |
+| ucil | | Masalah tersebut sudah diselesaikan dan sudah dibayar ruby oleh ucil, dan sudah saya konfirmasikan kepada **KYUKI** pada tanggal 05/16/2023 |
 
 ## Hindari Hal-Hal Berikut Agar Tidak Kena Scam
 - Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).
