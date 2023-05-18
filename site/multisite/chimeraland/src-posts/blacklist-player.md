@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-05-03T22:21:40+07:00
+updated: 2023-05-16T20:40:11+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -422,7 +422,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="JELLYOE2022">JELLYOE2022</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items di party chiyou map, dilaporkan oleh <strong>saayaang</strong> <em>03-05-2023 10:15 PM</em> <a href="#jellyoe2022-screenshots">screenshot</a></td>
+<td style="text-align:left">Roll drops items di party chiyou map, dilaporkan oleh <strong>saayaang</strong> <em>03-05-2023 10:15 PM</em> <a href="#jellyoe-2022-screenshots">screenshot</a></td>
 </tr>
 </tbody>
 </table>
@@ -544,13 +544,9 @@ author: L3n4r0x
 <td style="text-align:left">APPOCALYPZE</td>
 <td style="text-align:left">SCAM daily service 500,000 IDR, reported by <strong>Ell</strong> at 03-07-2023. <a href="#baby-lordz-screenshots">screenshots</a></td>
 </tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="ucil">ucil</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam <strong>KYUKI</strong>.</td>
-</tr>
 </tbody>
 </table>
+<!-- | ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam **KYUKI**. | -->
 <h2 id="scammer-bitter" tabindex="-1"><a href="#scammer-bitter">Scammer Bitter</a></h2>
 <blockquote>
 <p>Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING</p>
@@ -624,7 +620,7 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="dihapus-dari-daftar" tabindex="-1"><a href="#dihapus-dari-daftar">Dihapus Dari Daftar</a></h2>
+<h2 id="nama-player-yang-sudah-bersih" tabindex="-1"><a href="#nama-player-yang-sudah-bersih">Nama player yang sudah bersih</a></h2>
 <blockquote>
 <p>Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas</p>
 </blockquote>
@@ -641,6 +637,11 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Yunas">Yunas</td>
 <td style="text-align:left">CheeseCake</td>
 <td style="text-align:left">dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya (dari anggota clan CheeseCake) permasalahan tersebut sudah diselesaikan.</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="ucil">ucil</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Masalah tersebut sudah diselesaikan dan sudah dibayar ruby oleh ucil, dan sudah saya konfirmasikan kepada <strong>KYUKI</strong> pada tanggal 05/16/2023</td>
 </tr>
 </tbody>
 </table>
