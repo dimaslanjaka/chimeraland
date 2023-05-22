@@ -31,13 +31,13 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' + item.name
   }
   attr.tags = []
-  attr.categories = ['Games', 'chimeraland']
+  attr.categories = []
   if (item.type === 'monsters') {
-    attr.tags = ['chimeraland', 'Monster', 'Pet']
-    attr.categories.push('Monsters')
+    attr.tags = ['chimeraland', 'monster', 'pet']
+    attr.categories = ['Games', 'chimeraland', 'monsters']
   } else {
     attr.tags = ['chimeraland', 'Attendant']
-    attr.categories.push('Attendants')
+    attr.categories = ['Games', 'chimeraland', 'attendants']
   }
 
   // remove undefineds

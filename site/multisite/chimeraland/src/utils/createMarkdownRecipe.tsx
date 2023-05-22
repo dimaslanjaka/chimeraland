@@ -30,8 +30,8 @@ Bluebird.all(RecipesData)
     attr.thumbnail =
       item.images.pathname ||
       'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' + item.name
-    attr.tags = ['chimeraland', 'Recipe', 'Buff', 'Food']
-    attr.categories = ['Games', 'chimeraland', 'Recipes']
+    attr.tags = ['chimeraland', 'recipe']
+    attr.categories = ['Games', 'chimeraland', 'recipes']
 
     const mdC = (
       <section id="bootstrap-wrapper">

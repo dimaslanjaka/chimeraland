@@ -34,8 +34,8 @@ Bluebird.all(MaterialsData)
       )
       attr.thumbnail = (featured || item.images[0]).pathname
     }
-    attr.tags = ['chimeraland', 'Material']
-    attr.categories = ['Games', 'chimeraland', 'Materials']
+    attr.tags = ['chimeraland', 'material']
+    attr.categories = ['Games', 'chimeraland', 'material']
 
     let indexer = 0
 
