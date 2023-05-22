@@ -64,7 +64,7 @@ Bluebird.all(RecipesData)
           </div>
         </div>
 
-        <div className="card mb-2">
+        <div className="card mb-2 bg-dark text-light">
           <div className="row g-0">
             <div className="col-sm-4 position-relative mb-2">
               <img
