@@ -13,10 +13,10 @@ const publicDir = join(hexoProject, 'src-posts/chimeraland/scenic-spot')
 
 const siteMetadata = {
   title: 'Scenic Spot Locations',
-  webtitel: 'Chimeraland',
+  webtitel: 'chimeraland',
   permalink: '/chimeraland/scenic-spots/',
-  tags: ['Chimeraland', 'Scenic', 'Spot'],
-  categories: ['Games', 'Chimeraland', 'Scenic', 'Spot'],
+  tags: ['chimeraland', 'Scenic', 'Spot'],
+  categories: ['Games', 'chimeraland', 'Scenic', 'Spot'],
   date: moment('2022-09-10').format(),
   updated: '2022-11-02T15:58:09+07:00',
   description: 'Scenic Spot Locations - Chimeraland',

@@ -15,7 +15,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
 
   const attr: Record<string, any> = {}
   attr.title = capitalizer(item.type).replace(/s$/, '') + ' ' + item.name
-  attr.webtitle = 'Chimeraland'
+  attr.webtitle = 'chimeraland'
   attr.author = 'L3n4r0x'
   attr.updated = item.dateModified
   //attr.updated = moment().format()
@@ -31,12 +31,12 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' + item.name
   }
   attr.tags = []
-  attr.categories = ['Games', 'Chimeraland']
+  attr.categories = ['Games', 'chimeraland']
   if (item.type === 'monsters') {
-    attr.tags = ['Chimeraland', 'Monster', 'Pet']
+    attr.tags = ['chimeraland', 'Monster', 'Pet']
     attr.categories.push('Monsters')
   } else {
-    attr.tags = ['Chimeraland', 'Attendant']
+    attr.tags = ['chimeraland', 'Attendant']
     attr.categories.push('Attendants')
   }
 
