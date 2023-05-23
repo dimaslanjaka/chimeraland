@@ -117,14 +117,16 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       </p>
       <hr />
       <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
-      <div className="text-white bg-dark">
+      <div className="bg-dark text-light">
         {item.delicacies &&
           item.delicacies.map((recipeName) => {
             const recipe = RecipesData.find(
               (recipe) => recipe.name === recipeName
             )
             return (
-              <li key={recipeName} className="d-flex justify-content-between">
+              <li
+                key={recipeName}
+                className="d-flex justify-content-between bg-dark text-light">
                 {recipeName}{' '}
                 {recipe && (
                   <a
