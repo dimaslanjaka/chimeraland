@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-05-16T20:40:11+07:00
+updated: 2023-05-23T11:14:34+07:00
 tags: [chimeraland]
 categories: [games, chimeraland]
 permalink: /chimeraland/index.html
@@ -15,10 +15,6 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
-## [Taming Pets Chimeraland](/chimeraland/Taming.html)
-
-![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
@@ -30,14 +26,6 @@ All in one recipes
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
 ![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
-
-## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
-
-![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
-
-## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
-
-![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
@@ -98,6 +86,18 @@ All in one recipes
 ## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
 
 ![Chimeraland Attendant List](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Attendant+List)
+
+## [Taming Pets Chimeraland](/chimeraland/Taming.html)
+
+![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+
+## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
+
+![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
+
+## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
+
+![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
 
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 

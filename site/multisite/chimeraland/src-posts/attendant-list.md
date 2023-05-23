@@ -2,7 +2,7 @@
 ---
 title: Chimeraland Attendant List
 date: 2023-04-12T13:38:00+0700
-updated: 2023-04-12T20:38:00+07:00
+updated: 2023-05-23T11:14:26+07:00
 categories: ['games', 'chimeraland']
 tags: ['attendant']
 permalink: /chimeraland/attendant-list.html
@@ -100,3 +100,8 @@ permalink: /chimeraland/attendant-list.html
 - [Vulchining](/chimeraland/attendants/vulchining.html)
 - [Shaman Violetine](/chimeraland/attendants/shaman-violetine.html)
 - [Stellar Agni](/chimeraland/attendants/stellar-agni.html)
+- [Abyssal Siren](/chimeraland/attendants/abyssal-siren.html)
+- [Abyssal Wisteria](/chimeraland/attendants/abyssal-wisteria.html)
+- [Handelaar](/chimeraland/attendants/handelaar.html)
+- [Lunar Immortia](/chimeraland/attendants/lunar-immortia.html)
+- [Rosary Siren](/chimeraland/attendants/rosary-siren.html)
