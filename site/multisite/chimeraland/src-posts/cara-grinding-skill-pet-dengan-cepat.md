@@ -4,7 +4,7 @@ lang: id
 date: 2023-02-23T11:33:45+07:00
 updated: 2023-02-23T12:56:28+07:00
 tags: ['chimeraland', 'pet']
-categories: ['chimeraland']
+categories: ['Games', 'chimeraland']
 multilang:
   en: /en/chimeraland/how-to-fast-grindding-skill-pet.html
 ---
