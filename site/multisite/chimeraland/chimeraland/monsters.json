@@ -1,38 +1,15 @@
 {
   "data": [
     {
-      "datePublished": "2022-11-01T14:00:58+07:00",
-      "dateModified": "2023-05-25T16:34:12+07:00",
-      "name": "Frostppo",
-      "qty": "GRADE A ATK 71 HP 72 DEF 68",
-      "delicacies": [
-        "Braised Lobcray Meat",
-        "Sparrow Beak",
-        "Overlord Hide Jelly"
-      ],
-      "buff": [
-        "Attributes Conversion Rate 4.0%",
-        "PvP Damage Reduction 4.8%",
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frostppo-legendary.jpg"
-      ]
-    },
-    {
-      "datePublished": "2022-01-06T20:56:03+07:00",
-      "dateModified": "2023-05-25T04:24:12+07:00",
-      "name": "Giant Alligon",
-      "qty": "GRADE B ATK 61 HP 56 DEF 64",
+      "dateModified": "2023-05-25T08:39:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Alligon",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "delicacies": [],
+      "buff": [],
       "skill": [],
-      "buff": [
-        "Attributes Conversion Rate 4.0%",
-        "Essence Aspect: Aqua Armor"
-      ],
       "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/alligon-epic-grade.jpg"
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/alligon-rare-grade.jpg"
       ]
     },
     {
@@ -53,6 +30,44 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/ancient-piranha-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:12:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Angler Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/angler-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T03:50:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Archerfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/archerfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:29:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Armoxerous",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/armoxerous-legendary.jpg"
       ]
     },
     {
@@ -115,6 +130,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T16:59:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Barbled Dragonfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/barbled-dragonfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T09:56:03+07:00",
       "dateModified": "2023-05-25T17:31:12+07:00",
       "name": "Batolf",
@@ -146,6 +173,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T09:39:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Bigeye",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bigeye-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T13:56:03+07:00",
       "dateModified": "2022-09-29T12:18:27+07:00",
       "name": "Black Horse",
@@ -155,6 +194,78 @@
       "buff": [
         "Attributes Conversion Rate 4.0%",
         "Resilience 257"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:15:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Black Kingfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/black-kingfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T17:13:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Black Scraper",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/black-scraper-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:11:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Blamprey",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blamprey-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:08:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Blue Butterflyfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blue-butterflyfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:52:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "BlueJade Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bluejade-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:12:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Blueswirl Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blueswirl-fish-rare-grade.jpg"
       ]
     },
     {
@@ -190,6 +301,51 @@
       ]
     },
     {
+      "datePublished": "2022-01-11T17:56:03+07:00",
+      "dateModified": "2022-10-03T10:18:27+07:00",
+      "name": "Bony Sabretooth",
+      "qty": "GRADE A ATK 72 HP 72 DEF HP",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
+    },
+    {
+      "dateModified": "2023-05-25T13:26:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Bosalo",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bosalo-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:08:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Boxfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/boxfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:35:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Bream",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bream-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-06T21:56:03+07:00",
       "dateModified": "2023-05-25T14:02:12+07:00",
       "name": "Brownfoot Gripine",
@@ -206,6 +362,56 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/brownfoot-gripine-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:33:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Browtelope",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/browtelope-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:31:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Bufonidae",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bufonidae-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:46:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Bullet Mackerel",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bullet-mackerel-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:49:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Butterflyfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/butterflyfish-rare-grade.jpg"
       ]
     },
     {
@@ -244,6 +450,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T16:59:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Catfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/catfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:38:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Centiwurm",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/centiwurm-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T10:56:03+07:00",
       "dateModified": "2022-09-29T11:18:27+07:00",
       "name": "Chimera",
@@ -253,6 +483,20 @@
       "buff": [
         "Attributes Conversion Rate 4.0%",
         "Ranged Damage Reduction 4.8%"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:17:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Chimp",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/chimp-mythic.jpg"
       ]
     },
     {
@@ -283,6 +527,42 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T13:12:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Clownfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/clownfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:34:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Cod",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cod-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:36:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Condor",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/condor-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T14:56:03+07:00",
       "dateModified": "2023-05-25T02:55:12+07:00",
       "name": "Coracrab",
@@ -303,6 +583,56 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:32:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Cranow",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cranow-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T03:29:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Craoot",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/craoot-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:00:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Cray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:36:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Cregull",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cregull-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T16:56:03+07:00",
       "dateModified": "2023-05-25T02:55:12+07:00",
       "name": "Crocupine",
@@ -316,6 +646,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/crocupine-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:12:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Dace",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/dace-rare-grade.jpg"
       ]
     },
     {
@@ -347,6 +689,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T17:47:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Dinbear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dinbear-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-06T22:56:03+07:00",
       "dateModified": "2022-09-29T17:18:27+07:00",
       "name": "Dragon Horse",
@@ -359,6 +715,20 @@
         "Ranged DMG Reduction 4.8%",
         "Resilience 15",
         "Defense 135"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:46:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Dragonwhale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dragonwhale-legendary.jpg"
       ]
     },
     {
@@ -375,6 +745,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/eleboar-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T13:35:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Eleotris",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/eleotris-rare-grade.jpg"
       ]
     },
     {
@@ -409,6 +791,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T13:10:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fantafish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fantafish-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T15:56:03+07:00",
       "dateModified": "2023-05-25T07:44:12+07:00",
       "name": "Fantafly",
@@ -422,6 +818,34 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/fantafly-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:51:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Feroboar",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Broken Fang"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/feroboar-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T19:08:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fiendfish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fiendfish-legendary.jpg"
       ]
     },
     {
@@ -441,6 +865,158 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T08:38:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T17:06:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Bosalo",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bosalo-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:05:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Litiger",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-litiger-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:48:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Locray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-lobcray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T03:07:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Firemouth Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/firemouth-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:40:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flame Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flame-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:05:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamebug",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamebug-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:09:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:27:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamegator",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamegator-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T13:42:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamehorn Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamehorn-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T19:07:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamelope",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamelope-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T21:56:03+07:00",
       "dateModified": "2023-05-25T11:20:12+07:00",
       "name": "Flamewolf",
@@ -457,6 +1033,32 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T15:00:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Floating Mist",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/floating-mist-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T17:03:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Fluttairy",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/fluttairy-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T04:56:03+07:00",
       "dateModified": "2023-05-25T03:43:12+07:00",
       "name": "Fortuphant",
@@ -469,6 +1071,42 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/fortuphant-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:41:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Freshwater Carp",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/freshwater-carp-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T15:51:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Fronder",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/fronder-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T13:25:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Frontosa",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/frontosa-rare-grade.jpg"
       ]
     },
     {
@@ -492,6 +1130,110 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T06:52:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-bear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T13:57:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Frost Deerbull",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Fermount"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/frost-deerbull-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:14:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Giradeer",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-giradeer-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:53:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Litiger",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-litiger-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:05:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Lobcray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-lobcray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:12:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frosthorn Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frosthorn-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-11-01T14:00:58+07:00",
+      "dateModified": "2023-05-25T16:34:12+07:00",
+      "name": "Frostppo",
+      "qty": "GRADE A ATK 71 HP 72 DEF 68",
+      "delicacies": [
+        "Braised Lobcray Meat",
+        "Sparrow Beak",
+        "Overlord Hide Jelly"
+      ],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "PvP Damage Reduction 4.8%",
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frostppo-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-07T20:56:03+07:00",
       "dateModified": "2023-05-25T04:41:12+07:00",
       "name": "Frostwolf",
@@ -509,6 +1251,21 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/frostwolf-epic-grade.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2023-05-25T04:24:12+07:00",
+      "name": "Giant Alligon",
+      "qty": "GRADE B ATK 61 HP 56 DEF 64",
+      "delicacies": [],
+      "skill": [],
+      "buff": [
+        "Attributes Conversion Rate 4.0%",
+        "Essence Aspect: Aqua Armor"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/alligon-epic-grade.jpg"
       ]
     },
     {
@@ -548,6 +1305,32 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:10:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Glow Giradeer",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Green Silk"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/glow-giradeer-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T04:51:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Gold Barb",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gold-barb-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T07:56:03+07:00",
       "dateModified": "2023-05-25T03:30:12+07:00",
       "name": "Gold Horsedeer",
@@ -567,6 +1350,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T15:48:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Goldfin Carp",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/goldfin-carp-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:23:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Goldfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/goldfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T08:56:03+07:00",
       "dateModified": "2023-05-25T13:24:12+07:00",
       "name": "Golquito",
@@ -579,6 +1386,44 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/golquito-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:26:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Gos-Sparromu",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gos-sparromu-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:15:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Gourami",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gourami-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:51:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Grass Carp",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/grass-carp-rare-grade.jpg"
       ]
     },
     {
@@ -597,6 +1442,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T15:13:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Great Litiger",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Broken Fang"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/great-litiger-epic-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T13:56:03+07:00",
       "dateModified": "2023-05-25T07:02:12+07:00",
       "name": "Great White Shark",
@@ -609,6 +1468,58 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/great-white-shark-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:56:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Greenie",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/greenie-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T07:17:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Greensuit Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/greensuit-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:48:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Greuana",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/greuaua-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:27:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Gripperbird",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gripper-bird-legendary.jpg"
       ]
     },
     {
@@ -663,6 +1574,32 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T06:30:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Grouper",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/grouper-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:57:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Gurnard",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gurnard-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T16:56:03+07:00",
       "dateModified": "2023-05-25T07:34:12+07:00",
       "name": "Hagpy",
@@ -683,6 +1620,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T14:41:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Hairtail",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/hairtail-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T12:56:03+07:00",
       "dateModified": "2023-05-25T11:47:12+07:00",
       "name": "Halcyonet",
@@ -695,6 +1644,34 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/halcyonet-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:14:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Hammerhead",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Swimscale"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/hammerhead-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:13:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Hermitshell",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/hermitshell-legendary.jpg"
       ]
     },
     {
@@ -715,6 +1692,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/hillord-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:50:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Hilsa Herring",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/hilsa-herring-rare-grade.jpg"
       ]
     },
     {
@@ -821,6 +1810,62 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T16:08:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Ice Whale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/ice-whale-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:50:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icebug",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icebug-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:53:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:23:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icegator",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icegator-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T18:56:03+07:00",
       "dateModified": "2023-05-25T14:15:12+07:00",
       "name": "Inkdrop",
@@ -834,6 +1879,84 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/inkdrop-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:43:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Ironect",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/ironect-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T04:17:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Jadefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/jadefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:29:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Jadgeon",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/jadgeon-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T07:42:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Jadoninus",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Billowings"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/jadoninus-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:20:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Jird",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/jird-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:19:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Killer Whale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/killer-whale-legendary.jpg"
       ]
     },
     {
@@ -853,6 +1976,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:51:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Leatis",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/leatis-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T23:56:03+07:00",
       "dateModified": "2023-05-25T05:55:12+07:00",
       "name": "Leoparbeak",
@@ -865,6 +2000,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/leoparbeak-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T07:41:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Leopardfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/leopardfish-rare-grade.jpg"
       ]
     },
     {
@@ -899,6 +2046,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T05:13:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Longfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/longfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T21:56:03+07:00",
       "dateModified": "2023-05-25T09:26:12+07:00",
       "name": "Lotus Horsedeer",
@@ -914,6 +2073,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T15:19:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Luna Lionfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/luna-lionfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T03:56:03+07:00",
       "dateModified": "2023-05-25T06:02:12+07:00",
       "name": "Lupine",
@@ -926,6 +2097,44 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/lupine-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:15:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Mackerel",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mackerel-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:36:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Mahi Mahi",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Swimscale"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/mahi-mahi-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:24:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Mako Shark",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mako-shark-rare-grade.jpg"
       ]
     },
     {
@@ -960,6 +2169,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T17:26:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Minare",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/minare-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-08T22:56:03+07:00",
       "dateModified": "2022-10-01T03:18:27+07:00",
       "name": "Minkrat",
@@ -972,6 +2193,18 @@
         "Crit DMG 4.8%",
         "Resilience 5",
         "Defense 45"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T15:19:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Mola",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mola-rare-grade.jpg"
       ]
     },
     {
@@ -995,6 +2228,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:21:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Moonfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/moonfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T07:31:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Moorish Idol",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/moorish-idol-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T08:56:03+07:00",
       "dateModified": "2023-05-25T04:04:12+07:00",
       "name": "Mountspider",
@@ -1008,6 +2265,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/mountspider-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:55:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Mousefish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mousefish-rare-grade.jpg"
       ]
     },
     {
@@ -1042,6 +2311,34 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T07:26:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Murkrider",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/murkrider-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:43:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Mutafish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mutafish-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T11:56:03+07:00",
       "dateModified": "2023-05-25T11:16:12+07:00",
       "name": "Newt",
@@ -1058,6 +2355,50 @@
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/newt-rare-grade.jpg"
       ]
+    },
+    {
+      "dateModified": "2023-05-25T07:00:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Nian",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/nian-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:40:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Nibea",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/nibea-rare-grade.jpg"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T11:56:03+07:00",
+      "dateModified": "2022-10-03T11:18:27+07:00",
+      "name": "Noble Golden Crow",
+      "qty": "GRADE A ATK 75 HP 75 DEF 60",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
+    },
+    {
+      "datePublished": "2022-01-11T20:56:03+07:00",
+      "dateModified": "2022-10-03T04:18:27+07:00",
+      "name": "Noble Serpent",
+      "qty": "GRADE A ATK 75 HP 60 DEF 75",
+      "delicacies": [],
+      "skill": [],
+      "buff": []
     },
     {
       "datePublished": "2022-01-09T14:56:03+07:00",
@@ -1125,6 +2466,66 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T11:15:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Peacock Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/peacock-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:55:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Pelagia",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pelagia-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:46:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Perciformes",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/perciformes-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:58:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Phoenixfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/phoenixfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:26:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Pike",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pike-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T15:56:03+07:00",
       "dateModified": "2023-05-25T12:21:12+07:00",
       "name": "Pinchpion",
@@ -1145,6 +2546,32 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T15:47:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Piranha",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Swimscale"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/piranha-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T04:48:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Pirarucu",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pirarucu-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T23:56:03+07:00",
       "dateModified": "2023-05-25T16:32:12+07:00",
       "name": "Piscertus",
@@ -1158,6 +2585,34 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/piscertus-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:23:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Pixie",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/pixie-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:18:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Plate Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/plate-bear-legendary.jpg"
       ]
     },
     {
@@ -1176,6 +2631,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T17:16:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Plate Grizzly",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/plate-grizzly-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:49:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Plate Litiger",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/plate-litiger-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T21:56:03+07:00",
       "dateModified": "2023-05-25T15:27:12+07:00",
       "name": "Platyzard",
@@ -1191,6 +2670,90 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:53:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Pomfret",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pomfret-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:34:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Porgies",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/porgies-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:17:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "PufferFish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pufferfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:02:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Purple Snapper",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/purple-snapper-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:28:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Ray",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/ray-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T08:43:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Red Starefish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/red-starefish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:22:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Red-Bellied Piranha",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/red-bellied-piranha-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-09T18:56:03+07:00",
       "dateModified": "2023-05-25T08:17:12+07:00",
       "name": "Rhino",
@@ -1203,6 +2766,34 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/rihno-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:28:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Rhinodile",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/rhinodile-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T05:58:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Roarboar",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Fermount"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/roarbor-epic-grade.jpg"
       ]
     },
     {
@@ -1234,6 +2825,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T05:00:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Rocat",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/rocat-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T01:56:03+07:00",
       "dateModified": "2023-05-25T06:35:12+07:00",
       "name": "Rockboar",
@@ -1261,6 +2864,60 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T11:51:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Rush Ray",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aqua Armor"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/rush-ray-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:11:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Scale Batolf",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Billowings"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/scale-batolf-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:14:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Scatelope",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Green Silk"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/scatelope-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T13:38:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Sciorab",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/sciorab-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T02:56:03+07:00",
       "dateModified": "2023-05-25T05:03:12+07:00",
       "name": "Scorab",
@@ -1273,6 +2930,30 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/scorab-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:45:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Shallowfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shallowfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:42:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Shark",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shark-rare-grade.jpg"
       ]
     },
     {
@@ -1290,6 +2971,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T18:50:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Shellcoon",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shellcoon-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:06:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Shelleasel",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shelleasel-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T14:56:03+07:00",
       "dateModified": "2023-05-25T13:32:12+07:00",
       "name": "Silkhopper",
@@ -1303,6 +3008,30 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/silkhopper-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:06:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Skewerfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/skewerfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T04:54:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Slimfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/slimfish-rare-grade.jpg"
       ]
     },
     {
@@ -1368,6 +3097,34 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T16:09:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Sparrodact",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparrodact-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T17:39:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Sparromu",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparromu-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T08:56:03+07:00",
       "dateModified": "2022-10-02T03:18:27+07:00",
       "name": "Spear Grouguana",
@@ -1430,6 +3187,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T06:15:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Spike Fortuphant",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-fortuphant-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T10:56:03+07:00",
       "dateModified": "2023-05-25T14:43:12+07:00",
       "name": "Spike Grizzly",
@@ -1449,6 +3218,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T11:46:12+07:00",
+      "datePublished": "2023-05-25T02:02:42+07:00",
+      "name": "Spiked Lizard",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Fermount"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/spiked-lizard-epic-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T09:56:03+07:00",
       "dateModified": "2023-05-25T03:40:12+07:00",
       "name": "Spimander",
@@ -1465,6 +3248,30 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T09:53:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Spinibarbus",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spinibarbus-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:46:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Spotted Scat",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spotted-scat-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T16:56:03+07:00",
       "dateModified": "2023-05-25T14:09:12+07:00",
       "name": "Sprinowl",
@@ -1478,6 +3285,32 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/sprinowl-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:33:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Squid",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/squid-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T03:41:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Staguin",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/staguin-rare-grade.jpg"
       ]
     },
     {
@@ -1557,6 +3390,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T19:11:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Stingray",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stringray-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T23:56:03+07:00",
       "dateModified": "2023-05-25T09:22:12+07:00",
       "name": "Stoatle",
@@ -1603,6 +3448,56 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T14:13:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Stonespine Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/stonespine-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T18:31:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Stonespot Fish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stonespot-fish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T05:03:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Stonog",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stonog-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T06:57:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Strallow",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/strallow-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T07:56:03+07:00",
       "dateModified": "2023-05-25T17:05:12+07:00",
       "name": "Tang",
@@ -1615,6 +3510,82 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/titanfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T11:24:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Tiger Shark",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/tiger-shark-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T09:44:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Tigerfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/tigerfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T16:11:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Titan Triggerfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/titan-triggerfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T14:50:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Titanfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/titanfish-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T03:48:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Transparay",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/transparay-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:54:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Trapa",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/trapa-rare-grade.jpg"
       ]
     },
     {
@@ -1674,6 +3645,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T10:33:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Viperfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/viperfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-10T21:56:03+07:00",
       "dateModified": "2023-05-25T11:22:12+07:00",
       "name": "Vuldo",
@@ -1701,6 +3684,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/vultura-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T10:49:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Warcrab",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/warcrab-rare-grade.jpg"
       ]
     },
     {
@@ -1766,6 +3761,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T07:02:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Whitefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/whitefox-legendary.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-11T12:56:03+07:00",
       "dateModified": "2023-05-25T05:11:12+07:00",
       "name": "Whitelope",
@@ -1785,6 +3794,20 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T13:41:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Winged Dragon",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/winged-dragon.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-11T00:56:03+07:00",
       "dateModified": "2023-05-25T10:06:12+07:00",
       "name": "Wolfspider",
@@ -1797,6 +3820,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/wolfspider-rare-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T12:37:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Wrasse",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/wrasse-rare-grade.jpg"
       ]
     },
     {
@@ -1816,6 +3851,18 @@
       ]
     },
     {
+      "dateModified": "2023-05-25T09:56:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Yellow Boxfish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/yellow-boxfish-rare-grade.jpg"
+      ]
+    },
+    {
       "datePublished": "2022-01-11T07:56:03+07:00",
       "dateModified": "2023-05-25T15:05:12+07:00",
       "name": "Yellow Lobcray",
@@ -1829,6 +3876,18 @@
       ],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/yellow-lobcray-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T15:08:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Yellowfin",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/yellowfin-rare-grade.jpg"
       ]
     },
     {
@@ -1848,92 +3907,39 @@
       ]
     },
     {
-      "datePublished": "2022-01-11T11:56:03+07:00",
-      "dateModified": "2022-10-03T11:18:27+07:00",
-      "name": "Noble Golden Crow",
-      "qty": "GRADE A ATK 75 HP 75 DEF 60",
+      "dateModified": "2023-05-25T06:17:12+07:00",
+      "datePublished": "2023-05-25T00:40:10+07:00",
+      "name": "Zebrafish",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "delicacies": [],
+      "buff": [],
       "skill": [],
-      "buff": []
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/zebrafish-rare-grade.jpg"
+      ]
     },
     {
-      "datePublished": "2022-01-11T20:56:03+07:00",
-      "dateModified": "2022-10-03T04:18:27+07:00",
-      "name": "Noble Serpent",
-      "qty": "GRADE A ATK 75 HP 60 DEF 75",
-      "delicacies": [],
-      "skill": [],
-      "buff": []
-    },
-    {
-      "datePublished": "2022-01-11T17:56:03+07:00",
-      "dateModified": "2022-10-03T10:18:27+07:00",
-      "name": "Bony Sabretooth",
-      "qty": "GRADE A ATK 72 HP 72 DEF HP",
-      "delicacies": [],
-      "skill": [],
-      "buff": []
-    },
-    {
-      "name": "hermit crab",
-      "datePublished": "2022-11-25T20:17:54+07:00",
-      "dateModified": "2022-11-25T20:28:54+07:00",
+      "name": "artigra",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "name": "lusterewt",
-      "datePublished": "2022-11-25T21:17:54+07:00",
-      "dateModified": "2023-05-25T17:21:12+07:00",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [
-        "Essence Aspect: Aqua Armor"
-      ],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/lusterewt-epic-grade.jpg"
-      ]
-    },
-    {
-      "name": "spike rhino",
-      "datePublished": "2022-11-25T22:17:54+07:00",
-      "dateModified": "2023-05-25T11:08:12+07:00",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-rihno-rare-grade.jpg"
-      ]
-    },
-    {
-      "name": "spike stoneppo",
-      "datePublished": "2023-02-13T12:21:53+07:00",
-      "dateModified": "2023-05-25T07:32:12+07:00",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-stoneppo-rare-grade.jpg"
-      ]
-    },
-    {
-      "name": "grand carnivore bloom",
-      "datePublished": "2023-02-13T12:31:22+07:00",
-      "dateModified": "2023-02-13T12:42:22+07:00",
+      "name": "black-baked snail",
+      "datePublished": "2023-03-10T19:19:18+07:00",
+      "dateModified": "2023-03-10T19:30:18+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "name": "yunqi",
-      "datePublished": "2023-02-13T13:31:22+07:00",
-      "dateModified": "2023-02-13T13:42:22+07:00",
+      "name": "brontosaur",
+      "datePublished": "2023-02-24T19:44:43+07:00",
+      "dateModified": "2023-02-24T19:55:43+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -1943,88 +3949,6 @@
       "name": "carnivore blossom",
       "datePublished": "2023-02-16T20:42:22+07:00",
       "dateModified": "2023-02-16T20:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant batolf",
-      "datePublished": "2023-02-16T21:42:22+07:00",
-      "dateModified": "2023-02-16T21:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant fantafish",
-      "datePublished": "2023-02-16T22:42:22+07:00",
-      "dateModified": "2023-02-16T22:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant ice whale",
-      "datePublished": "2023-02-16T23:42:22+07:00",
-      "dateModified": "2023-02-16T23:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant scale batolf",
-      "datePublished": "2023-02-17T00:42:22+07:00",
-      "dateModified": "2023-02-17T00:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant stonebug",
-      "datePublished": "2023-02-17T01:42:22+07:00",
-      "dateModified": "2023-02-17T01:53:22+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "mulberry lady",
-      "datePublished": "2023-02-17T02:42:22+07:00",
-      "dateModified": "2023-05-25T08:31:12+07:00",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mulberry-lady-legendary.jpg"
-      ]
-    },
-    {
-      "name": "cicada",
-      "datePublished": "2023-02-18T13:58:02+07:00",
-      "dateModified": "2023-05-25T14:39:12+07:00",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [
-        "Essence Aspect: Aspect: Thunderclap"
-      ],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cicada-legendary.jpg"
-      ]
-    },
-    {
-      "name": "brontosaur",
-      "datePublished": "2023-02-24T19:44:43+07:00",
-      "dateModified": "2023-02-24T19:55:43+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2058,6 +3982,47 @@
       "delicacies": []
     },
     {
+      "name": "child crowned quetzal",
+      "datePublished": "2023-03-10T20:19:18+07:00",
+      "dateModified": "2023-03-10T20:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "child quetzalcoatlus",
+      "datePublished": "2023-03-10T21:19:18+07:00",
+      "dateModified": "2023-03-10T21:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "child triceratops",
+      "datePublished": "2023-03-10T22:19:18+07:00",
+      "dateModified": "2023-03-10T22:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "cicada",
+      "datePublished": "2023-02-18T13:58:02+07:00",
+      "dateModified": "2023-05-25T14:39:12+07:00",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "skill": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cicada-legendary.jpg"
+      ]
+    },
+    {
       "name": "crystal horsedeer",
       "datePublished": "2023-02-24T23:44:43+07:00",
       "dateModified": "2023-02-24T23:55:43+07:00",
@@ -2067,9 +4032,36 @@
       "delicacies": []
     },
     {
+      "name": "fire lobcray",
+      "datePublished": "2023-05-23T11:03:34+07:00",
+      "dateModified": "2023-05-23T11:14:34+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant armoxerous",
+      "datePublished": "2023-03-10T23:19:18+07:00",
+      "dateModified": "2023-03-26T18:52:49+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant batnix",
       "datePublished": "2023-02-25T00:44:43+07:00",
       "dateModified": "2023-02-25T00:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant batolf",
+      "datePublished": "2023-02-16T21:42:22+07:00",
+      "dateModified": "2023-02-16T21:53:22+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2094,9 +4086,36 @@
       "delicacies": []
     },
     {
+      "name": "giant chimpanimbus",
+      "datePublished": "2023-03-11T00:19:18+07:00",
+      "dateModified": "2023-03-10T23:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant crowned quentzal",
       "datePublished": "2023-02-25T03:44:43+07:00",
       "dateModified": "2023-02-25T03:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant embergator",
+      "datePublished": "2023-03-11T01:19:18+07:00",
+      "dateModified": "2023-03-11T00:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant fantafish",
+      "datePublished": "2023-02-16T22:42:22+07:00",
+      "dateModified": "2023-02-16T22:53:22+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2157,6 +4176,15 @@
       "delicacies": []
     },
     {
+      "name": "giant flametelope",
+      "datePublished": "2023-03-11T02:19:18+07:00",
+      "dateModified": "2023-03-11T01:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant flamewolf",
       "datePublished": "2023-02-25T10:44:43+07:00",
       "dateModified": "2023-02-25T10:55:43+07:00",
@@ -2175,9 +4203,45 @@
       "delicacies": []
     },
     {
+      "name": "giant grouguana",
+      "datePublished": "2023-03-11T03:19:18+07:00",
+      "dateModified": "2023-03-11T02:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant ice whale",
+      "datePublished": "2023-02-16T23:42:22+07:00",
+      "dateModified": "2023-02-16T23:53:22+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant kuntur",
+      "datePublished": "2023-03-11T04:19:18+07:00",
+      "dateModified": "2023-03-11T03:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant nian",
       "datePublished": "2023-02-25T12:44:43+07:00",
       "dateModified": "2023-02-25T12:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant osterlope",
+      "datePublished": "2023-03-11T05:19:18+07:00",
+      "dateModified": "2023-03-11T04:30:18+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2193,9 +4257,45 @@
       "delicacies": []
     },
     {
+      "name": "giant piranha",
+      "datePublished": "2023-03-28T09:59:08+07:00",
+      "dateModified": "2023-03-28T10:10:08+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant roarbor",
+      "datePublished": "2023-03-11T06:19:18+07:00",
+      "dateModified": "2023-03-11T05:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant roarclops",
+      "datePublished": "2023-03-11T07:19:18+07:00",
+      "dateModified": "2023-03-11T06:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant rush ray",
       "datePublished": "2023-02-25T14:44:43+07:00",
       "dateModified": "2023-02-25T14:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "giant scale batolf",
+      "datePublished": "2023-02-17T00:42:22+07:00",
+      "dateModified": "2023-02-17T00:53:22+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2229,6 +4329,15 @@
       "delicacies": []
     },
     {
+      "name": "giant starefish",
+      "datePublished": "2023-03-11T08:19:18+07:00",
+      "dateModified": "2023-03-11T07:30:18+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
       "name": "giant stoatle",
       "datePublished": "2023-02-25T18:44:43+07:00",
       "dateModified": "2023-02-25T18:55:43+07:00",
@@ -2238,158 +4347,27 @@
       "delicacies": []
     },
     {
-      "name": "jindipelta",
-      "datePublished": "2023-02-25T19:44:43+07:00",
-      "dateModified": "2023-02-25T19:55:43+07:00",
+      "name": "giant stonebug",
+      "datePublished": "2023-02-17T01:42:22+07:00",
+      "dateModified": "2023-02-17T01:53:22+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "name": "mongpion",
-      "datePublished": "2023-02-25T20:44:43+07:00",
-      "dateModified": "2023-05-25T14:55:12+07:00",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "skill": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "delicacies": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mongpion-legendary.jpg"
-      ]
-    },
-    {
-      "name": "stegosaurus",
-      "datePublished": "2023-02-25T21:44:43+07:00",
-      "dateModified": "2023-02-25T21:55:43+07:00",
+      "name": "giant tiger shark",
+      "datePublished": "2023-03-28T10:59:08+07:00",
+      "dateModified": "2023-03-28T11:10:08+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "name": "black-baked snail",
-      "datePublished": "2023-03-10T19:19:18+07:00",
-      "dateModified": "2023-03-10T19:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "child crowned quetzal",
-      "datePublished": "2023-03-10T20:19:18+07:00",
-      "dateModified": "2023-03-10T20:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "child quetzalcoatlus",
-      "datePublished": "2023-03-10T21:19:18+07:00",
-      "dateModified": "2023-03-10T21:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "child triceratops",
-      "datePublished": "2023-03-10T22:19:18+07:00",
-      "dateModified": "2023-03-10T22:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant armoxerous",
-      "datePublished": "2023-03-10T23:19:18+07:00",
-      "dateModified": "2023-03-26T18:52:49+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant chimpanimbus",
-      "datePublished": "2023-03-11T00:19:18+07:00",
-      "dateModified": "2023-03-10T23:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant embergator",
-      "datePublished": "2023-03-11T01:19:18+07:00",
-      "dateModified": "2023-03-11T00:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant flametelope",
-      "datePublished": "2023-03-11T02:19:18+07:00",
-      "dateModified": "2023-03-11T01:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant grouguana",
-      "datePublished": "2023-03-11T03:19:18+07:00",
-      "dateModified": "2023-03-11T02:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant kuntur",
-      "datePublished": "2023-03-11T04:19:18+07:00",
-      "dateModified": "2023-03-11T03:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant osterlope",
-      "datePublished": "2023-03-11T05:19:18+07:00",
-      "dateModified": "2023-03-11T04:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant roarbor",
-      "datePublished": "2023-03-11T06:19:18+07:00",
-      "dateModified": "2023-03-11T05:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant roarclops",
-      "datePublished": "2023-03-11T07:19:18+07:00",
-      "dateModified": "2023-03-11T06:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant starefish",
-      "datePublished": "2023-03-11T08:19:18+07:00",
-      "dateModified": "2023-03-11T07:30:18+07:00",
+      "name": "grand carnivore bloom",
+      "datePublished": "2023-02-13T12:31:22+07:00",
+      "dateModified": "2023-02-13T12:42:22+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2458,6 +4436,75 @@
       ]
     },
     {
+      "name": "hermit crab",
+      "datePublished": "2022-11-25T20:17:54+07:00",
+      "dateModified": "2022-11-25T20:28:54+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "jindipelta",
+      "datePublished": "2023-02-25T19:44:43+07:00",
+      "dateModified": "2023-02-25T19:55:43+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lusterewt",
+      "datePublished": "2022-11-25T21:17:54+07:00",
+      "dateModified": "2023-05-25T17:21:12+07:00",
+      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "skill": [],
+      "buff": [
+        "Essence Aspect: Aqua Armor"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/lusterewt-epic-grade.jpg"
+      ]
+    },
+    {
+      "name": "mamba",
+      "datePublished": "2023-04-14T15:46:10+07:00",
+      "dateModified": "2023-04-14T15:57:10+07:00",
+      "qty": "",
+      "skill": [],
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "mongpion",
+      "datePublished": "2023-02-25T20:44:43+07:00",
+      "dateModified": "2023-05-25T14:55:12+07:00",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "skill": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mongpion-legendary.jpg"
+      ]
+    },
+    {
+      "name": "mulberry lady",
+      "datePublished": "2023-02-17T02:42:22+07:00",
+      "dateModified": "2023-05-25T08:31:12+07:00",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "skill": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mulberry-lady-legendary.jpg"
+      ]
+    },
+    {
       "name": "muntjac",
       "datePublished": "2023-03-11T15:19:18+07:00",
       "dateModified": "2023-03-11T14:30:18+07:00",
@@ -2479,54 +4526,33 @@
       ]
     },
     {
-      "name": "young jadeite",
-      "datePublished": "2023-03-11T17:19:18+07:00",
-      "dateModified": "2023-03-11T16:30:18+07:00",
-      "qty": "",
+      "name": "spike rhino",
+      "datePublished": "2022-11-25T22:17:54+07:00",
+      "dateModified": "2023-05-25T11:08:12+07:00",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "skill": [],
       "buff": [],
-      "delicacies": []
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-rihno-rare-grade.jpg"
+      ]
     },
     {
-      "name": "young macrophaorous bloom",
-      "datePublished": "2023-03-11T18:19:18+07:00",
-      "dateModified": "2023-03-11T17:30:18+07:00",
-      "qty": "",
+      "name": "spike stoneppo",
+      "datePublished": "2023-02-13T12:21:53+07:00",
+      "dateModified": "2023-05-25T07:32:12+07:00",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "skill": [],
       "buff": [],
-      "delicacies": []
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-stoneppo-rare-grade.jpg"
+      ]
     },
     {
-      "name": "yunshu",
-      "datePublished": "2023-03-11T19:19:18+07:00",
-      "dateModified": "2023-03-11T18:30:18+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "artigra",
-      "datePublished": "2023-03-28T08:59:08+07:00",
-      "dateModified": "2023-03-28T09:10:08+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant piranha",
-      "datePublished": "2023-03-28T09:59:08+07:00",
-      "dateModified": "2023-03-28T10:10:08+07:00",
-      "qty": "",
-      "skill": [],
-      "buff": [],
-      "delicacies": []
-    },
-    {
-      "name": "giant tiger shark",
-      "datePublished": "2023-03-28T10:59:08+07:00",
-      "dateModified": "2023-03-28T11:10:08+07:00",
+      "name": "stegosaurus",
+      "datePublished": "2023-02-25T21:44:43+07:00",
+      "dateModified": "2023-02-25T21:55:43+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
@@ -2547,2066 +4573,40 @@
       ]
     },
     {
-      "name": "mamba",
-      "datePublished": "2023-04-14T15:46:10+07:00",
-      "dateModified": "2023-04-14T15:57:10+07:00",
+      "name": "young jadeite",
+      "datePublished": "2023-03-11T17:19:18+07:00",
+      "dateModified": "2023-03-11T16:30:18+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "name": "fire lobcray",
-      "datePublished": "2023-05-23T11:03:34+07:00",
-      "dateModified": "2023-05-23T11:14:34+07:00",
+      "name": "young macrophaorous bloom",
+      "datePublished": "2023-03-11T18:19:18+07:00",
+      "dateModified": "2023-03-11T17:30:18+07:00",
       "qty": "",
       "skill": [],
       "buff": [],
       "delicacies": []
     },
     {
-      "dateModified": "2023-05-25T12:36:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Condor",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/condor-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:15:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Spike Fortuphant",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spike-fortuphant-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:49:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Warcrab",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/warcrab-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:16:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Plate Grizzly",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/plate-grizzly-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:49:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Plate Litiger",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/plate-litiger-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:26:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Bosalo",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bosalo-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:17:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Zebrafish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/zebrafish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:42:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Shark",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shark-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:15:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Peacock Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/peacock-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:25:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Frontosa",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/frontosa-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:46:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Spotted Scat",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spotted-scat-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:57:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Gurnard",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gurnard-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:17:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "PufferFish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pufferfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:13:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Black Scraper",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/black-scraper-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:21:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Moonfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/moonfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:51:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Grass Carp",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/grass-carp-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T04:48:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Pirarucu",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pirarucu-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T03:50:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Archerfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/archerfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:34:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Cod",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cod-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:41:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Hairtail",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/hairtail-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:23:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Goldfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/goldfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:46:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Perciformes",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/perciformes-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:43:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Red Starefish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/red-starefish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:39:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Bigeye",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bigeye-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:24:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Mako Shark",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mako-shark-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:17:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Greensuit Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/greensuit-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T04:51:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Gold Barb",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gold-barb-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:08:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Yellowfin",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/yellowfin-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:28:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Ray",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/ray-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:48:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Goldfin Carp",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/goldfin-carp-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:08:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Boxfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/boxfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:15:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Black Kingfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/black-kingfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:15:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Mackerel",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mackerel-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:31:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Stonespot Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stonespot-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:40:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Nibea",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/nibea-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:02:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Purple Snapper",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/purple-snapper-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:06:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Skewerfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/skewerfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:34:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Porgies",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/porgies-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:56:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Yellow Boxfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/yellow-boxfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:15:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Gourami",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/gourami-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:55:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Mousefish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mousefish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:44:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Tigerfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/tigerfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T04:54:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Slimfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/slimfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:52:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "BlueJade Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bluejade-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:11:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Titan Triggerfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/titan-triggerfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:19:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Mola",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/mola-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T19:11:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Stingray",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stringray-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:50:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Hilsa Herring",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/hilsa-herring-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T05:13:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Longfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/longfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:50:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Titanfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/titanfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:33:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Viperfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/viperfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:31:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Moorish Idol",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/moorish-idol-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:37:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Wrasse",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/wrasse-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:35:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Bream",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bream-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:41:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Leopardfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/leopardfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:46:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Bullet Mackerel",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bullet-mackerel-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:59:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Catfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/catfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:53:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Pomfret",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pomfret-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:59:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Barbled Dragonfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/barbled-dragonfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:49:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Butterflyfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/butterflyfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:45:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Shallowfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shallowfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:12:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Blueswirl Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blueswirl-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:58:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Phoenixfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/phoenixfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:08:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Blue Butterflyfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blue-butterflyfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:26:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Pike",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pike-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:22:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Red-Bellied Piranha",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/red-bellied-piranha-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:12:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Dace",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/dace-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:41:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Freshwater Carp",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/freshwater-carp-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:35:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Eleotris",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/eleotris-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:19:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Luna Lionfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/luna-lionfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T03:07:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Firemouth Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/firemouth-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:53:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Spinibarbus",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/spinibarbus-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:55:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Pelagia",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/pelagia-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:12:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Angler Fish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/angler-fish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T05:00:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Rocat",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/rocat-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T05:03:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Stonog",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/stonog-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:54:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Trapa",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/trapa-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:26:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Minare",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/minare-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:38:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Sciorab",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
+      "name": "yunqi",
+      "datePublished": "2023-02-13T13:31:22+07:00",
+      "dateModified": "2023-02-13T13:42:22+07:00",
+      "qty": "",
       "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/sciorab-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:51:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Leatis",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/leatis-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:31:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Bufonidae",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/bufonidae-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:48:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Greuana",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/greuaua-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:20:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Jird",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/jird-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:50:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Shellcoon",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shellcoon-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:06:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Shelleasel",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/shelleasel-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:51:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Fronder",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/fronder-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:38:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Centiwurm",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/centiwurm-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:03:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Fluttairy",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/fluttairy-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:29:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Jadgeon",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/jadgeon-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:36:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Cregull",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cregull-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:57:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Strallow",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/strallow-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:43:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Ironect",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/ironect-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:12:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Clownfish",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/clownfish-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:11:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Blamprey",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/blamprey-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T03:29:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Craoot",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/craoot-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:32:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Cranow",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/cranow-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T03:41:12+07:00",
-      "datePublished": "2023-05-25T00:40:10+07:00",
-      "name": "Staguin",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
       "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/staguin-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:47:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Piranha",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Swimscale"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/piranha-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:14:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Hammerhead",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Swimscale"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/hammerhead-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:36:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Mahi Mahi",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Swimscale"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/mahi-mahi-epic-grade.jpg"
-      ]
+      "delicacies": []
     },
     {
-      "dateModified": "2023-05-25T18:10:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Glow Giradeer",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Green Silk"
-      ],
+      "name": "yunshu",
+      "datePublished": "2023-03-11T19:19:18+07:00",
+      "dateModified": "2023-03-11T18:30:18+07:00",
+      "qty": "",
       "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/glow-giradeer-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:14:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Scatelope",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Green Silk"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/scatelope-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:39:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Alligon",
-      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
       "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/alligon-rare-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:51:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Rush Ray",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aqua Armor"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/rush-ray-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:11:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Scale Batolf",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Billowings"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/scale-batolf-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:42:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Jadoninus",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Billowings"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/jadoninus-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:13:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Great Litiger",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Broken Fang"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/great-litiger-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:51:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Feroboar",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Broken Fang"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/feroboar-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:46:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Spiked Lizard",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Fermount"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/spiked-lizard-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:57:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Frost Deerbull",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Fermount"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/frost-deerbull-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T05:58:12+07:00",
-      "datePublished": "2023-05-25T02:02:42+07:00",
-      "name": "Roarboar",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Fermount"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/roarbor-epic-grade.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:00:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Cray",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cray-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:30:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Grouper",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/grouper-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:24:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Tiger Shark",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/tiger-shark-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:08:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Ice Whale",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/ice-whale-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:10:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fantafish",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fantafish-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T03:48:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Transparay",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/transparay-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:13:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Hermitshell",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/hermitshell-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:43:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Mutafish",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mutafish-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T19:08:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fiendfish",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fiendfish-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:19:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Killer Whale",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/killer-whale-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:33:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Squid",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/squid-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:46:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Dragonwhale",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Endless Stream"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dragonwhale-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T08:38:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fire Bear",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bear-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:06:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fire Bosalo",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bosalo-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T19:07:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flamelope",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamelope-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:05:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fire Litiger",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-litiger-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:40:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flame Rhino",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Scorching Sun"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flame-rhino-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T18:09:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flamefox",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamefox-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:05:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flamebug",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamebug-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:33:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Browtelope",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/browtelope-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:53:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Icefox",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icefox-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:13:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Stonespine Rhino",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/stonespine-rhino-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:18:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Plate Bear",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/plate-bear-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T12:56:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Greenie",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/greenie-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:50:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Icebug",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icebug-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:17:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Chimp",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/chimp-mythic.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:41:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Winged Dragon",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Borderless"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/winged-dragon.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T04:17:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Jadefox",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Thunderclap"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/jadefox-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:02:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Whitefox",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Thunderclap"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/whitefox-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:00:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Nian",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Thunderclap"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/nian-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:14:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Frost Giradeer",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-giradeer-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:52:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Frost Bear",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-bear-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T09:53:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Frost Litiger",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-litiger-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:47:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Dinbear",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dinbear-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T15:00:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Floating Mist",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Frostide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/floating-mist-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T02:48:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Fire Locray",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Blunthide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-lobcray-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:27:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flamegator",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Blunthide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamegator-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:28:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Rhinodile",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Blunthide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/rhinodile-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:23:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Icegator",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Blunthide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icegator-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:05:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Frost Lobcray",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Blunthide"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-lobcray-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:27:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Gripperbird",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Rainbow Feather"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gripper-bird-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T17:39:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Sparromu",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Rainbow Feather"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparromu-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T14:26:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Gos-Sparromu",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Rainbow Feather"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gos-sparromu-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T16:09:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Sparrodact",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Rainbow Feather"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparrodact-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T11:12:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Frosthorn Rhino",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frosthorn-rhino-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T13:42:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Flamehorn Rhino",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamehorn-rhino-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T10:23:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Pixie",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/pixie-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T07:26:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Murkrider",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/murkrider-legendary.jpg"
-      ]
-    },
-    {
-      "dateModified": "2023-05-25T06:29:12+07:00",
-      "datePublished": "2023-05-25T02:21:12+07:00",
-      "name": "Armoxerous",
-      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
-      "delicacies": [],
-      "buff": [
-        "Essence Aspect: Aspect: Giant Spirit"
-      ],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/armoxerous-legendary.jpg"
-      ]
+      "delicacies": []
     }
   ]
 }
