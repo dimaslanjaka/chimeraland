@@ -80,6 +80,16 @@ fetch.then((res) => {
           if (monster.data[monsterIndex].qty.length === 0) {
             monster.data[monsterIndex].qty = 'GRADE B ATK N/A HP N/A DEF N/A';
           }
+          // append essence
+          if (
+            monster.data[monsterIndex].buff.findIndex((str) =>
+              new RegExp(item.essence, 'i').test(str)
+            ) === -1
+          ) {
+            monster.data[monsterIndex].buff.push(
+              'Essence Aspect: ' + capitalize(item.essence)
+            );
+          }
         }
       }
     } else {
