@@ -30,10 +30,10 @@ fetch.then((res) => {
 
       return {
         id_wrapper: url.hash.trim(),
-        name: el.textContent.trim()
+        essence: el.textContent.trim()
       };
     })
-    .filter((o) => o.name.length > 0);
+    .filter((o) => o.essence.length > 0);
 
   for (let i = 0; i < essenceList.length; i++) {
     const item = essenceList[i];
