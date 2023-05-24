@@ -47,7 +47,7 @@ Bluebird.all(MaterialsData)
           rel="stylesheet"
           href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
         />
-        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark">
+        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative">
           <div className="col p-4 d-flex flex-column position-static">
             <strong className="d-inline-block mb-2 text-success">
               {item.type}
@@ -76,10 +76,10 @@ Bluebird.all(MaterialsData)
           </div>
         </div>
 
-        <div className="row bg-light text-dark">
+        <div className="row">
           <div className="col-lg-6 col-12 mb-2">
             {'details' in item && (
-              <div className="card">
+              <div className="card bg-dark text-light">
                 <div className="card-body">
                   <h3 className="card-title">
                     What is the use of the {item.name}
@@ -98,7 +98,7 @@ Bluebird.all(MaterialsData)
 
           <div className="col-lg-6 col-12 mb-2">
             {'howto' in item && (
-              <div className="card">
+              <div className="card bg-dark text-light">
                 <div className="card-body">
                   <h3 className="card-title">How to get {item.name}</h3>
                   <div className="card-text">
