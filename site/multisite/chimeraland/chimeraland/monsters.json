@@ -1000,6 +1000,9 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/newt-rare-grade.jpg"
       ]
     },
     {
@@ -3675,7 +3678,10 @@
       "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "delicacies": [],
       "buff": [],
-      "skill": []
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/alligon-rare-grade.jpg"
+      ]
     },
     {
       "dateModified": "2023-05-25T02:02:42+07:00",
