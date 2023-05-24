@@ -17,7 +17,7 @@ const template = path.join(__dirname, 'template.md')
 const postfm = fm<pMap>(fs.readFileSync(template).toString())
 
 console.log(postfm)
-const i18n = new I18n({
+const _i18n = new I18n({
   // setup some locales - other locales default to en silently
   locales: ['en', 'de'],
 
