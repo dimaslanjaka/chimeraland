@@ -59,7 +59,9 @@ Bluebird.all(MaterialsData)
             {'background-info' in item && (
               <div className="mb-2 border p-1">{item['background-info']}</div>
             )}
-            <a href={attr.permalink} className="stretched-link d-none">
+            <a
+              href={attr.permalink}
+              className="stretched-link d-none text-primary">
               Continue reading {item.name}
             </a>
           </div>
@@ -276,7 +278,7 @@ function findRecipe(matname: string) {
                   if (findmat) {
                     return (
                       <a
-                        className="text-decoration-none"
+                        className="text-decoration-none text-primary"
                         href={findmat.pathname}
                         key={id('material' + ri + mi + '-')}>
                         {cleanstr}

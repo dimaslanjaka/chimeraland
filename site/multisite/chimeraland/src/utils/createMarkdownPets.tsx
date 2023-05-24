@@ -131,6 +131,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
                 {recipe && (
                   <a
                     href={recipe.pathname}
+                    className="text-primary"
                     title={
                       'Click here to view recipe ' + recipeName + ' details'
                     }>

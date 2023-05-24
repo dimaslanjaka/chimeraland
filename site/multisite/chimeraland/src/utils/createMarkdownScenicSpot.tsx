@@ -68,7 +68,8 @@ const mdC = (
           <a
             href="https://steamcommunity.com/stats/1913730/achievements"
             rel="nofollow noopener noreferer noreferrer"
-            target="_blank">
+            target="_blank"
+            className="text-primary">
             View Details Here
           </a>
         </p>

@@ -150,7 +150,7 @@ Bluebird.all(RecipesData)
                     if (findmat) {
                       return (
                         <a
-                          className="text-decoration-none"
+                          className="text-decoration-none text-primary"
                           href={findmat.pathname}
                           key={'material' + ri + mi}>
                           {cleanstr}
