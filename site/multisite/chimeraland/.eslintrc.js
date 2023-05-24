@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
-const prettier = require('./.prettierrc.json')
+const prettier = require('./.prettierrc.json');
 
 /**
  * @type {import('eslint').ESLint.Options}
@@ -75,6 +75,6 @@ const config = {
       }
     }
   ]
-}
+};
 
-module.exports = config
+module.exports = config;
