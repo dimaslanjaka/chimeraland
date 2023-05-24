@@ -17,32 +17,40 @@
   },
   "editor.formatOnSave": false,
   "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
     "editor.formatOnSave": true
   },
   "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
     "editor.formatOnSave": true
   },
   "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
     "editor.formatOnType": false
   },
   "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
     "editor.formatOnSave": false
   },
   "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
     "editor.formatOnSave": false,
     "editor.codeActionsOnSave": {
       "source.organizeImports": false
     }
   },
   "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
     "editor.formatOnSave": true
   },
   "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
     "editor.formatOnSave": true
   },
   "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
     "editor.formatOnSave": true
   },
   "prettier.endOfLine": "lf",
