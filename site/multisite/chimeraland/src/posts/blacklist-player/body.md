@@ -53,6 +53,7 @@
 | Xx kri xX | | Roll drops items di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ [screenshot](#xx-kri-xx-screenshots) |
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _17-04-2023 02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
 | JELLYOE2022 | | Roll drops items di party chiyou map, dilaporkan oleh **saayaang** _03-05-2023 10:15 PM_ [screenshot](#jellyoe-2022-screenshots) |
+| druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
@@ -125,9 +126,12 @@
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
+## druig Screenshots
+![druig Screenshots](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4d9bcf10-2c8b-4f07-89c7-b7b8dfb4e3af)
+
 ## Xx kri xX Screenshots
-![image](https://user-images.githubusercontent.com/12471057/232496879-8fa44627-c9f1-4488-be48-a23ee5bc44f6.png)
-![image](https://user-images.githubusercontent.com/12471057/232496944-5ad4cecd-2f8d-429e-8732-7df21bbaf43d.png)
+![Xx kri xX Screenshots](https://user-images.githubusercontent.com/12471057/232496879-8fa44627-c9f1-4488-be48-a23ee5bc44f6.png)
+![Xx kri xX Screenshots](https://user-images.githubusercontent.com/12471057/232496944-5ad4cecd-2f8d-429e-8732-7df21bbaf43d.png)
 
 
 ## afnc Screenshots
