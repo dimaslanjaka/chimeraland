@@ -12,9 +12,13 @@
       ],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "PvP Damage Reduction 4.8%"
+        "PvP Damage Reduction 4.8%",
+        "Essence Aspect: Aspect: Giant Spirit"
       ],
-      "skill": []
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frostppo-legendary.jpg"
+      ]
     },
     {
       "datePublished": "2022-01-06T20:56:03+07:00",
@@ -44,7 +48,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Crit 328"
+        "Crit 328",
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/ancient-piranha-legendary.jpg"
       ]
     },
     {
@@ -174,7 +182,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Defense 44"
+        "Defense 44",
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/bone-dragon-legendary.jpg"
       ]
     },
     {
@@ -421,7 +433,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Ranged DMG Reduction 4.8%"
+        "Ranged DMG Reduction 4.8%",
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-batolf-legendary.jpg"
       ]
     },
     {
@@ -468,7 +484,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Ranged Dmg +4.8%"
+        "Ranged Dmg +4.8%",
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-batolf-legendary.jpg"
       ]
     },
     {
@@ -655,7 +675,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Armor Pierce 188"
+        "Armor Pierce 188",
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/hagpy-legendary.jpg"
       ]
     },
     {
@@ -706,7 +730,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 5.0%",
-        "Melee DMG Reduction 4.8%"
+        "Melee DMG Reduction 4.8%",
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/hornbirdgon-legendary.jpg"
       ]
     },
     {
@@ -1254,7 +1282,12 @@
       "delicacies": [],
       "skill": [],
       "qty": "Need admin to write (auto build)",
-      "buff": []
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sharprush-legendary.jpg"
+      ]
     },
     {
       "datePublished": "2022-01-10T14:56:03+07:00",
@@ -1516,7 +1549,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Armor Pierce 188"
+        "Armor Pierce 188",
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/startlewing-legendary.jpg"
       ]
     },
     {
@@ -1528,7 +1565,11 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%",
-        "Crit DMG 4.8%"
+        "Crit DMG 4.8%",
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/stoatle-legendary.jpg"
       ]
     },
     {
@@ -1539,7 +1580,11 @@
       "delicacies": [],
       "skill": [],
       "buff": [
-        "Attributes Conversion Rate 4.0%"
+        "Attributes Conversion Rate 4.0%",
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/stonebug-legendary.jpg"
       ]
     },
     {
@@ -1952,19 +1997,29 @@
       "name": "mulberry lady",
       "datePublished": "2023-02-17T02:42:22+07:00",
       "dateModified": "2023-02-17T02:53:22+07:00",
-      "qty": "",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
       "skill": [],
-      "buff": [],
-      "delicacies": []
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mulberry-lady-legendary.jpg"
+      ]
     },
     {
       "name": "cicada",
       "datePublished": "2023-02-18T13:58:02+07:00",
       "dateModified": "2023-02-18T14:09:02+07:00",
-      "qty": "",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
       "skill": [],
-      "buff": [],
-      "delicacies": []
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cicada-legendary.jpg"
+      ]
     },
     {
       "name": "brontosaur",
@@ -2195,10 +2250,15 @@
       "name": "mongpion",
       "datePublished": "2023-02-25T20:44:43+07:00",
       "dateModified": "2023-02-25T20:55:43+07:00",
-      "qty": "",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
       "skill": [],
-      "buff": [],
-      "delicacies": []
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mongpion-legendary.jpg"
+      ]
     },
     {
       "name": "stegosaurus",
@@ -2476,10 +2536,15 @@
       "name": "swordfish",
       "datePublished": "2023-03-28T11:59:08+07:00",
       "dateModified": "2023-03-28T12:10:08+07:00",
-      "qty": "",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
       "skill": [],
-      "buff": [],
-      "delicacies": []
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "delicacies": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/swordfish-legendary.jpg"
+      ]
     },
     {
       "name": "mamba",
@@ -3855,6 +3920,692 @@
       "skill": [],
       "images": [
         "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/roarbor-epic-grade.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Cray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/cray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Grouper",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/grouper-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Tiger Shark",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/tiger-shark-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Ice Whale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/ice-whale-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fantafish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fantafish-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Transparay",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/transparay-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Hermitshell",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/hermitshell-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Mutafish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/mutafish-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fiendfish",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fiendfish-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Killer Whale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/killer-whale-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Squid",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/squid-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Dragonwhale",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Endless Stream"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dragonwhale-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Bosalo",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-bosalo-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamelope",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamelope-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Litiger",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-litiger-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flame Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Scorching Sun"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flame-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamebug",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamebug-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Browtelope",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/browtelope-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Stonespine Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/stonespine-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Plate Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/plate-bear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Greenie",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/greenie-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icebug",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icebug-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Chimp",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/chimp-mythic.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Winged Dragon",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Borderless"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/winged-dragon.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Jadefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/jadefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Whitefox",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/whitefox-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Nian",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Thunderclap"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/nian-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Giradeer",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-giradeer-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Bear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-bear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Litiger",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-litiger-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Dinbear",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/dinbear-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Floating Mist",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Frostide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/floating-mist-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Fire Locray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/fire-lobcray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamegator",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamegator-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Rhinodile",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/rhinodile-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Icegator",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/icegator-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frost Lobcray",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Blunthide"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frost-lobcray-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Gripperbird",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gripper-bird-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Sparromu",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparromu-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Gos-Sparromu",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/gos-sparromu-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Sparrodact",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Rainbow Feather"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/sparrodact-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Frosthorn Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/frosthorn-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Flamehorn Rhino",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/flamehorn-rhino-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Pixie",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/pixie-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Murkrider",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/murkrider-legendary.jpg"
+      ]
+    },
+    {
+      "dateModified": "2023-05-25T02:21:12+07:00",
+      "datePublished": "2023-05-25T02:21:12+07:00",
+      "name": "Armoxerous",
+      "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+      "delicacies": [],
+      "buff": [
+        "Essence Aspect: Aspect: Giant Spirit"
+      ],
+      "skill": [],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/armoxerous-legendary.jpg"
       ]
     }
   ]
