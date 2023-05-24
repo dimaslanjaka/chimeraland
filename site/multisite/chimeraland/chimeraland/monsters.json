@@ -25,6 +25,9 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/alligon-epic-grade.jpg"
       ]
     },
     {
@@ -487,6 +490,9 @@
       "buff": [
         "Attributes Conversion Rate 4.0%",
         "HP 339"
+      ],
+      "images": [
+        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/newt-epic-grade.jpg"
       ]
     },
     {
@@ -994,10 +1000,6 @@
       "skill": [],
       "buff": [
         "Attributes Conversion Rate 4.0%"
-      ],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/newt-rare-grade.jpg",
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/newt-epic-grade.jpg"
       ]
     },
     {
@@ -3670,13 +3672,10 @@
       "dateModified": "2023-05-25T02:02:42+07:00",
       "datePublished": "2023-05-25T02:02:42+07:00",
       "name": "Alligon",
-      "qty": "GRADE B ATK N/A HP N/A DEF N/A",
+      "qty": "GRADE C ATK N/A HP N/A DEF N/A",
       "delicacies": [],
       "buff": [],
-      "skill": [],
-      "images": [
-        "https://zilliongamer.com/uploads/chimeraland/eggs/epic-eggs/alligon-epic-grade.jpg"
-      ]
+      "skill": []
     },
     {
       "dateModified": "2023-05-25T02:02:42+07:00",

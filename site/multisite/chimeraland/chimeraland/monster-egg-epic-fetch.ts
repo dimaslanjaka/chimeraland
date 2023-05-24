@@ -47,9 +47,13 @@ fetch.then((res) => {
         if (name.length > 0) {
           const url = new URL('https://zilliongamer.com');
           url.pathname = data.querySelector('img')?.src;
-          let monsterIndex = monster.data.findIndex(
-            (o) => o.name.toLowerCase() === name.toLowerCase()
-          );
+          let monsterIndex = monster.data.findIndex((o) => {
+            const lowercaseName = name.toLowerCase();
+            if (['newt', 'alligon'].includes(lowercaseName)) {
+              return o.name.toLowerCase() === 'giant ' + lowercaseName;
+            }
+            return o.name.toLowerCase() === name.toLowerCase();
+          });
           if (monsterIndex === -1) {
             monsterIndex =
               monster.data.push({
