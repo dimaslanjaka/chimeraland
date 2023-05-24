@@ -1,10 +1,10 @@
 import Axios from 'axios';
 import { setupCache } from 'axios-cache-interceptor';
-import { writeFileSync } from 'fs';
+import fs from 'fs-extra';
 import jsdom from 'jsdom';
 import moment from 'moment-timezone';
-import { join } from 'path';
 import { capitalize, jsonStringifyWithCircularRefs } from 'sbg-utility';
+import path from 'upath';
 import monster from './monsters.json';
 
 // same object, but with updated typings.
@@ -60,8 +60,8 @@ fetch.then((res) => {
       }
     }
   }
-  writeFileSync(
-    join(__dirname, 'monsters.json'),
+  fs.writeFileSync(
+    path.join(__dirname, 'monsters.json'),
     jsonStringifyWithCircularRefs(monster)
   );
   dom.window.close();
