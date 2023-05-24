@@ -94,9 +94,7 @@ Bluebird.all(RecipesData)
                     )}
                   </ul>
                 </div>
-                <span className="badge rounded-pill bg-dark text-white">
-                  recipe
-                </span>
+                <span className="badge rounded-pill">recipe</span>
               </div>
 
               <div className="card-footer text-end text-muted">
@@ -183,7 +181,7 @@ Bluebird.all(RecipesData)
               <div
                 className="col-12 col-lg-6 recipe-item mb-2"
                 key={'recipe-' + ri}>
-                <div className="card">
+                <div className="card bg-dark text-light">
                   <div className="card-body">
                     <h2 className="card-title fs-5">
                       Recipe {item.name} {ri + 1}
