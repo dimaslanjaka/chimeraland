@@ -12,7 +12,7 @@ import { isValidHttpUrl } from 'sbg-utility'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { basename, dirname, extname, join } from 'upath'
-import { hexoProject } from '../project'
+import { chimeralandProject, hexoProject } from '../project'
 import monsters from './monsters.json'
 
 const outputJSON = join(__dirname, '../src/utils/chimeraland-monsters.json')
@@ -96,8 +96,11 @@ const getData = () => {
               const outputfn = basename(filename, extname(filename)) + '.webp'
               return {
                 filename: outputfn,
-                folder: imagesDir,
-                originalPath: join(imagesDir, filename),
+                folder: imagesDir.replace(chimeralandProject, '<chimera>'),
+                originalPath: join(imagesDir, filename).replace(
+                  chimeralandProject,
+                  '<chimera>'
+                ),
                 originalFilename: filename,
                 pathname:
                   '/' +
@@ -113,7 +116,10 @@ const getData = () => {
           const results: typeof dirs = []
           while (dirs.length > 0) {
             const toProcess = dirs[0]
-            const inputFile = toProcess.originalPath
+            const inputFile = toProcess.originalPath.replace(
+              '<chimera>',
+              chimeralandProject
+            )
             if (existsSync(inputFile) && /.(jpe?g|png)$/.test(inputFile)) {
               const input = readFileSync(inputFile)
               const output = join(
