@@ -1,6 +1,7 @@
-import { existsSync, mkdirpSync, writeFileSync } from 'fs-extra'
+import { existsSync, mkdirpSync } from 'fs-extra'
 import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
+import { writefile } from 'sbg-utility'
 import slugify from 'slugify'
 import { dirname, join } from 'upath'
 import { inspect } from 'util'
@@ -153,9 +154,13 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   } catch (e) {
     if (e instanceof Error) {
       console.log('cannot prettify', item.name)
-      if (!existsSync(join(process.cwd(), 'tmp')))
+      if (!existsSync(join(process.cwd(), 'tmp'))) {
         mkdirpSync(join(process.cwd(), 'tmp'))
-      writeFileSync(join(process.cwd(), 'tmp/prettier-error.log'), inspect(e))
+      }
+      writefile(
+        join(process.cwd(), 'tmp/prettier-error', item.name + '.log'),
+        inspect(e)
+      )
     }
   }
 
@@ -164,7 +169,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     slugify(item.name, { trim: true, lower: true }) + '.md'
   )
   if (!existsSync(dirname(output))) mkdirpSync(dirname(output))
-  writeFileSync(
+  writefile(
     output,
     `
 ---
