@@ -61,18 +61,22 @@ Bluebird.all(RecipesData).each((item) => {
               {/** buff */}
               <div className="col-sm-8 mb-2">
                 <div className="card-body">
-                  <h2 className="fs-5">{item.name} Cooking Recipe</h2>
-                  {item.images && item.images.icon && (
-                    <img
-                      className="d-inline-block me-2"
-                      src={new URL(
-                        'https://www.webmanajemen.com' +
-                          item.images.icon.pathname
-                      ).toString()}
-                      width="auto"
-                      height="auto"
-                    />
-                  )}
+                  <div className="d-flex flex-row align-items-center mb-3">
+                    {item.images && item.images.icon && (
+                      <img
+                        className="d-inline-block me-2"
+                        src={new URL(
+                          'https://www.webmanajemen.com' +
+                            item.images.icon.pathname
+                        ).toString()}
+                        width="auto"
+                        height="auto"
+                        style={{ verticalAlign: 'middle' }}
+                      />
+                    )}
+                    <h2 className="fs-5">{item.name} Cooking Recipe</h2>
+                  </div>
+
                   <h2 className="card-title fs-5">Buff {item.name}</h2>
 
                   <div className="card-text">
