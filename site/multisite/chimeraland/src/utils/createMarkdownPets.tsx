@@ -92,39 +92,50 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   for (let i = 0; i < qualities.length; i++) {
     const qty = qualities[i]
     qtyhtm.push(
-      <div className="col-lg-4 mb-2">
-        <table key={qty.join('')}>
-          <tr>
-            <th>GRADE</th>
-            <td>
-              {qty[1] === 'B'
-                ? 'GRAND - EPIC'
-                : qty[1] === 'C'
-                ? 'RARE'
-                : qty[1] === 'A'
-                ? 'NOBLE - LEGENDARY'
-                : qty[1] === 'A+'
-                ? 'ILLUSTRIOUS - LEGENDARY'
-                : qty[1] === 'S'
-                ? 'DEOBEAST - MYTHIC 30,000 years'
-                : qty[1] === 'S+'
-                ? 'EXALTED DEOBEAST - MYTHIC 50,000 years'
-                : qty[1]}
-            </td>
-          </tr>
-          <tr>
-            <th>Attack</th>
-            <td>{qty[2]}</td>
-          </tr>
-          <tr>
-            <th>Health Point (HP)</th>
-            <td>{qty[3]}</td>
-          </tr>
-          <tr>
-            <th>Defense</th>
-            <td>{qty[4]}</td>
-          </tr>
-        </table>
+      <div className="col mb-2" key={qty.join('')}>
+        <div className="card bg-dark text-light">
+          <div className="card-body">
+            <table key={'table' + qty.join('')}>
+              <tr>
+                <th>GRADE</th>
+                <td>
+                  {qty[1]} <br />
+                  {qty[1] === 'B' ? (
+                    <span className="text-purple">GRAND - EPIC</span>
+                  ) : qty[1] === 'C' ? (
+                    <span className="text-primary">RARE</span>
+                  ) : qty[1] === 'A' ? (
+                    <span className="text-warning">NOBLE - LEGENDARY</span>
+                  ) : qty[1] === 'A+' ? (
+                    <span className="text-warning">ILLUSTRIOUS LEGENDARY</span>
+                  ) : qty[1] === 'S' ? (
+                    <span className="text-danger">
+                      DEOBEAST - MYTHIC 30,000 years
+                    </span>
+                  ) : qty[1] === 'S+' ? (
+                    <span className="text-danger">
+                      EXALTED DEOBEAST - MYTHIC 50,000 years
+                    </span>
+                  ) : (
+                    qty[1]
+                  )}
+                </td>
+              </tr>
+              <tr>
+                <th>Attack</th>
+                <td>{qty[2]}</td>
+              </tr>
+              <tr>
+                <th>Health Point (HP)</th>
+                <td>{qty[3]}</td>
+              </tr>
+              <tr>
+                <th>Defense</th>
+                <td>{qty[4]}</td>
+              </tr>
+            </table>
+          </div>
+        </div>
       </div>
     )
   }
