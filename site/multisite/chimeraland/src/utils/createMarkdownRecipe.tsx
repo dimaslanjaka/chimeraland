@@ -42,61 +42,66 @@ Bluebird.all(RecipesData).each((item) => {
       <section id="bootstrap-wrapper">
         <div data-bs-theme="dark">
           <div className="card mb-2">
-            <div className="row g-0">
-              <div className="col-sm-4 position-relative mb-2">
-                <img
-                  src={
-                    item.images.material
-                      ? new URL(
-                          'https://www.webmanajemen.com' +
-                            item.images.material.pathname
-                        ).toString()
-                      : 'https://via.placeholder.com/600'
-                  }
-                  className="card-img fit-cover w-100 h-100"
-                  alt={item.name}
-                  data-fancybox="true"
-                />
-              </div>
-              {/** buff */}
-              <div className="col-sm-8 mb-2">
-                <div className="card-body">
-                  <div className="d-flex flex-row align-items-center mb-3">
-                    {item.images && item.images.icon && (
-                      <img
-                        className="d-inline-block me-2"
-                        src={new URL(
-                          'https://www.webmanajemen.com' +
-                            item.images.icon.pathname
-                        ).toString()}
-                        width="auto"
-                        height="auto"
-                        style={{ verticalAlign: 'middle' }}
-                      />
-                    )}
-                    <h2 className="fs-5">{item.name} Cooking Recipe</h2>
-                  </div>
-
-                  <h2 className="card-title fs-5">Buff {item.name}</h2>
-
-                  <div className="card-text">
-                    <ul>
-                      {'buff' in item ? (
-                        (item.buff as string[])?.map((str, bi) => {
-                          return <li key={'bi' + bi}>{str}</li>
-                        })
-                      ) : (
-                        <>Buff {item.name} not yet written</>
+            <div className="card-body">
+              <div className="row g-0">
+                <div className="col-sm-4 position-relative mb-2">
+                  <img
+                    src={
+                      item.images.material
+                        ? new URL(
+                            'https://www.webmanajemen.com' +
+                              item.images.material.pathname
+                          ).toString()
+                        : 'https://via.placeholder.com/600'
+                    }
+                    className="card-img fit-cover w-100 h-100"
+                    alt={item.name}
+                    data-fancybox="true"
+                  />
+                </div>
+                {/** buff */}
+                <div className="col-sm-8 mb-2">
+                  <div className="card-body">
+                    <div className="d-flex flex-row align-items-center mb-3">
+                      {item.images && item.images.icon && (
+                        <img
+                          className="d-inline-block me-2"
+                          src={new URL(
+                            'https://www.webmanajemen.com' +
+                              item.images.icon.pathname
+                          ).toString()}
+                          width="auto"
+                          height="auto"
+                          style={{ verticalAlign: 'middle' }}
+                        />
                       )}
-                    </ul>
-                  </div>
-                  <span className="badge rounded-pill">recipe</span>
-                </div>
+                      <h2 className="fs-5">{item.name} Cooking Recipe</h2>
+                    </div>
 
-                <div className="card-footer text-end text-muted">
-                  webmanajemen.com
+                    <h2 className="card-title fs-5">Buff {item.name}</h2>
+
+                    <div className="card-text">
+                      <ul>
+                        {'buff' in item ? (
+                          (item.buff as string[])?.map((str, bi) => {
+                            return <li key={'bi' + bi}>{str}</li>
+                          })
+                        ) : (
+                          <>Buff {item.name} not yet written</>
+                        )}
+                      </ul>
+                    </div>
+                    <span className="badge rounded-pill">recipe</span>
+                  </div>
+
+                  <div className="card-footer text-end text-muted mt-auto">
+                    webmanajemen.com - recipe {item.name}
+                  </div>
                 </div>
               </div>
+            </div>
+            <div className="card-footer text-end text-muted">
+              webmanajemen.com - recipe {item.name}
             </div>
           </div>
 
