@@ -148,12 +148,20 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       <div id="gallery">
         <h2>Galleries for {item.name}</h2>
         <div className="row">
-          {(item.images as Images).map((image) => {
+          {(item.images as Images).map((image, i) => {
             const url = new URL('https://www.webmanajemen.com')
             url.pathname = image.pathname
             return (
-              <div className="col-lg-6 col-12" key={image.originalPath}>
-                <img src={String(url)} alt={item.name + ' ' + image.filename} />
+              <div className="col-lg-6 col-12" key={image.originalPath + i}>
+                <figure>
+                  <img
+                    src={String(url)}
+                    alt={item.name + ' ' + image.filename}
+                  />
+                  <figcaption>
+                    <i>{item.name}</i> {image.filename}.
+                  </figcaption>
+                </figure>
               </div>
             )
           })}
