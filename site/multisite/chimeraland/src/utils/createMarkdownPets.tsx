@@ -79,7 +79,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     const mapper = item.qty
       .map((str) => regex.exec(str))
       .filter((result) => Array.isArray(result))
-    console.log(mapper)
+    qualities.push(...mapper)
   }
   const qtyhtm = [] as JSX.Element[]
 
@@ -89,7 +89,21 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       <table key={qty.join('')}>
         <tr>
           <th>GRADE</th>
-          <td>{qty[1]}</td>
+          <td>
+            {qty[1] === 'B'
+              ? 'GRAND - EPIC'
+              : qty[1] === 'C'
+              ? 'RARE'
+              : qty[1] === 'A'
+              ? 'NOBLE - LEGENDARY'
+              : qty[1] === 'A+'
+              ? 'ILLUSTRIOUS - LEGENDARY'
+              : qty[1] === 'S'
+              ? 'DEOBEAST - MYTHIC 30,000 years'
+              : qty[1] === 'S+'
+              ? 'EXALTED DEOBEAST - MYTHIC 50,000 years'
+              : qty[1]}
+          </td>
         </tr>
         <tr>
           <th>Attack</th>
