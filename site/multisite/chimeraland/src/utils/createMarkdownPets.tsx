@@ -66,9 +66,8 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     } ${attr.categories} ${attr.tags}`.substring(0, 300)
   }
 
-  // GRADE A ATK 75 HP 60 DEF 75
-  const regex =
-    /GRADE (\w{1}|\w{1}\+) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/gim
+  // GRADE A+ ATK 75 HP 60 DEF 75
+  const regex = /GRADE (\w{1}|\w{1}\+) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/
   const qualities = [] as string[][]
   if (typeof item.qty === 'string') {
     if (item.qty.length > 0) {
@@ -78,7 +77,13 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     }
   } else {
     const mapper = item.qty
-      .map((str) => regex.exec(str))
+      .map((str) => {
+        const exec = regex.exec(str.trim())
+        if (!exec) {
+          console.log('fail parse', str)
+        }
+        return exec
+      })
       .filter((result) => Array.isArray(result))
     qualities.push(...mapper)
   }
