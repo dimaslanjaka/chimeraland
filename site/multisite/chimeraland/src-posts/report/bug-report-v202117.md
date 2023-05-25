@@ -4,7 +4,7 @@ date: 2023-04-20T13:26:16+07:00
 updated: 2023-04-20T13:26:16+07:00
 categories: [games, chimeraland]
 tags: [chimeraland, bug]
-thumbnail: https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png
+thumbnail: //rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png
 ---
 
 ## Chimeraland v2.0.2.117 - Bug Report

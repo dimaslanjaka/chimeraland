@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-05-24T23:12:07+07:00
+updated: 2023-05-25T19:11:12+07:00
 tags: [chimeraland]
 categories: [games, chimeraland]
 permalink: /chimeraland/index.html
@@ -55,6 +55,10 @@ All in one recipes
 
 ![Mengatasi lag chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Mengatasi+lag+chimeraland)
 
+## [Material Location In Chimeraland](/chimeraland/material-location.html)
+
+![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
+
 ## [Index Chimeraland](/chimeraland/index2.html)
 
 ![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
@@ -71,10 +75,6 @@ All in one recipes
 
 ![Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0/teleport-war-banner-chimera-2-0.jpg)
 
-## [Material Location In Chimeraland](/chimeraland/material-location.html)
-
-![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
-
 ## [cara reclaim draka gift Chimeraland](/chimeraland/cara-reclaim-draka-gift.html)
 
 ![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
@@ -89,7 +89,7 @@ All in one recipes
 
 ## [Chimeraland Scammer List Player](/chimeraland/blacklist-player.html)
 
-![Chimeraland Scammer List Player](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
+![Chimeraland Scammer List Player](//rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
 
 ## [Chimeraland attendant skill book list](/chimeraland/attendant-skill-book-list.html)
 
@@ -101,5 +101,5 @@ All in one recipes
 
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 
-![Bug Report Chimeraland v2.0.2.117](https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
+![Bug Report Chimeraland v2.0.2.117](//rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
 
