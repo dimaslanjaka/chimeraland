@@ -1,5 +1,6 @@
 import Bluebird from 'bluebird'
 import { mkdirpSync, writeFileSync } from 'fs-extra'
+import jsdom from 'jsdom'
 import moment from 'moment'
 import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
@@ -173,6 +174,16 @@ Bluebird.all(MaterialsData)
       slugify(item.name, { trim: true, lower: true }) + '.md'
     )
     if (/buckt/gi.test(item.name)) console.log(output)
+
+    // dump
+    writefile(
+      join(
+        process.cwd(),
+        'tmp/html',
+        slugify(item.name, { trim: true, lower: true }) + '.html'
+      ),
+      '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()
+    )
 
     writefile(
       output,
