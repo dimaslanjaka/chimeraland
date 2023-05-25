@@ -40,163 +40,171 @@ Bluebird.all(RecipesData).each((item) => {
         href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
       />
       <section id="bootstrap-wrapper">
-        <div className="row mb-2">
-          <div className="col-md-12 mb-2">
-            <table className="table" id="post-info">
-              <tbody>
-                <tr>
-                  <td>
-                    {item.images && item.images.icon && (
-                      <img
-                        className="d-inline-block me-2"
-                        src={item.images.icon.pathname}
-                        width="auto"
-                        height="auto"
-                      />
-                    )}
-                  </td>
-                  <td>
-                    <h1 className="fs-5">{item.name} Cooking Recipe</h1>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-
-        <div className="card mb-2 bg-dark text-light">
-          <div className="row g-0">
-            <div className="col-sm-4 position-relative mb-2">
-              <img
-                src={
-                  item.images.material
-                    ? item.images.material.pathname
-                    : 'https://via.placeholder.com/600'
-                }
-                className="card-img fit-cover w-100 h-100"
-                alt={item.name}
-                data-fancybox="true"
-              />
-            </div>
-            {/** buff */}
-            <div className="col-sm-8 mb-2">
-              <div className="card-body">
-                <h2 className="card-title fs-5">Buff {item.name}</h2>
-
-                <div className="card-text">
-                  <ul>
-                    {'buff' in item ? (
-                      (item.buff as string[])?.map((str, bi) => {
-                        return <li key={'bi' + bi}>{str}</li>
-                      })
-                    ) : (
-                      <>Buff {item.name} not yet written</>
-                    )}
-                  </ul>
-                </div>
-                <span className="badge rounded-pill">recipe</span>
-              </div>
-
-              <div className="card-footer text-end text-muted">
-                webmanajemen.com
-              </div>
+        <div data-bs-theme="dark">
+          <div className="row mb-2">
+            <div className="col-md-12 mb-2">
+              <table className="table" id="post-info">
+                <tbody>
+                  <tr>
+                    <td>
+                      {item.images && item.images.icon && (
+                        <img
+                          className="d-inline-block me-2"
+                          src={new URL(
+                            'https://www.webmanajemen.com' +
+                              item.images.icon.pathname
+                          ).toString()}
+                          width="auto"
+                          height="auto"
+                        />
+                      )}
+                    </td>
+                    <td>
+                      <h1 className="fs-5">{item.name} Cooking Recipe</h1>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
-        </div>
 
-        {/** recipes */}
-        <div className="row mb-2">
-          {item.recipes.map((recipe, ri) => {
-            let device = 'Stove or Camp'
-            if (/slushie|sauce|veggie paste|powder/gi.test(item.name)) {
-              device = 'Mixer - Jam'
-            }
-            const rg = /--device: (.*)--/i
-            const split = recipe.match(rg)
-            if (split) {
-              device = split[1]
-            }
-            const recipeMaterials = recipe
-              .replace(rg, '')
-              .trim()
-              .split('+')
-              // trim splitted string
-              .map((str) => str.trim())
-              // repeat count with clean string
-              .map((str) => {
-                const count = parseInt(str.match(/\[(\d)\]/)?.[1] || '0')
-                const cleanstr = str.replace(/\[(\d)\]/, '').trim()
-                if (count > 0) {
-                  const build: string[] = []
-                  for (let i = 0; i < count; i++) {
-                    build.push(cleanstr)
+          <div className="card mb-2">
+            <div className="row g-0">
+              <div className="col-sm-4 position-relative mb-2">
+                <img
+                  src={
+                    item.images.material
+                      ? new URL(
+                          'https://www.webmanajemen.com' +
+                            item.images.material.pathname
+                        ).toString()
+                      : 'https://via.placeholder.com/600'
                   }
-                  return build
-                }
-                return [str]
-              })
-              // flat chunk
-              .flat(1)
-              // get internal links
-              .map((str, mi) => {
-                return str
-                  .trim()
-                  .split(/\/|\sor\s/gi)
-                  .map((cleanstr) => {
-                    if (cleanstr.includes('/')) console.log(cleanstr)
-                    const findmat = MaterialsData.concat(
-                      RecipesData as any
-                    ).find((mat) => strIsSame(mat.name, cleanstr))
-                    if (findmat) {
-                      return (
-                        <a
-                          className="text-decoration-none text-primary"
-                          href={findmat.pathname}
-                          key={'material' + ri + mi}>
-                          {cleanstr}
-                        </a>
-                      )
-                    } else {
-                      //console.log(cleanstr)
-                      return <>{cleanstr}</>
+                  className="card-img fit-cover w-100 h-100"
+                  alt={item.name}
+                  data-fancybox="true"
+                />
+              </div>
+              {/** buff */}
+              <div className="col-sm-8 mb-2">
+                <div className="card-body">
+                  <h2 className="card-title fs-5">Buff {item.name}</h2>
+
+                  <div className="card-text">
+                    <ul>
+                      {'buff' in item ? (
+                        (item.buff as string[])?.map((str, bi) => {
+                          return <li key={'bi' + bi}>{str}</li>
+                        })
+                      ) : (
+                        <>Buff {item.name} not yet written</>
+                      )}
+                    </ul>
+                  </div>
+                  <span className="badge rounded-pill">recipe</span>
+                </div>
+
+                <div className="card-footer text-end text-muted">
+                  webmanajemen.com
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/** recipes */}
+          <div className="row mb-2">
+            {item.recipes.map((recipe, ri) => {
+              let device = 'Stove or Camp'
+              if (/slushie|sauce|veggie paste|powder/gi.test(item.name)) {
+                device = 'Mixer - Jam'
+              }
+              const rg = /--device: (.*)--/i
+              const split = recipe.match(rg)
+              if (split) {
+                device = split[1]
+              }
+              const recipeMaterials = recipe
+                .replace(rg, '')
+                .trim()
+                .split('+')
+                // trim splitted string
+                .map((str) => str.trim())
+                // repeat count with clean string
+                .map((str) => {
+                  const count = parseInt(str.match(/\[(\d)\]/)?.[1] || '0')
+                  const cleanstr = str.replace(/\[(\d)\]/, '').trim()
+                  if (count > 0) {
+                    const build: string[] = []
+                    for (let i = 0; i < count; i++) {
+                      build.push(cleanstr)
                     }
-                  })
-                  .reduce((prev, curr) => (
-                    <>
-                      {prev}
-                      <span> / </span>
-                      {curr}
-                    </>
-                  ))
-              })
-              .reduce((prev, curr) => (
-                <>
-                  {prev}
-                  <span> + </span>
-                  {curr}
-                </>
-              ))
-            //console.log(replace)
-            return (
-              <div
-                className="col-12 col-lg-6 recipe-item mb-2"
-                key={'recipe-' + ri}>
-                <div className="card bg-dark text-light">
-                  <div className="card-body">
-                    <h2 className="card-title fs-5">
-                      Recipe {item.name} {ri + 1}
-                    </h2>
-                    <div className="card-text">
-                      <ul>
-                        <li>{recipeMaterials}</li>
-                        {<li>Device: {device || 'Stove or Camp'}</li>}
-                      </ul>
+                    return build
+                  }
+                  return [str]
+                })
+                // flat chunk
+                .flat(1)
+                // get internal links
+                .map((str, mi) => {
+                  return str
+                    .trim()
+                    .split(/\/|\sor\s/gi)
+                    .map((cleanstr) => {
+                      if (cleanstr.includes('/')) console.log(cleanstr)
+                      const findmat = MaterialsData.concat(
+                        RecipesData as any
+                      ).find((mat) => strIsSame(mat.name, cleanstr))
+                      if (findmat) {
+                        return (
+                          <a
+                            className="text-decoration-none text-primary"
+                            href={findmat.pathname}
+                            key={'material' + ri + mi}>
+                            {cleanstr}
+                          </a>
+                        )
+                      } else {
+                        //console.log(cleanstr)
+                        return <>{cleanstr}</>
+                      }
+                    })
+                    .reduce((prev, curr) => (
+                      <>
+                        {prev}
+                        <span> / </span>
+                        {curr}
+                      </>
+                    ))
+                })
+                .reduce((prev, curr) => (
+                  <>
+                    {prev}
+                    <span> + </span>
+                    {curr}
+                  </>
+                ))
+              //console.log(replace)
+              return (
+                <div
+                  className="col-12 col-lg-6 recipe-item mb-2"
+                  key={'recipe-' + ri}>
+                  <div className="card">
+                    <div className="card-body">
+                      <h2 className="card-title fs-5">
+                        Recipe {item.name} {ri + 1}
+                      </h2>
+                      <div className="card-text">
+                        <ul>
+                          <li>{recipeMaterials}</li>
+                          {<li>Device: {device || 'Stove or Camp'}</li>}
+                        </ul>
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-            )
-          })}
+              )
+            })}
+          </div>
         </div>
       </section>
     </>
