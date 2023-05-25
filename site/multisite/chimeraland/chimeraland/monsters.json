@@ -3921,7 +3921,7 @@
     {
       "name": "artigra",
       "datePublished": "2023-03-28T08:59:08+07:00",
-      "dateModified": "2023-05-25T13:32:20+07:00",
+      "dateModified": "2023-05-25T14:52:05+07:00",
       "qty": [
         "GRADE A ATK 75 HP 71 DEF 64",
         "GRADE A+ ATK 85 HP 81 DEF 74",
@@ -3929,7 +3929,13 @@
       ],
       "skill": [],
       "buff": [],
-      "delicacies": []
+      "delicacies": [
+        "Artigra Feast",
+        "Scorpion King Broth",
+        "Tasty Crispy Spider",
+        "Flame Roasted Horn",
+        "Stir-Fried Browtelope"
+      ]
     },
     {
       "name": "black-baked snail",
