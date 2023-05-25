@@ -7245,13 +7245,6 @@
     ],
     "images": [
       {
-        "filename": "chimeraland-white-snake-evolve-featured.webp",
-        "folder": "<chimera>/chimeraland/monsters/white maiden",
-        "originalPath": "<chimera>/chimeraland/monsters/white maiden/chimeraland-white-snake-evolve-featured.png",
-        "originalFilename": "chimeraland-white-snake-evolve-featured.png",
-        "pathname": "/chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp"
-      },
-      {
         "filename": "Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp",
         "folder": "<chimera>/chimeraland/monsters/white maiden",
         "originalPath": "<chimera>/chimeraland/monsters/white maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
@@ -7355,6 +7348,13 @@
         "originalPath": "<chimera>/chimeraland/monsters/white maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "originalFilename": "Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "pathname": "/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "chimeraland-white-snake-evolve-featured.webp",
+        "folder": "<chimera>/chimeraland/monsters/white maiden",
+        "originalPath": "<chimera>/chimeraland/monsters/white maiden/chimeraland-white-snake-evolve-featured.png",
+        "originalFilename": "chimeraland-white-snake-evolve-featured.png",
+        "pathname": "/chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp"
       }
     ],
     "videos": [],
