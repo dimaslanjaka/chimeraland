@@ -10,6 +10,17 @@ import { hexoProject } from '../../project'
 import { AttendantsData, MonstersData, RecipesData } from './chimeraland'
 import { capitalizer } from './string'
 
+interface Image {
+  filename: string
+  folder: string
+  originalPath: string
+  originalFilename: string
+  pathname: string
+  url: string
+}
+
+type Images = Image[]
+
 // create markdown for attendants and monsters
 MonstersData.concat(AttendantsData as any).forEach((item) => {
   const publicDir = join(hexoProject, 'src-posts/chimeraland', item.type)
@@ -22,13 +33,13 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   //attr.updated = moment().format()
   attr.date = item.datePublished
   attr.permalink = item.pathname
-  attr.photos = item.images.map((image) => image.pathname)
+  attr.photos = (item.images as Images).map((image) => image.pathname)
   if (item.images.length > 0) {
-    const featured = item.images.find((image) =>
+    const featured = (item.images as Images).find((image) =>
       /feature/i.test(image.filename)
     )
     attr.thumbnail =
-      (featured || item.images[0])?.pathname ||
+      (featured || (item.images as Images)[0])?.pathname ||
       'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' + item.name
   }
   attr.tags = []
