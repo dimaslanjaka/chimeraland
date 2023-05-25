@@ -10,7 +10,7 @@ import moment from 'moment-timezone'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { basename, dirname, extname, join } from 'upath'
-import { hexoProject } from '../project'
+import { chimeralandProject, hexoProject } from '../project'
 import attendants from './attendants.json'
 
 const outputJSON = join(__dirname, '../src/utils/chimeraland-attendants.json')
@@ -93,8 +93,11 @@ const getData = () => {
                 basename(filename, extname(filename)) + '.webp'
               return {
                 filename: outputImgFilename,
-                folder: imagesDir,
-                originalPath: join(imagesDir, filename),
+                folder: imagesDir.replace(chimeralandProject, '<chimera>'),
+                originalPath: join(imagesDir, filename).replace(
+                  chimeralandProject,
+                  '<chimera>'
+                ),
                 originalFilename: filename,
                 pathname:
                   '/' +
@@ -110,7 +113,10 @@ const getData = () => {
           const results: typeof dirs = []
           while (dirs.length > 0) {
             const toProcess = dirs[0]
-            const inputFile = toProcess.originalPath
+            const inputFile = toProcess.originalPath.replace(
+              '<chimera>',
+              chimeralandProject
+            )
             if (existsSync(inputFile)) {
               // copy images
               const input = readFileSync(inputFile)
