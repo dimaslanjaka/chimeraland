@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-05-16T20:40:11+07:00
+updated: 2023-05-24T23:12:07+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -424,6 +424,16 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drops items di party chiyou map, dilaporkan oleh <strong>saayaang</strong> <em>03-05-2023 10:15 PM</em> <a href="#jellyoe-2022-screenshots">screenshot</a></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="druig">druig</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>shea</strong> <em>May 24, 2023 11:11 PM</em> <a href="#druig-screenshots">screenshot</a></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="kaddinn">kaddinn</td>
+<td style="text-align:left">CongressTH</td>
+<td style="text-align:left">Out party sebelum giliran map-nya, dilaporkan oleh <strong>Rithis</strong></td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-jual-beli" tabindex="-1"><a href="#scammer-jual-beli">Scammer Jual-Beli</a></h2>
@@ -657,9 +667,11 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="druig-screenshots" tabindex="-1"><a href="#druig-screenshots">druig Screenshots</a></h2>
+<p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4d9bcf10-2c8b-4f07-89c7-b7b8dfb4e3af" alt="druig Screenshots"></p>
 <h2 id="xx-kri-x-x-screenshots" tabindex="-1"><a href="#xx-kri-x-x-screenshots">Xx kri xX Screenshots</a></h2>
-<p><img src="https://user-images.githubusercontent.com/12471057/232496879-8fa44627-c9f1-4488-be48-a23ee5bc44f6.png" alt="image">
-<img src="https://user-images.githubusercontent.com/12471057/232496944-5ad4cecd-2f8d-429e-8732-7df21bbaf43d.png" alt="image"></p>
+<p><img src="https://user-images.githubusercontent.com/12471057/232496879-8fa44627-c9f1-4488-be48-a23ee5bc44f6.png" alt="Xx kri xX Screenshots">
+<img src="https://user-images.githubusercontent.com/12471057/232496944-5ad4cecd-2f8d-429e-8732-7df21bbaf43d.png" alt="Xx kri xX Screenshots"></p>
 <h2 id="afnc-screenshots" tabindex="-1"><a href="#afnc-screenshots">afnc Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/232495225-6daf4eae-63dc-4726-b211-29496e075c59.png" alt="image"></p>
 <h2 id="baby-lordz-screenshots" tabindex="-1"><a href="#baby-lordz-screenshots">BabyLordz Screenshots</a></h2>
@@ -722,6 +734,7 @@ author: L3n4r0x
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/HitsuiTH%20&%20jiejie%20&%20Glitch%20+%20Dikoo.jpeg" alt="HitsuiTH & jiejie & Glitch + Dikoo.jpeg" /><figcaption>HitsuiTH & jiejie & Glitch + Dikoo.jpeg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/HODE.jpg" alt="HODE.jpg" /><figcaption>HODE.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/isman%20-%20ovo%20dan%20rekening%20bank.png" alt="isman - ovo dan rekening bank.png" /><figcaption>isman - ovo dan rekening bank.png</figcaption></figure>
+<figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/kaddinn.jpg" alt="kaddinn.jpg" /><figcaption>kaddinn.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/korban%20naru.png" alt="korban naru.png" /><figcaption>korban naru.png</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/maraa.jpeg" alt="maraa.jpeg" /><figcaption>maraa.jpeg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/naru.jpeg" alt="naru.jpeg" /><figcaption>naru.jpeg</figcaption></figure>
