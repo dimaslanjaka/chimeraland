@@ -7,7 +7,7 @@ const srcPostFolder = join(__dirname, '../src-posts')
 const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland')
 
 /**
- * copy multisite/chimeraland/src-post
+ * copy multisite/chimeraland/src-post to hexo project/src-posts/chimeraland
  * @returns
  */
 export function copySrcPost() {

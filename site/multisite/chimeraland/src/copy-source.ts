@@ -5,6 +5,10 @@ import { hexoProject } from '../project'
 const sourceFolder = join(__dirname, '../source')
 const sourceOutputFolder = join(hexoProject, 'source/chimeraland')
 
+/**
+ * copy ../source to hexo project/source/chimeraland
+ * @returns
+ */
 export function copySource() {
   return fs.copySync(sourceFolder, sourceOutputFolder, { overwrite: true })
 }
