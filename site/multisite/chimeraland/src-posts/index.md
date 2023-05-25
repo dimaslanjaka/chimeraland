@@ -89,7 +89,7 @@ All in one recipes
 
 ## [Chimeraland Scammer List Player](/chimeraland/blacklist-player.html)
 
-![Chimeraland Scammer List Player](//rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
+![Chimeraland Scammer List Player](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
 
 ## [Chimeraland attendant skill book list](/chimeraland/attendant-skill-book-list.html)
 
@@ -101,5 +101,5 @@ All in one recipes
 
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 
-![Bug Report Chimeraland v2.0.2.117](//rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
+![Bug Report Chimeraland v2.0.2.117](https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
 

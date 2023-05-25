@@ -86,7 +86,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   for (let i = 0; i < qualities.length; i++) {
     const qty = qualities[i]
     qtyhtm.push(
-      <div className="col-lg-4">
+      <div className="col-lg-4 mb-2">
         <table key={qty.join('')}>
           <tr>
             <th>GRADE</th>
