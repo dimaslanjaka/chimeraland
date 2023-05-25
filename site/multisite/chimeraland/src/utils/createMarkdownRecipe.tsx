@@ -41,33 +41,6 @@ Bluebird.all(RecipesData).each((item) => {
       />
       <section id="bootstrap-wrapper">
         <div data-bs-theme="dark">
-          <div className="row mb-2">
-            <div className="col-md-12 mb-2">
-              <table className="table" id="post-info">
-                <tbody>
-                  <tr>
-                    <td>
-                      {item.images && item.images.icon && (
-                        <img
-                          className="d-inline-block me-2"
-                          src={new URL(
-                            'https://www.webmanajemen.com' +
-                              item.images.icon.pathname
-                          ).toString()}
-                          width="auto"
-                          height="auto"
-                        />
-                      )}
-                    </td>
-                    <td>
-                      <h1 className="fs-5">{item.name} Cooking Recipe</h1>
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-
           <div className="card mb-2">
             <div className="row g-0">
               <div className="col-sm-4 position-relative mb-2">
@@ -88,6 +61,18 @@ Bluebird.all(RecipesData).each((item) => {
               {/** buff */}
               <div className="col-sm-8 mb-2">
                 <div className="card-body">
+                  <h2 className="fs-5">{item.name} Cooking Recipe</h2>
+                  {item.images && item.images.icon && (
+                    <img
+                      className="d-inline-block me-2"
+                      src={new URL(
+                        'https://www.webmanajemen.com' +
+                          item.images.icon.pathname
+                      ).toString()}
+                      width="auto"
+                      height="auto"
+                    />
+                  )}
                   <h2 className="card-title fs-5">Buff {item.name}</h2>
 
                   <div className="card-text">
