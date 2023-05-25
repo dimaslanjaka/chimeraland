@@ -126,12 +126,12 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       <h2 id="attribute">{item.name} Information from Chimeraland</h2>
       <p>
         <b>{item.name}</b> default attribute {item.qty}
-        <blockquote>
-          Note: {item.name} stat will increase based on their grade, level, and
-          delicacies/tasty.
-        </blockquote>
       </p>
       {qtyhtm}
+      <blockquote>
+        Note: {item.name} stat will increase based on their grade, level, and
+        delicacies/tasty.
+      </blockquote>
       <hr />
       <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
       <div className="bg-dark text-light">
