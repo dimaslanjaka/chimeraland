@@ -68,6 +68,8 @@ fetch.then((res) => {
               } as (typeof monster.data)[number]) - 1
           }
 
+          // @FIXME ancient piranha and other aquarium pets
+
           // create images property
           if ('images' in monster.data[monsterIndex] === false) {
             monster.data[monsterIndex]['images'] = []
