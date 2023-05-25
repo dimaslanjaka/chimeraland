@@ -166,7 +166,7 @@ const getData = () => {
                   return image
                 }
               })
-              .concat(results as any[])
+              .concat(results)
           }
           return Object.assign({}, item, { images: newImages })
         }
