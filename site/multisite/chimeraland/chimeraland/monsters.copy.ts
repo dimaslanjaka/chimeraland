@@ -145,7 +145,23 @@ const getData = () => {
             dirs.shift()
           }
 
-          return Object.assign({}, item, { images: results })
+          let newImages = []
+          if (item.images.length === 0) {
+            newImages = results
+          } else {
+            newImages = item.images
+              .map((image) => {
+                if (typeof image === 'string') {
+                  return {
+                    url: image
+                  }
+                } else {
+                  return image
+                }
+              })
+              .concat(results as any[])
+          }
+          return Object.assign({}, item, { images: newImages })
         }
 
         return item
