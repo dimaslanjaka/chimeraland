@@ -67,7 +67,8 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   }
 
   // GRADE A ATK 75 HP 60 DEF 75
-  const regex = /GRADE (\w{1}) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/gim
+  const regex =
+    /GRADE (\w{1}|\w{1}\+) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/gim
   const qualities = [] as string[][]
   if (typeof item.qty === 'string') {
     if (item.qty.length > 0) {
