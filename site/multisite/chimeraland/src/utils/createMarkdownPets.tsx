@@ -1,4 +1,5 @@
 import { existsSync, mkdirpSync } from 'fs-extra'
+import jsdom from 'jsdom'
 import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
 import { writefile } from 'sbg-utility'
@@ -7,7 +8,6 @@ import { join } from 'upath'
 import { inspect } from 'util'
 import yaml from 'yaml'
 import { hexoProject } from '../../project'
-import { array_jsx_join } from './array-jsx'
 import { AttendantsData, MonstersData, RecipesData } from './chimeraland'
 import { capitalizer } from './string'
 
@@ -86,38 +86,40 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   for (let i = 0; i < qualities.length; i++) {
     const qty = qualities[i]
     qtyhtm.push(
-      <table key={qty.join('')}>
-        <tr>
-          <th>GRADE</th>
-          <td>
-            {qty[1] === 'B'
-              ? 'GRAND - EPIC'
-              : qty[1] === 'C'
-              ? 'RARE'
-              : qty[1] === 'A'
-              ? 'NOBLE - LEGENDARY'
-              : qty[1] === 'A+'
-              ? 'ILLUSTRIOUS - LEGENDARY'
-              : qty[1] === 'S'
-              ? 'DEOBEAST - MYTHIC 30,000 years'
-              : qty[1] === 'S+'
-              ? 'EXALTED DEOBEAST - MYTHIC 50,000 years'
-              : qty[1]}
-          </td>
-        </tr>
-        <tr>
-          <th>Attack</th>
-          <td>{qty[2]}</td>
-        </tr>
-        <tr>
-          <th>Health Point (HP)</th>
-          <td>{qty[3]}</td>
-        </tr>
-        <tr>
-          <th>Defense</th>
-          <td>{qty[4]}</td>
-        </tr>
-      </table>
+      <div className="col-lg-4">
+        <table key={qty.join('')}>
+          <tr>
+            <th>GRADE</th>
+            <td>
+              {qty[1] === 'B'
+                ? 'GRAND - EPIC'
+                : qty[1] === 'C'
+                ? 'RARE'
+                : qty[1] === 'A'
+                ? 'NOBLE - LEGENDARY'
+                : qty[1] === 'A+'
+                ? 'ILLUSTRIOUS - LEGENDARY'
+                : qty[1] === 'S'
+                ? 'DEOBEAST - MYTHIC 30,000 years'
+                : qty[1] === 'S+'
+                ? 'EXALTED DEOBEAST - MYTHIC 50,000 years'
+                : qty[1]}
+            </td>
+          </tr>
+          <tr>
+            <th>Attack</th>
+            <td>{qty[2]}</td>
+          </tr>
+          <tr>
+            <th>Health Point (HP)</th>
+            <td>{qty[3]}</td>
+          </tr>
+          <tr>
+            <th>Defense</th>
+            <td>{qty[4]}</td>
+          </tr>
+        </table>
+      </div>
     )
   }
 
@@ -127,7 +129,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       <div id="gallery">
         <h2>Galleries for {item.name}</h2>
         <div className="row">
-          {item.images.map((image) => {
+          {(item.images as Images).map((image) => {
             return (
               <div className="col-lg-6 col-12" key={image.originalPath}>
                 <img
@@ -146,14 +148,20 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     <>
       <link
         rel="stylesheet"
-        href="//rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+        href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
       />
       <section id="bootstrap-wrapper">
-        <h2 id="attribute">{item.name} Information from Chimeraland</h2>
-        <p>
-          <b>{item.name}</b> default maximum attribute {item.qty}
-        </p>
-        {array_jsx_join(qtyhtm, '')}
+        <h2>{item.name} Information from Chimeraland</h2>
+        <h2 id="attribute">
+          <i>{item.name}</i> default maximum attribute
+        </h2>
+        <div className="row">
+          {qtyhtm.reduce(
+            (result, item) =>
+              result.length > 0 ? [...result, ', ', item] : [item],
+            []
+          )}
+        </div>
         <blockquote>
           Note: {item.name} stat will increase based on their <b>grade</b> and{' '}
           <b>delicacies/tasty</b>.
@@ -162,13 +170,13 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
         <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
         <div className="bg-dark text-light">
           {item.delicacies &&
-            item.delicacies.map((recipeName) => {
+            item.delicacies.map((recipeName, i) => {
               const recipe = RecipesData.find(
                 (recipe) => recipe.name === recipeName
               )
               return (
                 <li
-                  key={recipeName}
+                  key={recipeName + i}
                   className="d-flex justify-content-between bg-dark text-light">
                   {recipeName}{' '}
                   {recipe && (
@@ -219,7 +227,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
       'tmp/html',
       slugify(item.name, { trim: true, lower: true }) + '.html'
     ),
-    html
+    '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()
   )
 
   writefile(
