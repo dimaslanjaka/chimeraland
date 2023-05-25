@@ -24,8 +24,6 @@ type Images = Image[]
 
 // create markdown for attendants and monsters
 MonstersData.concat(AttendantsData as any).forEach((item) => {
-  const publicDir = join(hexoProject, 'src-posts/chimeraland', item.type)
-
   const attr: Record<string, any> = {}
   attr.title = capitalizer(item.type).replace(/s$/, '') + ' ' + item.name
   attr.webtitle = 'chimeraland'
@@ -259,11 +257,6 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     }
   }
 
-  const output = join(
-    publicDir,
-    slugify(item.name, { trim: true, lower: true }) + '.md'
-  )
-
   // dump
   writefile(
     join(
@@ -275,14 +268,26 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()
   )
 
-  writefile(
-    output,
-    `
+  /** markdown post */
+  const md = `
 ---
 ${yaml.stringify(attr).trim()}
 ---
 
 ${html}
   `.trim()
-  )
+
+  const arr = [
+    /** hexo src-posts directory */
+    join(hexoProject, 'src-posts/chimeraland', item.type),
+    /** hexo source/_posts directory */
+    join(hexoProject, 'source/_posts/chimeraland', item.type)
+  ]
+  arr.forEach((dir) => {
+    const output = join(
+      dir,
+      slugify(item.name, { trim: true, lower: true }) + '.md'
+    )
+    writefile(output, md)
+  })
 })
