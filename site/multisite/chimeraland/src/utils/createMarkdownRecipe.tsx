@@ -37,7 +37,7 @@ Bluebird.all(RecipesData)
       <section id="bootstrap-wrapper">
         <link
           rel="stylesheet"
-          href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+          href="//rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
         />
 
         <div className="row mb-2">

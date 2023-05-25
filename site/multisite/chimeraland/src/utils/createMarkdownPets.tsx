@@ -3,10 +3,11 @@ import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
 import { writefile } from 'sbg-utility'
 import slugify from 'slugify'
-import { dirname, join } from 'upath'
+import { join } from 'upath'
 import { inspect } from 'util'
 import yaml from 'yaml'
 import { hexoProject } from '../../project'
+import { array_jsx_join } from './array-jsx'
 import { AttendantsData, MonstersData, RecipesData } from './chimeraland'
 import { capitalizer } from './string'
 
@@ -67,15 +68,25 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
 
   // GRADE A ATK 75 HP 60 DEF 75
   const regex = /GRADE (\w{1}) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/gim
-  let qty = []
-  if (typeof item.qty === 'string') qty = regex.exec(item.qty) || []
-  let qtyhtm = <></>
-
-  if (qty.length === 0) {
-    console.log(item.name, 'empty quality')
+  const qualities = [] as string[][]
+  if (typeof item.qty === 'string') {
+    if (item.qty.length > 0) {
+      qualities.push(regex.exec(item.qty) || [])
+    } else {
+      qualities.push(['N/A', 'N/A', 'N/A', 'N/A'])
+    }
   } else {
-    qtyhtm = (
-      <table>
+    const mapper = item.qty
+      .map((str) => regex.exec(str))
+      .filter((result) => Array.isArray(result))
+    console.log(mapper)
+  }
+  const qtyhtm = [] as JSX.Element[]
+
+  for (let i = 0; i < qualities.length; i++) {
+    const qty = qualities[i]
+    qtyhtm.push(
+      <table key={qty.join('')}>
         <tr>
           <th>GRADE</th>
           <td>{qty[1]}</td>
@@ -118,50 +129,52 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   }
 
   const mdC = (
-    <section id="bootstrap-wrapper">
+    <>
       <link
         rel="stylesheet"
-        href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+        href="//rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
       />
-      <h2 id="attribute">{item.name} Information from Chimeraland</h2>
-      <p>
-        <b>{item.name}</b> default maximum attribute {item.qty}
-      </p>
-      {qtyhtm}
-      <blockquote>
-        Note: {item.name} stat will increase based on their <b>grade</b> and
-        <b>delicacies/tasty</b>.
-      </blockquote>
-      <hr />
-      <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
-      <div className="bg-dark text-light">
-        {item.delicacies &&
-          item.delicacies.map((recipeName) => {
-            const recipe = RecipesData.find(
-              (recipe) => recipe.name === recipeName
-            )
-            return (
-              <li
-                key={recipeName}
-                className="d-flex justify-content-between bg-dark text-light">
-                {recipeName}{' '}
-                {recipe && (
-                  <a
-                    href={recipe.pathname}
-                    className="text-primary"
-                    title={
-                      'Click here to view recipe ' + recipeName + ' details'
-                    }>
-                    <i>{recipeName}</i> details
-                  </a>
-                )}
-              </li>
-            )
-          })}
-      </div>
-      <hr />
-      {gallery && gallery}
-    </section>
+      <section id="bootstrap-wrapper">
+        <h2 id="attribute">{item.name} Information from Chimeraland</h2>
+        <p>
+          <b>{item.name}</b> default maximum attribute {item.qty}
+        </p>
+        {array_jsx_join(qtyhtm, '')}
+        <blockquote>
+          Note: {item.name} stat will increase based on their <b>grade</b> and{' '}
+          <b>delicacies/tasty</b>.
+        </blockquote>
+        <hr />
+        <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
+        <div className="bg-dark text-light">
+          {item.delicacies &&
+            item.delicacies.map((recipeName) => {
+              const recipe = RecipesData.find(
+                (recipe) => recipe.name === recipeName
+              )
+              return (
+                <li
+                  key={recipeName}
+                  className="d-flex justify-content-between bg-dark text-light">
+                  {recipeName}{' '}
+                  {recipe && (
+                    <a
+                      href={recipe.pathname}
+                      className="text-primary"
+                      title={
+                        'Click here to view recipe ' + recipeName + ' details'
+                      }>
+                      <i>{recipeName}</i> details
+                    </a>
+                  )}
+                </li>
+              )
+            })}
+        </div>
+        <hr />
+        {gallery && gallery}
+      </section>
+    </>
   )
   let html = ReactDOMServer.renderToStaticMarkup(mdC).toString()
 
@@ -184,7 +197,17 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     publicDir,
     slugify(item.name, { trim: true, lower: true }) + '.md'
   )
-  if (!existsSync(dirname(output))) mkdirpSync(dirname(output))
+
+  // dump
+  writefile(
+    join(
+      process.cwd(),
+      'tmp/html',
+      slugify(item.name, { trim: true, lower: true }) + '.html'
+    ),
+    html
+  )
+
   writefile(
     output,
     `

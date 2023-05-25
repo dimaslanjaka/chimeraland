@@ -20,11 +20,11 @@ categories:
 keywords:
   - scammer list chimeraland
   - blacklist player chimeraland
-thumbnail: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
+thumbnail: //rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
 author: L3n4r0x
 ---
 
-<p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
+<p><img src="//rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
 <center><small>short link https://bit.ly/chimeraland-blacklist</small></center>
 <!-- https://codepen.io/dimaslanjaka/pen/rXMVRj -->
 <style type="text/css" notranslate>
@@ -721,7 +721,6 @@ author: L3n4r0x
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Dicurigai%20-%20HODE.jpeg" alt="Dicurigai - HODE.jpeg" /><figcaption>Dicurigai - HODE.jpeg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/doraemon%20-%20scam%20map%20illus.jpg" alt="doraemon - scam map illus.jpg" /><figcaption>doraemon - scam map illus.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/drin%20-%20clan%20APPOCALYPSE.jpeg" alt="drin - clan APPOCALYPSE.jpeg" /><figcaption>drin - clan APPOCALYPSE.jpeg</figcaption></figure>
-<figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Egy%20&%20sizukaz%20&%20Black%20sword%20&%20hella%20&%20aster%20&%20Dikoo.jpg" alt="Egy & sizukaz & Black sword & hella & aster & Dikoo.jpg" /><figcaption>Egy & sizukaz & Black sword & hella & aster & Dikoo.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/EmpiLighT%20-%20clan%20matanglawin.jpg" alt="EmpiLighT - clan matanglawin.jpg" /><figcaption>EmpiLighT - clan matanglawin.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Freecss.jpeg" alt="Freecss.jpeg" /><figcaption>Freecss.jpeg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Freecss%20mengakui%20bahwa%20dia%20scammer.jpeg" alt="Freecss mengakui bahwa dia scammer.jpeg" /><figcaption>Freecss mengakui bahwa dia scammer.jpeg</figcaption></figure>
@@ -752,7 +751,6 @@ author: L3n4r0x
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/xSOLETAXx%20-%20viral%20one%20day.jpg" alt="xSOLETAXx - viral one day.jpg" /><figcaption>xSOLETAXx - viral one day.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yukie.jpg" alt="yukie.jpg" /><figcaption>yukie.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yukie%20-%202.jpg" alt="yukie - 2.jpg" /><figcaption>yukie - 2.jpg</figcaption></figure>
-<figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/Yunas%20-%20masalah%20selesai.jpg" alt="Yunas - masalah selesai.jpg" /><figcaption>Yunas - masalah selesai.jpg</figcaption></figure>
 <figure><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%203.jpg" alt="yurikosangyi - 3.jpg" /><figcaption>yurikosangyi - 3.jpg</figcaption></figure>
 <blockquote>
 <h2 id="attention" tabindex="-1"><a href="#attention">ATTENTION</a></h2>
