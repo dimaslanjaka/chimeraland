@@ -124,7 +124,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   }
 
   let gallery: null | JSX.Element = null
-  if (item.images) {
+  if (Array.isArray(item.images) && item.images.length > 0) {
     gallery = (
       <div id="gallery">
         <h2>Galleries for {item.name}</h2>
