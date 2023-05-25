@@ -8,6 +8,7 @@ import {
   writeFileSync
 } from 'fs'
 import moment from 'moment-timezone'
+import { isValidHttpUrl } from 'sbg-utility'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { basename, dirname, extname, join } from 'upath'
@@ -152,8 +153,14 @@ const getData = () => {
             newImages = item.images
               .map((image) => {
                 if (typeof image === 'string') {
-                  return {
-                    url: image
+                  if (isValidHttpUrl(image)) {
+                    return {
+                      url: image
+                    }
+                  } else {
+                    return {
+                      originalPath: image
+                    }
                   }
                 } else {
                   return image
