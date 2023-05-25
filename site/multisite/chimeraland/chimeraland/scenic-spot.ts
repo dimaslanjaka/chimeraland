@@ -31,6 +31,7 @@ async function main() {
     })
     const input = readFileSync(target)
     const outputImg = join(publicDir, filename + '.webp')
+    if (!existsSync(dirname(outputImg))) mkdirSync(dirname(outputImg))
     let pathname = outputImg
     ;[
       (toUnix(join(process.cwd(), 'source')),
@@ -40,8 +41,12 @@ async function main() {
     })
 
     // console.log({ name, output, pathname })
-    result.push({ pathname, name, output: outputImg })
-    if (!existsSync(dirname(outputImg))) mkdirSync(dirname(outputImg))
+    result.push({
+      pathname,
+      name,
+      output: outputImg.replace(hexoProject, '<project>')
+    })
+
     if (!existsSync(outputImg)) await sharp(input).webp().toFile(outputImg)
     readDir.shift()
   }
