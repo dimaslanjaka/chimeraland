@@ -4,6 +4,7 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "formulahendry.code-runner",
-    "Natizyskunk.sftp"
+    "natizyskunk.sftp",
+    "iliazeus.vscode-ansi"
   ]
 }
