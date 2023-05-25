@@ -1,6 +1,7 @@
 import axios from 'axios'
 import Bluebird from 'bluebird'
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
+import { existsSync, mkdirSync, readFileSync } from 'fs-extra'
+import { writefile } from 'sbg-utility'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { basename, dirname, extname, join, toUnix } from 'upath'
@@ -10,6 +11,21 @@ import { walkDir } from '../src/utils/file-node'
 import { escapeRegex } from '../src/utils/string'
 import { isValidHttpUrl } from '../src/utils/url'
 import materials from './materials.json'
+
+interface MaterialObject {
+  dateModified: string
+  datePublished: string
+  details: Array<string>
+  howto: Array<string>
+  images: Array<{
+    absolutePath: string
+    pathname: string
+  }>
+  name: string
+  pathname: string
+  type: string
+  videos: Array<any>
+}
 
 const outputJSON = join(__dirname, '../src/utils/chimeraland-materials.json')
 const publicDir = join(hexoProject, 'source/chimeraland')
@@ -129,15 +145,18 @@ Bluebird.all(materials.data)
         }
         await sharp(input).webp().toFile(dest)
       }
-      imgProcessed.push({ absolutePath: dest, pathname })
+      imgProcessed.push({
+        absolutePath: dest.replace(hexoProject, '<project>'),
+        pathname
+      })
       imgFiles.shift()
     }
-    result.images = <any>array_unique(imgProcessed, 'pathname')
+    result.images = array_unique(imgProcessed, 'pathname') as any
     // result.location = spotResult
 
     return Object.fromEntries(Object.entries(result).sort())
   })
   .then((mapped) => {
-    writeFileSync(outputJSON, JSON.stringify(mapped, null, 2))
+    writefile(outputJSON, JSON.stringify(mapped, null, 2))
     console.log('json written', outputJSON)
   })
