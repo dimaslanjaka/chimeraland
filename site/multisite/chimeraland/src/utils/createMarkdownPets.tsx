@@ -67,10 +67,11 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
 
   // GRADE A ATK 75 HP 60 DEF 75
   const regex = /GRADE (\w{1}) ATK (\d{1,5}) HP (\d{1,5}) DEF (\d{1,5})/gim
-  const qty = regex.exec(item.qty) || []
+  let qty = []
+  if (typeof item.qty === 'string') qty = regex.exec(item.qty) || []
   let qtyhtm = <></>
 
-  if (!qty) {
+  if (qty.length === 0) {
     console.log(item.name, 'empty quality')
   } else {
     qtyhtm = (
