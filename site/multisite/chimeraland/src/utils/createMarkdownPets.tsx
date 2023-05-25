@@ -17,7 +17,7 @@ interface Image {
   originalPath: string
   originalFilename: string
   pathname: string
-  url: string
+  url?: string
 }
 
 type Images = Image[]
