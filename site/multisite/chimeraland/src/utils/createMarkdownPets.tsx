@@ -186,30 +186,46 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
         </blockquote>
         <hr />
         <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
-        <div className="bg-dark text-light">
-          {item.delicacies &&
-            item.delicacies.map((recipeName, i) => {
-              const recipe = RecipesData.find(
-                (recipe) => recipe.name === recipeName
-              )
-              return (
-                <li
-                  key={recipeName + i}
-                  className="d-flex justify-content-between bg-dark text-light">
-                  {recipeName}{' '}
-                  {recipe && (
-                    <a
-                      href={recipe.pathname}
-                      className="text-primary"
-                      title={
-                        'Click here to view recipe ' + recipeName + ' details'
-                      }>
-                      <i>{recipeName}</i> details
-                    </a>
-                  )}
-                </li>
-              )
-            })}
+        <div className="card">
+          <div className="card-body">
+            <div className="table-responsive">
+              <table className="table table-striped table-dark">
+                <thead>
+                  <tr>
+                    <th>Recipe Name</th>
+                    <th>Link</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {Array.isArray(item.delicacies) &&
+                    item.delicacies.map((recipeName: string, i: number) => {
+                      const existingRecipeData = RecipesData.find(
+                        (recipe) => recipe.name === recipeName
+                      )
+                      const url = new URL('https://www.webmanajemen.com')
+                      url.pathname = existingRecipeData?.pathname
+                      return (
+                        <tr key={recipeName + i + item.name}>
+                          <td>{recipeName}</td>
+                          <td>
+                            <a
+                              href={existingRecipeData ? String(url) : '#'}
+                              className="text-primary"
+                              title={
+                                'Click here to view recipe ' +
+                                recipeName +
+                                ' details'
+                              }>
+                              <i>{recipeName}</i> details
+                            </a>
+                          </td>
+                        </tr>
+                      )
+                    })}
+                </tbody>
+              </table>
+            </div>
+          </div>
         </div>
         <hr />
         {gallery && gallery}
