@@ -70,7 +70,7 @@ Bluebird.all(MaterialsData)
                   Continue reading {item.name}
                 </a>
               </div>
-              <div className="col-auto d-none d-lg-block">
+              <div className="col-auto d-none d-md-block d-lg-block">
                 <img
                   src={
                     item.images[0]
@@ -183,6 +183,8 @@ Bluebird.all(MaterialsData)
     )
     if (/buckt/gi.test(item.name)) console.log(output)
 
+    const formattedHtml = prettier.format(html, { parser: 'html' })
+
     // dump
     writefile(
       join(
@@ -191,7 +193,7 @@ Bluebird.all(MaterialsData)
         item.type,
         slugify(item.name, { trim: true, lower: true }) + '.html'
       ),
-      '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()
+      '<!DOCTYPE html>' + new jsdom.JSDOM(formattedHtml).serialize()
     )
 
     writefile(
@@ -201,7 +203,7 @@ Bluebird.all(MaterialsData)
 ${yaml.stringify(attr).trim()}
 ---
 
-${prettier.format(html, { parser: 'html' })}
+${formattedHtml}
   `.trim()
     )
   })
@@ -316,7 +318,7 @@ function findRecipe(matname: string) {
                 <tr>
                   <th>Recipe Name</th>
                   <td>
-                    <b>{item.name}</b> {ri + 1}
+                    <b>{item.name}</b> {ri > 0 && ri + 1}
                   </td>
                 </tr>
                 <tr>
