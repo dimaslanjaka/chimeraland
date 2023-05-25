@@ -93,7 +93,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     const qty = qualities[i]
     qtyhtm.push(
       <div className="col mb-2" key={qty.join('')}>
-        <div className="card bg-dark text-light">
+        <div className="card">
           <div className="card-body">
             <table key={'table' + qty.join('')}>
               <tr>
@@ -169,66 +169,68 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
         href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
       />
       <section id="bootstrap-wrapper">
-        <h2>{item.name} Information from Chimeraland</h2>
-        <h2 id="attribute">
-          <i>{item.name}</i> default maximum attribute
-        </h2>
-        <div className="row">
-          {qtyhtm.reduce(
-            (result, item) =>
-              result.length > 0 ? [...result, ', ', item] : [item],
-            []
-          )}
-        </div>
-        <blockquote>
-          Note: {item.name} stat will increase based on their <b>grade</b> and{' '}
-          <b>delicacies/tasty</b>.
-        </blockquote>
-        <hr />
-        <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
-        <div className="card">
-          <div className="card-body">
-            <div className="table-responsive">
-              <table className="table table-striped table-dark">
-                <thead>
-                  <tr>
-                    <th>Recipe Name</th>
-                    <th>Link</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {Array.isArray(item.delicacies) &&
-                    item.delicacies.map((recipeName: string, i: number) => {
-                      const existingRecipeData = RecipesData.find(
-                        (recipe) => recipe.name === recipeName
-                      )
-                      const url = new URL('https://www.webmanajemen.com')
-                      url.pathname = existingRecipeData?.pathname
-                      return (
-                        <tr key={recipeName + i + item.name}>
-                          <td>{recipeName}</td>
-                          <td>
-                            <a
-                              href={existingRecipeData ? String(url) : '#'}
-                              className="text-primary"
-                              title={
-                                'Click here to view recipe ' +
-                                recipeName +
-                                ' details'
-                              }>
-                              <i>{recipeName}</i> details
-                            </a>
-                          </td>
-                        </tr>
-                      )
-                    })}
-                </tbody>
-              </table>
+        <div data-bs-theme="dark">
+          <h2>{item.name} Information from Chimeraland</h2>
+          <h2 id="attribute">
+            <i>{item.name}</i> default maximum attribute
+          </h2>
+          <div className="row">
+            {qtyhtm.reduce(
+              (result, item) =>
+                result.length > 0 ? [...result, ', ', item] : [item],
+              []
+            )}
+          </div>
+          <blockquote>
+            Note: {item.name} stat will increase based on their <b>grade</b> and{' '}
+            <b>delicacies/tasty</b>.
+          </blockquote>
+          <hr />
+          <h2 id="delicacies">Delicacies/Tasty for {item.name}</h2>
+          <div className="card">
+            <div className="card-body">
+              <div className="table-responsive">
+                <table className="table table-striped">
+                  <thead>
+                    <tr>
+                      <th>Recipe Name</th>
+                      <th>Link</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {Array.isArray(item.delicacies) &&
+                      item.delicacies.map((recipeName: string, i: number) => {
+                        const existingRecipeData = RecipesData.find(
+                          (recipe) => recipe.name === recipeName
+                        )
+                        const url = new URL('https://www.webmanajemen.com')
+                        url.pathname = existingRecipeData?.pathname
+                        return (
+                          <tr key={recipeName + i + item.name}>
+                            <td>{recipeName}</td>
+                            <td>
+                              <a
+                                href={existingRecipeData ? String(url) : '#'}
+                                className="text-primary"
+                                title={
+                                  'Click here to view recipe ' +
+                                  recipeName +
+                                  ' details'
+                                }>
+                                <i>{recipeName}</i> details
+                              </a>
+                            </td>
+                          </tr>
+                        )
+                      })}
+                  </tbody>
+                </table>
+              </div>
             </div>
           </div>
+          <hr />
+          {gallery && gallery}
         </div>
-        <hr />
-        {gallery && gallery}
       </section>
     </>
   )
@@ -259,6 +261,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
     join(
       process.cwd(),
       'tmp/html',
+      item.type,
       slugify(item.name, { trim: true, lower: true }) + '.html'
     ),
     '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()

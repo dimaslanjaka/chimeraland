@@ -1,15 +1,14 @@
 import Bluebird from 'bluebird'
-import { mkdirpSync, writeFileSync } from 'fs-extra'
 import jsdom from 'jsdom'
 import moment from 'moment'
 import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
 import { writefile } from 'sbg-utility'
 import slugify from 'slugify'
-import { dirname, join } from 'upath'
+import { join } from 'upath'
 import { inspect } from 'util'
 import yaml from 'yaml'
-import { copyPost, hexoProject } from '../../project'
+import { hexoProject } from '../../project'
 import { jsxJoin } from './array-jsx'
 import { MaterialsData, RecipesData } from './chimeraland'
 import { capitalizer, strIsSame } from './string'
@@ -50,117 +49,126 @@ Bluebird.all(MaterialsData)
           href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
         />
         <section id="bootstrap-wrapper">
-          <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative">
-            <div className="col p-4 d-flex flex-column position-static">
-              <strong className="d-inline-block mb-2 text-success">
-                {item.type}
-              </strong>
-              <h2 className="mb-0">{item.name}</h2>
-              <div className="mb-1 text-muted">
-                {moment(item.dateModified).format('LLL')}
-              </div>
-              {'background-info' in item && (
-                <div className="mb-2 border p-1">{item['background-info']}</div>
-              )}
-              <a
-                href={attr.permalink}
-                className="stretched-link d-none text-primary">
-                Continue reading {item.name}
-              </a>
-            </div>
-            <div className="col-auto d-none d-lg-block">
-              <img
-                src={
-                  item.images[0]
-                    ? item.images[0].pathname
-                    : 'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' +
-                      item.name
-                }
-                alt={item.name}
-              />
-            </div>
-          </div>
-
-          <div className="row">
-            <div className="col-lg-6 col-12 mb-2">
-              {'details' in item && (
-                <div className="card bg-dark text-light">
-                  <div className="card-body">
-                    <h3 className="card-title">
-                      What is the use of the {item.name}
-                    </h3>
-                    <div className="card-text">
-                      <ul>
-                        {(item.details as string[]).map((str, i) => (
-                          <li key={'details' + i}>{str}</li>
-                        ))}
-                      </ul>
-                    </div>
-                  </div>
+          <div data-bs-theme="dark">
+            <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-dark text-light">
+              <div className="col p-4 d-flex flex-column position-static">
+                <strong className="d-inline-block mb-2 text-success">
+                  {item.type}
+                </strong>
+                <h2 className="mb-0">{item.name}</h2>
+                <div className="mb-1 text-muted">
+                  {moment(item.dateModified).format('LLL')}
                 </div>
-              )}
-            </div>
-
-            <div className="col-lg-6 col-12 mb-2">
-              {'howto' in item && (
-                <div className="card bg-dark text-light">
-                  <div className="card-body">
-                    <h3 className="card-title">How to get {item.name}</h3>
-                    <div className="card-text">
-                      <ul>
-                        {(item.howto as string[]).map((str, i) => (
-                          <li key={'details' + i}>{str}</li>
-                        ))}
-                      </ul>
-                    </div>
+                {'background-info' in item && (
+                  <div className="mb-2 border p-1">
+                    {item['background-info']}
                   </div>
-                </div>
-              )}
-            </div>
-
-            {/** print recipes only for cookable material */}
-            {recipes && (
-              <div className="col-12 mb-2">
-                <h2 id="cookable">Cooking Recipes Using {item.name}</h2>
-                {recipes}
+                )}
+                <a
+                  href={attr.permalink}
+                  className="stretched-link d-none text-primary">
+                  Continue reading {item.name}
+                </a>
               </div>
-            )}
-
-            <div className="col-12 mb-2">
-              <h2>{item.name} Spawn Locations</h2>
-              {item.images.length > 1 ? (
-                (
-                  item.images as {
-                    absolutePath: string
-                    pathname: string
-                  }[]
-                ).map((o, ii) => {
-                  indexer++
-                  if (!/mount/i.test(o.pathname)) {
-                    return <div key={o.pathname + ii + indexer}></div>
+              <div className="col-auto d-none d-lg-block">
+                <img
+                  src={
+                    item.images[0]
+                      ? new URL(
+                          'https://www.webmanajemen.com' +
+                            item.images[0].pathname
+                        ).toString()
+                      : 'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' +
+                        item.name
                   }
+                  alt={item.name}
+                />
+              </div>
+            </div>
 
-                  const split = o.pathname.split(/\//g)
-                  const imgTitle = split[split.length - 1]
-                    .substring(0, split[split.length - 1].lastIndexOf('.'))
-                    .split(/-/g)
-                    .map((str) => capitalizer(str))
-                    .join(' ')
-                  return (
-                    <div key={o.pathname + ii + indexer} className="p-4">
-                      <h5>{imgTitle}</h5>
-                      <img
-                        src={o.pathname}
-                        alt={item.name}
-                        data-fancybox="true"
-                        width="100%"
-                      />
+            <div className="row">
+              <div className="col-lg-6 col-12 mb-2">
+                {'details' in item && (
+                  <div className="card">
+                    <div className="card-body">
+                      <h3 className="card-title">
+                        What is the use of the {item.name}
+                      </h3>
+                      <div className="card-text">
+                        <ul>
+                          {(item.details as string[]).map((str, i) => (
+                            <li key={'details' + i}>{str}</li>
+                          ))}
+                        </ul>
+                      </div>
                     </div>
-                  )
-                })
-              ) : (
-                <p>{item.name} is randomly spawned</p>
+                  </div>
+                )}
+              </div>
+
+              <div className="col-lg-6 col-12 mb-2">
+                {'howto' in item && (
+                  <div className="card">
+                    <div className="card-body">
+                      <h3 className="card-title">How to get {item.name}</h3>
+                      <div className="card-text">
+                        <ul>
+                          {(item.howto as string[]).map((str, i) => (
+                            <li key={'details' + i}>{str}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                )}
+              </div>
+
+              {/** print recipes only for cookable material */}
+              {recipes && (
+                <div className="col-12 mb-2">
+                  <h2 id="cookable">Cooking Recipes Using {item.name}</h2>
+                  {recipes}
+                </div>
               )}
+
+              <div className="col-12 mb-2">
+                <h2>{item.name} Spawn Locations</h2>
+                {item.images.length > 1 ? (
+                  (
+                    item.images as {
+                      absolutePath: string
+                      pathname: string
+                    }[]
+                  ).map((o, ii) => {
+                    indexer++
+                    if (!/mount/i.test(o.pathname)) {
+                      return <div key={o.pathname + ii + indexer}></div>
+                    }
+
+                    const split = o.pathname.split(/\//g)
+                    const imgTitle = split[split.length - 1]
+                      .substring(0, split[split.length - 1].lastIndexOf('.'))
+                      .split(/-/g)
+                      .map((str) => capitalizer(str))
+                      .join(' ')
+                    return (
+                      <div key={o.pathname + ii + indexer} className="p-4">
+                        <h5>{imgTitle}</h5>
+                        <img
+                          src={new URL(
+                            'https://www.webmanajemen.com' + o.pathname
+                          ).toString()}
+                          alt={item.name}
+                          data-fancybox="true"
+                          width="100%"
+                        />
+                      </div>
+                    )
+                  })
+                ) : (
+                  <p>{item.name} is randomly spawned</p>
+                )}
+              </div>
             </div>
           </div>
         </section>
@@ -180,6 +188,7 @@ Bluebird.all(MaterialsData)
       join(
         process.cwd(),
         'tmp/html',
+        item.type,
         slugify(item.name, { trim: true, lower: true }) + '.html'
       ),
       '<!DOCTYPE html>' + new jsdom.JSDOM(html).serialize()
@@ -195,19 +204,11 @@ ${yaml.stringify(attr).trim()}
 ${prettier.format(html, { parser: 'html' })}
   `.trim()
     )
-
-    //console.log(output)
   })
   .then(() => {
-    const errorfile = join(
-      process.cwd(),
-      'tmp/errors/chimeraland',
-      'material.log'
-    )
-    mkdirpSync(dirname(errorfile))
-    writeFileSync(errorfile, errors.map((e) => inspect(e)).join('\n\n'))
+    const errorfile = join(process.cwd(), 'tmp/error', 'material.log')
 
-    copyPost()
+    writefile(errorfile, errors.map((e) => inspect(e)).join('\n\n'))
   })
 
 function findRecipe(matname: string) {
