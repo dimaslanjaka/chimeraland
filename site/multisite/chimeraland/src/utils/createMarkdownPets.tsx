@@ -187,7 +187,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
               []
             )}
           </div>
-          <blockquote>
+          <blockquote className="bd-callout bd-callout-warning">
             Note: {item.name} stat will increase based on their <b>grade</b> and{' '}
             <b>delicacies/tasty</b>.
           </blockquote>
