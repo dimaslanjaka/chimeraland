@@ -156,7 +156,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
                     src={String(url)}
                     alt={item.name + ' ' + image.filename}
                   />
-                  <figcaption>
+                  <figcaption style={{ wordWrap: 'break-word' }}>
                     <i>{item.name}</i> {image.filename}.
                   </figcaption>
                 </figure>
