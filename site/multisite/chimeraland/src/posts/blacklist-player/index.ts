@@ -1,13 +1,12 @@
-import { readdirSync, readFileSync } from 'fs-extra'
-import { spawnAsync } from 'git-command-helper'
+import { readFileSync } from 'fs-extra'
 import { buildPost, postMap, postMeta, renderMarkdown } from 'hexo-post-parser'
 import { JSDOM } from 'jsdom'
 import { EOL } from 'os'
 import sbgutil from 'sbg-utility'
 import slugify from 'slugify'
-import { trueCasePathSync } from 'true-case-path'
-import { basename, join, toUnix } from 'upath'
+import { join } from 'upath'
 import { chimeralandProject } from '../../../project'
+import { screenshotsGlob } from './screenshot'
 
 const metadata: postMeta = {
   title: 'Chimeraland Scammer List Player',
@@ -70,74 +69,12 @@ Array.from(dom.window.document.querySelectorAll('a')).forEach((el) => {
   }
 })
 
-// include screenshots
-const screenshots = function (): Promise<string[]> {
-  return new Promise((resolve) => {
-    const results: string[] = []
-    const imagesDir = join(__dirname, 'images')
-    readdirSync(imagesDir)
-      .filter((path) => /.(jpe?g|png)$/i.test(path))
-      .map((path) => join(imagesDir, path))
-      .map((path, index, all) => {
-        //https://stackoverflow.com/a/957978
-        spawnAsync('git', 'rev-parse --show-toplevel'.split(' ')).then(
-          (toplevel) => {
-            // https://stackoverflow.com/a/4090938
-            spawnAsync('git', 'config --get remote.origin.url'.split(' '), {
-              cwd: __dirname
-            })
-              .then((origin) => {
-                spawnAsync('git', 'branch --show-current'.split(' ')).then(
-                  (branch) => {
-                    const url = new URL(
-                      origin.stdout.trim().replace(/(.git|\/)$/i, '')
-                    )
-                    url.pathname = (
-                      url.pathname +
-                      '/raw/' +
-                      branch.stdout.trim() +
-                      '/' +
-                      toUnix(
-                        trueCasePathSync(path).replace(
-                          trueCasePathSync(toplevel.stdout.trim()),
-                          ''
-                        )
-                      )
-                    ).replace(/\/{2,}/gm, '/')
-
-                    sbgutil.debug('chimera-blacklist')('img', url.toString())
-
-                    const img = `<figure><img src="${url.toString()}" alt="${basename(
-                      path
-                    )}" /><figcaption>${basename(path)}</figcaption></figure>`
-                    results.push(img)
-
-                    if (index === all.length - 1) {
-                      resolve(results.sort(Intl.Collator().compare))
-                    }
-                  }
-                )
-              })
-              .catch(console.log)
-          }
-        )
-
-        /*const jpgDataUrlPrefix =
-          'data:image/' + extname(path).replace('.', '') + ';base64,'
-        const base64 = readFileSync(path, 'base64')
-        return `<figure><img src="${jpgDataUrlPrefix}${base64}" alt="${basename(
-          path
-        )}" /><figcaption>${basename(
-          path
-        )}</figcaption></figure>`*/
-      })
-  })
-}
 let body = dom.window.document.body.innerHTML
 dom.window.close()
 // console.log(body)
 
-screenshots().then(function (ss) {
+// include screenshots
+screenshotsGlob().then(function (ss) {
   body = body.replace('<!-- tangkapan.layar -->', ss.join(EOL))
 
   const post: postMap = {
