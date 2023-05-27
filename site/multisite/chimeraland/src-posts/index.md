@@ -15,13 +15,13 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
-## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
-
-![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
+
+## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
+
+![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
 
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
