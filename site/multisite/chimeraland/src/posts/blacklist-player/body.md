@@ -76,7 +76,7 @@
 | drin | APPOCALYPSE | SCAMMER ruby |
 | Naru/naru | | SCAMMER ruby , korban lebih dari 1 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru +6283843615781 +6283172982549 +6283144392156 |
 | NARAPIDANA | BOOM | SCAMMER ruby, korban terakhir **NeBisIndem**. Nomor kontak +6289526134254 Uang dikirim ke dana +6289623476668 |
-| rapi/Rapi | | SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
+| rapi/Rapi | | SCAMMER ruby menjanjikan tanggal **20 maret 2023** tapi tak kunjung ditrade, korban terakhir **cilla**. Sama halnya NARAPIDANA |
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
