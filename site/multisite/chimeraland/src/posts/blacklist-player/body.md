@@ -50,7 +50,6 @@
 | AfnC | | Out party sebelum giliran map-nya, dilaporkan oleh **iBaB** _17-04-2023 07:00 PM_ [screenshot](#afnc-screenshots) |
 | Xx kri xX | | Roll drops items di party illus map, korban terakhir **WAKANDA**, dilaporkan oleh **iBaB** _17-04-2023 7PM_ [screenshot](#xx-kri-xx-screenshots) |
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
-| JELLYOE2022 | | Roll drops items di party chiyou map, dilaporkan oleh **saayaang** _03-05-2023 10:15 PM_ [screenshot](#jellyoe-2022-screenshots) |
 | druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 | kaddinn | CongressTH | Out party sebelum giliran map-nya, dilaporkan oleh **Rithis** |
 
@@ -115,6 +114,7 @@
 | ucil | | Masalah tersebut sudah diselesaikan dan sudah dibayar ruby oleh ucil, dan sudah saya konfirmasikan kepada **KYUKI** pada tanggal 05/16/2023 |
 | Dikoo | | masalah out party map illus dikarenakan masalah jaringan dan tidak ada masalah dari Dikoo lainnya. Sudah admin validasi oleh beberapa orang bahwa Dikoo berprilaku baik. |
 | PrimalHunter | | masalah out party map illus dikarenakan masalah jaringan dan tidak ada masalah dari PrimalHunter lainnya. Sudah admin validasi oleh beberapa orang bahwa PrimalHunter berprilaku baik. |
+| JELLYOE2022 | | **saayaang** selaku korban sudah memaafkannya pada _June 12, 2023 11:28 PM_ |
 
 ## Hindari Hal-Hal Berikut Agar Tidak Kena Scam
 - Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).
