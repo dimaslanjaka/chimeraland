@@ -23,13 +23,11 @@
 | Shelby | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Suvi | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 sebagai LEADER PARTY |
 | HitsuiTH | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
-| Dikoo | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Glitch | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Sakuraz | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | jiejie/Jiejie | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
 | Corleonx | | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
 | Shelby | | Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16 |
-| PrimalHunter | | Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16 |
 | blackblades | | Roll telur illus 30,000 years dan tidak dikembalikan (tidak ada penyelesaian) |
 | maraa | undead | SCAMMER chimeraland MAP ILLUSTRIOUS 16, dilaporkan oleh **Luckios** |
 | xSOLETAx | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 |
@@ -115,6 +113,8 @@
 | :--- | :--- | :--- |
 | Yunas | CheeseCake | dikarenakan kurangnya bukti dan narasumber sudah pensiun bermain. Kabarnya (dari anggota clan CheeseCake) permasalahan tersebut sudah diselesaikan. |
 | ucil | | Masalah tersebut sudah diselesaikan dan sudah dibayar ruby oleh ucil, dan sudah saya konfirmasikan kepada **KYUKI** pada tanggal 05/16/2023 |
+| Dikoo | | masalah out party map illus dikarenakan masalah jaringan dan tidak ada masalah dari Dikoo lainnya. Sudah admin validasi oleh beberapa orang bahwa Dikoo berprilaku baik. |
+| PrimalHunter | | masalah out party map illus dikarenakan masalah jaringan dan tidak ada masalah dari PrimalHunter lainnya. Sudah admin validasi oleh beberapa orang bahwa PrimalHunter berprilaku baik. |
 
 ## Hindari Hal-Hal Berikut Agar Tidak Kena Scam
 - Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).
