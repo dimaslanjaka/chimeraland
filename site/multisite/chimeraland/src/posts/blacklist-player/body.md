@@ -80,7 +80,7 @@
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-| | | +6289657373191 scam ruby, dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
+| | | +6289657373191 scam ruby IDR 100,000. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
