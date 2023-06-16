@@ -52,6 +52,7 @@
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
 | druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 | kaddinn | CongressTH | Out party sebelum giliran map-nya, dilaporkan oleh **Rithis** |
+| DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _02-05-2023 10:03 PM_ [screenshot](#DWB23-j-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
@@ -79,7 +80,6 @@
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-<!-- | ucil | | SCAM 400 ruby tidak membayar malah diblokir dari whatsapp dan chimera, kontak +62895-0396-7390. Korban scam **KYUKI**. | -->
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -126,6 +126,9 @@
 - [GamersBahagia Blacklist](https://www.gamersbahagia.com/blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+## DWB23 Screenshots
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/11613958-0640-40f4-b6f9-d26eab19f678)
 
 ## druig Screenshots
 ![druig Screenshots](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4d9bcf10-2c8b-4f07-89c7-b7b8dfb4e3af)
