@@ -128,6 +128,7 @@
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
 ## DWB23 Screenshots
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/b52bd856-6f42-44c0-bf1e-f192a05f63fb)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/11613958-0640-40f4-b6f9-d26eab19f678)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/dded2aa6-819f-4a58-ad3d-35cc2a47a6a0)
 
