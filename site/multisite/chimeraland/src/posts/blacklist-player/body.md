@@ -129,6 +129,7 @@
 
 ## DWB23 Screenshots
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/11613958-0640-40f4-b6f9-d26eab19f678)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/dded2aa6-819f-4a58-ad3d-35cc2a47a6a0)
 
 ## druig Screenshots
 ![druig Screenshots](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4d9bcf10-2c8b-4f07-89c7-b7b8dfb4e3af)
