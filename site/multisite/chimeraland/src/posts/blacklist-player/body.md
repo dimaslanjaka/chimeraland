@@ -80,7 +80,7 @@
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-| | | +6289657373191 scam ruby IDR 100,000. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
+| | | WhatsApp +6289657373191 scam ruby IDR 100,000 S117-121. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -132,6 +132,11 @@
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/b52bd856-6f42-44c0-bf1e-f192a05f63fb)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/11613958-0640-40f4-b6f9-d26eab19f678)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/dded2aa6-819f-4a58-ad3d-35cc2a47a6a0)
+
+## +6289657373191 Screenshots
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/af65a843-64ea-48b1-8d2d-17fa40a68743)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/18643386-bdd2-444e-8c73-aabbd390b50b)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/13e40613-70d9-4a7c-9a0a-1a5f27edb436)
 
 ## druig Screenshots
 ![druig Screenshots](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4d9bcf10-2c8b-4f07-89c7-b7b8dfb4e3af)
