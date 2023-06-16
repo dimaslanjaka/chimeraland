@@ -52,7 +52,7 @@
 | Dio j | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _02-05-2023 10:03 PM_ [screenshot](#dio-j-screenshots) |
 | druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 | kaddinn | CongressTH | Out party sebelum giliran map-nya, dilaporkan oleh **Rithis** |
-| DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **DinoBird** _02-05-2023 10:03 PM_ [screenshot](#DWB23-j-screenshots) |
+| DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **wolfPACK** & **hendro** _June 16, 2023 10:18 PM_ [screenshot](#DWB23-j-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
