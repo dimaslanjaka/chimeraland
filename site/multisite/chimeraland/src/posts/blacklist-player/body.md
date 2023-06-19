@@ -118,7 +118,7 @@
 | JELLYOE2022 | | **saayaang** selaku korban sudah memaafkannya pada _June 12, 2023 11:28 PM_ |
 
 ## Hindari Hal-Hal Berikut Agar Tidak Kena Scam
-- Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).
+- Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand orang yang tidak dikenal atau tanpa referensi kenalan (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim). (DWYOR).
 - Jangan melakukan transaksi dengan **AKUN SMURF** (orang indonesia menyebutnya **AKUN TUYUL**), 90% merupakan scammer.
 
 ## Tautan yang merujuk tentang scammer
@@ -127,6 +127,10 @@
 - [GamersBahagia Blacklist](https://www.gamersbahagia.com/blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+##
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/990c7326-4210-4316-a8ec-19b1e349ac0e)
+![kolten want blacklist him](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/d88b112b-3740-469e-b31a-a450c2da779a)
 
 ## DWB23 Screenshots
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/b52bd856-6f42-44c0-bf1e-f192a05f63fb)
