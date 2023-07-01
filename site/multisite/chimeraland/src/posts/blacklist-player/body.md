@@ -53,8 +53,8 @@
 | druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 | kaddinn | CongressTH | Out party sebelum giliran map-nya, dilaporkan oleh **Rithis** |
 | DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **wolfPACK** & **hendro** _June 16, 2023 10:18 PM_ [screenshot](#DWB23-j-screenshots) |
-| Oldestdream | | Roll **Plants: Ortzi Pauldron** milik **Kolten** pada map illus free entry no roll, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
-| Reus | | Roll **Plants: Ortzi Earrings** milik **Kuuhaku** pada map polar feathered steed free entry no roll, dilaporkan oleh **Kuuhaku** **June 29, 2023 10:30 AM** [screenshot](#Reus-screenshots) |
+| Oldestdream | | Roll **Plans: Ortzi Pauldron** milik **Kolten** pada map illus free entry no roll, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
+| Reus | | Roll **Plans: Ortzi Earrings** milik **Kuuhaku** pada map polar feathered steed free entry no roll, dilaporkan oleh **Kuuhaku** **June 29, 2023 10:30 AM** [screenshot](#Reus-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
