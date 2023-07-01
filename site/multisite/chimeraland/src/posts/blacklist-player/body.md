@@ -53,7 +53,8 @@
 | druig | | Out party sebelum giliran map-nya, dilaporkan oleh **shea** _May 24, 2023 11:11 PM_ [screenshot](#druig-screenshots) |
 | kaddinn | CongressTH | Out party sebelum giliran map-nya, dilaporkan oleh **Rithis** |
 | DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **wolfPACK** & **hendro** _June 16, 2023 10:18 PM_ [screenshot](#DWB23-j-screenshots) |
-| Oldestdream | | Roll **Plants: Ortzi Pauldron** milik **Kolten** pada map illus free entry, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
+| Oldestdream | | Roll **Plants: Ortzi Pauldron** milik **Kolten** pada map illus free entry no roll, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
+| Reus | | Roll **Plants: Ortzi Earrings** milik **Kuuhaku** pada map polar feathered steed free entry no roll, dilaporkan oleh **Kolten** **June 29, 2023 10:30 AM** [screenshot](#Reus-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
@@ -128,6 +129,10 @@
 - [GamersBahagia Blacklist](https://www.gamersbahagia.com/blacklist)
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+
+## Reus Screenshots
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/33c3942e-2daf-4007-8e8a-3f624726505c)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/eaa8d651-ac90-4b6c-bb90-6aa3340da55c)
 
 ## Oldestdream Screenshots
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/990c7326-4210-4316-a8ec-19b1e349ac0e)
