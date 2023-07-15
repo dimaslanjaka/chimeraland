@@ -210,7 +210,9 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
                           (recipe) => recipe.name === recipeName
                         )
                         const url = new URL('https://www.webmanajemen.com')
-                        url.pathname = existingRecipeData?.pathname
+                        if (existingRecipeData) {
+                          url.pathname = existingRecipeData.pathname
+                        }
                         return (
                           <tr key={recipeName + i + item.name}>
                             <td>{recipeName}</td>
