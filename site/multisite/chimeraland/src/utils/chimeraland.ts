@@ -1,3 +1,4 @@
+import path from 'upath'
 import attendantData from './chimeraland-attendants.json'
 import materialData from './chimeraland-materials.json'
 import monstersData from './chimeraland-monsters.json'
@@ -42,5 +43,16 @@ export const RecipesData = recipeData.map((item) => {
 })
 
 export const MaterialsData = materialData.map((mat) => {
-  return Object.assign({ type: 'materials' }, mat)
+  const images = mat.images.map(
+    (image: { [key: string]: any; absolutePath: string; pathname: string }) => {
+      return Object.assign(image, {
+        filename: (image['filename'] ||
+          path.basename(
+            image.absolutePath,
+            path.extname(image.absolutePath)
+          )) as string
+      })
+    }
+  )
+  return Object.assign({ type: 'materials', images }, mat)
 })
