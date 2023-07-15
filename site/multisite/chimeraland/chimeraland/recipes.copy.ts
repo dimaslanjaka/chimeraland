@@ -87,7 +87,7 @@ const results: any[] = []
       if (!existsSync(dest_icon)) {
         let extract = true
         if ('images' in item) {
-          if ('icon' in item.images) {
+          if (item.images && 'icon' in item.images) {
             extract = false
             try {
               const input = (
