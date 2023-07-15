@@ -82,7 +82,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
         }
         return exec
       })
-      .filter((result) => Array.isArray(result))
+      .filter((result) => Array.isArray(result)) as RegExpExecArray[]
     qualities.push(...mapper)
   }
   const qtyhtm = [] as JSX.Element[]
