@@ -152,7 +152,7 @@ const getData = () => {
             dirs.shift()
           }
 
-          let newImages = [] as any[]
+          let newImages = [] as typeof results
           if (item.images.length === 0) {
             newImages = results
           } else {
@@ -172,7 +172,7 @@ const getData = () => {
                   return image
                 }
               })
-              .concat(results)
+              .concat(results) as any
           }
           return Object.assign({}, item, { images: newImages })
         }
