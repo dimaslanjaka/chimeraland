@@ -152,7 +152,7 @@ const getData = () => {
             dirs.shift()
           }
 
-          let newImages = []
+          let newImages = [] as any[]
           if (item.images.length === 0) {
             newImages = results
           } else {
