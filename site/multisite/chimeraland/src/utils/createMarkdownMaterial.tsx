@@ -18,7 +18,7 @@ const publicDir = join(hexoProject, 'src-posts/chimeraland/materials')
 const errors: Error[] = []
 
 Bluebird.all(MaterialsData)
-  .each((item) => {
+  .each(async (item) => {
     const attr: Record<string, any> = {}
     attr.title = 'Material ' + item.name + ' Chimeraland'
     attr.date = item.datePublished
@@ -26,9 +26,7 @@ Bluebird.all(MaterialsData)
     //attr.updated = moment().format()
     attr.author = 'L3n4r0x'
     attr.permalink = item.pathname
-    attr.photos = item.images.map(
-      (image: { absolutePath: string; pathname: string }) => image.pathname
-    )
+    attr.photos = item.images.map((image) => image.pathname)
     if (item.images.length > 0) {
       const featured = item.images.find((image) =>
         /feature/i.test(image.filename)
@@ -183,7 +181,7 @@ Bluebird.all(MaterialsData)
     )
     if (/buckt/gi.test(item.name)) console.log(output)
 
-    const formattedHtml = prettier.format(html, { parser: 'html' })
+    const formattedHtml = await prettier.format(html, { parser: 'html' })
 
     // dump
     writefile(
