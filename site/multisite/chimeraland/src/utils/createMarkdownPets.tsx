@@ -23,7 +23,7 @@ interface Image {
 type Images = Image[]
 
 // create markdown for attendants and monsters
-MonstersData.concat(AttendantsData as any).forEach((item) => {
+MonstersData.concat(AttendantsData as any).forEach(async (item) => {
   const attr: Record<string, any> = {}
   attr.title = capitalizer(item.type).replace(/s$/, '') + ' ' + item.name
   attr.webtitle = 'chimeraland'
@@ -245,7 +245,7 @@ MonstersData.concat(AttendantsData as any).forEach((item) => {
   let html = ReactDOMServer.renderToStaticMarkup(mdC).toString()
 
   try {
-    html = prettier.format(html, { parser: 'html' })
+    html = await prettier.format(html, { parser: 'html' })
   } catch (e) {
     if (e instanceof Error) {
       console.log('cannot prettify', item.name)
