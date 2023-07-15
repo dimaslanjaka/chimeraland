@@ -19,14 +19,19 @@ export function array_jsx_join(
   ))
 }
 
-export function jsxJoin(array: JSX.Element[], separator: string | JSX.Element) {
+export function jsxJoin(
+  array: (JSX.Element | null | undefined)[],
+  separator: string | JSX.Element
+) {
   return array.length > 0
-    ? array.reduce((result, item) => (
-        <>
-          {result}
-          {separator}
-          {item}
-        </>
-      ))
+    ? array
+        .filter((el) => typeof el !== 'undefined' && el !== null)
+        .reduce((result, item) => (
+          <>
+            {result}
+            {separator}
+            {item}
+          </>
+        ))
     : null
 }
