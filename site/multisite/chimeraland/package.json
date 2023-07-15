@@ -15,7 +15,7 @@
     "start": "node -r ts-node/register src/manager.ts",
     "update:postinstall": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.js",
     "update:packer": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/packer.js > packer.js",
-    "update:ncu": "npx npm-check-updates -u",
+    "update:ncu": "npx npm-check-updates -u -x jsdom,deepmerge-ts --enginesNode",
     "update": "run-s update:** && node packer.js --yarn",
     "post-install": "node postinstall.js --yarn",
     "build": "ts-node build.ts",
@@ -58,7 +58,7 @@
     "true-case-path": "^2.2.1",
     "upath": "^2.0.1",
     "validate": "^5.2.0",
-    "yaml": "^2.2.2"
+    "yaml": "^2.3.1"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.38",
@@ -97,5 +97,8 @@
   },
   "workspaces": [
     "chimeraland"
-  ]
+  ],
+  "engines": {
+    "node": ">=14"
+  }
 }
