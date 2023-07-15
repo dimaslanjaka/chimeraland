@@ -12,7 +12,7 @@ import { strIsSame } from './string'
 
 const publicDir = join(hexoProject, 'src-posts/chimeraland/recipes')
 
-Bluebird.all(RecipesData).each((item) => {
+Bluebird.all(RecipesData).each(async (item) => {
   const attr: Record<string, any> = {}
   attr.title = 'Recipe ' + item.name + ' Chimeraland'
   attr.author = 'L3n4r0x'
@@ -205,7 +205,7 @@ Bluebird.all(RecipesData).each((item) => {
   )
 
   const html = ReactDOMServer.renderToStaticMarkup(mdC).toString()
-  const formattedHtml = prettier.format(html, { parser: 'html' })
+  const formattedHtml = await prettier.format(html, { parser: 'html' })
 
   // dump
   writefile(

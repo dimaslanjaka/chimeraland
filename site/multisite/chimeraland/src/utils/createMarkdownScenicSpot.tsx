@@ -115,16 +115,18 @@ const output = join(
 )
 if (!existsSync(dirname(output))) mkdirpSync(dirname(output))
 console.log({ output })
-writeFileSync(
-  output,
-  `
----
-${yaml.stringify(siteMetadata).trim()}
----
+prettier.format(html, { parser: 'html' }).then((formattedHtml) => {
+  writeFileSync(
+    output,
+    `
+  ---
+  ${yaml.stringify(siteMetadata).trim()}
+  ---
 
-${prettier.format(html, { parser: 'html' })}
-  `.trim()
-)
+  ${formattedHtml}
+    `.trim()
+  )
+})
 
 function scenicTable(faction: string) {
   return (
