@@ -238,7 +238,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"acorn@npm:^8.1.0, acorn@npm:^8.8.1, acorn@npm:^8.8.2":
+"acorn@npm:^8.1.0, acorn@npm:^8.8.2":
   version: 8.8.2
   resolution: "acorn@npm:8.8.2"
   bin:
@@ -1339,6 +1339,26 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/2cf620b/release/cross-spawn.tgz":
+  version: 7.0.4
+  resolution: "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/2cf620b/release/cross-spawn.tgz"
+  dependencies:
+    shebang-command: ^2.0.0
+    which: ^3.0.1
+  checksum: cdd488304c7506dbe310e21ae5fe7a33edb484731a8d238dd49e1da4f657cc69160ea2075100836347172b4d690e650c28998f0ef327d9526f8f48603df657db
+  languageName: node
+  linkType: hard
+
+"cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/2cf620b9c848068544a2d26726a5a9b4faa7cc80/release/cross-spawn.tgz":
+  version: 7.0.4
+  resolution: "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/2cf620b9c848068544a2d26726a5a9b4faa7cc80/release/cross-spawn.tgz"
+  dependencies:
+    shebang-command: ^2.0.0
+    which: ^3.0.1
+  checksum: cdd488304c7506dbe310e21ae5fe7a33edb484731a8d238dd49e1da4f657cc69160ea2075100836347172b4d690e650c28998f0ef327d9526f8f48603df657db
+  languageName: node
+  linkType: hard
+
 "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz":
   version: 7.0.4
   resolution: "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz"
@@ -1346,6 +1366,37 @@ __metadata:
     shebang-command: ^2.0.0
     which: ^3.0.1
   checksum: cdd488304c7506dbe310e21ae5fe7a33edb484731a8d238dd49e1da4f657cc69160ea2075100836347172b4d690e650c28998f0ef327d9526f8f48603df657db
+  languageName: node
+  linkType: hard
+
+"cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/private/release/cross-spawn.tgz":
+  version: 7.0.4
+  resolution: "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/raw/private/release/cross-spawn.tgz"
+  dependencies:
+    shebang-command: ^2.0.0
+    which: ^3.0.1
+  checksum: cdd488304c7506dbe310e21ae5fe7a33edb484731a8d238dd49e1da4f657cc69160ea2075100836347172b4d690e650c28998f0ef327d9526f8f48603df657db
+  languageName: node
+  linkType: hard
+
+"cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn/tarball/private":
+  version: 7.0.4
+  resolution: "cross-spawn@https://github.com/dimaslanjaka/node-cross-spawn.git#commit=bf7d49917463e67d7834203e578525fdf149d787"
+  dependencies:
+    shebang-command: ^2.0.0
+    which: ^3.0.1
+  checksum: 4c3b75d1a93e19c7e547ff96e05fb18f7846a7d8a21ebaebce9fca6eed355510f61298b3e52b98f068f1e83526dec6bb31856644c4b835db17a32255ac64dc79
+  languageName: node
+  linkType: hard
+
+"cross-spawn@npm:^7.0.0, cross-spawn@npm:^7.0.3":
+  version: 7.0.3
+  resolution: "cross-spawn@npm:7.0.3"
+  dependencies:
+    path-key: ^3.1.0
+    shebang-command: ^2.0.0
+    which: ^2.0.1
+  checksum: 671cc7c7288c3a8406f3c69a3ae2fc85555c04169e9d611def9a675635472614f1c0ed0ef80955d5b6d4e724f6ced67f0ad1bb006c2ea643488fcfef994d7f52
   languageName: node
   linkType: hard
 
@@ -1395,29 +1446,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cssom@npm:^0.5.0":
-  version: 0.5.0
-  resolution: "cssom@npm:0.5.0"
-  checksum: 823471aa30091c59e0a305927c30e7768939b6af70405808f8d2ce1ca778cddcb24722717392438329d1691f9a87cb0183b64b8d779b56a961546d54854fde01
-  languageName: node
-  linkType: hard
-
-"cssom@npm:~0.3.6":
-  version: 0.3.8
-  resolution: "cssom@npm:0.3.8"
-  checksum: 24beb3087c76c0d52dd458be9ee1fbc80ac771478a9baef35dd258cdeb527c68eb43204dd439692bb2b1ae5272fa5f2946d10946edab0d04f1078f85e06bc7f6
-  languageName: node
-  linkType: hard
-
-"cssstyle@npm:^2.3.0":
-  version: 2.3.0
-  resolution: "cssstyle@npm:2.3.0"
-  dependencies:
-    cssom: ~0.3.6
-  checksum: 5f05e6fd2e3df0b44695c2f08b9ef38b011862b274e320665176467c0725e44a53e341bc4959a41176e83b66064ab786262e7380fd1cabeae6efee0d255bb4e3
-  languageName: node
-  linkType: hard
-
 "cssstyle@npm:^3.0.0":
   version: 3.0.0
   resolution: "cssstyle@npm:3.0.0"
@@ -1450,17 +1478,6 @@ __metadata:
   dependencies:
     assert-plus: ^1.0.0
   checksum: 3634c249570f7f34e3d34f866c93f866c5b417f0dd616275decae08147dcdf8fccfaa5947380ccfb0473998ea3a8057c0b4cd90c875740ee685d0624b2983598
-  languageName: node
-  linkType: hard
-
-"data-urls@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "data-urls@npm:3.0.2"
-  dependencies:
-    abab: ^2.0.6
-    whatwg-mimetype: ^3.0.0
-    whatwg-url: ^11.0.0
-  checksum: 033fc3dd0fba6d24bc9a024ddcf9923691dd24f90a3d26f6545d6a2f71ec6956f93462f2cdf2183cc46f10dc01ed3bcb36731a8208456eb1a08147e571fe2a76
   languageName: node
   linkType: hard
 
@@ -1503,7 +1520,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"decimal.js@npm:^10.4.2, decimal.js@npm:^10.4.3":
+"decimal.js@npm:^10.4.3":
   version: 10.4.3
   resolution: "decimal.js@npm:10.4.3"
   checksum: 796404dcfa9d1dbfdc48870229d57f788b48c21c603c3f6554a1c17c10195fc1024de338b0cf9e1efe0c7c167eeb18f04548979bcc5fdfabebb7cc0ae3287bae
@@ -1524,10 +1541,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"deepmerge-ts@npm:^5.1.0":
-  version: 5.1.0
-  resolution: "deepmerge-ts@npm:5.1.0"
-  checksum: 6b57db93c2985e4a35f24b2451db31715050d143988b7d6346f4049c9aec21a6c289514b88d3ee3d6e0697e72ef5d96ff0bbb7cb75422d56fee55ee85c7168e7
+"deepmerge-ts@npm:^4":
+  version: 4.3.0
+  resolution: "deepmerge-ts@npm:4.3.0"
+  checksum: d5f8a96df9a2bc7177d59544b9390ba76e50fb725f776669068ca04eef319e98ee8870cf7b7ecca9f636b711d57cea571ac61553ee01101a614c045f7a86e0be
   languageName: node
   linkType: hard
 
@@ -2466,17 +2483,37 @@ __metadata:
   languageName: node
   linkType: hard
 
+"git-command-helper@npm:*, git-command-helper@npm:^1.2.2":
+  version: 1.2.5
+  resolution: "git-command-helper@npm:1.2.5"
+  dependencies:
+    "@expo/spawn-async": ^1.7.2
+    binary-collections: ^1.0.3
+    bluebird: ^3.7.2
+    core-js: ^3.30.2
+    cross-spawn: "https://github.com/dimaslanjaka/node-cross-spawn/raw/2cf620b9c848068544a2d26726a5a9b4faa7cc80/release/cross-spawn.tgz"
+    deepmerge-ts: ^5.1.0
+    fs-extra: ^11.1.1
+    ini: ^4.1.1
+    lodash: ^4.17.21
+    minimatch: ^9.0.1
+    sbg-utility: ^1.1.0
+    upath: ^2.0.1
+  checksum: 851eef8b2a2697a05dc2d9f536bcb1d5da96b956836b1a49b7b167f6c200fc53de542a8d8c6ee5b3714a2dff3516c8ab30782bebddca0fd2043b18e516f39abd
+  languageName: node
+  linkType: hard
+
 "github-pages-validator@workspace:.":
   version: 0.0.0-use.local
   resolution: "github-pages-validator@workspace:."
   dependencies:
     bluebird: ^3.7.2
-    cross-spawn: ^7.0.3
-    git-command-helper: ^1.2.3
+    cross-spawn: "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz"
+    git-command-helper: "https://github.com/dimaslanjaka/git-command-helper/raw/2bc2009/release/git-command-helper.tgz"
     gulp: ^4.0.2
     jsdom: ^21.1.0
     minimist: ^1.2.8
-    sbg-utility: ^1.1.0
+    sbg-utility: "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sbg-utility/release/sbg-utility.tgz"
     yaml: ^2.2.2
   languageName: unknown
   linkType: soft
@@ -3138,7 +3175,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ini@npm:^4.1.0":
+"ini@npm:^4.1.0, ini@npm:^4.1.1":
   version: 4.1.1
   resolution: "ini@npm:4.1.1"
   checksum: 0e5909554074fbc31824fa5415b0f604de4a665514c96a897a77bf77353a7ad4743927321270e9d0610a9d510ccd1f3cd77422f7cc80d8f4542dbce75476fb6d
@@ -3554,7 +3591,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsdom@npm:21.1.2":
+"jsdom@npm:^21":
   version: 21.1.2
   resolution: "jsdom@npm:21.1.2"
   dependencies:
@@ -3590,45 +3627,6 @@ __metadata:
     canvas:
       optional: true
   checksum: 6b3cf2d15e5a5712b3db5ff56eba82b97c9a879b52e95063cc8323bdf8837b6ca15cfec85b57ab71c95c6b4a4098bf67f274c6ff4e9ff519aa4811a04f290610
-  languageName: node
-  linkType: hard
-
-"jsdom@npm:^21.1.0":
-  version: 21.1.0
-  resolution: "jsdom@npm:21.1.0"
-  dependencies:
-    abab: ^2.0.6
-    acorn: ^8.8.1
-    acorn-globals: ^7.0.0
-    cssom: ^0.5.0
-    cssstyle: ^2.3.0
-    data-urls: ^3.0.2
-    decimal.js: ^10.4.2
-    domexception: ^4.0.0
-    escodegen: ^2.0.0
-    form-data: ^4.0.0
-    html-encoding-sniffer: ^3.0.0
-    http-proxy-agent: ^5.0.0
-    https-proxy-agent: ^5.0.1
-    is-potential-custom-element-name: ^1.0.1
-    nwsapi: ^2.2.2
-    parse5: ^7.1.1
-    saxes: ^6.0.0
-    symbol-tree: ^3.2.4
-    tough-cookie: ^4.1.2
-    w3c-xmlserializer: ^4.0.0
-    webidl-conversions: ^7.0.0
-    whatwg-encoding: ^2.0.0
-    whatwg-mimetype: ^3.0.0
-    whatwg-url: ^11.0.0
-    ws: ^8.11.0
-    xml-name-validator: ^4.0.0
-  peerDependencies:
-    canvas: ^2.5.0
-  peerDependenciesMeta:
-    canvas:
-      optional: true
-  checksum: 2c89c72a6f399184ffc8de30bbdd86283086dbd72bb3a40667102d3f12af141c7517ffb78150a3bb6883a654e8c7d0266c3328d1c387a2b9a1fd0729dc537954
   languageName: node
   linkType: hard
 
@@ -4059,6 +4057,15 @@ __metadata:
   dependencies:
     brace-expansion: ^2.0.1
   checksum: 7bd57899edd1d1b0560f50b5b2d1ea4ad2a366c5a2c8e0a943372cf2f200b64c256bae45a87a80915adbce27fa36526264296ace0da57b600481fe5ea3e372e5
+  languageName: node
+  linkType: hard
+
+"minimatch@npm:^9.0.1":
+  version: 9.0.1
+  resolution: "minimatch@npm:9.0.1"
+  dependencies:
+    brace-expansion: ^2.0.1
+  checksum: 97f5f5284bb57dc65b9415dec7f17a0f6531a33572193991c60ff18450dcfad5c2dad24ffeaf60b5261dccd63aae58cc3306e2209d57e7f88c51295a532d8ec3
   languageName: node
   linkType: hard
 
@@ -4526,13 +4533,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nwsapi@npm:^2.2.2":
-  version: 2.2.2
-  resolution: "nwsapi@npm:2.2.2"
-  checksum: 43769106292bc95f776756ca2f3513dab7b4d506a97c67baec32406447841a35f65f29c1f95ab5d42785210fd41668beed33ca16fa058780be43b101ad73e205
-  languageName: node
-  linkType: hard
-
 "nwsapi@npm:^2.2.4":
   version: 2.2.4
   resolution: "nwsapi@npm:2.2.4"
@@ -4757,7 +4757,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"parse5@npm:^7.0.0, parse5@npm:^7.1.1, parse5@npm:^7.1.2":
+"parse5@npm:^7.0.0, parse5@npm:^7.1.2":
   version: 7.1.2
   resolution: "parse5@npm:7.1.2"
   dependencies:
@@ -4810,6 +4810,13 @@ __metadata:
   version: 1.0.1
   resolution: "path-is-absolute@npm:1.0.1"
   checksum: 060840f92cf8effa293bcc1bea81281bd7d363731d214cbe5c227df207c34cd727430f70c6037b5159c8a870b9157cba65e775446b0ab06fd5ecc7e54615a3b8
+  languageName: node
+  linkType: hard
+
+"path-key@npm:^3.1.0":
+  version: 3.1.1
+  resolution: "path-key@npm:3.1.1"
+  checksum: 55cd7a9dd4b343412a8386a743f9c746ef196e57c823d90ca3ab917f90ab9f13dd0ded27252ba49dbdfcab2b091d998bc446f6220cd3cea65db407502a740020
   languageName: node
   linkType: hard
 
@@ -5538,6 +5545,44 @@ __metadata:
   languageName: node
   linkType: hard
 
+"sbg-utility@npm:^1.0.9, sbg-utility@npm:^1.1.0":
+  version: 1.1.0
+  resolution: "sbg-utility@npm:1.1.0"
+  dependencies:
+    ansi-colors: ^4.1.3
+    async: ^3.2.4
+    axios: ^1.4.0
+    bluebird: ^3.7.2
+    cheerio: ^1.0.0-rc.12
+    cross-spawn: "https://github.com/dimaslanjaka/node-cross-spawn/raw/5560156/release/cross-spawn.tgz"
+    debug: ^4.3.4
+    fs-extra: ^11.1.1
+    git-command-helper: ^1.2.2
+    glob: ^10.2.3
+    gulp: ^4.0.2
+    hexo: "https://github.com/dimaslanjaka/hexo/raw/deff4a14bb6b7e7f4ab364e481434c84b5a3a3f5/releases/hexo.tgz"
+    hexo-log: "https://github.com/dimaslanjaka/hexo/raw/deff4a14bb6b7e7f4ab364e481434c84b5a3a3f5/releases/hexo-log.tgz"
+    hexo-util: "https://github.com/dimaslanjaka/hexo/raw/deff4a14bb6b7e7f4ab364e481434c84b5a3a3f5/releases/hexo-util.tgz"
+    jsdom: 21.1.2
+    jsonc-parser: ^3.2.0
+    micromatch: ^4.0.5
+    minimatch: ^9.0.0
+    node-libcurl: ^3.0.0
+    nunjucks: ^3.2.4
+    plugin-error: ^2.0.1
+    progress: ^2.0.3
+    request: ^2.88.0
+    safelinkify: ^1.1.18
+    slugify: ^1.6.6
+    through2: ^4.0.2
+    true-case-path: ^2.2.1
+    tslib: ^2.5.0
+    upath: ^2.0.1
+    yaml: ^2.2.2
+  checksum: 6fc5ff6fa5b4defe6aacb494cc3341b28c299471f21f34f55e9b3b86bf7698aba2f234e050c04fe65eefbf37880154aac6240725ac4a7fbd7e7625ac200f79f0
+  languageName: node
+  linkType: hard
+
 "semver-greatest-satisfied-range@npm:^1.1.0":
   version: 1.1.0
   resolution: "semver-greatest-satisfied-range@npm:1.1.0"
@@ -6150,15 +6195,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tr46@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "tr46@npm:3.0.0"
-  dependencies:
-    punycode: ^2.1.1
-  checksum: 44c3cc6767fb800490e6e9fd64fd49041aa4e49e1f6a012b34a75de739cc9ed3a6405296072c1df8b6389ae139c5e7c6496f659cfe13a04a4bff3a1422981270
-  languageName: node
-  linkType: hard
-
 "tr46@npm:^4.1.1":
   version: 4.1.1
   resolution: "tr46@npm:4.1.1"
@@ -6547,16 +6583,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"whatwg-url@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "whatwg-url@npm:11.0.0"
-  dependencies:
-    tr46: ^3.0.0
-    webidl-conversions: ^7.0.0
-  checksum: ed4826aaa57e66bb3488a4b25c9cd476c46ba96052747388b5801f137dd740b73fde91ad207d96baf9f17fbcc80fc1a477ad65181b5eb5fa718d27c69501d7af
-  languageName: node
-  linkType: hard
-
 "whatwg-url@npm:^12.0.0, whatwg-url@npm:^12.0.1":
   version: 12.0.1
   resolution: "whatwg-url@npm:12.0.1"
@@ -6595,7 +6621,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"which@npm:^2.0.2":
+"which@npm:^2.0.1, which@npm:^2.0.2":
   version: 2.0.2
   resolution: "which@npm:2.0.2"
   dependencies:
@@ -6669,21 +6695,6 @@ __metadata:
   version: 1.0.2
   resolution: "wrappy@npm:1.0.2"
   checksum: 159da4805f7e84a3d003d8841557196034155008f817172d4e986bd591f74aa82aa7db55929a54222309e01079a65a92a9e6414da5a6aa4b01ee44a511ac3ee5
-  languageName: node
-  linkType: hard
-
-"ws@npm:^8.11.0":
-  version: 8.12.1
-  resolution: "ws@npm:8.12.1"
-  peerDependencies:
-    bufferutil: ^4.0.1
-    utf-8-validate: ">=5.0.2"
-  peerDependenciesMeta:
-    bufferutil:
-      optional: true
-    utf-8-validate:
-      optional: true
-  checksum: 97301c1c4d838fc81bd413f370f75c12aabe44527b31323b761eab3043a9ecb7e32ffd668548382c9a6a5ad3a1c3a9249608e8338e6b939f2f9540f1e21970b5
   languageName: node
   linkType: hard
 
