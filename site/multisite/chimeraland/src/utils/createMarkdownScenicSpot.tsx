@@ -119,11 +119,11 @@ prettier.format(html, { parser: 'html' }).then((formattedHtml) => {
   writeFileSync(
     output,
     `
-  ---
-  ${yaml.stringify(siteMetadata).trim()}
-  ---
+---
+${yaml.stringify(siteMetadata).trim()}
+---
 
-  ${formattedHtml}
+${formattedHtml}
     `.trim()
   )
 })
