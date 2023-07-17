@@ -11,13 +11,13 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
-
 ## [Taming Pets Chimeraland](/chimeraland/Taming.html)
 
 ![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
@@ -83,6 +83,10 @@ All in one recipes
 
 ![Cara grinding skill pet dengan cepat](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Cara+grinding+skill+pet+dengan+cepat)
 
+## [How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium.html)
+
+![How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg)
+
 ## [Chimeraland Scammer List Player](/chimeraland/blacklist-player.html)
 
 ![Chimeraland Scammer List Player](https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png)
@@ -98,8 +102,4 @@ All in one recipes
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 
 ![Bug Report Chimeraland v2.0.2.117](https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
-
-## [How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium.html)
-
-![How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg)
 
