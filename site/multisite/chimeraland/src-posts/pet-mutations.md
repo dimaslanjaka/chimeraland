@@ -33,3 +33,6 @@ As for the various attributes with certain main stats, the following is complete
 ## Silk Bracelet parts attributes
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/7886cf21-3562-4bc2-944d-834d210a9bc7)
 
+## Chinese Words parts attributes
+![sample part](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/15b807cb-d790-4134-810b-9780540ae298)
+
