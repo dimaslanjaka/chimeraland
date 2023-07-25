@@ -6,6 +6,12 @@ categories: [games, chimeraland]
 tags: [monster]
 ---
 
+Chimeraland released a new feature, namely "Mutation Pet". This feature can change the pet's appearance and give a new status. The attributes provided are categorized into 2 types:
+- Northwind Attribute (green color in the attribute name)
+- Molten Attribute (yellow color in the attribute name)
+
+As for the various attributes with certain main stats, the following is complete information:
+
 ## Attribute stats
 
 | Prefix Part Name | Main Stat |
