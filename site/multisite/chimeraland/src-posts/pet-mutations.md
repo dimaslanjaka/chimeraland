@@ -17,3 +17,4 @@ tags: [monster]
 
 ## Tong Ingot parts attributes
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/f0b5636a-06ea-4309-98db-e2794a9a7fcc)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/e45ac6f5-ac7e-4648-8ff3-9a84c46a26f2)
