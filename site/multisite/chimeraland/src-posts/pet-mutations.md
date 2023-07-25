@@ -19,6 +19,7 @@ As for the various attributes with certain main stats, the following is complete
 | Budo | DEF |
 | Shiny Jade | DEF |
 | chinese word | ATK |
+| Silk Bracelet | DEF |
 | [Tong Ingot](#tong-ingot-parts-attributes) | RANDOM |
 | Flitter | RANDOM |
 
@@ -28,3 +29,7 @@ As for the various attributes with certain main stats, the following is complete
 
 ## Flitter parts attributes
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/0fca676d-3970-441b-b564-e49ca057ca66)
+
+## Silk Bracelet parts attributes
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/7886cf21-3562-4bc2-944d-834d210a9bc7)
+
