@@ -13,7 +13,7 @@ tags: [monster]
 | Budo | DEF |
 | Shiny Jade | DEF |
 | chinese word | ATK |
-| [#tong-ingot-parts-attributes](Tong Ingot) | RANDOM |
+| [Tong Ingot](#tong-ingot-parts-attributes) | RANDOM |
 
 ## Tong Ingot parts attributes
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/f0b5636a-06ea-4309-98db-e2794a9a7fcc)
