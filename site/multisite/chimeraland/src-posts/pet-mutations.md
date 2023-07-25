@@ -13,3 +13,6 @@ tags: [monster]
 | budo | DEF |
 | shiny jade | DEF |
 | chinese word | ATK |
+
+## TongIngot attributes
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/f0b5636a-06ea-4309-98db-e2794a9a7fcc)
