@@ -107,7 +107,8 @@
 | Deshwan | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 | VenKy | | dicurigai sebagai SCAMMER ruby |
 | Meeeii | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM |
-| infinite | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM |
+
+<!-- | infinite | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM | -->
 
 ## Nama player yang sudah bersih
 > Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas
