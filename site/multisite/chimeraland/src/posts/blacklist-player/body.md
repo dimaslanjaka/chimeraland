@@ -55,6 +55,7 @@
 | DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **wolfPACK** & **hendro** _June 16, 2023 10:18 PM_ [screenshot](#DWB23-j-screenshots) |
 | Oldestdream | | Roll **Plans: Ortzi Pauldron** milik **Kolten** pada map illus free entry no roll, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
 | Reus | | Roll **Plans: Ortzi Earrings** milik **Kuuhaku** pada map polar feathered steed free entry no roll, dilaporkan oleh **Kuuhaku** **June 29, 2023 10:30 AM** [screenshot](#Reus-screenshots) |
+| monarch2 | | Roll drop items milik **kimprit** pada map armadilo free entry no roll, dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM [screenshot](#kimprit-party) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
@@ -132,6 +133,7 @@
 ## kimprit party
 ![Meeeii](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/fefc8b35-b83c-430b-b1d4-e71f3c30fe8f)
 ![Meeeii](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/c78d58cf-1db7-42db-b482-d1b1f91c9075)
+![monarch2](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/a918a768-febd-4ff2-87f7-3031b3d3ffce)
 
 ## Reus Screenshots
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/33c3942e-2daf-4007-8e8a-3f624726505c)
