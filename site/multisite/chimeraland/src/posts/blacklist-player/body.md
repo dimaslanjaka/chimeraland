@@ -135,6 +135,9 @@
 
 ## Ray119 screenshots
 ![Ray119](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf)
+![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/8d826e8e-ae06-47ed-900f-d0accb4eb56f)
+![Untitled](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/90785c3b-243c-4f39-b6af-b56eda608a7d)
+![Untitled-1](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/32189f54-94e2-49c3-8e73-a8ead3c2d76c)
 
 ## kimprit party
 > free  entry _armadilo map_ no roll
