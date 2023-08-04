@@ -83,7 +83,8 @@
 | Devil God | | SCAMMER sebagai pembeli |
 | Sofys | | SCAMMER seller ruby, korban terakhir **Kazeoo** |
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
-| | | WhatsApp +6289657373191 scam ruby IDR 100,000 S117-121. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
+| - | | WhatsApp +6289657373191 scam ruby IDR 100,000 S117-121. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
+| Ray119 | | scam jual-beli telur di dalam game, dilaporkan oleh **kendrugk** pada tanggal _August 4, 2023 8:47 PM_ |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -107,7 +108,6 @@
 | Deshwan | | dicurigai sebagai scammer MAP ILLUSTRIOUS 16 |
 | VenKy | | dicurigai sebagai SCAMMER ruby |
 | Meeeii | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM |
-| Ray119 | | scam jual-beli telur di dalam game, dilaporkan oleh **kendrugk** pada tanggal August 4, 2023 8:47 PM |
 
 <!-- | infinite | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM | -->
 
