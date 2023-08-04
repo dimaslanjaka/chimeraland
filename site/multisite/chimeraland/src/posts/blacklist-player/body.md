@@ -141,6 +141,7 @@
 
 ## kimprit party
 > free  entry _armadilo map_ no roll
+
 ![Meeeii](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/fefc8b35-b83c-430b-b1d4-e71f3c30fe8f)
 ![Meeeii](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/c78d58cf-1db7-42db-b482-d1b1f91c9075)
 ![monarch2](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/a918a768-febd-4ff2-87f7-3031b3d3ffce)
