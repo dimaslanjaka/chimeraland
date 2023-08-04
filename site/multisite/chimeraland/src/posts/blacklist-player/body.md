@@ -132,8 +132,8 @@
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
-## Ray1
-![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf)
+## Ray119
+![Ray119](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf)
 
 ## kimprit party
 > free  entry _armadilo map_ no roll
