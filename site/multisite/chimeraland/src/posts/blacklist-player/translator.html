@@ -177,26 +177,34 @@
   function translatorWidgetStart() {
     var mylang = 'id', // Your website language
       translateBtn = document.getElementById('translate-me'),
-      canonical = document.querySelector('link[rel="canonical"]');
+      canonical = document.querySelector('link[rel="canonical"]') || location.href,
+      translateSelect = document.getElementById('translate-language')
     // get href
     if (canonical) canonical = canonical.getAttribute('href').toString().trim();
-    translateBtn.onclick = function () {
+    var doTranslate = function () {
       var toLang = document
         .querySelector('select#translate-language')
         .value.trim();
+      var url = 'https://translate.google.com/translate?u=' +
+        encodeURIComponent(canonical || location.href) +
+        '&sl=' +
+        mylang +
+        '&hl=' +
+        toLang
       window
         .open(
-          'http://translate.google.com/translate?u=' +
-          encodeURIComponent(canonical || location.href) +
-          '&sl=' +
-          mylang +
-          '&hl=' +
-          toLang,
-          'translate'
+          url,
+          'translate-x'
         )
         .focus();
       return false;
     };
+    translateBtn.onclick = doTranslate
+    translateSelect.onchange = doTranslate
   }
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
+
+<div id="main">
+  Hai nama ku <b>Dimas Lanjaka</b>
+</div>
