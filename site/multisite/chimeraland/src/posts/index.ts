@@ -7,6 +7,7 @@ import moment from 'moment-timezone'
 import { trueCasePathSync, writefile } from 'sbg-utility'
 
 import path from 'upath'
+import { chimeralandProject } from '../../project'
 import {
   AttendantsData,
   MaterialsData,
@@ -20,13 +21,19 @@ let body =
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 `.trim() + '\n\n'
+
 const dates = AttendantsData.concat(
   ...(MonstersData as any[]),
   ...(MaterialsData as any[])
 ).map((o) => moment(o.dateModified).valueOf())
 
-glob('**/*.md', { cwd: base, realpath: true, absolute: true })
-  .then((paths) => {
+export async function buildChimeralandPosts() {
+  try {
+    const paths = await glob('**/*.md', {
+      cwd: base,
+      realpath: true,
+      absolute: true
+    })
     const unix_paths = paths.map(path.toUnix)
     const parse = async function () {
       for (let i = 0; i < unix_paths.length; i++) {
@@ -65,14 +72,14 @@ glob('**/*.md', { cwd: base, realpath: true, absolute: true })
       `.trim() + '\n\n'
       }
     }
-    parse().then(function () {
-      const updated = moment(Math.max.apply(null, dates))
-      const metadata =
-        `
+    await parse()
+    const updated_1 = moment(Math.max.apply(null, dates))
+    const metadata =
+      `
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: ${updated.format('YYYY-MM-DDTHH:mm:ssZ')}
+updated: ${updated_1.format('YYYY-MM-DDTHH:mm:ssZ')}
 tags: [chimeraland]
 categories: [games, chimeraland]
 permalink: /chimeraland/index.html
@@ -80,12 +87,11 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ---
     `.trim() + '\n\n'
 
-      const markdown = metadata + body
-      writefile(path.join(__dirname, '../../src-posts/index.md'), markdown)
-    })
-  })
-  .finally(async function () {
+    const markdown = metadata + body
+    writefile(path.join(chimeralandProject, 'src-posts/index.md'), markdown)
+  } finally {
     await import('./attendant-list')
     await import('./blacklist-player')
     await import('./material-location')
-  })
+  }
+}

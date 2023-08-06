@@ -11,10 +11,6 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [Taming Pets Chimeraland](/chimeraland/Taming.html)
-
-![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
-
 ## [All about totem in chimeraland](/chimeraland/totem.html)
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
@@ -22,6 +18,14 @@ All in one recipes
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
+
+## [Taming Pets Chimeraland](/chimeraland/Taming.html)
+
+![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
 
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
@@ -31,10 +35,6 @@ All in one recipes
 
 ![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
 
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
-
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
 ![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
@@ -43,13 +43,13 @@ All in one recipes
 
 ![Pet mutations chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Pet+mutations+chimeraland)
 
-## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
-
-![Apa itu NSC di chimeraland?](https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg)
-
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
 ![Pet and attendant delicacies tasty informations Chimeraland](https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg)
+
+## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
+
+![Apa itu NSC di chimeraland?](https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg)
 
 ## [New Map Northmount on Chimeraland](/chimeraland/northmount-released.html)
 

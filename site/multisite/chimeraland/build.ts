@@ -33,6 +33,9 @@ async function main() {
   )
   await src.copySrcPost(path.join(hexoProject, 'src-posts/chimeraland'))
   await src.copySource(path.join(hexoProject, 'source/chimeraland'))
+
+  console.log('build chimeraland posts')
+  await src.buildChimeralandPosts()
 }
 
 main()
