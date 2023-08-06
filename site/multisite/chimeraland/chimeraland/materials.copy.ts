@@ -20,6 +20,7 @@ interface MaterialObject {
   images: Array<{
     absolutePath: string
     pathname: string
+    url?: string
   }>
   name: string
   pathname: string
