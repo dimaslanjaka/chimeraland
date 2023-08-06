@@ -34,7 +34,10 @@ export async function buildChimeralandPosts() {
       realpath: true,
       absolute: true
     })
-    const unix_paths = paths.map(path.toUnix)
+    const unix_paths = paths
+      .map(path.toUnix)
+      .sort((a, b) => a.length - b.length)
+
     const parse = async function () {
       for (let i = 0; i < unix_paths.length; i++) {
         const post_path = unix_paths[i]
@@ -94,4 +97,9 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
     await import('./blacklist-player')
     await import('./material-location')
   }
+}
+
+if (require.main === module) {
+  // run standalone
+  buildChimeralandPosts()
 }
