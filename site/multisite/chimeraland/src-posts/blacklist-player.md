@@ -105,10 +105,6 @@ author: L3n4r0x
 
 <script type="text/javascript" notranslate="">function translatorWidgetStart(){var t=document.getElementById("translate-me"),e=document.querySelector('link[rel="canonical"]')||location.href,n=document.getElementById("translate-language");e&&(e=e.getAttribute("href").toString().trim());var a=function(){var t=document.querySelector("select#translate-language").value.trim(),n="https://translate.google.com/translate?u="+encodeURIComponent(e||location.href)+"&sl=id&hl="+t;return window.open(n,"translate-x").focus(),!1};t.onclick=a,n.onchange=a}document.addEventListener("DOMContentLoaded",translatorWidgetStart)</script>
 
-<div id="main">
-  Hai nama ku <b>Dimas Lanjaka</b>
-</div>
-
 <h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
 <p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
 <h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
