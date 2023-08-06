@@ -228,9 +228,9 @@ export function createMarkdownRecipe(publicDir: string) {
     writefile(
       output,
       `
-  ---
-  ${yaml.stringify(attr).trim()}
-  ---
+---
+${yaml.stringify(attr).trim()}
+---
 
   ${formattedHtml}
     `.trim()

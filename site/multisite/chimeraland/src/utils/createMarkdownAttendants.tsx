@@ -298,9 +298,9 @@ export function createMarkdownAttendants(hexoProject: string) {
 
     /** markdown post */
     const md = `
-  ---
-  ${yaml.stringify(attr).trim()}
-  ---
+---
+${yaml.stringify(attr).trim()}
+---
 
   ${html}
     `.trim()

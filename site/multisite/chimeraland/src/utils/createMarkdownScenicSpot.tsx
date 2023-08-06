@@ -121,9 +121,9 @@ export async function createMarkdownScenicSpot(publicDir: string) {
   writefile(
     output,
     `
-  ---
-  ${yaml.stringify(siteMetadata).trim()}
-  ---
+---
+${yaml.stringify(siteMetadata).trim()}
+---
 
   ${formattedHtml}
       `.trim()
