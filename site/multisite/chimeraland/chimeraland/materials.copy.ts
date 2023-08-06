@@ -12,7 +12,7 @@ import { escapeRegex } from '../src/utils/string'
 import { isValidHttpUrl } from '../src/utils/url'
 import materials from './materials.json'
 
-interface MaterialObject {
+export interface MaterialObject {
   dateModified: string
   datePublished: string
   details: Array<string>
@@ -31,7 +31,7 @@ interface MaterialObject {
 const outputJSON = join(__dirname, '../src/utils/chimeraland-materials.json')
 // const publicDir = path.join(hexoProject, 'source/chimeraland')
 
-export async function materialsCopy(publicDir: string) {
+export async function materialsCopy(hexoProject: string, publicDir: string) {
   console.log('copy material data')
   const mapped = await Bluebird.all(materials.data).map(async (mat) => {
     const type = 'materials'
@@ -159,4 +159,8 @@ export async function materialsCopy(publicDir: string) {
   })
   writefile(outputJSON, JSON.stringify(mapped, null, 2))
   console.log('json written', outputJSON)
+}
+
+if (require.main === module) {
+  materialsCopy(hexoProject, join(hexoProject, 'source/chimeraland'))
 }

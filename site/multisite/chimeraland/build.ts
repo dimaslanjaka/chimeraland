@@ -4,7 +4,10 @@ import * as src from './src'
 
 async function main() {
   await src.attendantCopy(path.join(hexoProject, 'source/chimeraland'))
-  await src.materialsCopy(path.join(hexoProject, 'source/chimeraland'))
+  await src.materialsCopy(
+    hexoProject,
+    path.join(hexoProject, 'source/chimeraland')
+  )
   await src.createMarkdownMaterial(
     path.join(hexoProject, 'src-posts/chimeraland/materials')
   )
