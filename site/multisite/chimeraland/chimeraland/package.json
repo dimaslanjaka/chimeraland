@@ -16,7 +16,8 @@
     "update:packer": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/packer.js > packer.js",
     "update": "run-s update:** && npx npm-check-updates -u && node packer.js --yarn",
     "post-install": "node postinstall.js",
-    "pack": "node packer.js --yarn"
+    "pack": "node packer.js --yarn",
+    "start": "node get-info.js"
   },
   "dependencies": {
     "ansi-colors": "^4.1.3",
