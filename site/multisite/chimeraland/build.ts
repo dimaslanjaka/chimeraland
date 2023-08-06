@@ -4,12 +4,15 @@ import * as src from './src'
 
 async function copy() {
   await src.attendantCopy(path.join(hexoProject, 'source/chimeraland'))
+  console.log('copy materials data')
   await src.materialsCopy(
     hexoProject,
     path.join(hexoProject, 'source/chimeraland')
   )
+  console.log('copy monsters data')
   await src.monstersCopy(path.join(hexoProject, 'source/chimeraland'))
   await src.recipesCopy(path.join(hexoProject, 'source/chimeraland'))
+  console.log('copy scenic spots data')
   await src.scenicSpotCopy(
     path.join(hexoProject, 'source/chimeraland/scenic-spot')
   )

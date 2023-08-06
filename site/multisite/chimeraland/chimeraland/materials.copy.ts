@@ -32,7 +32,6 @@ const outputJSON = join(__dirname, '../src/utils/chimeraland-materials.json')
 // const publicDir = path.join(hexoProject, 'source/chimeraland')
 
 export async function materialsCopy(hexoProject: string, publicDir: string) {
-  console.log('copy material data')
   const mapped = await Bluebird.all(materials.data).map(async (mat) => {
     const type = 'materials'
     const pathname =
