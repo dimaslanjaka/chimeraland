@@ -1,6 +1,7 @@
-import './attendants.copy'
-import './materials.copy'
-import './monsters.copy'
-import './recipes.copy'
-import './scenic-spot'
+export * from './attendants.copy'
+export * from './materials.copy'
+export * from './monsters.copy'
+export * from './recipes.copy'
+export * from './scenic-spot'
+
 //
