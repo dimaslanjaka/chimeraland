@@ -32,7 +32,9 @@
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features",
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false
   },
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features",
@@ -53,7 +55,6 @@
     "editor.defaultFormatter": "vscode.html-language-features",
     "editor.formatOnSave": true
   },
-  "prettier.endOfLine": "lf",
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -93,5 +94,4 @@
   "eslint.run": "onSave",
   "eslint.useESLintClass": true,
   "npm.packageManager": "yarn",
-  "eslint.packageManager": "yarn"
 }
