@@ -6733,7 +6733,44 @@
     "buff": [],
     "skill": [],
     "images": [
-      "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/strallow-rare-grade.jpg"
+      {
+        "url": "https://zilliongamer.com/uploads/chimeraland/eggs/rare-eggs/strallow-rare-grade.jpg"
+      },
+      {
+        "filename": "Screenshot 2023-06-14 014717.webp",
+        "folder": "<chimera>/chimeraland/monsters/strallow",
+        "originalPath": "<chimera>/chimeraland/monsters/strallow/Screenshot 2023-06-14 014717.png",
+        "originalFilename": "Screenshot 2023-06-14 014717.png",
+        "pathname": "/chimeraland/monsters/strallow/Screenshot 2023-06-14 014717.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-14 014801.webp",
+        "folder": "<chimera>/chimeraland/monsters/strallow",
+        "originalPath": "<chimera>/chimeraland/monsters/strallow/Screenshot 2023-06-14 014801.png",
+        "originalFilename": "Screenshot 2023-06-14 014801.png",
+        "pathname": "/chimeraland/monsters/strallow/Screenshot 2023-06-14 014801.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-14 014819.webp",
+        "folder": "<chimera>/chimeraland/monsters/strallow",
+        "originalPath": "<chimera>/chimeraland/monsters/strallow/Screenshot 2023-06-14 014819.png",
+        "originalFilename": "Screenshot 2023-06-14 014819.png",
+        "pathname": "/chimeraland/monsters/strallow/Screenshot 2023-06-14 014819.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-14 014835.webp",
+        "folder": "<chimera>/chimeraland/monsters/strallow",
+        "originalPath": "<chimera>/chimeraland/monsters/strallow/Screenshot 2023-06-14 014835.png",
+        "originalFilename": "Screenshot 2023-06-14 014835.png",
+        "pathname": "/chimeraland/monsters/strallow/Screenshot 2023-06-14 014835.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-14 014852.webp",
+        "folder": "<chimera>/chimeraland/monsters/strallow",
+        "originalPath": "<chimera>/chimeraland/monsters/strallow/Screenshot 2023-06-14 014852.png",
+        "originalFilename": "Screenshot 2023-06-14 014852.png",
+        "pathname": "/chimeraland/monsters/strallow/Screenshot 2023-06-14 014852.webp"
+      }
     ],
     "videos": [],
     "type": "monsters",
@@ -12768,5 +12805,138 @@
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/yunshu.html"
+  },
+  {
+    "name": "giant mahi-mahi",
+    "datePublished": "2023-08-06T21:50:21+07:00",
+    "dateModified": "2023-08-06T22:01:21+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot 2023-06-15 093520.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093520.png",
+        "originalFilename": "Screenshot 2023-06-15 093520.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093520.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093549.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093549.png",
+        "originalFilename": "Screenshot 2023-06-15 093549.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093549.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093613.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093613.png",
+        "originalFilename": "Screenshot 2023-06-15 093613.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093613.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093627.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093627.png",
+        "originalFilename": "Screenshot 2023-06-15 093627.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093627.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093648.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093648.png",
+        "originalFilename": "Screenshot 2023-06-15 093648.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093648.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093703.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093703.png",
+        "originalFilename": "Screenshot 2023-06-15 093703.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093703.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093721.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093721.png",
+        "originalFilename": "Screenshot 2023-06-15 093721.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093721.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093742.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant mahi-mahi",
+        "originalPath": "<chimera>/chimeraland/monsters/giant mahi-mahi/Screenshot 2023-06-15 093742.png",
+        "originalFilename": "Screenshot 2023-06-15 093742.png",
+        "pathname": "/chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093742.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-mahi-mahi.html"
+  },
+  {
+    "name": "giant scatelope",
+    "datePublished": "2023-08-06T21:50:21+07:00",
+    "dateModified": "2023-08-06T22:01:21+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot 2023-06-15 093119.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093119.png",
+        "originalFilename": "Screenshot 2023-06-15 093119.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093119.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093155.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093155.png",
+        "originalFilename": "Screenshot 2023-06-15 093155.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093155.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093213.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093213.png",
+        "originalFilename": "Screenshot 2023-06-15 093213.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093213.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093230.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093230.png",
+        "originalFilename": "Screenshot 2023-06-15 093230.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093230.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093253.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093253.png",
+        "originalFilename": "Screenshot 2023-06-15 093253.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093253.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093309.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093309.png",
+        "originalFilename": "Screenshot 2023-06-15 093309.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093309.webp"
+      },
+      {
+        "filename": "Screenshot 2023-06-15 093338.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant scatelope",
+        "originalPath": "<chimera>/chimeraland/monsters/giant scatelope/Screenshot 2023-06-15 093338.png",
+        "originalFilename": "Screenshot 2023-06-15 093338.png",
+        "pathname": "/chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093338.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-scatelope.html"
   }
 ]
