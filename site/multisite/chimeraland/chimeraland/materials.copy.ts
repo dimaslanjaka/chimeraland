@@ -116,7 +116,7 @@ export async function materialsCopy(hexoProject: string, publicDir: string) {
         lower: true,
         trim: true
       })
-      const pathname_1 =
+      const imageUrlPathname =
         '/' +
         [
           'chimeraland',
@@ -127,7 +127,10 @@ export async function materialsCopy(hexoProject: string, publicDir: string) {
           .join('/')
           .replace(/-chimeraland/g, '')
       // copy images
-      const dest = join(publicDir, pathname_1.replace('/chimeraland/', '/'))
+      const dest = join(
+        publicDir,
+        imageUrlPathname.replace('/chimeraland/', '/')
+      )
       if (/(-|\s){2,10}|-chimeraland/g.test(dest)) {
         throw new Error('destination image has more hypens or spaces: ' + dest)
       }
@@ -149,7 +152,7 @@ export async function materialsCopy(hexoProject: string, publicDir: string) {
       }
       imgProcessed.push({
         absolutePath: dest.replace(hexoProject, '<project>'),
-        pathname: pathname_1
+        pathname: imageUrlPathname
       })
       imgFiles.shift()
     }
