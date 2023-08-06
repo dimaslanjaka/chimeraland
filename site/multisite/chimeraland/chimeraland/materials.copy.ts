@@ -62,7 +62,7 @@ export async function materialsCopy(hexoProject: string, publicDir: string) {
       }
     })
     const imgFiles = array_unique(
-      ['.jpg', '.png']
+      ['.jpg', '.png', '.webp']
         .map((ext) =>
           join(
             __dirname,
@@ -149,7 +149,7 @@ export async function materialsCopy(hexoProject: string, publicDir: string) {
       }
       imgProcessed.push({
         absolutePath: dest.replace(hexoProject, '<project>'),
-        pathname
+        pathname: pathname_1
       })
       imgFiles.shift()
     }
