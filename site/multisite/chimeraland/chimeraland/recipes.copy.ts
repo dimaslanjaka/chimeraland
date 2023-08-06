@@ -1,11 +1,6 @@
 import axios from 'axios'
-import {
-  copyFileSync,
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  writeFileSync
-} from 'fs-extra'
+import { copyFileSync, existsSync, mkdirSync, readFileSync } from 'fs-extra'
+import { writefile } from 'sbg-utility'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { dirname, join } from 'upath'
@@ -13,12 +8,12 @@ import { hexoProject } from '../project'
 import { array_unique } from '../src/utils/array'
 import recipes from './recipes.json'
 
-const publicDir = join(hexoProject, 'source/chimeraland')
+// const publicDir = join(hexoProject, 'source/chimeraland')
 const outputJSON = join(__dirname, '../src/utils/chimeraland-recipes.json')
 const data = recipes.data
 const results: any[] = []
 
-;(async () => {
+export async function recipesCopy(publicDir: string) {
   while (data.length > 0) {
     const item = data[0]
     const slugname = slugify(item.name, { lower: true, trim: true })
@@ -148,8 +143,8 @@ const results: any[] = []
     }
     data.shift()
   }
-  writeFileSync(outputJSON, JSON.stringify(results, null, 2))
-})()
+  writefile(outputJSON, JSON.stringify(results, null, 2))
+}
 
 function joinp(...str: string[]) {
   const path = join(...str)
@@ -157,4 +152,8 @@ function joinp(...str: string[]) {
     mkdirSync(dirname(path), { recursive: true })
   }
   return path
+}
+
+if (require.main === module) {
+  recipesCopy(join(hexoProject, 'source/chimeraland'))
 }
