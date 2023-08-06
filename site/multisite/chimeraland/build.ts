@@ -8,6 +8,7 @@ async function main() {
     hexoProject,
     path.join(hexoProject, 'source/chimeraland')
   )
+  await src.monstersCopy(path.join(hexoProject, 'source/chimeraland'))
   await src.createMarkdownMaterial(
     path.join(hexoProject, 'src-posts/chimeraland/materials')
   )
