@@ -5,6 +5,7 @@ const moment = require('moment-timezone')
 const { join, toUnix } = require('upath')
 
 // only run this script on termux
+// retrieve original dates of files
 
 const info = []
 
