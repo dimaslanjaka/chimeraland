@@ -28,9 +28,10 @@ interface MaterialObject {
 }
 
 const outputJSON = join(__dirname, '../src/utils/chimeraland-materials.json')
-const publicDir = join(hexoProject, 'source/chimeraland')
-Bluebird.all(materials.data)
-  .map(async (mat) => {
+// const publicDir = path.join(hexoProject, 'source/chimeraland')
+
+export async function materialsCopy(publicDir: string) {
+  const mapped = await Bluebird.all(materials.data).map(async (mat) => {
     const type = 'materials'
     const pathname =
       '/' +
@@ -101,9 +102,8 @@ Bluebird.all(materials.data)
 
       if (location.length > 0) {
         // console.log(mat.name, location)
-        location.forEach((loc) => {
-          imgFiles.push(loc)
-          //spotResult.push(loc)
+        location.forEach((loc_1) => {
+          imgFiles.push(loc_1)
         })
       }
     }
@@ -114,7 +114,7 @@ Bluebird.all(materials.data)
         lower: true,
         trim: true
       })
-      const pathname =
+      const pathname_1 =
         '/' +
         [
           'chimeraland',
@@ -125,7 +125,7 @@ Bluebird.all(materials.data)
           .join('/')
           .replace(/-chimeraland/g, '')
       // copy images
-      const dest = join(publicDir, pathname.replace('/chimeraland/', '/'))
+      const dest = join(publicDir, pathname_1.replace('/chimeraland/', '/'))
       if (/(-|\s){2,10}|-chimeraland/g.test(dest)) {
         throw new Error('destination image has more hypens or spaces: ' + dest)
       }
@@ -153,10 +153,8 @@ Bluebird.all(materials.data)
     }
     result.images = array_unique(imgProcessed, 'pathname') as any
     // result.location = spotResult
-
     return Object.fromEntries(Object.entries(result).sort())
   })
-  .then((mapped) => {
-    writefile(outputJSON, JSON.stringify(mapped, null, 2))
-    console.log('json written', outputJSON)
-  })
+  writefile(outputJSON, JSON.stringify(mapped, null, 2))
+  console.log('json written', outputJSON)
+}
