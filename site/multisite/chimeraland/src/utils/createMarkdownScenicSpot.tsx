@@ -1,7 +1,8 @@
-import { existsSync, mkdirpSync, writeFileSync } from 'fs-extra'
+import { existsSync, mkdirpSync } from 'fs-extra'
 import moment from 'moment'
 import prettier from 'prettier'
 import ReactDOMServer from 'react-dom/server'
+import { writefile } from 'sbg-utility'
 import slugify from 'slugify'
 import { dirname, join } from 'upath'
 import yaml from 'yaml'
@@ -117,7 +118,7 @@ export async function createMarkdownScenicSpot(publicDir: string) {
   if (!existsSync(dirname(output))) mkdirpSync(dirname(output))
   // console.log({ output })
   const formattedHtml = await prettier.format(html, { parser: 'html' })
-  writeFileSync(
+  writefile(
     output,
     `
   ---
