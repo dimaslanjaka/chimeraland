@@ -2,13 +2,17 @@ import { path } from 'sbg-utility'
 import { hexoProject } from './project'
 import * as src from './src'
 
-async function main() {
+async function copy() {
   await src.attendantCopy(path.join(hexoProject, 'source/chimeraland'))
   await src.materialsCopy(
     hexoProject,
     path.join(hexoProject, 'source/chimeraland')
   )
   await src.monstersCopy(path.join(hexoProject, 'source/chimeraland'))
+}
+
+async function main() {
+  await copy()
   await src.createMarkdownMaterial(
     path.join(hexoProject, 'src-posts/chimeraland/materials')
   )
