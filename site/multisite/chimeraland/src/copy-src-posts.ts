@@ -17,7 +17,7 @@ export function copySrcPost(srcPostOutputFolder: string) {
     'to',
     color.greenBright(srcPostOutputFolder.replace(process.cwd(), ''))
   )
-  return fs.copySync(srcPostFolder, srcPostOutputFolder, { overwrite: true })
+  return fs.copy(srcPostFolder, srcPostOutputFolder, { overwrite: true })
 }
 
 export default copySrcPost

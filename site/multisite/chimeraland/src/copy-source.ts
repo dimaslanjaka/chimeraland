@@ -10,7 +10,7 @@ const sourceOutputFolder = join(hexoProject, 'source/chimeraland')
  * @returns
  */
 export function copySource() {
-  return fs.copySync(sourceFolder, sourceOutputFolder, { overwrite: true })
+  return fs.copy(sourceFolder, sourceOutputFolder, { overwrite: true })
 }
 
 if (require.main === module) copySource()
