@@ -2,7 +2,7 @@
 ---
 title: Chimeraland Attendant List
 date: 2023-04-12T13:38:00+0700
-updated: 2023-05-23T11:14:26+07:00
+updated: 2023-08-06T22:00:21+07:00
 categories: ['games', 'chimeraland']
 tags: ['attendant']
 permalink: /chimeraland/attendant-list.html
@@ -105,3 +105,11 @@ permalink: /chimeraland/attendant-list.html
 - [Handelaar](/chimeraland/attendants/handelaar.html)
 - [Lunar Immortia](/chimeraland/attendants/lunar-immortia.html)
 - [Rosary Siren](/chimeraland/attendants/rosary-siren.html)
+- [Astakat](/chimeraland/attendants/astakat.html)
+- [Cin-Aqui](/chimeraland/attendants/cin-aqui.html)
+- [Furoo](/chimeraland/attendants/furoo.html)
+- [Ocylisha](/chimeraland/attendants/ocylisha.html)
+- [Ocyooka](/chimeraland/attendants/ocyooka.html)
+- [Shaman Jade](/chimeraland/attendants/shaman-jade.html)
+- [Vulendel](/chimeraland/attendants/vulendel.html)
+- [Windoo](/chimeraland/attendants/windoo.html)
