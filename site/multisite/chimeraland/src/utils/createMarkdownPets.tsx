@@ -281,7 +281,7 @@ export function createMarkdownPets(hexoProject: string) {
 ${yaml.stringify(attr).trim()}
 ---
 
-  ${html}
+${html}
     `.trim()
 
     const arr = [

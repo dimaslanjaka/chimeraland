@@ -232,7 +232,7 @@ export function createMarkdownRecipe(publicDir: string) {
 ${yaml.stringify(attr).trim()}
 ---
 
-  ${formattedHtml}
+${formattedHtml}
     `.trim()
     )
   })

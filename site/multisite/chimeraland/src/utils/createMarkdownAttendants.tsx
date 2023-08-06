@@ -302,7 +302,7 @@ export function createMarkdownAttendants(hexoProject: string) {
 ${yaml.stringify(attr).trim()}
 ---
 
-  ${html}
+${html}
     `.trim()
 
     const arr = [
