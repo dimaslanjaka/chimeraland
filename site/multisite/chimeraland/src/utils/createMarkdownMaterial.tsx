@@ -8,208 +8,209 @@ import slugify from 'slugify'
 import { join } from 'upath'
 import { inspect } from 'util'
 import yaml from 'yaml'
-import { hexoProject } from '../../project'
 import { jsxJoin } from './array-jsx'
 import { MaterialsData, RecipesData } from './chimeraland'
 import { capitalizer, strIsSame } from './string'
 
-const publicDir = join(hexoProject, 'src-posts/chimeraland/materials')
+// const publicDir = join(hexoProject, 'src-posts/chimeraland/materials')
 
 const errors: Error[] = []
 
-Bluebird.all(MaterialsData)
-  .each(async (item) => {
-    const attr: Record<string, any> = {}
-    attr.title = 'Material ' + item.name + ' Chimeraland'
-    attr.date = item.datePublished
-    attr.updated = item.dateModified
-    //attr.updated = moment().format()
-    attr.author = 'L3n4r0x'
-    attr.permalink = item.pathname
-    attr.photos = item.images.map((image) => image.pathname)
-    if (item.images.length > 0) {
-      const featured = item.images.find((image) =>
-        /feature/i.test(image.filename)
-      )
-      attr.thumbnail = (featured || item.images[0]).pathname
-    }
-    attr.tags = ['chimeraland', 'material']
-    attr.categories = ['Games', 'chimeraland', 'material']
+export function createMarkdownMaterial(publicDir: string) {
+  return Bluebird.all(MaterialsData)
+    .each(async (item) => {
+      const attr: Record<string, any> = {}
+      attr.title = 'Material ' + item.name + ' Chimeraland'
+      attr.date = item.datePublished
+      attr.updated = item.dateModified
+      //attr.updated = moment().format()
+      attr.author = 'L3n4r0x'
+      attr.permalink = item.pathname
+      attr.photos = item.images.map((image) => image.pathname)
+      if (item.images.length > 0) {
+        const featured = item.images.find((image) =>
+          /feature/i.test(image.filename)
+        )
+        attr.thumbnail = (featured || item.images[0]).pathname
+      }
+      attr.tags = ['chimeraland', 'material']
+      attr.categories = ['Games', 'chimeraland', 'material']
 
-    let indexer = 0
+      let indexer = 0
 
-    const recipes = findRecipe(item.name)
+      const recipes = findRecipe(item.name)
 
-    const mdC = (
-      <>
-        <link
-          rel="stylesheet"
-          href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
-        />
-        <section id="bootstrap-wrapper">
-          <div data-bs-theme="dark">
-            <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-dark text-light">
-              <div className="col p-4 d-flex flex-column position-static">
-                <strong className="d-inline-block mb-2 text-success">
-                  {item.type}
-                </strong>
-                <h2 className="mb-0">{item.name}</h2>
-                <div className="mb-1 text-muted">
-                  {moment(item.dateModified).format('LLL')}
-                </div>
-                {'background-info' in item && (
-                  <div className="mb-2 border p-1">
-                    {item['background-info']}
+      const mdC = (
+        <>
+          <link
+            rel="stylesheet"
+            href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+          />
+          <section id="bootstrap-wrapper">
+            <div data-bs-theme="dark">
+              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-dark text-light">
+                <div className="col p-4 d-flex flex-column position-static">
+                  <strong className="d-inline-block mb-2 text-success">
+                    {item.type}
+                  </strong>
+                  <h2 className="mb-0">{item.name}</h2>
+                  <div className="mb-1 text-muted">
+                    {moment(item.dateModified).format('LLL')}
                   </div>
-                )}
-                <a
-                  href={attr.permalink}
-                  className="stretched-link d-none text-primary">
-                  Continue reading {item.name}
-                </a>
-              </div>
-              <div className="col-auto d-none d-md-block d-lg-block">
-                <img
-                  src={
-                    item.images[0]
-                      ? new URL(
-                          'https://www.webmanajemen.com' +
-                            item.images[0].pathname
-                        ).toString()
-                      : 'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' +
-                        item.name
-                  }
-                  alt={item.name}
-                />
-              </div>
-            </div>
-
-            <div className="row">
-              <div className="col-lg-6 col-12 mb-2">
-                {'details' in item && (
-                  <div className="card">
-                    <div className="card-body">
-                      <h3 className="card-title">
-                        What is the use of the {item.name}
-                      </h3>
-                      <div className="card-text">
-                        <ul>
-                          {(item.details as string[]).map((str, i) => (
-                            <li key={'details' + i}>{str}</li>
-                          ))}
-                        </ul>
-                      </div>
+                  {'background-info' in item && (
+                    <div className="mb-2 border p-1">
+                      {item['background-info']}
                     </div>
-                  </div>
-                )}
-              </div>
-
-              <div className="col-lg-6 col-12 mb-2">
-                {'howto' in item && (
-                  <div className="card">
-                    <div className="card-body">
-                      <h3 className="card-title">How to get {item.name}</h3>
-                      <div className="card-text">
-                        <ul>
-                          {(item.howto as string[]).map((str, i) => (
-                            <li key={'details' + i}>{str}</li>
-                          ))}
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                )}
-              </div>
-
-              {/** print recipes only for cookable material */}
-              {recipes && (
-                <div className="col-12 mb-2">
-                  <h2 id="cookable">Cooking Recipes Using {item.name}</h2>
-                  {recipes}
+                  )}
+                  <a
+                    href={attr.permalink}
+                    className="stretched-link d-none text-primary">
+                    Continue reading {item.name}
+                  </a>
                 </div>
-              )}
-
-              <div className="col-12 mb-2">
-                <h2>{item.name} Spawn Locations</h2>
-                {item.images.length > 1 ? (
-                  (
-                    item.images as {
-                      absolutePath: string
-                      pathname: string
-                    }[]
-                  ).map((o, ii) => {
-                    indexer++
-                    if (!/mount/i.test(o.pathname)) {
-                      return <div key={o.pathname + ii + indexer}></div>
+                <div className="col-auto d-none d-md-block d-lg-block">
+                  <img
+                    src={
+                      item.images[0]
+                        ? new URL(
+                            'https://www.webmanajemen.com' +
+                              item.images[0].pathname
+                          ).toString()
+                        : 'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' +
+                          item.name
                     }
+                    alt={item.name}
+                  />
+                </div>
+              </div>
 
-                    const split = o.pathname.split(/\//g)
-                    const imgTitle = split[split.length - 1]
-                      .substring(0, split[split.length - 1].lastIndexOf('.'))
-                      .split(/-/g)
-                      .map((str) => capitalizer(str))
-                      .join(' ')
-                    return (
-                      <div key={o.pathname + ii + indexer} className="p-4">
-                        <h5>{imgTitle}</h5>
-                        <img
-                          src={new URL(
-                            'https://www.webmanajemen.com' + o.pathname
-                          ).toString()}
-                          alt={item.name}
-                          data-fancybox="true"
-                          width="100%"
-                        />
+              <div className="row">
+                <div className="col-lg-6 col-12 mb-2">
+                  {'details' in item && (
+                    <div className="card">
+                      <div className="card-body">
+                        <h3 className="card-title">
+                          What is the use of the {item.name}
+                        </h3>
+                        <div className="card-text">
+                          <ul>
+                            {(item.details as string[]).map((str, i) => (
+                              <li key={'details' + i}>{str}</li>
+                            ))}
+                          </ul>
+                        </div>
                       </div>
-                    )
-                  })
-                ) : (
-                  <p>{item.name} is randomly spawned</p>
+                    </div>
+                  )}
+                </div>
+
+                <div className="col-lg-6 col-12 mb-2">
+                  {'howto' in item && (
+                    <div className="card">
+                      <div className="card-body">
+                        <h3 className="card-title">How to get {item.name}</h3>
+                        <div className="card-text">
+                          <ul>
+                            {(item.howto as string[]).map((str, i) => (
+                              <li key={'details' + i}>{str}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  )}
+                </div>
+
+                {/** print recipes only for cookable material */}
+                {recipes && (
+                  <div className="col-12 mb-2">
+                    <h2 id="cookable">Cooking Recipes Using {item.name}</h2>
+                    {recipes}
+                  </div>
                 )}
+
+                <div className="col-12 mb-2">
+                  <h2>{item.name} Spawn Locations</h2>
+                  {item.images.length > 1 ? (
+                    (
+                      item.images as {
+                        absolutePath: string
+                        pathname: string
+                      }[]
+                    ).map((o, ii) => {
+                      indexer++
+                      if (!/mount/i.test(o.pathname)) {
+                        return <div key={o.pathname + ii + indexer}></div>
+                      }
+
+                      const split = o.pathname.split(/\//g)
+                      const imgTitle = split[split.length - 1]
+                        .substring(0, split[split.length - 1].lastIndexOf('.'))
+                        .split(/-/g)
+                        .map((str) => capitalizer(str))
+                        .join(' ')
+                      return (
+                        <div key={o.pathname + ii + indexer} className="p-4">
+                          <h5>{imgTitle}</h5>
+                          <img
+                            src={new URL(
+                              'https://www.webmanajemen.com' + o.pathname
+                            ).toString()}
+                            alt={item.name}
+                            data-fancybox="true"
+                            width="100%"
+                          />
+                        </div>
+                      )
+                    })
+                  ) : (
+                    <p>{item.name} is randomly spawned</p>
+                  )}
+                </div>
               </div>
             </div>
-          </div>
-        </section>
-      </>
-    )
+          </section>
+        </>
+      )
 
-    const html = ReactDOMServer.renderToStaticMarkup(mdC).toString()
+      const html = ReactDOMServer.renderToStaticMarkup(mdC).toString()
 
-    const output = join(
-      publicDir,
-      slugify(item.name, { trim: true, lower: true }) + '.md'
-    )
-    if (/buckt/gi.test(item.name)) console.log(output)
+      const output = join(
+        publicDir,
+        slugify(item.name, { trim: true, lower: true }) + '.md'
+      )
+      if (/buckt/gi.test(item.name)) console.log(output)
 
-    const formattedHtml = await prettier.format(html, { parser: 'html' })
+      const formattedHtml = await prettier.format(html, { parser: 'html' })
 
-    // dump
-    writefile(
-      join(
-        process.cwd(),
-        'tmp/html',
-        item.type,
-        slugify(item.name, { trim: true, lower: true }) + '.html'
-      ),
-      '<!DOCTYPE html>' + new jsdom.JSDOM(formattedHtml).serialize()
-    )
+      // dump
+      writefile(
+        join(
+          process.cwd(),
+          'tmp/html',
+          item.type,
+          slugify(item.name, { trim: true, lower: true }) + '.html'
+        ),
+        '<!DOCTYPE html>' + new jsdom.JSDOM(formattedHtml).serialize()
+      )
 
-    writefile(
-      output,
-      `
+      writefile(
+        output,
+        `
 ---
 ${yaml.stringify(attr).trim()}
 ---
 
 ${formattedHtml}
   `.trim()
-    )
-  })
-  .then(() => {
-    const errorfile = join(process.cwd(), 'tmp/error', 'material.log')
+      )
+    })
+    .then(() => {
+      const errorfile = join(process.cwd(), 'tmp/error', 'material.log')
 
-    writefile(errorfile, errors.map((e) => inspect(e)).join('\n\n'))
-  })
+      writefile(errorfile, errors.map((e) => inspect(e)).join('\n\n'))
+    })
+}
 
 function findRecipe(matname: string) {
   const find = RecipesData.filter((item) =>
