@@ -4,13 +4,13 @@ import { join } from 'upath'
 import { hexoProject } from '../project'
 
 const srcPostFolder = join(__dirname, '../src-posts')
-const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland')
+// const srcPostOutputFolder = join(hexoProject, 'src-posts/chimeraland')
 
 /**
  * copy multisite/chimeraland/src-post to hexo project/src-posts/chimeraland
  * @returns
  */
-export function copySrcPost() {
+export function copySrcPost(srcPostOutputFolder: string) {
   console.log(
     'copy',
     color.yellowBright(srcPostFolder.replace(process.cwd(), '')),
@@ -23,5 +23,6 @@ export function copySrcPost() {
 export default copySrcPost
 
 if (require.main === module) {
-  copySrcPost()
+  // run standalone
+  copySrcPost(join(hexoProject, 'src-posts/chimeraland'))
 }
