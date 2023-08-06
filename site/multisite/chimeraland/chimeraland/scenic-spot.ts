@@ -1,10 +1,5 @@
-import {
-  existsSync,
-  mkdirSync,
-  readdirSync,
-  readFileSync,
-  writeFileSync
-} from 'fs'
+import { existsSync, mkdirSync, readdirSync, readFileSync } from 'fs'
+import { writefile } from 'sbg-utility'
 import sharp from 'sharp'
 import slugify from 'slugify'
 import { basename, dirname, extname, join, toUnix } from 'upath'
@@ -12,11 +7,11 @@ import { hexoProject } from '../project'
 import { capitalizer } from '../src/utils/string'
 import { scenicArr } from './star-location'
 
-const publicDir = join(hexoProject, 'source/chimeraland/scenic-spot')
+// const publicDir = join(hexoProject, 'source/chimeraland/scenic-spot')
 const sourceDir = join(__dirname, 'locations/scenic-spot')
 const outputJSON = join(__dirname, '../src/utils/chimeraland-scenic.json')
 
-async function main() {
+export async function scenicSpotCopy(publicDir: string) {
   const readDir = readdirSync(sourceDir)
     .filter((str) => str !== 'desktop.ini')
     .map((file) => join(sourceDir, file))
@@ -53,7 +48,9 @@ async function main() {
 
   //result.map()
 
-  writeFileSync(outputJSON, JSON.stringify(result, null, 2))
+  writefile(outputJSON, JSON.stringify(result, null, 2))
 }
 
-main()
+if (require.main === module) {
+  scenicSpotCopy(join(hexoProject, 'source/chimeraland/scenic-spot'))
+}

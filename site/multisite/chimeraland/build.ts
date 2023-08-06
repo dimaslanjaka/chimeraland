@@ -10,6 +10,9 @@ async function copy() {
   )
   await src.monstersCopy(path.join(hexoProject, 'source/chimeraland'))
   await src.recipesCopy(path.join(hexoProject, 'source/chimeraland'))
+  await src.scenicSpotCopy(
+    path.join(hexoProject, 'source/chimeraland/scenic-spot')
+  )
 }
 
 async function main() {
