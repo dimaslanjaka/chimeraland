@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-07-01T08:49:51+07:00
+updated: 2023-08-04T20:39:37+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -435,6 +435,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll <strong>Plans: Ortzi Earrings</strong> milik <strong>Kuuhaku</strong> pada map polar feathered steed free entry no roll, dilaporkan oleh <strong>Kuuhaku</strong> <strong>June 29, 2023 10:30 AM</strong> <a href="#Reus-screenshots">screenshot</a></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="monarch2">monarch2</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drop items milik <strong>kimprit</strong> pada map armadilo free entry no roll, dilaporkan oleh <strong>kimprit</strong> pada tanggal July 27, 2023 9:27 PM <a href="#kimprit-party">screenshot</a></td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-jual-beli" tabindex="-1"><a href="#scammer-jual-beli">Scammer Jual-Beli</a></h2>
@@ -556,9 +561,14 @@ author: L3n4r0x
 <td style="text-align:left">SCAM daily service 500,000 IDR, reported by <strong>Ell</strong> at 03-07-2023. <a href="#baby-lordz-screenshots">screenshots</a></td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id=""></td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="">-</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">WhatsApp +6289657373191 scam ruby IDR 100,000 S117-121. Dilaporkan oleh <strong>Goldark</strong> <em>June 15, 2023 07:30 PM</em></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Ray119">Ray119</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">scam jual-beli telur di dalam game, dilaporkan oleh <strong>kendrugk</strong> pada tanggal <em>August 4, 2023 8:47 PM</em>. <a href="#ray119-screenshots">screenshots</a></td>
 </tr>
 </tbody>
 </table>
@@ -614,11 +624,6 @@ author: L3n4r0x
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="ChipsChips">ChipsChips</td>
-<td style="text-align:left">-</td>
-<td style="text-align:left">dicurigai sebagai scammer chimeraland MAP ILLUSTRIOUS 16 party</td>
-</tr>
-<tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Deshwan">Deshwan</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
@@ -629,12 +634,13 @@ author: L3n4r0x
 <td style="text-align:left">dicurigai sebagai SCAMMER ruby</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Salony">Salony</td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Meeeii">Meeeii</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
+<td style="text-align:left">mencoba roll drop item pada <a href="#kimprit-party">party free <strong>kimprit</strong> armadilo illus map no roll (click to see all the evidence) </a> dilaporkan oleh <strong>kimprit</strong> pada tanggal July 27, 2023 9:27 PM</td>
 </tr>
 </tbody>
 </table>
+<!-- | infinite | | mencoba roll drop item pada [party free **kimprit** armadilo illus map no roll (click to see all the evidence) ](#kimprit-party) dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM | -->
 <h2 id="nama-player-yang-sudah-bersih" tabindex="-1"><a href="#nama-player-yang-sudah-bersih">Nama player yang sudah bersih</a></h2>
 <blockquote>
 <p>Daftar Nama Player Yang Dihapus Dari Daftar Hitam Diatas</p>
@@ -687,6 +693,19 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="ray119-screenshots" tabindex="-1"><a href="#ray119-screenshots">Ray119 screenshots</a></h2>
+<p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf" alt="Ray119">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/8d826e8e-ae06-47ed-900f-d0accb4eb56f" alt="image">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/90785c3b-243c-4f39-b6af-b56eda608a7d" alt="Untitled">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/32189f54-94e2-49c3-8e73-a8ead3c2d76c" alt="Untitled-1"></p>
+<h2 id="kimprit-party" tabindex="-1"><a href="#kimprit-party">kimprit party</a></h2>
+<blockquote>
+<p>free  entry <em>armadilo map</em> no roll</p>
+</blockquote>
+<p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/fefc8b35-b83c-430b-b1d4-e71f3c30fe8f" alt="Meeeii">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/c78d58cf-1db7-42db-b482-d1b1f91c9075" alt="Meeeii">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/a918a768-febd-4ff2-87f7-3031b3d3ffce" alt="monarch2">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/0d739620-2635-4e20-bd2c-384a5536ff7d" alt="image"></p>
 <h2 id="reus-screenshots" tabindex="-1"><a href="#reus-screenshots">Reus Screenshots</a></h2>
 <p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/33c3942e-2daf-4007-8e8a-3f624726505c" alt="image">
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/eaa8d651-ac90-4b6c-bb90-6aa3340da55c" alt="image"></p>

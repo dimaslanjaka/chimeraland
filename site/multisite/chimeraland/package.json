@@ -55,7 +55,6 @@
     "sharp": "^0.32.1",
     "slugify": "^1.6.6",
     "through2": "^4.0.2",
-    "true-case-path": "^2.2.1",
     "upath": "^2.0.1",
     "validate": "^5.2.0",
     "yaml": "^2.3.1"

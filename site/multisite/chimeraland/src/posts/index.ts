@@ -4,8 +4,8 @@
 import { glob } from 'glob'
 import { parsePost } from 'hexo-post-parser'
 import moment from 'moment-timezone'
-import { writefile } from 'sbg-utility'
-import { trueCasePathSync } from 'true-case-path'
+import { trueCasePathSync, writefile } from 'sbg-utility'
+
 import path from 'upath'
 import {
   AttendantsData,

@@ -2,8 +2,7 @@ import Bluebird from 'bluebird'
 import fs from 'fs'
 import git, { spawnAsync } from 'git-command-helper'
 import * as glob from 'glob'
-import sbgutil from 'sbg-utility'
-import { trueCasePathSync } from 'true-case-path'
+import sbgutil, { trueCasePathSync } from 'sbg-utility'
 import path, { basename, join, toUnix } from 'upath'
 
 /** images directory */
