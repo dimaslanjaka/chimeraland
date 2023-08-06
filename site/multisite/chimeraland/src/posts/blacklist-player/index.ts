@@ -32,27 +32,29 @@ const bodyfile = join(__dirname, 'body.md')
 const bodymd = readFileSync(bodyfile).toString()
 const bodyhtml = renderMarkdown(bodymd)
 const dom = new JSDOM(bodyhtml)
-Array.from(dom.window.document.querySelectorAll('table')).forEach(function (
-  table
-) {
-  table.setAttribute('style', 'width:100%;')
-  Array.from(table.querySelectorAll('tr')).forEach((tr) => {
-    const player = tr.querySelector('td:nth-child(1)')
-    if (player && !/nama player/gim.test(player.innerHTML)) {
-      // console.log(player.innerHTML)
-      // tell google translate do not translate this element
-      // https://stackoverflow.com/a/9629628
-      player.setAttribute('notranslate', 'true')
-      player.setAttribute(
-        'class',
-        (player.getAttribute('class') || '').trim() + ' notranslate'
-      )
-      // add attribute id to player nickname
-      const id = slugify(player.innerHTML)
-      if (!dom.window.document.getElementById(id)) player.setAttribute('id', id)
-    }
-  })
-})
+
+Array.from(dom.window.document.querySelectorAll('table')).forEach(
+  function (table) {
+    table.setAttribute('style', 'width:100%;')
+    Array.from(table.querySelectorAll('tr')).forEach((tr) => {
+      const player = tr.querySelector('td:nth-child(1)')
+      if (player && !/nama player/gim.test(player.innerHTML)) {
+        // console.log(player.innerHTML)
+        // tell google translate do not translate this element
+        // https://stackoverflow.com/a/9629628
+        player.setAttribute('notranslate', 'true')
+        player.setAttribute(
+          'class',
+          (player.getAttribute('class') || '').trim() + ' notranslate'
+        )
+        // add attribute id to player nickname
+        const id = slugify(player.innerHTML)
+        if (!dom.window.document.getElementById(id))
+          player.setAttribute('id', id)
+      }
+    })
+  }
+)
 
 Array.from(dom.window.document.querySelectorAll('*')).forEach(function (el) {
   let style = el.getAttribute('style') || ''
@@ -85,8 +87,5 @@ screenshotsGlob().then(function (ss) {
   const build = buildPost(post)
   const saveTo = join(chimeralandProject, 'src-posts/blacklist-player.md')
 
-  sbgutil.debug('chimera-blacklist')(
-    'blacklist saved',
-    sbgutil.writefile(saveTo, build).file
-  )
+  console.log('blacklist saved', sbgutil.writefile(saveTo, build).file)
 })

@@ -27,7 +27,7 @@ author: L3n4r0x
 <p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>
 <center><small>short link https://bit.ly/chimeraland-blacklist</small></center>
 <!-- https://codepen.io/dimaslanjaka/pen/rXMVRj -->
-<style type="text/css" notranslate>
+<style type="text/css" notranslate="">
   #translator-wrapper {
     display: block;
     width: 90%;
@@ -47,8 +47,10 @@ author: L3n4r0x
   }
 
   #translator-wrapper img {
-    width: 0; /*40px*/
-    height: 0; /*40px*/
+    width: 0;
+    /*40px*/
+    height: 0;
+    /*40px*/
     display: none;
     border: none;
     appearance: none;
@@ -127,7 +129,7 @@ author: L3n4r0x
 
 <center>Translate</center>
 
-<div id="translator-wrapper" notranslate>
+<div id="translator-wrapper" notranslate="">
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Google_Translate_Icon.png" alt="Translate" id="t-icon"> -->
   <select id="translate-language">
     <option value="en" selected="selected">English</option>
@@ -198,7 +200,8 @@ author: L3n4r0x
     <option value="yi">Yiddish</option>
   </select><a id="translate-me" href="#" title="Translate"></a>
 </div>
-<script type="text/javascript" notranslate>
+
+<script type="text/javascript" notranslate="">
   function translatorWidgetStart() {
     var mylang = 'id', // Your website language
       translateBtn = document.getElementById('translate-me'),
@@ -225,7 +228,6 @@ author: L3n4r0x
   }
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
-
 <h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
 <p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
 <h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
