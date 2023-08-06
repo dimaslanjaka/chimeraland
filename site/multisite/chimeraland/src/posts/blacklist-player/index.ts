@@ -91,8 +91,8 @@ screenshotsGlob().then(function (ss) {
   }
 
   Bluebird.all([
-    minify(body.replace('<!-- ss -->', translator), opt),
-    minify(body.replace('<!-- ss -->', translator), opt)
+    minify(body.replace('<!-- ss -->', translator + '\n'), opt),
+    minify(body.replace('<!-- ss -->', translator + '\n'), opt)
   ]).then((arr) => {
     const post: postMap = {
       metadata,
