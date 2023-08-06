@@ -8,7 +8,7 @@ import slugify from 'slugify'
 import { join } from 'upath'
 import { inspect } from 'util'
 import yaml from 'yaml'
-import { MonstersData, RecipesData } from './chimeraland'
+import { AttendantsData, RecipesData } from './chimeraland'
 import { capitalizer } from './string'
 
 interface Image {
@@ -22,12 +22,31 @@ interface Image {
 
 type Images = Image[]
 
+type Item = {
+  datePublished: string
+  dateModified: string
+  name: string
+  qty: string
+  buff: Array<string>
+  delicacies: Array<string>
+  images: Array<{
+    filename: string
+    folder: string
+    originalPath: string
+    originalFilename: string
+    pathname: string
+  }>
+  videos: Array<any>
+  type: string
+  pathname: string
+}
+
 /**
  * create markdown for attendants and monsters
  * @param hexoProject root of hexo project
  */
-export function createMarkdownPets(hexoProject: string) {
-  return bluebird.all(MonstersData).each(async (item) => {
+export function createMarkdownAttendants(hexoProject: string) {
+  return bluebird.all(AttendantsData).each(async (item: Item) => {
     const attr: Record<string, any> = {}
     attr.title = capitalizer(item.type).replace(/s$/, '') + ' ' + item.name
     attr.webtitle = 'chimeraland'
@@ -78,8 +97,8 @@ export function createMarkdownPets(hexoProject: string) {
       } else {
         qualities.push(['N/A', 'N/A', 'N/A', 'N/A'])
       }
-    } else {
-      const mapper = item.qty
+    } else if (Array.isArray(item.qty)) {
+      const mapper = (item.qty as string[])
         .map((str) => {
           const exec = regex.exec(str.trim())
           if (!exec) {
@@ -89,6 +108,8 @@ export function createMarkdownPets(hexoProject: string) {
         })
         .filter((result) => Array.isArray(result)) as RegExpExecArray[]
       qualities.push(...mapper)
+    } else {
+      console.error('(attendant): item type is unknown')
     }
     const qtyhtm = [] as JSX.Element[]
 
