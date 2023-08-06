@@ -1880,7 +1880,86 @@
     ],
     "skill": [],
     "images": [
-      "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/floating-mist-legendary.jpg"
+      {
+        "url": "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/floating-mist-legendary.jpg"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-27-09_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-27-09_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-27-09_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-27-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-31-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-31-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-36-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-36-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-40-30_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-40-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-40-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-40-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-45-01_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-45-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-45-01_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-45-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-50-56_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-50-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-50-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-50-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-00-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-00-55-13_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-00-55-13_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-01-02-18_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-01-02-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-01-02-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-02-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/floating mist",
+        "originalPath": "<chimera>/chimeraland/monsters/floating mist/Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
     ],
     "videos": [],
     "type": "monsters",
@@ -5118,7 +5197,79 @@
     ],
     "skill": [],
     "images": [
-      "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/pixie-legendary.jpg"
+      {
+        "url": "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/pixie-legendary.jpg"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/pixie",
+        "originalPath": "<chimera>/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
     ],
     "videos": [],
     "type": "monsters",
@@ -6858,20 +7009,78 @@
   },
   {
     "dateModified": "2023-05-25T03:48:12+07:00",
-    "datePublished": "2023-05-25T02:21:12+07:00",
-    "name": "Transparay",
-    "qty": "GRADE A ATK N/A HP N/A DEF N/A",
+    "datePublished": "2023-08-07T01:43:16+07:00",
+    "name": "Giant Transparay",
+    "qty": "GRADE A ATK 70 HP 70 DEF 70",
     "delicacies": [],
     "buff": [
       "Essence Aspect: Aspect: Endless Stream"
     ],
     "skill": [],
     "images": [
-      "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/transparay-legendary.jpg"
+      {
+        "url": "https://zilliongamer.com/uploads/chimeraland/eggs/legendary-eggs/transparay-legendary.jpg"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-34-53-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-34-53-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-34-53-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-34-53-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-00-69_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-00-69_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-00-69_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-00-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-04-17_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-04-17_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-04-17_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-04-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-08-30_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-08-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-08-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-08-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-15-80_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-15-80_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-15-80_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-15-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-20-92_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-20-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-20-92_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-20-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-26-14_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-26-14_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-26-14_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-26-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-35-31-61_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant transparay",
+        "originalPath": "<chimera>/chimeraland/monsters/giant transparay/Screenshot_2023-08-06-23-35-31-61_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-35-31-61_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-31-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
     ],
     "videos": [],
     "type": "monsters",
-    "pathname": "/chimeraland/monsters/transparay.html"
+    "pathname": "/chimeraland/monsters/giant-transparay.html"
   },
   {
     "dateModified": "2023-05-25T12:54:12+07:00",
@@ -9039,6 +9248,13 @@
         "originalPath": "<chimera>/chimeraland/monsters/giant bone dragon/Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "originalFilename": "Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
         "pathname": "/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant bone dragon",
+        "originalPath": "<chimera>/chimeraland/monsters/giant bone dragon/Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
       }
     ],
     "videos": [],
@@ -12938,5 +13154,306 @@
     "videos": [],
     "type": "monsters",
     "pathname": "/chimeraland/monsters/giant-scatelope.html"
+  },
+  {
+    "name": "giant dinbear",
+    "datePublished": "2023-08-07T04:00:28+07:00",
+    "dateModified": "2023-08-07T04:11:28+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-08-06-23-36-52-84_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-36-52-84_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-36-52-84_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-36-52-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-36-56-30_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-36-56-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-36-56-30_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-36-56-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-37-00-52_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-37-00-52_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-37-00-52_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-37-00-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-37-04-50_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-37-04-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-37-04-50_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-37-04-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-37-31-36_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-37-31-36_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-37-31-36_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-37-31-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-38-04-16_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-38-04-16_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-38-04-16_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-38-04-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-38-09-67_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-38-09-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-38-09-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-38-09-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-38-15-48_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant dinbear",
+        "originalPath": "<chimera>/chimeraland/monsters/giant dinbear/Screenshot_2023-08-06-23-38-15-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-38-15-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-38-15-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-dinbear.html"
+  },
+  {
+    "name": "giant squid",
+    "datePublished": "2023-08-07T04:00:28+07:00",
+    "dateModified": "2023-08-07T04:11:28+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-18-33-75_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-33-75_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-33-75_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-33-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-18-38-89_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-38-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-38-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-38-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-18-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-42-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-42-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-18-49-54_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-49-54_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-49-54_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-49-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-18-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-18-59-74_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-18-59-74_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-19-04-34_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-19-04-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-19-04-34_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-19-04-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-19-11-33_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant squid",
+        "originalPath": "<chimera>/chimeraland/monsters/giant squid/Screenshot_2023-08-07-01-19-11-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-19-11-33_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-19-11-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-squid.html"
+  },
+  {
+    "name": "giant whitefox",
+    "datePublished": "2023-08-07T04:00:28+07:00",
+    "dateModified": "2023-08-07T04:11:28+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-19-47-19_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-19-47-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-19-47-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-47-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-19-55-67_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-19-55-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-19-55-67_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-55-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-00-40_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-00-40_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-00-40_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-00-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-05-48_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-05-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-05-48_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-05-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-09-62_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-09-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-09-62_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-09-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-23-71_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-23-71_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-23-71_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-23-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-27-93_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-27-93_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-34-44_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-34-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-34-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-34-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-06-23-20-51-81_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/giant whitefox",
+        "originalPath": "<chimera>/chimeraland/monsters/giant whitefox/Screenshot_2023-08-06-23-20-51-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-06-23-20-51-81_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-51-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/giant-whitefox.html"
+  },
+  {
+    "name": "lichen bufonidae",
+    "datePublished": "2023-08-07T04:00:28+07:00",
+    "dateModified": "2023-08-07T04:11:28+07:00",
+    "qty": "",
+    "skill": [],
+    "buff": [],
+    "delicacies": [],
+    "images": [
+      {
+        "filename": "Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-05-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-37-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-37-98_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-05-42-26_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-42-26_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-42-26_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-42-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-05-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-46-22_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-46-22_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-05-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-51-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-51-53_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-05-57-28_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-05-57-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-05-57-28_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-57-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-06-02-18_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-06-02-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-06-02-18_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-02-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-06-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-06-06-94_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-06-06-94_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      },
+      {
+        "filename": "Screenshot_2023-08-07-01-06-17-19_f4fc9fb10454fc3a3dacb99dff89b568.webp",
+        "folder": "<chimera>/chimeraland/monsters/lichen bufonidae",
+        "originalPath": "<chimera>/chimeraland/monsters/lichen bufonidae/Screenshot_2023-08-07-01-06-17-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "originalFilename": "Screenshot_2023-08-07-01-06-17-19_f4fc9fb10454fc3a3dacb99dff89b568.jpg",
+        "pathname": "/chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-17-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+      }
+    ],
+    "videos": [],
+    "type": "monsters",
+    "pathname": "/chimeraland/monsters/lichen-bufonidae.html"
   }
 ]
