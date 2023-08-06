@@ -1,5 +1,7 @@
+import Bluebird from 'bluebird'
 import { readFileSync } from 'fs-extra'
 import { buildPost, postMap, postMeta, renderMarkdown } from 'hexo-post-parser'
+import { Options, minify } from 'html-minifier-terser'
 import { JSDOM } from 'jsdom'
 import { EOL } from 'os'
 import sbgutil from 'sbg-utility'
@@ -79,13 +81,27 @@ dom.window.close()
 screenshotsGlob().then(function (ss) {
   body = body.replace('<!-- tangkapan.layar -->', ss.join(EOL))
 
-  const post: postMap = {
-    metadata,
-    body: body.replace('<!-- ss -->', translator),
-    rawbody: body.replace('<!-- ss -->', translator)
+  const opt: Options = {
+    // false = keep attribute has space
+    removeTagWhitespace: false,
+    // false = keep attribute quotes
+    removeAttributeQuotes: false,
+    minifyCSS: true,
+    minifyJS: true
   }
-  const build = buildPost(post)
-  const saveTo = join(chimeralandProject, 'src-posts/blacklist-player.md')
 
-  console.log('blacklist saved', sbgutil.writefile(saveTo, build).file)
+  Bluebird.all([
+    minify(body.replace('<!-- ss -->', translator), opt),
+    minify(body.replace('<!-- ss -->', translator), opt)
+  ]).then((arr) => {
+    const post: postMap = {
+      metadata,
+      body: arr[0],
+      rawbody: arr[1]
+    }
+    const build = buildPost(post)
+    const saveTo = join(chimeralandProject, 'src-posts/blacklist-player.md')
+
+    console.log('blacklist saved', sbgutil.writefile(saveTo, build).file)
+  })
 })
