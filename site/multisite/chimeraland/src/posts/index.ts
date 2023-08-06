@@ -84,8 +84,8 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
       writefile(path.join(__dirname, '../../src-posts/index.md'), markdown)
     })
   })
-  .finally(function () {
-    import('./attendant-list')
-    import('./blacklist-player')
-    import('./material-location')
+  .finally(async function () {
+    await import('./attendant-list')
+    await import('./blacklist-player')
+    await import('./material-location')
   })
