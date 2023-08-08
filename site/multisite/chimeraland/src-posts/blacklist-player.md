@@ -15,7 +15,7 @@ tags:
   - blacklist
   - guide
 categories:
-  - Games
+  - games
   - Chimeraland
 keywords:
   - scammer list chimeraland

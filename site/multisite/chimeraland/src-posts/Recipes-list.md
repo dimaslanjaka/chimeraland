@@ -4,7 +4,7 @@ author:
   link: https://github.com/dimaslanjaka
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
 category:
-  - Games
+  - games
   - Chimeraland
 comments: true
 cover: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg

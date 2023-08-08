@@ -1,6 +1,6 @@
 ---
 category:
-  - Games
+  - games
   - Chimeraland
 comments: true
 cover: https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg

@@ -3,7 +3,7 @@ title: Chimeraland attendant skill book list
 date: 2023-01-30T01:30:47+07:00
 updated: 2023-01-30T01:39:47+07:00
 author: L3n4r0x
-categories: ['Games', 'Chimeraland']
+categories: ['games', 'Chimeraland']
 tags: ['attendants', 'skill']
 permalink: /chimeraland/attendant-skill-book-list.html
 thumbnail: https://img.youtube.com/vi/kV6vGNhwyRA/mqdefault.jpg

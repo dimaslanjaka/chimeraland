@@ -34,7 +34,7 @@ export function createMarkdownMaterial(publicDir: string) {
         attr.thumbnail = (featured || item.images[0]).pathname
       }
       attr.tags = ['chimeraland', 'material']
-      attr.categories = ['Games', 'chimeraland', 'material']
+      attr.categories = ['games', 'chimeraland', 'material']
 
       let indexer = 0
 

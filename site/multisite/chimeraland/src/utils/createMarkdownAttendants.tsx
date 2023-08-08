@@ -68,10 +68,10 @@ export function createMarkdownAttendants(hexoProject: string) {
     attr.categories = []
     if (item.type === 'monsters') {
       attr.tags = ['chimeraland', 'monster', 'pet']
-      attr.categories = ['Games', 'chimeraland', 'monsters']
+      attr.categories = ['games', 'chimeraland', 'monsters']
     } else {
       attr.tags = ['chimeraland', 'Attendant']
-      attr.categories = ['Games', 'chimeraland', 'attendants']
+      attr.categories = ['games', 'chimeraland', 'attendants']
     }
 
     // remove undefineds

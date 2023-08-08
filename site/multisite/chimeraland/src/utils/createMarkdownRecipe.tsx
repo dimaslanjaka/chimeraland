@@ -31,7 +31,7 @@ export function createMarkdownRecipe(publicDir: string) {
       item.images.pathname ||
       'https://via.placeholder.com/550x50/FFFFFF/000000/?text=' + item.name
     attr.tags = ['chimeraland', 'recipe']
-    attr.categories = ['Games', 'chimeraland', 'recipes']
+    attr.categories = ['games', 'chimeraland', 'recipes']
 
     const mdC = (
       <>

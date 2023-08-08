@@ -1,6 +1,6 @@
 ---
 category:
-  - Games
+  - games
   - Chimeraland
 comments: true
 cover: Pets/cover.jpg

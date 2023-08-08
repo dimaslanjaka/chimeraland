@@ -8,7 +8,7 @@ tags:
   - Chimeraland
   - Redeem Code
 category:
-  - Games
+  - games
   - Chimeraland
 ---
 

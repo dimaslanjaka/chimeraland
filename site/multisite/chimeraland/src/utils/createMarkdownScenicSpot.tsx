@@ -17,7 +17,7 @@ export async function createMarkdownScenicSpot(publicDir: string) {
     webtitle: 'chimeraland',
     permalink: '/chimeraland/scenic-spots/',
     tags: ['chimeraland', 'scenic-spot'],
-    categories: ['Games', 'chimeraland', 'scenic-spot'],
+    categories: ['games', 'chimeraland', 'scenic-spot'],
     date: moment('2022-09-10').format(),
     updated: '2022-11-02T15:58:09+07:00',
     description: 'Scenic Spot Locations - Chimeraland',

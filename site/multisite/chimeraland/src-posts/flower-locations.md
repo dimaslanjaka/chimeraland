@@ -2,7 +2,7 @@
 title: Lokasi Spawn Bunga Di Chimeraland
 lang: id
 category:
-  - Games
+  - games
   - Chimeraland
 tags:
   - Chimeraland

@@ -5,7 +5,7 @@ date: 2022-06-10
 updated: 2022-08-26T05:30:00+0700
 thumbnail: https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg
 category:
-  - Games
+  - games
   - Chimeraland
 tags:
   - Chimeraland

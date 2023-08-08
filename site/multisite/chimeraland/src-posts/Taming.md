@@ -12,7 +12,7 @@ tags:
   - Temp
   - Taming
 category:
-  - Games
+  - games
   - Chimeraland
 ---
 
