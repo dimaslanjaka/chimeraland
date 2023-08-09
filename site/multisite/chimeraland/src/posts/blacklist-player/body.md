@@ -86,6 +86,7 @@
 | BabyLordz | APPOCALYPZE | SCAM daily service 500,000 IDR, reported by **Ell** at 03-07-2023. [screenshots](#baby-lordz-screenshots) |
 | - | | WhatsApp +6289657373191 scam ruby IDR 100,000 S117-121. Dilaporkan oleh **Goldark** _June 15, 2023 07:30 PM_ |
 | Ray119 | | scam jual-beli telur di dalam game, dilaporkan oleh **kendrugk** pada tanggal _August 4, 2023 8:47 PM_. [screenshots](#ray119-screenshots) |
+| Khimiauw | | Scam jasa hunting Serpenine Xiangliu Map 150 ruby dilaporkan oleh **UnknowN** pada tanggal _August 7, 2023 11:46 AM_ [screenshots](#khimiauw-screenshots) |
 
 ## Scammer Bitter
 > Daftar scammer/blacklist player kategori SCAMMER BITTER COLD SPRING
@@ -137,6 +138,11 @@
 ## Avillio Screenshots
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://drive.google.com/file/d/12kUkNogalG-rVXZLR94GKijRzgrL2Ivy/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
+
+## Khimiauw Screenshots
+![kronologi](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/65ae7aee-0acb-442b-a56f-a1790ea5e851)
+![bukti sudah memasang plans fenix](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/fbdef4b4-55f7-4a0d-83b5-c0b5386c52b3)
+![bukti sudah di-buyout](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/9562ea54-f2d2-43f5-aad1-faafb65e187f)
 
 ## Ray119 Screenshots
 ![Ray119](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf)
