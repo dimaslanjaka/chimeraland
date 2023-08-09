@@ -7,8 +7,8 @@
 
 **scam** adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. _Pelaku yang melakukan scam_ disebut dengan **scammer**. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.
 
-## Scammer Map Illus 16
-> Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY
+## Scammer Map Party
+> Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS/CASUALITY ART PARTY
 
 > Pastikan **Auto abadon roll sudah cek** pada **Team Settings** setiap masuk sebuah team.
 > - Klik Team
@@ -55,7 +55,8 @@
 | DWB23 | | Out party sebelum giliran map-nya, dilaporkan oleh **wolfPACK** & **hendro** _June 16, 2023 10:18 PM_ [screenshot](#DWB23-j-screenshots) |
 | Oldestdream | | Roll **Plans: Ortzi Pauldron** milik **Kolten** pada map illus free entry no roll, dilaporkan oleh **Kolten** **June 19, 2023 9:06 AM** [screenshot](#Oldestdream-screenshots) |
 | Reus | | Roll **Plans: Ortzi Earrings** milik **Kuuhaku** pada map polar feathered steed free entry no roll, dilaporkan oleh **Kuuhaku** **June 29, 2023 10:30 AM** [screenshot](#Reus-screenshots) |
-| monarch2 | | Roll drop items milik **kimprit** pada map armadilo free entry no roll, dilaporkan oleh **kimprit** pada tanggal July 27, 2023 9:27 PM [screenshot](#kimprit-party) |
+| monarch2 | | Roll drop items milik **kimprit** pada map armadilo free entry no roll, dilaporkan oleh **kimprit** pada tanggal _July 27, 2023 9:27 PM_ [screenshot](#kimprit-party) |
+| Avillio | | Roll Ortzi Divine cludgel milik **UnknowN** dilaporkan oleh **Unknown** pada tanggal _August 7, 2023 11:46 AM_ [bukti video](#avillio-screenshots) |
 
 ## Scammer Jual-Beli
 > Daftar scammer/blacklist player kategori SCAMMER Jual-Beli (pembelian, penjualan, dan transaksi pembayaran lainnya) dalam bentuk ruby, mata uang, dan lain sebagainya.
@@ -133,7 +134,7 @@
 
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
-## Avilio Screenshots
+## Avillio Screenshots
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://drive.google.com/file/d/12kUkNogalG-rVXZLR94GKijRzgrL2Ivy/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="encrypted-media;"></iframe></div>
 
