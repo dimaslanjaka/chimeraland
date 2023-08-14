@@ -27,7 +27,7 @@
     "pack": "node packer.js --yarn"
   },
   "dependencies": {
-    "@google-cloud/local-auth": "^2.1.1",
+    "@google-cloud/local-auth": "^3.0.0",
     "@googleapis/docs": "^2.0.1",
     "ansi-colors": "^4.1.3",
     "axios": "1",
