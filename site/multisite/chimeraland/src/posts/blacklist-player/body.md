@@ -137,6 +137,7 @@
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 
 ## kimporr Screenshots
+![party created](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/f0fade7d-f527-4aa5-b14a-e50334e28fdf)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/bffeeb68-e198-4ae1-9774-8775fb032fd3)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/65d7f98b-c4e9-4f34-810f-6bcd7075016e)
 ![image](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/2ecd90f7-55e8-4773-95ec-46e6d08e36fe)
