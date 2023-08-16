@@ -141,6 +141,7 @@
 
 ![pengakuan partisipan Nazreen](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/e9044371-c9c1-4919-b17b-593b4c80fc69)
 ![pengakuan partisipan Dy](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/383aae9d-2170-450b-8d54-6dc820595824)
+![pengakuan partisipan Sus Ahli 3](https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/9400064a-b3ee-45ac-a1ff-7a753200f012)
 
 ## Avillio Screenshots
 
