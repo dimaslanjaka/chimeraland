@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "White Maiden",
+      "from": "Snowie",
+      "thumbnail": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/monsters/white maiden/chimeraland-white-snake-evolve-featured.png",
+      "materials": [
+        {
+          "name": "Illustrious Beast Soul",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/illustrious-beast-soul.png"
+        },
+        {
+          "name": "Moon Resin Dew",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/moon-resin-dew.png"
+        },
+        {
+          "name": "Dragon Pill",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/dragon-pill.png"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Noble Golden Crow",
+      "from": "Condor",
+      "thumbnail": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/monsters/noble golden crow/noble-golden-crow.png",
+      "materials": [
+        {
+          "name": "Fine Jade Liquid",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/fine-jade-liquid.png"
+        },
+        {
+          "name": "Primal",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/primal.png"
+        },
+        {
+          "name": "Cray Pill",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/dragon-pill.png"
+        },
+        {
+          "name": "Flamebug Primal Spirit",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/flamebug-primal-spirit.png"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Dragon Horse",
+      "from": "Black Horse"
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Bony Sabretooth",
+      "from": "Gripine",
+      "thumbnail": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/monsters/bony sabretooth/chimeraland-bony-stretooth-evolve-featured.png",
+      "materials": [
+        {
+          "name": "Illustrious Beast Soul",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/illustrious-beast-soul.png"
+        },
+        {
+          "name": "Spirit Fox Primal Spirit",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/spirit-fox-primal-spirit.png"
+        },
+        {
+          "name": "Stoatle Shell",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/goldscale-shell.png"
+        },
+        {
+          "name": "Fallen Snow Bone",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/fallen-snow-bone.png"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Minkrat",
+      "from": "Leoparbeak",
+      "thumbnail": "https://zilliongamer.com/uploads/chimeraland/featured/chimeraland-minkrat-evolve-featured.jpg",
+      "parts": [
+        {
+          "name": "Grand Pinchpion Tail",
+          "monster": "Pinchpion"
+        },
+        {
+          "name": "Shellcoon Head",
+          "monster": "Shellcoon"
+        }
+      ],
+      "materials": [
+        {
+          "name": "Minkrat Evolution Powder",
+          "image": "https://zilliongamer.com/uploads/chimeraland/guide/how-to-evolve-minkrat/minkrat-evolution-powder.jpg"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Noble Serpent",
+      "from": "Mamba",
+      "thumbnail": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/monsters/noble serpent/chimeraland-noble-serpent-evolve-featured.png",
+      "materials": [
+        {
+          "name": "Moddly Wings",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/moddly-wings.png"
+        },
+        {
+          "name": "Primal",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/primal.png"
+        },
+        {
+          "name": "Frost Dragon Primal Element",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/frost-dragon-primal-element.png"
+        },
+        {
+          "name": "Icebug Primal Spirit",
+          "image": "/media/dimaslanjaka/DATA/Repositories/chimeraland/src/chimeraland/materials/bone-sheep-primal-spirit.png"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Pinnapup",
+      "from": "Snowbear",
+      "parts": [
+        {
+          "name": "Leoparbeak's Head",
+          "monster": "Leoparbeak"
+        },
+        {
+          "name": "Beetlefly's Wings",
+          "monster": "Beetlefly"
+        }
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:27:17+07:00",
+      "name": "Duahawk",
+      "from": "Vuldo",
+      "parts": [
+        {
+          "name": "Condor's Head",
+          "monster": "Condor"
+        },
+        {
+          "name": "White Condor's Wings",
+          "monster": "White Condor"
+        }
+      ],
+      "pill": "Duahawk Evol Pill"
+    }
+  ]
+}

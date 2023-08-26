@@ -1,0 +1,32 @@
+[
+  {
+    "starName": "Isolated Star",
+    "faction": "Central",
+    "region": "Witche's Mountain"
+  },
+  {
+    "starName": "Martialsong Star",
+    "faction": "Central",
+    "region": "Mount Burns"
+  },
+  {
+    "starName": "Thunderclap Star",
+    "faction": "Central",
+    "region": "Jade Coast"
+  },
+  {
+    "starName": "Hidden Dragon Star",
+    "faction": "Central",
+    "region": "Mount Vehementi (Sea)"
+  },
+  {
+    "starName": "Deep Dark Star",
+    "faction": "Central",
+    "region": "Mount Corney (West Sea)"
+  },
+  {
+    "starName": "Verdant Star",
+    "faction": "Central",
+    "region": "Sea (Between Bridle Sea and Brighton Bluffs"
+  }
+]

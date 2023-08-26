@@ -1,0 +1,2608 @@
+{
+  "data": [
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-10-05T07:46:53+07:00",
+      "name": "Stir Fried Vegetables",
+      "device": "Stove II",
+      "recipes": [
+        "Any Lv.6 Crop + Any Lv.6 Crop + Any Spicy Sauce/Any Spice"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stir-fried-vegetables.jpg"
+      },
+      "buff": [
+        "+10% Crit DMG",
+        "Great Focus"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T05:56:03+07:00",
+      "dateModified": "2022-09-28T20:26:37+07:00",
+      "name": "Apple Sauce",
+      "recipes": [
+        "Apple + Any Wild Fruit",
+        "Apple [2]"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+180 fullness",
+        "Heat Resistance +5"
+      ],
+      "additional": "-"
+    },
+    {
+      "datePublished": "2022-01-07T14:56:03+07:00",
+      "dateModified": "2022-10-05T16:46:53+07:00",
+      "name": "Apple Slushie",
+      "recipes": [
+        "Ice Piece + Apple"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Heat Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/apple-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-06T21:56:03+07:00",
+      "dateModified": "2022-10-05T07:46:55+07:00",
+      "name": "Arowana Slices",
+      "recipes": [
+        "Barbled Dragonfish + Lemon Tree Leaf + Barbled Dragonfish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "Protect from Drowning"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/arowana-slices.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T04:56:03+07:00",
+      "dateModified": "2022-10-05T12:46:53+07:00",
+      "name": "Bak Kut Teh",
+      "recipes": [
+        "Ice Piece/Dew + Any Meat + Any High Quality Seasoning + Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+200 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/bak-kut-teh.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T02:56:03+07:00",
+      "dateModified": "2022-10-05T14:46:53+07:00",
+      "name": "Beggar's Chicken",
+      "recipes": [
+        "Watermelon + Vuldo Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "300 Fullness",
+        "+4% Critical Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/beggars-chicken.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T06:56:03+07:00",
+      "dateModified": "2022-10-05T13:46:53+07:00",
+      "name": "Bird Soup",
+      "recipes": [
+        "Vuldo Meat + Dew + Any Seasoning + Any Lv.5 / Lv.6 Crop",
+        "Vuldo Meat + Ice Piece + Any Seasoning + Any Lv.5 / Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+8% CRIT Damage Dealt",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/bird-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T11:56:03+07:00",
+      "dateModified": "2022-09-29T03:26:37+07:00",
+      "name": "Blanched Greens",
+      "recipes": [
+        "Dew + Any Lv.6 Crop + Any Lv.6 Crop",
+        "Ice Piece + Any Lv.6 Crop + Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+80 Armor Pierce"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T00:56:03+07:00",
+      "dateModified": "2022-09-29T02:26:37+07:00",
+      "name": "Bodhi Fruit Sauce",
+      "recipes": [
+        "Bodhi Fruit + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Heat Resistance +5"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T22:56:03+07:00",
+      "dateModified": "2022-10-05T17:46:53+07:00",
+      "name": "Braised Bear Meat",
+      "recipes": [
+        "Grizzly Meat + Peanut Oil + Any Sweet Sauce + Any Sweet Sauce"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/braised-bear-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T03:56:03+07:00",
+      "dateModified": "2022-10-05T07:46:56+07:00",
+      "name": "Braised Meat Cubes",
+      "recipes": [
+        "Any Meat + Dew/Insect Ichor"
+      ],
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/braised-meat-cubes.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T08:56:03+07:00",
+      "dateModified": "2022-10-05T09:46:53+07:00",
+      "name": "Braised Scorpion",
+      "recipes": [
+        "Scorab Meat + Any Mixed Sauce + Any High Quality Seasoning + Peanut Oil"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+100 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/braised-scorpion.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T09:56:03+07:00",
+      "dateModified": "2022-10-05T15:46:56+07:00",
+      "name": "Braised Tendons",
+      "recipes": [
+        "Hoof Sinew + Hoof Sinew"
+      ],
+      "buff": [
+        "300 Fullness",
+        "15 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/braised-tendons.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T12:56:03+07:00",
+      "dateModified": "2022-10-05T07:46:57+07:00",
+      "name": "Braised Wings",
+      "recipes": [
+        "Dew + Ice Piece + Dew + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "8% CRIT damage deal"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/braised-wings.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T07:56:03+07:00",
+      "dateModified": "2022-10-05T15:46:53+07:00",
+      "name": "Broiled Meat",
+      "recipes": [
+        "Any Seasoning + Any Fish",
+        "Any Spice + Any Fish"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "Strengthen Underwater Effect"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/broiled-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T15:56:03+07:00",
+      "dateModified": "2022-10-05T08:46:53+07:00",
+      "name": "Bubbling Stew",
+      "recipes": [
+        "Ice Piece/Dew + Any Mixed Sauce + Any Meat + Any Meat + Any High Quality Seasoning"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+200 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/bubbling-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T17:56:03+07:00",
+      "dateModified": "2022-10-05T10:46:53+07:00",
+      "name": "Buddha's Temptation",
+      "recipes": [
+        "Hoof Sinew + Crab Claw Meat + Bird Wing + Coriander Powder + Any Mushroom"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+250 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/buddhas-temptation.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-06T23:56:03+07:00",
+      "dateModified": "2022-10-05T12:46:55+07:00",
+      "name": "Cabbage Meat Rolls",
+      "recipes": [
+        "Peanut Oil + Bok Choy + Any Lv.6 Crop + Any High Quality Seasoning + Any Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+160 DEF",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cabbage-meat-rolls.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T10:56:03+07:00",
+      "dateModified": "2022-10-05T20:46:53+07:00",
+      "name": "Cantaloupe Claypot",
+      "recipes": [
+        "Cantaloupe + Fruit & Veggie Paste + Any Meat + Any Lv.6 Crop + Dew"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "80 Armor Pierce",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cantaloupe-claypot.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T16:56:03+07:00",
+      "dateModified": "2022-10-05T22:46:53+07:00",
+      "name": "Cantaloupe Slushie",
+      "recipes": [
+        "Ice Piece + Cantaloupe",
+        "Cantaloupe + Ice Piece"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+300 fullness",
+        "Heat Resistance +15"
+      ],
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cantaloupe-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T01:56:03+07:00",
+      "dateModified": "2022-10-05T13:46:55+07:00",
+      "name": "Chargrilled Pumpkin And Iguana",
+      "recipes": [
+        "Peanut Oil + Grouguana Meat + Pumpkin + Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+25 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/chargrilled-pumpkin-and-iguana.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T18:56:03+07:00",
+      "dateModified": "2022-10-05T16:46:55+07:00",
+      "name": "Chargrilled Skewers",
+      "recipes": [
+        "Any Meat + Any Meat/Any Seasoning/Any Spice"
+      ],
+      "buff": [
+        "240 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/chargrilled-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T19:56:03+07:00",
+      "dateModified": "2022-10-06T00:46:53+07:00",
+      "name": "Chargrilled Vegetable Kabob",
+      "recipes": [
+        "Any Wild Fruit + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop",
+        "Any Lv.3 Crop + Any Lv.3 Crop/Any Lv.4 Crop",
+        "Any Lv.4 Crop + Any Lv.4 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/chargrilled-vegetable-kabob.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T23:56:03+07:00",
+      "dateModified": "2022-10-06T01:46:55+07:00",
+      "name": "Cherry-Braised Meat",
+      "recipes": [
+        "Any Wild Fruit + Any Lv.6 Crop + Any Mixed Sauce + Any Mixed Sauce + Any Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "250 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cherry-braised-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T07:56:03+07:00",
+      "dateModified": "2022-10-05T19:46:53+07:00",
+      "name": "Cold Lime Broth",
+      "recipes": [
+        "Bodhi Fruit + Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "Heat Resistance +15"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cold-lime-broth.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T02:56:03+07:00",
+      "dateModified": "2022-10-05T13:46:57+07:00",
+      "name": "Cold Lime Soup",
+      "recipes": [
+        "Bodhi Fruit + Ice Piece"
+      ],
+      "buff": [
+        "180 Fullness",
+        "Heat Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/cold-lime-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T01:56:03+07:00",
+      "dateModified": "2022-09-29T04:26:37+07:00",
+      "name": "Cucumber Sauce",
+      "recipes": [
+        "Cucumber + Job's Tears + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "300 Fullness"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T13:56:03+07:00",
+      "dateModified": "2022-10-05T07:46:54+07:00",
+      "name": "Curry Grilled Meat",
+      "recipes": [
+        "Any Meat + Any Seasoning + Any Spice"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/curry-grilled-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T22:56:03+07:00",
+      "dateModified": "2022-09-29T03:10:00+0700",
+      "name": "Dark Cuisine",
+      "recipes": [
+        "Dung + Dew/Ice Piece --Device: Mixer - Jam--",
+        "Dung + Any Fish --Device: Camp II--",
+        "Dung + Any Grade Crop --Device: Stove II--",
+        "Dung + Any High Quality Seasoning/Any Flower/Any Mutant Flower/Any Curio --Device: Stove II--",
+        "Any Meat [1] --Device: Stove/Camp--",
+        "Insect Ichor [1] --Device: Stove/Camp--"
+      ],
+      "buff": [
+        "Component for making fertilizer",
+        "Component for making fertilizer"
+      ],
+      "additional": "-"
+    },
+    {
+      "datePublished": "2022-01-08T00:56:03+07:00",
+      "dateModified": "2022-10-05T16:46:57+07:00",
+      "name": "Deep Fried Liver",
+      "recipes": [
+        "Beast Liver + Chunk of Fat + Chunk of Fat + Beast Liver"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+25 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/deep-fried-liver.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T12:56:03+07:00",
+      "dateModified": "2022-10-05T16:46:54+07:00",
+      "name": "Deep Fried Meat",
+      "recipes": [
+        "Any Meat + Any Meat + Any Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "12 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/deep-fried-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T20:56:03+07:00",
+      "dateModified": "2023-05-24T23:32:46+07:00",
+      "name": "Dragon Meat Stew",
+      "recipes": [
+        "Alligon Meat + Dew/Ice Piece + Any Lv.6 Crop + Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/dragon-meat-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T06:56:03+07:00",
+      "dateModified": "2022-09-29T05:26:37+07:00",
+      "name": "Drunken Fish",
+      "recipes": [
+        "Any Sweet Sauce + Any Fish + Any Lv.2 Crop"
+      ],
+      "buff": [
+        "300 Fullness",
+        "+30 CRIT"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T04:56:03+07:00",
+      "dateModified": "2022-10-05T11:46:54+07:00",
+      "name": "Egg Soup",
+      "recipes": [
+        "Egg White + Dew/Ice Piece"
+      ],
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/egg-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T09:56:03+07:00",
+      "dateModified": "2022-10-05T15:46:54+07:00",
+      "name": "Eggs With Gourd",
+      "recipes": [
+        "Watermelon + Egg White + Peanut Oil"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+100 CRIT"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/eggs-with-gourd.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T05:56:03+07:00",
+      "dateModified": "2022-10-05T14:46:54+07:00",
+      "name": "Fish And Vegetable Stew",
+      "recipes": [
+        "Dew/Ice Piece + Any Lv.6 Crop + Any Spice + Orange grade fish/Red grade fish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+80 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fish-and-vegetable-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T10:56:03+07:00",
+      "dateModified": "2022-10-05T21:46:56+07:00",
+      "name": "Fishball Soup",
+      "recipes": [
+        "Dew/Ice Piece + Dew/Ice Piece + Green grade fish",
+        "Dew/Ice Piece + Blue grade fish/Purple grade fish/Orange grade fish/Red grade fish"
+      ],
+      "buff": [
+        "300 Fullness",
+        "-50 Humidity (decreased over time) (decreased over time)"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fishball-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-07T21:56:03+07:00",
+      "dateModified": "2022-10-05T20:46:54+07:00",
+      "name": "Flower Pancake",
+      "recipes": [
+        "Job's Tears Powder + Any Wild Fruit + Any Mutant Flower/Any Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "300 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/flower-pancake.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T13:56:03+07:00",
+      "dateModified": "2022-10-05T20:46:56+07:00",
+      "name": "Fragrant Meat Stew",
+      "recipes": [
+        "Dew/Ice Piece + Any High Quality Seasoning + Any Meat + Any Spice + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+160 DEF",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fragrant-meat-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T11:56:03+07:00",
+      "dateModified": "2022-10-05T12:46:54+07:00",
+      "name": "Fragrant Steamed Buns",
+      "recipes": [
+        "Job's Tears Powder + Egg White + Any Lv.6 Crop + Any Meat + Any Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+150 CRIT",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fragrant-steamed-buns.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T08:56:03+07:00",
+      "dateModified": "2022-10-05T13:46:54+07:00",
+      "name": "Fried Fish",
+      "recipes": [
+        "Peanut Oil + Any High Quality Seasoning + Red grade Fish + Peanut Oil"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+80 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T16:56:03+07:00",
+      "dateModified": "2022-10-05T19:46:54+07:00",
+      "name": "Fried Intestines",
+      "recipes": [
+        "Beast Intestines + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower + Peanut Oil",
+        "Kidney + Peanut Oil + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+60 Crit"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-intestines.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T21:56:03+07:00",
+      "dateModified": "2022-10-05T09:46:55+07:00",
+      "name": "Fried Liver",
+      "recipes": [
+        "Beast Liver + Beast Liver"
+      ],
+      "buff": [
+        "300 Fullness",
+        "50 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-liver.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T15:56:03+07:00",
+      "dateModified": "2022-10-05T13:46:56+07:00",
+      "name": "Fried Meat With Mushrooms",
+      "recipes": [
+        "Any Mushroom + Any Meat + Any Seasoning/Any High Quality Seasoning"
+      ],
+      "device": "Camp II",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-meat-with-mushrooms.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T17:56:03+07:00",
+      "dateModified": "2022-10-06T00:46:54+07:00",
+      "name": "Fried Melon And Meat",
+      "recipes": [
+        "Any Meat + Any High Quality Seasoning + Any Lv.5 or Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+120 DEF",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-melon-and-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T19:56:03+07:00",
+      "dateModified": "2022-10-05T08:46:54+07:00",
+      "name": "Fried Pork In Scoop",
+      "recipes": [
+        "Job's Tears Powder + Coriander + Any Meat + Any Lv.5 or Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+100 RES",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-pork-in-scoop.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T14:56:03+07:00",
+      "dateModified": "2022-10-05T18:46:54+07:00",
+      "name": "Fried Seasonal Vegetables",
+      "recipes": [
+        "Add 2 Any Lv.1 to Lv.6 Crops",
+        "Any Lv.2 Crop + Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom",
+        "Any Lv.3 Crop + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom/Any Mutant Flower",
+        "Any Lv.4 Crop + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom/Any Mutant Flower/Any Flower",
+        "Any Lv.5 Crop + Any Lv.5 Crop or higher Crop/Any Mushroom/Any Mutant Flower/Any Flower",
+        "Any Lv.6 Crop + Any Lv.6 Crop/Any Mushroom/Any Mutant Flower/Any Flower"
+      ],
+      "device": "Stove II",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-seasonal-vegetables.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T22:56:03+07:00",
+      "dateModified": "2022-10-05T11:46:56+07:00",
+      "name": "Fried Vegetarian Balls",
+      "recipes": [
+        "Job's Tears Powder + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop"
+      ],
+      "buff": [
+        "300 Fullness",
+        "+30 CRIT"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-vegetarian-balls.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T02:56:03+07:00",
+      "dateModified": "2022-10-06T03:46:54+07:00",
+      "name": "Frog Honey Sauce",
+      "recipes": [
+        "Peanut Oil + Beetlefly Meat + Any High Quality Seasoning + Any Mixed Sauce + Any Mixed Sauce"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+160 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/frog-honey-sauce.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T20:56:03+07:00",
+      "dateModified": "2022-09-29T01:26:37+07:00",
+      "name": "Fruit & Veggie Paste",
+      "recipes": [
+        "Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Mixer - Jam"
+    },
+    {
+      "datePublished": "2022-01-08T23:56:03+07:00",
+      "dateModified": "2022-09-28T23:26:37+07:00",
+      "name": "Fruit And Vegetable Stew",
+      "recipes": [
+        "Any Meat + Dew/Ice Piece + Any Seasoning + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+60 RES",
+        "Great Focus"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T07:56:03+07:00",
+      "dateModified": "2022-10-05T14:46:56+07:00",
+      "name": "Fruity Fried Mackerel",
+      "recipes": [
+        "Any Wild Fruit + Any Mixed Sauce + Any Mixed Sauce + Orange grade fish/Red grade fish + Peanut Oil"
+      ],
+      "device": "Stove II",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fruity-fried-mackerel.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T18:56:03+07:00",
+      "dateModified": "2022-10-05T09:46:54+07:00",
+      "name": "Fruity Grilled Meat",
+      "recipes": [
+        "Any Meat + Any Wild Fruit + Any Sweet Sauce + Peanut Oil"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+80 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fruity-grilled-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-08T03:56:03+07:00",
+      "dateModified": "2022-10-05T21:46:54+07:00",
+      "name": "Fruity Meat Skewers",
+      "recipes": [
+        "Any Meat + Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any Spice",
+        "Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop + Any Meat"
+      ],
+      "buff": [
+        "240 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fruity-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T03:56:03+07:00",
+      "dateModified": "2022-10-06T01:46:54+07:00",
+      "name": "Garlic Braised Meat",
+      "recipes": [
+        "Wolfspider Meat + Wild Garlic + Garlic Powder",
+        "Garlic Powder + Wild Garlic + Crab Claw Meat",
+        "Garlic Powder + Wild Garlic + Scorab Meat",
+        "Garlic Powder + Wild Garlic + Beetlefly Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "100 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/garlic-braised-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T04:56:03+07:00",
+      "dateModified": "2022-10-06T06:46:54+07:00",
+      "name": "Garlic Meat Skewers",
+      "recipes": [
+        "Garlic Powder + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "50 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/garlic-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T00:56:03+07:00",
+      "dateModified": "2022-10-05T14:46:55+07:00",
+      "name": "Garlic Steak",
+      "recipes": [
+        "Garlic Powder + Job's Tears Powder + Bosalo Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "50 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/garlic-steak.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T01:56:03+07:00",
+      "dateModified": "2022-09-29T08:26:37+07:00",
+      "name": "Garlic Sauce",
+      "recipes": [
+        "Wild Garlic + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Reduces Toxins by 30"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T08:56:03+07:00",
+      "dateModified": "2022-10-05T23:46:54+07:00",
+      "name": "Garlic Thighs",
+      "recipes": [
+        "Scallion + Any Meat + Peanut Oil"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/garlic-thighs.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T14:56:03+07:00",
+      "dateModified": "2022-09-28T21:26:37+07:00",
+      "name": "Goodfruit Sauce",
+      "recipes": [
+        "Red Goodfruit + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Cold Resistance +5"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T06:56:03+07:00",
+      "dateModified": "2022-10-05T08:46:55+07:00",
+      "name": "Goodfruit Slushie",
+      "recipes": [
+        "Ice Piece + Red Goodfruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Heat Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/goodfruit-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T09:56:03+07:00",
+      "dateModified": "2022-10-06T13:46:54+07:00",
+      "name": "Gourd-Braised Meat",
+      "recipes": [
+        "Gourd + Any Meat + Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+6% Crit Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/gourd-braised-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T13:56:03+07:00",
+      "dateModified": "2022-10-06T04:46:54+07:00",
+      "name": "Grilled Bear Paw",
+      "recipes": [
+        "Bear Paw + Any Seasoning/Any Spice/Any High Quality Seasoning"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-bear-paw.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T19:56:03+07:00",
+      "dateModified": "2022-10-05T18:46:56+07:00",
+      "name": "Grilled Bird",
+      "recipes": [
+        "Vuldo Meat + Any Wild Fruit + Any Lv.4 Crop"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+60 CRIT",
+        "Medium Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-bird.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T10:56:03+07:00",
+      "dateModified": "2022-10-05T10:46:54+07:00",
+      "name": "Grilled Brains",
+      "recipes": [
+        "Beast Brain + Beast Brain"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-brains.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T17:56:03+07:00",
+      "dateModified": "2022-09-29T13:26:37+07:00",
+      "name": "Grilled Crab Claws",
+      "recipes": [
+        "Crab Claw Meat + Any Seasoning/Any Spice/Any High Quality Seasoning"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "150 ATK"
+      ]
+    },
+    {
+      "datePublished": "2022-01-09T12:56:03+07:00",
+      "dateModified": "2022-10-06T02:46:54+07:00",
+      "name": "Grilled Fish",
+      "recipes": [
+        "Any Seasoning + Purple grade fish/Orange grade fish/Red grade fish"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "Strenghten Underwater Effect"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T03:56:03+07:00",
+      "dateModified": "2022-10-06T05:46:54+07:00",
+      "name": "Grilled Frog Legs",
+      "recipes": [
+        "Small Beast Meat + Small Beast Meat + Small Beast Meat"
+      ],
+      "buff": [
+        "180 Fullness",
+        "Strengthen Underwater Effect"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-frog-legs.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T05:56:03+07:00",
+      "dateModified": "2022-10-05T12:46:56+07:00",
+      "name": "Grilled Heart",
+      "recipes": [
+        "Beast Heart + Beast Heart"
+      ],
+      "buff": [
+        "300 Fullness",
+        "100 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-heart.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T16:56:03+07:00",
+      "dateModified": "2022-10-05T17:46:56+07:00",
+      "name": "Grilled Kidneys",
+      "recipes": [
+        "Kidney + Kidney"
+      ],
+      "buff": [
+        "300 Fullness",
+        "15 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-kidneys.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T18:56:03+07:00",
+      "dateModified": "2022-10-05T22:46:54+07:00",
+      "name": "Grilled Meat And Mushrooms",
+      "recipes": [
+        "Any Mushroom + Any Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "240 Fullness",
+        "Cold Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-meat-and-mushrooms.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T01:56:03+07:00",
+      "dateModified": "2022-10-06T07:46:54+07:00",
+      "name": "Grilled Meat Cubes",
+      "recipes": [
+        "Any Meat + Any Meat/Any Seasoning/Any Spice/Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat"
+      ],
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-meat-cubes.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T20:56:03+07:00",
+      "dateModified": "2022-10-05T08:46:56+07:00",
+      "name": "Grilled Offal",
+      "recipes": [
+        "Beast Intestines + Beast Intestines"
+      ],
+      "buff": [
+        "300 Fullness",
+        "30 Crit"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-offal.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T22:56:03+07:00",
+      "dateModified": "2022-10-06T09:46:54+07:00",
+      "name": "Grilled Rabbit",
+      "recipes": [
+        "Any Meat + Any Meat"
+      ],
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-rabbit.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T05:56:03+07:00",
+      "dateModified": "2022-10-06T14:46:54+07:00",
+      "name": "Grilled Venison",
+      "recipes": [
+        "Moose Meat + Moose Meat"
+      ],
+      "buff": [
+        "240 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-venison.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T21:56:03+07:00",
+      "dateModified": "2022-10-06T10:46:54+07:00",
+      "name": "Grilled Wings",
+      "recipes": [
+        "Bird Wing + Any Seasoning/Any Spice/Any High Quality Seasoning"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "80 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-wings.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T15:56:03+07:00",
+      "dateModified": "2022-10-06T16:46:54+07:00",
+      "name": "Grilled Wolf",
+      "recipes": [
+        "Peanut Oil + Prowler Meat + Prowler Meat + Any Seasoning"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+60Crit",
+        "Medium Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-wolf.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T11:56:03+07:00",
+      "dateModified": "2022-10-05T17:46:54+07:00",
+      "name": "Herb Grilled Crab",
+      "recipes": [
+        "Crab Claw Meat + Orchid + Any Seasoning/Any Spice"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/herb-grilled-crab.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T10:56:03+07:00",
+      "dateModified": "2022-10-05T10:46:55+07:00",
+      "name": "Honey Grilled Chicken",
+      "recipes": [
+        "Condor Meat + Condor Meat + Any Sweet Sauce + Peanut Oil",
+        "Vulture Meat + Vulture Meat + Any Sweet Sauce + Peanut Oil",
+        "Vuldo Meat + Vuldo Meat + Any Sweet Sauce + Peanut Oil"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+80 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/honey-grilled-chicken.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T08:56:03+07:00",
+      "dateModified": "2022-10-06T08:46:54+07:00",
+      "name": "Honeybee Jerky",
+      "recipes": [
+        "Beetlefly Meat + Any Meat + Any Sweet Sauce + Peanut Oil"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+6% Crit Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/honeybee-jerky.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-09T23:56:03+07:00",
+      "dateModified": "2022-10-05T17:46:55+07:00",
+      "name": "Honeydew Melon Slushie",
+      "recipes": [
+        "Ice Piece + Honeydew Melon + Ice Piece"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+540 fullness",
+        "Heat Resistance +15"
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/honeydew-melon-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T11:56:03+07:00",
+      "dateModified": "2022-10-06T12:46:54+07:00",
+      "name": "Hot Oil",
+      "recipes": [
+        "Peanut Oil + Peanut Oil",
+        "Chunk of Fat + Chunk of Fat"
+      ],
+      "buff": [
+        "240 Fullness",
+        "Cold Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/hot-oil.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T02:56:03+07:00",
+      "dateModified": "2022-10-05T18:46:55+07:00",
+      "name": "Hot Water",
+      "recipes": [
+        "Dew/Ice Piece + Dew/Ice Piece/Any Seasoning/Any Spice/Insect Ichor"
+      ],
+      "buff": [
+        "60 Fullness",
+        "Cold Resistance +5"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/hot-water.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T12:56:03+07:00",
+      "dateModified": "2022-10-05T21:46:55+07:00",
+      "name": "Ice Block",
+      "recipes": [
+        "Ice Piece + Ice Piece",
+        "Ice Piece [2]"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+180 fullness",
+        "Heat Resistance +10"
+      ],
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/ice-block.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T04:56:03+07:00",
+      "dateModified": "2022-10-05T20:46:55+07:00",
+      "name": "Job's Tears Broth",
+      "recipes": [
+        "Job's Tears + Dew/Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "-50 Humidity (decreased over time)"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/jobs-tears-broth.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T00:56:03+07:00",
+      "dateModified": "2022-10-05T19:46:55+07:00",
+      "name": "Job's Tears Porridge",
+      "recipes": [
+        "Job's Tears + Dew/Ice Piece"
+      ],
+      "buff": [
+        "180 Fullness",
+        "-40 Humidity (decreased over time)"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/jobs-tears-porridge.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T18:56:03+07:00",
+      "dateModified": "2022-09-29T10:26:37+07:00",
+      "name": "Job's Tears Sauce",
+      "recipes": [
+        "Job's Tears + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness"
+      ]
+    },
+    {
+      "datePublished": "2022-01-10T07:56:03+07:00",
+      "dateModified": "2022-10-06T05:46:55+07:00",
+      "name": "Job's Tears Stew",
+      "recipes": [
+        "Job's Tears + Any Meat + Any Lv.4 Crop"
+      ],
+      "buff": [
+        "420 Fullness",
+        "Medium Focus",
+        "+25 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/jobs-tears-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T15:56:03+07:00",
+      "dateModified": "2022-10-06T15:46:54+07:00",
+      "name": "Large Fruit Stew",
+      "recipes": [
+        "Any Wild Fruit + Dew/Ice Piece/Insect Ichor",
+        "Dew/Ice Piece + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop",
+        "Dew/Ice Piece + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Mutant Flower/Any Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "240 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/large-fruit-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T16:56:03+07:00",
+      "dateModified": "2022-10-06T00:46:55+07:00",
+      "name": "Meat And Vegetable",
+      "recipes": [
+        "Any Meat + Any Spice + Any Lv.3 Crop/Any Lv.4 Crop",
+        "Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat + Any Lv.5 Crop/Any Lv.6 Crop",
+        "Any Curio + Any Lv.5 Crop/Any Lv.6 Crop",
+        "Any Meat + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "Medium Focus",
+        "+25 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/meat-and-vegetable.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T00:56:03+07:00",
+      "dateModified": "2022-10-07T00:46:54+07:00",
+      "name": "Meat Noodles",
+      "recipes": [
+        "Dew/Ice Piece + Any Lv.6 Crop + Any Meat + Any Lv.6 Crop",
+        "dew + crop level 6 + Any Meat + crop level 6"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "+600 fullness",
+        "+250 atk"
+      ],
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/meat-noodles.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T09:56:03+07:00",
+      "dateModified": "2022-10-05T23:46:55+07:00",
+      "name": "Meat Pie",
+      "recipes": [
+        "Any Meat + Any Meat + Any Meat + Any High Quality Seasoning + Job's Tears Powder"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+60 RES",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/meat-pie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T13:56:03+07:00",
+      "dateModified": "2022-10-05T22:46:55+07:00",
+      "name": "Mushroom Broth",
+      "recipes": [
+        "Any Mushroom + Any Meat + Dew/Ice Piece"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "Unlock Stove II"
+      ],
+      "additional": "<a href=\"#unlock-stove-ii\">Watch Tutorial</a>",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/mushroom-broth.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T21:56:03+07:00",
+      "dateModified": "2022-10-06T18:46:54+07:00",
+      "name": "New Year Dumplings",
+      "recipes": [
+        "Job's Tears Powder + Job's Tears Powder + Any Lv.6 Crop + Any Meat + Peanut Oil"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+100 RES",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/new-year-dumplings.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T20:56:03+07:00",
+      "dateModified": "2022-10-06T23:46:54+07:00",
+      "name": "Omelette",
+      "recipes": [
+        "Egg White + Egg White"
+      ],
+      "buff": [
+        "300 Fullness",
+        "+15 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/omelette.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T14:56:03+07:00",
+      "dateModified": "2022-10-05T11:46:55+07:00",
+      "name": "One-Pot Stew",
+      "recipes": [
+        "Egg White + Any Meat + Any Wild Fruit + Any Lv.6 Crop + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+80 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/one-pot-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T19:56:03+07:00",
+      "dateModified": "2022-10-05T22:46:56+07:00",
+      "name": "Orchid Soup",
+      "recipes": [
+        "Orchid + Dew/Ice Piece + Any Wild Fruit"
+      ],
+      "buff": [
+        "180 Fullness",
+        "Restore 500 HP within 15 seconds"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/orchid-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T04:56:03+07:00",
+      "dateModified": "2022-10-05T15:46:55+07:00",
+      "name": "Peanut Ball Soup",
+      "recipes": [
+        "Peanut + Dew/ce Piece + Any Meat"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+6% CRIT Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/peanut-ball-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T17:56:03+07:00",
+      "dateModified": "2022-10-05T19:46:56+07:00",
+      "name": "Peanut Gourd Soup",
+      "recipes": [
+        "Peanut + Gourd + Dew or Ice Piece + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower",
+        "Peanut + Gourd + Dew/Ice Piece + Cantaloupe/Mutant Flower/Equonix Flower/Lv6 Vegetable"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "-540",
+        "+8% Crit DMG",
+        "Anotrog Attendant Recruitment."
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/peanut-gourd-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T05:56:03+07:00",
+      "dateModified": "2022-10-06T09:46:55+07:00",
+      "name": "Poached Meat Fillets",
+      "recipes": [
+        "Peanut Oil + Hot Pepper + Dew or Ice Piece + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+50 Armor Pierce",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/poached-meat-fillets.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T06:56:03+07:00",
+      "dateModified": "2022-10-07T02:46:54+07:00",
+      "name": "Pumpkin Bowl",
+      "recipes": [
+        "Pumpkin + Any Lv.6 Crop + Any Meat + Any Meat + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+10% CRIT DMG",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/pumpkin-bowl.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T22:56:03+07:00",
+      "dateModified": "2022-10-06T00:46:56+07:00",
+      "name": "Red Cabbage Soup",
+      "recipes": [
+        "Tomato + Dew/Ice Piece + Any Lv.6 Crop + Any Mixed Sauce + Dew/Ice Piece"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+250 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/red-cabbage-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T09:56:03+07:00",
+      "dateModified": "2022-09-29T11:26:37+07:00",
+      "name": "Red Hot Sauce",
+      "recipes": [
+        "Hot Pepper + Apple + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "300 Fullness"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T13:56:03+07:00",
+      "dateModified": "2022-10-06T01:46:56+07:00",
+      "name": "Refreshing Pill",
+      "recipes": [
+        "Wild Garlic + Fruit & Veggie Paste",
+        "Wild Garlic + Veggie Paste"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+180 fullness",
+        "-40 toxins/s"
+      ],
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/refreshing-pill.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-10T23:56:03+07:00",
+      "dateModified": "2022-10-06T04:46:55+07:00",
+      "name": "Refreshing Soup",
+      "recipes": [
+        "Wild Garlic + Dew or Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "-40 Toxin Reduction"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/refreshing-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T01:56:03+07:00",
+      "dateModified": "2022-10-06T11:46:54+07:00",
+      "name": "Rice Patty",
+      "recipes": [
+        "Job's Tears Powder + Any Meat + Lv.3/4 Crop"
+      ],
+      "buff": [
+        "420 Fullness",
+        "Medium Focus",
+        "+35 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/rice-patty.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T02:56:03+07:00",
+      "dateModified": "2022-10-06T06:46:55+07:00",
+      "name": "Salt-Baked Fish",
+      "recipes": [
+        "Any Fish + Any Fish"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "Temporarily Protect From Drowning (Even if your breath reached zero the hp will not decrease)"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/salt-baked-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T03:56:03+07:00",
+      "dateModified": "2022-10-06T08:46:55+07:00",
+      "name": "Scallion Meat Skewers",
+      "recipes": [
+        "Scallion Powder + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "12 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/scallion-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T06:56:03+07:00",
+      "dateModified": "2022-10-06T12:46:55+07:00",
+      "name": "Scraps Claypot",
+      "recipes": [
+        "Add Dung [4]"
+      ],
+      "buff": [
+        "180 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/scraps-claypot.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T08:56:03+07:00",
+      "dateModified": "2022-10-06T20:46:54+07:00",
+      "name": "Sea-Buckthorn Broth",
+      "recipes": [
+        "Sea-Buckthorn + Dew or Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "Lv 3 Sandstorm Resistance"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sea-buckthorn-broth.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T17:56:03+07:00",
+      "dateModified": "2022-10-05T09:46:56+07:00",
+      "name": "Sea-Buckthorn Mixed Juice",
+      "recipes": [
+        "Sea-Buckthorn + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sea-buckthorn-mixed-juice.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T14:56:03+07:00",
+      "dateModified": "2022-09-29T07:26:37+07:00",
+      "name": "Sea-Buckthorn Sauce",
+      "recipes": [
+        "Sea-Buckthorn + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness"
+      ]
+    },
+    {
+      "datePublished": "2022-01-11T19:56:03+07:00",
+      "dateModified": "2022-10-06T14:46:55+07:00",
+      "name": "Sea-Buckthorn Slushie",
+      "recipes": [
+        "Ice Piece + Sea-Buckthorn"
+      ],
+      "device": "Mixer - Jam",
+      "buff": [
+        "180 Fullness",
+        "Heat Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sea-buckthorn-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T15:56:03+07:00",
+      "dateModified": "2022-10-06T17:46:55+07:00",
+      "name": "Seafood Rice",
+      "recipes": [
+        "Job's Tears + Crab Claw Meat + Job's Tears + Any High Quality Seasoning + Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+150 CRIT",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/seafood-rice.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T23:56:03+07:00",
+      "dateModified": "2022-10-06T03:46:55+07:00",
+      "name": "Seasonal Vegetables Fried With Garlic",
+      "recipes": [
+        "Wild Garlic + Garlic Powder + Any Lv.2, Lv.3 and Lv.4 Crop"
+      ],
+      "buff": [
+        "300 Fullness",
+        "+100 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/seasonal-vegetables-fried-with-garlic.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T11:56:03+07:00",
+      "dateModified": "2022-10-06T19:46:54+07:00",
+      "name": "Sesame Soup",
+      "recipes": [
+        "Peanut Oil + Sesame + Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+35 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sesame-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T20:56:03+07:00",
+      "dateModified": "2022-10-06T10:46:55+07:00",
+      "name": "Sliced Fish Stew",
+      "recipes": [
+        "Egg White + Any Meat + Any Lv.3 Crop + Purple grade fish/Orange grade fish/Red grade fish",
+        "Egg White + Any Meat + Lemon Tree Leaf/Any rare Crops such as pumpkin etc + any Purple Fish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "Temporarily protect from drowning for a long time"
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sliced-fish-stew.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T10:56:03+07:00",
+      "dateModified": "2022-10-05T11:46:57+07:00",
+      "name": "Sliced Mushrooms",
+      "recipes": [
+        "Any Mushroom + Any Wild Fruit + Dew/Ice Piece + Any Seasoning"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "Cold Resistance +15"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sliced-mushrooms.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T12:56:03+07:00",
+      "dateModified": "2022-10-06T07:46:55+07:00",
+      "name": "Slushie",
+      "recipes": [
+        "Dew/Ice Piece [3]",
+        "Ice Piece + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T21:56:03+07:00",
+      "dateModified": "2022-10-06T02:46:56+07:00",
+      "name": "Soy-Braised Pork",
+      "recipes": [
+        "Peanut Oil + Spicy Powder + Any Wild Fruit + Any Meat"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+35 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/soy-braised-pork.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T16:56:03+07:00",
+      "dateModified": "2022-10-06T16:46:55+07:00",
+      "name": "Spiced Meat",
+      "recipes": [
+        "Any Seasoning + Any Meat + Any Seasoning"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+150 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spiced-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T07:56:03+07:00",
+      "dateModified": "2022-10-06T15:46:55+07:00",
+      "name": "Spiced Meat Skewers",
+      "recipes": [
+        "Five Spice Powder + Any Meat + Any Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "80 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spiced-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T22:56:03+07:00",
+      "dateModified": "2022-10-06T13:46:55+07:00",
+      "name": "Spiced Mushrooms",
+      "recipes": [
+        "Any Mushroom + Any Seasoning"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "-50 Humidity (decreased over time)"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spiced-mushrooms.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-11T18:56:03+07:00",
+      "dateModified": "2022-10-05T23:46:56+07:00",
+      "name": "Spicy Grilled Fish",
+      "recipes": [
+        "Peanut Oil + Any Spicy Sauce + Blue grade fish/Purple grade fish/Orange grade fish/Red grade fish"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+35 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spicy-grilled-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T02:56:03+07:00",
+      "dateModified": "2022-10-06T02:46:55+07:00",
+      "name": "Spicy Meat Skewers",
+      "recipes": [
+        "Any Spice + Any Meat + Any Meat"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "300 Fullness",
+        "Crit Damage Deals 4%"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spicy-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T04:56:03+07:00",
+      "dateModified": "2022-09-29T14:26:37+07:00",
+      "name": "Spicy Pepper Sauce",
+      "recipes": [
+        "Hot Pepper + Any Wild Fruit"
+      ],
+      "device": "Mixer - Jam"
+    },
+    {
+      "datePublished": "2022-01-12T03:56:03+07:00",
+      "dateModified": "2022-10-06T11:46:55+07:00",
+      "name": "Spicy Red Goodfruit Broth",
+      "recipes": [
+        "Red Goodfruit + Hot Pepper + Dew or Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "Cold Resistance +15"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spicy-red-goodfruit-broth.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T05:56:03+07:00",
+      "dateModified": "2022-10-06T20:46:55+07:00",
+      "name": "Spicy Red Goodfruit Soup",
+      "recipes": [
+        "Red Goodfruit + Dew/Ice Piece"
+      ],
+      "buff": [
+        "180 Fullness",
+        "Cold Resistance +10"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spicy-red-goodfruit-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T11:56:03+07:00",
+      "dateModified": "2022-10-06T19:46:55+07:00",
+      "name": "Spicy Smoked Meat",
+      "recipes": [
+        "Any Meat + Peanut Oil + Spicy Powder"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+60 CRIT"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/spicy-smoked-meat.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T08:56:03+07:00",
+      "dateModified": "2022-10-06T18:46:55+07:00",
+      "name": "Steamed Brains",
+      "recipes": [
+        "Beast Brain + Peanut + Dew or Ice Piece + Any Seasoning/Any High Quality Seasoning",
+        "Beast Brain + Peanut + Dew/Ice Piece + Garlic Powder/Job's Tears Powder"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "+120 def"
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/steamed-brains.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T07:56:03+07:00",
+      "dateModified": "2022-10-07T01:46:55+07:00",
+      "name": "Steamed Fish",
+      "recipes": [
+        "Lemon Tree Leaf + Dew or Ice Piece + Purple grade fish/Orange grade fish/Red grade fish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "Protect from drowning even when your&nbsp; breath is zero"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/steamed-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T01:56:03+07:00",
+      "dateModified": "2022-10-06T23:46:55+07:00",
+      "name": "Steamed Paw",
+      "recipes": [
+        "Bear Paw + Orchid + Five Spice Powder + Any Wild Fruit + Dew/Ice Piece",
+        "Bear Paw + Orchid + Five Spice Powder + Apple + Ice Piece/Dew"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "+200 atk"
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/steamed-paw.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T12:56:03+07:00",
+      "dateModified": "2022-09-28T22:26:37+07:00",
+      "name": "Steamed Vegetarian Patty",
+      "recipes": [
+        "Egg White + Peanut Oil + Fruit & Veggie Paste + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+25 Armor Pierce"
+      ]
+    },
+    {
+      "datePublished": "2022-01-12T06:56:03+07:00",
+      "dateModified": "2022-10-07T02:46:55+07:00",
+      "name": "Stewed Brains",
+      "recipes": [
+        "Beast Brain + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower / Peanut Oil"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+60 Crit"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stewed-brains.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T10:56:03+07:00",
+      "dateModified": "2022-10-06T08:46:56+07:00",
+      "name": "Stewed Liver",
+      "recipes": [
+        "Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "+50 Armor Pierce"
+      ],
+      "grade": "Legendary",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stewed-liver.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T17:56:03+07:00",
+      "dateModified": "2022-10-05T07:47:00+07:00",
+      "name": "Stinky Tofu",
+      "recipes": [
+        "Hot Pepper + Dung + Peanut"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "300 Fullness",
+        "+4% Crit Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stinky-tofu.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T15:56:03+07:00",
+      "dateModified": "2022-10-06T21:46:55+07:00",
+      "name": "Stir-Fried Tomato With Eggs",
+      "recipes": [
+        "Egg White + Tomato + Any Lv.3 Crop/Any Lv.4 Crop"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+6% Crit Damage Dealt"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stir-fried-tomato-with-eggs.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T18:56:03+07:00",
+      "dateModified": "2022-10-05T10:46:56+07:00",
+      "name": "Strange Meat Skewers",
+      "recipes": [
+        "Any Meat + Any Meat + Coriander Powder"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "420 Fullness",
+        "25 Armor Pierce"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/strange-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T16:56:03+07:00",
+      "dateModified": "2022-10-05T16:46:56+07:00",
+      "name": "Stuffed Eggs",
+      "recipes": [
+        "Egg White + Dew/Ice Piece + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "+30 CRIT"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/stuffed-eggs.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T22:56:03+07:00",
+      "dateModified": "2022-10-07T03:46:55+07:00",
+      "name": "Sweet And Sour Fish",
+      "recipes": [
+        "Any Wild Fruit + Dew/Ice Piece + Any Meat + Orange grade fish/Red grade fish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+60 RES"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sweet-and-sour-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T19:56:03+07:00",
+      "dateModified": "2022-10-06T04:46:56+07:00",
+      "name": "Sweet And Spicy Venison",
+      "recipes": [
+        "Moose Meat + Peanut Oil + Any Sweet Sauce + Any Spicy Sauce/Any Spice"
+      ],
+      "buff": [
+        "420 Fullness",
+        "80 DEF"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sweet-and-spicy-venison.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T00:56:03+07:00",
+      "dateModified": "2022-10-06T10:46:56+07:00",
+      "name": "Sweet Vinegar Fish",
+      "recipes": [
+        "Peanut Oil + Job's Tears Powder + Any Wild Fruit + Purple grade fish/Orange grade fish/Red grade fish",
+        "Peanut Oil + Job's Tear Powder + Apple + Any Purple Fish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "Temporarily protect from drowning for a long time",
+        "Astakat Attendant Recruitment"
+      ],
+      "grade": "Legendary",
+      "additional": "<a href=\"#astakat\">Watch Tutorial</a>",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sweet-vinegar-fish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T00:56:03+07:00",
+      "dateModified": "2022-10-07T04:46:54+07:00",
+      "name": "Tomahawk Steak",
+      "recipes": [
+        "Any Meat + Any Lv.2 Crop + Any Spice + Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "420 Fullness",
+        "+35 Res"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/tomahawk-steak.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T13:56:03+07:00",
+      "dateModified": "2022-10-06T13:46:56+07:00",
+      "name": "Turtle Soup",
+      "recipes": [
+        "Gratoise Meat + Dew or Ice Piece + Any Seasoning + Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/turtle-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T14:56:03+07:00",
+      "dateModified": "2022-10-07T10:46:55+07:00",
+      "name": "Ultimate Meat Dish",
+      "recipes": [
+        "Gratoise Meat + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "buff": [
+        "420 Fullness",
+        "+80 Def"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/ultimate-meat-dish.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T09:56:03+07:00",
+      "dateModified": "2022-10-06T15:46:56+07:00",
+      "name": "Vegetable Dumplings",
+      "recipes": [
+        "Chives + Job's Tears Powder + Any Meat + Any Lv.6 Crop + Any Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+100 &nbsp;RES",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/vegetable-dumplings.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T21:56:03+07:00",
+      "dateModified": "2022-10-06T11:46:56+07:00",
+      "name": "Vegetable Patty",
+      "recipes": [
+        "Job's Tears Powder + Any Meat + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "+100 CRIT",
+        "Great Focus"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/vegetable-patty.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T04:56:03+07:00",
+      "dateModified": "2022-10-06T05:46:56+07:00",
+      "name": "Verdura Slushie",
+      "recipes": [
+        "Ice Piece + Bodhi Fruit"
+      ],
+      "device": "Mixer - Jam",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/verdura-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T03:56:03+07:00",
+      "dateModified": "2022-10-07T08:46:55+07:00",
+      "name": "Very Spicy Meat Skewers",
+      "recipes": [
+        "Any Spice + Any Meat"
+      ],
+      "buff": [
+        "300 Fullness",
+        "100 ATK"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/very-spicy-meat-skewers.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-12T23:56:03+07:00",
+      "dateModified": "2022-10-06T06:46:56+07:00",
+      "name": "Viperfish Slices",
+      "recipes": [
+        "Viperfish + Lemon Tree Leaf + Viperfish"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "540 Fullness",
+        "Protect from Drowning"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/viperfish-slices.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T02:56:03+07:00",
+      "dateModified": "2022-10-06T19:46:56+07:00",
+      "name": "Watermelon Slushie",
+      "recipes": [
+        "Ice Piece + Watermelon",
+        "Watermelon + Ice Piece"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+420 fullness",
+        "Heat Resistance +15"
+      ],
+      "grade": "Epic",
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/watermelon-slushie.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T05:56:03+07:00",
+      "dateModified": "2022-10-06T17:46:56+07:00",
+      "name": "Wine-Braised Vegetables",
+      "recipes": [
+        "Fruit & Veggie Paste + Peanut Oil + Fruit & Veggie Paste + Any Lv.5 Crop/Any Lv.6 Crop + Hot Pepper"
+      ],
+      "device": "Stove II",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/wine-braised-vegetables.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T06:56:03+07:00",
+      "dateModified": "2022-09-29T00:26:37+07:00",
+      "name": "Chimeraland One Pot Dish",
+      "recipes": [
+        "Buy From Shop / Event"
+      ],
+      "buff": [
+        "This food can be given to all pets and attendants"
+      ],
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T15:56:03+07:00",
+      "dateModified": "2022-10-07T01:46:56+07:00",
+      "name": "Wonton Noodles",
+      "recipes": [
+        "Job's Tears Powder + Job's Tears Powder + Dew/Ice Piece + Any Lv.6 Crop + Any Meat"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "660 Fullness",
+        "+10% CRIT DMG"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/wonton-noodles.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T12:56:03+07:00",
+      "dateModified": "2022-10-06T22:46:55+07:00",
+      "name": "Wormy Soup",
+      "recipes": [
+        "Insect Ichor + Dew/Ice Piece"
+      ],
+      "buff": [
+        "240 Fullness"
+      ],
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/wormy-soup.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T09:56:03+07:00",
+      "dateModified": "2022-09-29T06:26:37+07:00",
+      "name": "Veggie Paste",
+      "recipes": [
+        "Apple [1]"
+      ],
+      "device": "Mixer",
+      "buff": [],
+      "grade": "Common",
+      "additional": "-"
+    },
+    {
+      "datePublished": "2022-01-13T01:56:03+07:00",
+      "dateModified": "2022-10-07T00:46:55+07:00",
+      "name": "Sea-Buckthorn Mixed Juice",
+      "recipes": [
+        "Sea-Buckthorn + Apple"
+      ],
+      "device": "Mixer",
+      "buff": [
+        "+180 fullness",
+        "Lv.2 Sandstrom Resistance"
+      ],
+      "additional": "-",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/sea-buckthorn-mixed-juice.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T08:56:03+07:00",
+      "dateModified": "2022-10-06T03:46:56+07:00",
+      "name": "Veggie Cake",
+      "recipes": [
+        "Egg White + Peanut Oil + Veggie Paste + Equinox Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "Windoo Attendant Recruitment"
+      ],
+      "grade": "Epic",
+      "additional": "<a href=\"#windoo\">Watch Tutorial</a>",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/veggie-cake.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T18:56:03+07:00",
+      "dateModified": "2022-10-07T09:46:55+07:00",
+      "name": "Grilled Mushrooms",
+      "recipes": [
+        "Any Mushroom [1]"
+      ],
+      "device": "Camp II",
+      "buff": [
+        "Unlock Stove II"
+      ],
+      "additional": "<a href=\"#unlock-stove-ii\">Watch Tutorial</a>",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/grilled-mushrooms.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T10:56:03+07:00",
+      "dateModified": "2022-10-06T09:46:56+07:00",
+      "name": "Fried Tenderloin",
+      "recipes": [
+        "Peanut Oil + Fruit Sauce + Any Meat + Equinox Flower",
+        "Peanut Oil + Any Mixed Sauce + Any Meat + Any Flower/Any Mutant Flower"
+      ],
+      "device": "Stove II",
+      "buff": [
+        "+540 fullness",
+        "+120 Def",
+        "Vulorman Attendant Recruitment"
+      ],
+      "grade": "Legendary",
+      "additional": "<a href=\"#vulorman\">Watch Tutorial</a>",
+      "images": {
+        "icon": "https://zilliongamer.com/uploads/chimeraland/items/fried-tenderloin.jpg"
+      }
+    },
+    {
+      "datePublished": "2022-01-13T13:56:03+07:00",
+      "dateModified": "2022-09-29T16:26:37+07:00",
+      "name": "Hot 'n Sour Jelly",
+      "recipes": [
+        "Spirit Fox Fur + Spirit Fox Fur + Chimeraland Beast Hide + Spicy Powder + Lemon Tree Leaf/Any Lv.3 Crops"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T21:56:03+07:00",
+      "dateModified": "2022-09-29T19:26:37+07:00",
+      "name": "Sparrow Beak",
+      "recipes": [
+        "Red And White Beak + Red And White Beak + Chimeraland Beast Hide + Any Mixed Sauce + Any Blue Grade Fish"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T17:56:03+07:00",
+      "dateModified": "2022-09-29T09:26:37+07:00",
+      "name": "Hearty Meatball Soup",
+      "recipes": [
+        "Fine Jade Liquid + Fine Jade Liquid + Chimeraland Beast Hide + Any Mixed Sauce + Any Blue Grade Fish"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T14:56:03+07:00",
+      "dateModified": "2022-09-29T18:26:37+07:00",
+      "name": "Soy Braised Dragon Bone",
+      "recipes": [
+        "Ancient Bone + Ancient Bone + Chimeraland Beast Hide + Any Mixed Sauce + Lemon Tree Leaf/Any Lv.3 Crops"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-12T20:56:03+07:00",
+      "dateModified": "2022-09-30T00:26:37+07:00",
+      "name": "Exotic Herbal Jelly",
+      "recipes": [
+        "Stoatle Shell + Stoatle Shell + Chimeraland Beast Hide + Scallion Powder + Lemon Tree Leaf/Any Lv.3 Crops"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T07:56:03+07:00",
+      "dateModified": "2022-09-29T12:26:37+07:00",
+      "name": "Tasty Wing Tip",
+      "recipes": [
+        "Nirvana Feather + Nirvana Feather + Chimeraland Beast Hide + Bird Wing + Bird Wing/Bear Paw/Crab Claw Meat"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T16:56:03+07:00",
+      "dateModified": "2022-09-30T05:26:37+07:00",
+      "name": "Flame Roasted Horn",
+      "recipes": [
+        "Magnificent Horn + Magnificent Horn + Chimeraland Beast Hide + Spicy Pepper Sauce/Garlic Sauce + Lemon Tree Leaf/Any Lv.3 Crops"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T11:56:03+07:00",
+      "dateModified": "2022-09-29T23:26:37+07:00",
+      "name": "Overlord Hide Jelly",
+      "recipes": [
+        "Fortuphant Primal Spirit + Fortuphant Primal Spirit + Chimeraland Beast Hide + Dew/Ice Piece + Corriander/Flat Cabbage/Watermelon"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-14T00:56:03+07:00",
+      "dateModified": "2022-09-29T17:26:37+07:00",
+      "name": "Bear Ball Pot",
+      "recipes": [
+        "Grizzly Primal Spirit + Grizzly Primal Spirit + Chimeraland Beast Hide + Red Hot Sauce/Cucumber Sauce/Fruit Sauce + Corriander/Flat Cabbage/Watermelon"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-14T02:56:03+07:00",
+      "dateModified": "2022-09-29T21:26:37+07:00",
+      "name": "Hotstone Icefox Meat",
+      "recipes": [
+        "Spirit Fox Primal Spirit + Spirit Fox Primal Spirit + Chimeraland Beast Hide + Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat + Corriander Powder/Five Spice Sauce"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-13T19:56:03+07:00",
+      "dateModified": "2022-09-30T07:26:37+07:00",
+      "name": "Stir-Fried Browtelope",
+      "recipes": [
+        "Bone Sheep Primal Spirit + Bone Sheep Primal Spirit + Chimeraland Beast Hide + Corriander Powder/Five Spice Sauce + Corriander/Flat Cabbage/Watermelon"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-14T03:56:03+07:00",
+      "dateModified": "2022-09-29T22:26:37+07:00",
+      "name": "Flamebug Meat Claypot",
+      "recipes": [
+        "Flamebug Primal Spirit + Flamebug Primal Spirit + Chimeraland Beast Hide + Any Meat + Red Hot Sauce/Cucumber Sauce/Fruit Sauce"
+      ],
+      "device": "Stove III",
+      "grade": "Legendary"
+    },
+    {
+      "datePublished": "2022-01-14T01:56:03+07:00",
+      "dateModified": "2022-09-30T01:26:37+07:00",
+      "name": "Steamed Sweet & Sour Icebug",
+      "device": "Stove III",
+      "recipes": [
+        "Icebug Primal Spirit + Icebug Primal Spirit + Chimeraland Beast Hide + Red Hot Sauce/Cucumber Sauce/Fruit Sauce + Orange Grade Fish"
+      ],
+      "buff": [],
+      "grade": "Legendary"
+    }
+  ]
+}

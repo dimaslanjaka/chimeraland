@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "outDir": "tmp/dist",
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "checkJs": false,
+    "noEmit": true,
+    "strict": false,
+    "jsx": "react-jsx",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ES2016"
+    ]
+  },
+  "include": [
+    "./chimeraland/**/*",
+    "./src/**/*",
+    "./*.js",
+    "./*.ts"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/tmp"
+  ]
+}

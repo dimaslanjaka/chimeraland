@@ -1,0 +1,1045 @@
+{
+  "data": [
+    {
+      "datePublished": "2022-01-06T20:56:03+07:00",
+      "dateModified": "2022-09-28T20:26:37+07:00",
+      "name": "Lunar Aquatine",
+      "qty": "GRADE B ATK 70 HP 70 DEF 70",
+      "buff": [
+        "Attack 40",
+        "HP 400",
+        "Monster EXP Bonus 40%",
+        "Joint Firearm DMG +20%"
+      ],
+      "delicacies": [
+        "Smoked Eleboar Meat",
+        "Flame Roasted Horn",
+        "Stir-Fried Browtelope"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T05:56:03+07:00",
+      "dateModified": "2022-09-29T04:26:37+07:00",
+      "name": "Shaman Regni",
+      "qty": "GRADE C ATK 60 HP 60 DEF 60",
+      "buff": [
+        "Attack 30",
+        "HP 300",
+        "Monster EXP Bonus 40%"
+      ],
+      "delicacies": [
+        "Rustic Preserved Deer Roll",
+        "Exotic Herbal Jelly",
+        "Hot Stone Icefox Meat"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T01:56:03+07:00",
+      "dateModified": "2022-09-29T03:26:37+07:00",
+      "name": "Rosary Twinkel",
+      "qty": "GRADE C ATK 50 HP 50 DEF 50",
+      "buff": [
+        "Attack 20",
+        "HP 200",
+        "Monster EXP Bonus 40%"
+      ],
+      "delicacies": [
+        "Aromatic Litiger Ball",
+        "Hot 'n Sour Jelly",
+        "Stir-Fried Browtelope"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T02:56:03+07:00",
+      "dateModified": "2022-09-28T22:26:37+07:00",
+      "name": "Lunar Regni",
+      "qty": "GRADE B ATK 70 HP 70 DEF 70",
+      "buff": [
+        "Attack 40",
+        "HP 400",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Rustic Preserved Deer Roll",
+        "Exotic Herbal Jelly",
+        "Hot Stone Icefox Meat"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T00:56:03+07:00",
+      "dateModified": "2022-09-29T12:26:37+07:00",
+      "name": "Shaji",
+      "qty": "GRADE C ATK 53 HP 51 DEF 46",
+      "buff": [
+        "Attack 20",
+        "HP 200",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Tasty Exotic Crab",
+        "Tasty Wing Trip",
+        "Bear Ball Pot"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T04:56:03+07:00",
+      "dateModified": "2022-09-29T10:26:37+07:00",
+      "name": "Shahoragai",
+      "qty": "GRADE C ATK 58 HP 63 DEF 59",
+      "buff": [
+        "Attack 30",
+        "HP 300",
+        "Monster EXP Bonus 40%"
+      ],
+      "delicacies": [
+        "3-Flavor Braised Wing",
+        "Pepper Salt Scorpion Pincer",
+        "Stir-Fried Browtelope"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T08:56:03+07:00",
+      "dateModified": "2022-09-29T05:26:37+07:00",
+      "name": "Shaman Twinkle",
+      "qty": "GRADE C ATK 60 HP 60 DEF 60",
+      "buff": [
+        "Attack 30",
+        "HP 300",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Aromatic Litiger Ball",
+        "Hot 'n Sour Jelly",
+        "Stir-Fried Browtelope"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T21:56:03+07:00",
+      "dateModified": "2022-09-28T21:26:37+07:00",
+      "name": "Shaman Astra",
+      "qty": "GRADE C ATK 60 HP 60 DEF 60",
+      "buff": [
+        "Attack 30",
+        "HP 300",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Horse Stew Hotpot",
+        "Hot 'n Sour Jelly",
+        "Hot Stone Icefox Meat"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T14:56:03+07:00",
+      "dateModified": "2022-09-28T23:26:37+07:00",
+      "name": "Remetrog",
+      "qty": "GRADE C ATK 51 HP 52 DEF 47",
+      "buff": [
+        "Attack 20",
+        "HP 200",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Aged Butterfly Wing Broth",
+        "Yurlunggur Mixed Vegetables",
+        "Dragon Serpent Combo"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T22:56:03+07:00",
+      "dateModified": "2022-09-29T00:26:37+07:00",
+      "name": "Crosoo",
+      "qty": "GRADE C ATK 53 HP 54 DEF 43",
+      "buff": [
+        "Attack 20",
+        "HP 200",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Scorpion King Broth",
+        "Soy Braised Dragon Bone",
+        "Flamebug Meat Claypot"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T12:56:03+07:00",
+      "dateModified": "2022-09-29T02:26:37+07:00",
+      "name": "Lok-Aqui",
+      "qty": "GRADE C ATK 47 HP 55 DEF 48",
+      "buff": [
+        "Attack 20",
+        "HP 200",
+        "Monster EXP Bonus 40.0%"
+      ],
+      "delicacies": [
+        "Braised Lobcray Meat",
+        "Pepper Salt Scorpion Pincer",
+        "Dragon Serpent Combo"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T06:56:03+07:00",
+      "dateModified": "2022-09-29T06:26:37+07:00",
+      "name": "Draco Violetine",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T09:56:03+07:00",
+      "dateModified": "2022-09-29T08:26:37+07:00",
+      "name": "Letoo",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T10:56:03+07:00",
+      "dateModified": "2022-09-29T09:26:37+07:00",
+      "name": "Lunar Shiren",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-06T23:56:03+07:00",
+      "dateModified": "2022-09-29T11:26:37+07:00",
+      "name": "Makoo",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T03:56:03+07:00",
+      "dateModified": "2022-09-29T07:26:37+07:00",
+      "name": "Mantiguard",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T13:56:03+07:00",
+      "dateModified": "2022-09-29T20:26:37+07:00",
+      "name": "Mantitrack",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T16:56:03+07:00",
+      "dateModified": "2022-09-29T21:26:37+07:00",
+      "name": "Ocygatha",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T07:56:03+07:00",
+      "dateModified": "2022-09-29T13:26:37+07:00",
+      "name": "Reisiger",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T20:56:03+07:00",
+      "dateModified": "2022-09-30T02:26:37+07:00",
+      "name": "Rhijin",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T21:56:03+07:00",
+      "dateModified": "2022-09-30T04:26:37+07:00",
+      "name": "Rosary Aquatine",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T03:56:03+07:00",
+      "dateModified": "2022-09-29T15:26:37+07:00",
+      "name": "Rosary Fortuna",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T11:56:03+07:00",
+      "dateModified": "2022-09-29T01:26:37+07:00",
+      "name": "Shaman Joya",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T23:56:03+07:00",
+      "dateModified": "2022-09-29T18:26:37+07:00",
+      "name": "Shaman Luna",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T22:56:03+07:00",
+      "dateModified": "2022-09-29T17:26:37+07:00",
+      "name": "Versamelaar",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-07T18:56:03+07:00",
+      "dateModified": "2022-09-29T14:26:37+07:00",
+      "name": "Vulamber",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "datePublished": "2022-01-08T01:56:03+07:00",
+      "dateModified": "2022-09-30T07:26:37+07:00",
+      "name": "Vuloneer",
+      "qty": "Need admin to write this (auto build)",
+      "buff": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ],
+      "delicacies": [
+        "undefined",
+        "undefined",
+        "undefined"
+      ]
+    },
+    {
+      "name": "aa-aqui",
+      "datePublished": "2022-11-25T20:24:17+07:00",
+      "dateModified": "2022-11-25T20:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "buccitrog",
+      "datePublished": "2022-11-25T21:24:17+07:00",
+      "dateModified": "2022-11-25T21:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "dropsleier",
+      "datePublished": "2022-11-25T22:24:17+07:00",
+      "dateModified": "2022-11-25T22:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lunar jade",
+      "datePublished": "2022-11-25T23:24:17+07:00",
+      "dateModified": "2022-11-25T23:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "medakat",
+      "datePublished": "2022-11-26T00:24:17+07:00",
+      "dateModified": "2022-11-26T00:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocyloga",
+      "datePublished": "2022-11-26T01:24:17+07:00",
+      "dateModified": "2022-11-26T01:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rhizang",
+      "datePublished": "2022-11-26T02:24:17+07:00",
+      "dateModified": "2022-11-26T02:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary seraphin",
+      "datePublished": "2022-11-26T03:24:17+07:00",
+      "dateModified": "2022-11-26T03:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary toto",
+      "datePublished": "2022-11-26T04:24:17+07:00",
+      "dateModified": "2022-11-26T04:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary violetine",
+      "datePublished": "2022-11-26T05:24:17+07:00",
+      "dateModified": "2022-11-26T05:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary wisteria",
+      "datePublished": "2022-11-26T06:24:17+07:00",
+      "dateModified": "2022-11-26T06:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "shaman aquatine",
+      "datePublished": "2022-11-26T07:24:17+07:00",
+      "dateModified": "2022-11-26T07:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "shaman wisteria",
+      "datePublished": "2022-11-26T08:24:17+07:00",
+      "dateModified": "2022-11-26T08:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ursalton",
+      "datePublished": "2022-11-26T09:24:17+07:00",
+      "dateModified": "2022-11-26T09:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "urslan",
+      "datePublished": "2022-11-26T10:24:17+07:00",
+      "dateModified": "2022-11-26T10:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vulanin",
+      "datePublished": "2022-11-26T11:24:17+07:00",
+      "dateModified": "2022-11-26T11:35:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "bloodhog",
+      "datePublished": "2023-02-08T21:05:58+07:00",
+      "dateModified": "2023-02-08T21:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "boakat",
+      "datePublished": "2023-02-08T22:05:58+07:00",
+      "dateModified": "2023-02-08T22:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "chandacavii",
+      "datePublished": "2023-02-08T23:05:58+07:00",
+      "dateModified": "2023-02-08T23:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "dealhog",
+      "datePublished": "2023-02-09T00:05:58+07:00",
+      "dateModified": "2023-02-09T00:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "fighthog",
+      "datePublished": "2023-02-09T01:05:58+07:00",
+      "dateModified": "2023-02-09T01:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "hunthog",
+      "datePublished": "2023-02-09T02:05:58+07:00",
+      "dateModified": "2023-02-09T02:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocyalla",
+      "datePublished": "2023-02-09T03:05:58+07:00",
+      "dateModified": "2023-02-09T03:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocyaska",
+      "datePublished": "2023-02-09T04:05:58+07:00",
+      "dateModified": "2023-02-09T04:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "panthakat",
+      "datePublished": "2023-02-09T05:05:58+07:00",
+      "dateModified": "2023-02-09T05:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rhitian",
+      "datePublished": "2023-02-09T06:05:58+07:00",
+      "dateModified": "2023-02-09T06:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "storehog",
+      "datePublished": "2023-02-09T07:05:58+07:00",
+      "dateModified": "2023-02-09T07:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vulendor",
+      "datePublished": "2023-02-09T08:05:58+07:00",
+      "dateModified": "2023-02-09T08:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vuloreas",
+      "datePublished": "2023-02-09T09:05:58+07:00",
+      "dateModified": "2023-02-09T09:16:58+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "generocavii",
+      "datePublished": "2023-02-13T12:21:50+07:00",
+      "dateModified": "2023-02-13T12:32:50+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lookhog",
+      "datePublished": "2023-02-13T13:21:50+07:00",
+      "dateModified": "2023-02-13T13:32:50+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "shakuna",
+      "datePublished": "2023-02-13T14:21:50+07:00",
+      "dateModified": "2023-02-13T14:32:50+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "sjef",
+      "datePublished": "2023-02-13T12:31:21+07:00",
+      "dateModified": "2023-02-13T12:42:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "windwalker medusa",
+      "datePublished": "2023-02-13T13:31:21+07:00",
+      "dateModified": "2023-02-13T13:42:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "checavii",
+      "datePublished": "2023-02-16T20:42:20+07:00",
+      "dateModified": "2023-02-16T20:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "jagter",
+      "datePublished": "2023-02-16T21:42:20+07:00",
+      "dateModified": "2023-02-16T21:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "prospakat",
+      "datePublished": "2023-02-16T22:42:20+07:00",
+      "dateModified": "2023-02-16T22:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary agni",
+      "datePublished": "2023-02-16T23:42:20+07:00",
+      "dateModified": "2023-02-16T23:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "stellar luna",
+      "datePublished": "2023-02-17T00:42:20+07:00",
+      "dateModified": "2023-02-17T00:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vuloberg",
+      "datePublished": "2023-02-17T01:42:20+07:00",
+      "dateModified": "2023-02-17T01:53:20+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "halekat",
+      "datePublished": "2023-02-18T13:58:01+07:00",
+      "dateModified": "2023-02-18T14:09:01+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "portotrog",
+      "datePublished": "2023-02-18T14:58:01+07:00",
+      "dateModified": "2023-02-18T15:09:01+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rhishi",
+      "datePublished": "2023-02-18T15:58:01+07:00",
+      "dateModified": "2023-02-18T16:09:01+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "atenkat",
+      "datePublished": "2023-02-24T19:44:41+07:00",
+      "dateModified": "2023-02-24T19:55:41+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "mantitell",
+      "datePublished": "2023-02-24T20:44:41+07:00",
+      "dateModified": "2023-02-24T20:55:41+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "urztengiz",
+      "datePublished": "2023-02-24T21:44:41+07:00",
+      "dateModified": "2023-02-24T21:55:41+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "afslaer",
+      "datePublished": "2023-03-10T19:19:17+07:00",
+      "dateModified": "2023-03-10T19:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "bidoo",
+      "datePublished": "2023-03-10T20:19:17+07:00",
+      "dateModified": "2023-03-10T20:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "bloodskapper",
+      "datePublished": "2023-03-10T21:19:17+07:00",
+      "dateModified": "2023-03-10T21:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "draverse",
+      "datePublished": "2023-03-10T22:19:17+07:00",
+      "dateModified": "2023-03-10T22:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "durakat",
+      "datePublished": "2023-03-10T23:19:17+07:00",
+      "dateModified": "2023-03-10T23:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "jichotrog",
+      "datePublished": "2023-03-11T00:19:17+07:00",
+      "dateModified": "2023-03-11T00:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lunar astra",
+      "datePublished": "2023-03-11T01:19:17+07:00",
+      "dateModified": "2023-03-11T01:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lunar twinkle",
+      "datePublished": "2023-03-11T02:19:17+07:00",
+      "dateModified": "2023-03-11T02:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocywalka",
+      "datePublished": "2023-03-11T03:19:17+07:00",
+      "dateModified": "2023-03-11T03:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rhida",
+      "datePublished": "2023-03-11T04:19:17+07:00",
+      "dateModified": "2023-03-11T04:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary twinkle",
+      "datePublished": "2023-03-11T05:19:17+07:00",
+      "dateModified": "2023-03-11T05:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "saai-aqui",
+      "datePublished": "2023-03-11T06:19:17+07:00",
+      "dateModified": "2023-03-11T06:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "saam-aqui",
+      "datePublished": "2023-03-11T07:19:17+07:00",
+      "dateModified": "2023-03-11T07:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "urseydis",
+      "datePublished": "2023-03-11T08:19:17+07:00",
+      "dateModified": "2023-03-11T08:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vulchining",
+      "datePublished": "2023-03-11T09:19:17+07:00",
+      "dateModified": "2023-03-11T09:30:17+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "shaman violetine",
+      "datePublished": "2023-03-28T08:59:08+07:00",
+      "dateModified": "2023-03-28T09:10:08+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "stellar agni",
+      "datePublished": "2023-03-28T09:59:08+07:00",
+      "dateModified": "2023-03-28T10:10:08+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "abyssal siren",
+      "datePublished": "2023-05-23T11:03:26+07:00",
+      "dateModified": "2023-05-23T11:14:26+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "abyssal wisteria",
+      "datePublished": "2023-05-23T11:03:26+07:00",
+      "dateModified": "2023-05-23T11:14:26+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "handelaar",
+      "datePublished": "2023-05-23T11:03:26+07:00",
+      "dateModified": "2023-05-23T11:14:26+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "lunar immortia",
+      "datePublished": "2023-05-23T11:03:26+07:00",
+      "dateModified": "2023-05-23T11:14:26+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "rosary siren",
+      "datePublished": "2023-05-23T11:03:26+07:00",
+      "dateModified": "2023-05-23T11:14:26+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "astakat",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "cin-aqui",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "furoo",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocylisha",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "ocyooka",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "shaman jade",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "vulendel",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    },
+    {
+      "name": "windoo",
+      "datePublished": "2023-08-06T21:49:21+07:00",
+      "dateModified": "2023-08-06T22:00:21+07:00",
+      "qty": "",
+      "buff": [],
+      "delicacies": []
+    }
+  ]
+}

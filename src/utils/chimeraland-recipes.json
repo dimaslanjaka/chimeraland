@@ -1,0 +1,4730 @@
+[
+  {
+    "datePublished": "2022-01-06T20:56:03+07:00",
+    "dateModified": "2022-10-05T07:46:53+07:00",
+    "name": "Stir Fried Vegetables",
+    "device": "Stove II",
+    "recipes": [
+      "Any Lv.6 Crop + Any Lv.6 Crop + Any Spicy Sauce/Any Spice"
+    ],
+    "images": {
+      "filename": "stir-fried-vegetables.webp",
+      "pathname": "/chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp",
+      "icon": {
+        "filename": "stir-fried-vegetables-icon.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp"
+      },
+      "material": {
+        "filename": "stir-fried-vegetables-material.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-material.webp"
+      },
+      "name": {
+        "filename": "stir-fried-vegetables-name.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-name.webp"
+      }
+    },
+    "buff": [
+      "+10% Crit DMG",
+      "Great Focus"
+    ],
+    "pathname": "/chimeraland/recipes/stir-fried-vegetables.html"
+  },
+  {
+    "datePublished": "2022-01-07T05:56:03+07:00",
+    "dateModified": "2022-09-28T20:26:37+07:00",
+    "name": "Apple Sauce",
+    "recipes": [
+      "Apple + Any Wild Fruit",
+      "Apple [2]"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+180 fullness",
+      "Heat Resistance +5"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "apple-sauce.webp",
+      "pathname": "/chimeraland/recipes/apple-sauce/apple-sauce.webp",
+      "icon": {
+        "filename": "apple-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/apple-sauce/apple-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "apple-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/apple-sauce/apple-sauce-material.webp"
+      },
+      "name": {
+        "filename": "apple-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/apple-sauce/apple-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/apple-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-07T14:56:03+07:00",
+    "dateModified": "2022-10-05T16:46:53+07:00",
+    "name": "Apple Slushie",
+    "recipes": [
+      "Ice Piece + Apple"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Heat Resistance +10"
+    ],
+    "images": {
+      "filename": "apple-slushie.webp",
+      "pathname": "/chimeraland/recipes/apple-slushie/apple-slushie.webp",
+      "icon": {
+        "filename": "apple-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/apple-slushie/apple-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "apple-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/apple-slushie/apple-slushie-material.webp"
+      },
+      "name": {
+        "filename": "apple-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/apple-slushie/apple-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/apple-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-06T21:56:03+07:00",
+    "dateModified": "2022-10-05T07:46:55+07:00",
+    "name": "Arowana Slices",
+    "recipes": [
+      "Barbled Dragonfish + Lemon Tree Leaf + Barbled Dragonfish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "Protect from Drowning"
+    ],
+    "images": {
+      "filename": "arowana-slices.webp",
+      "pathname": "/chimeraland/recipes/arowana-slices/arowana-slices.webp",
+      "icon": {
+        "filename": "arowana-slices-icon.webp",
+        "pathname": "/chimeraland/recipes/arowana-slices/arowana-slices-icon.webp"
+      },
+      "material": {
+        "filename": "arowana-slices-material.webp",
+        "pathname": "/chimeraland/recipes/arowana-slices/arowana-slices-material.webp"
+      },
+      "name": {
+        "filename": "arowana-slices-name.webp",
+        "pathname": "/chimeraland/recipes/arowana-slices/arowana-slices-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/arowana-slices.html"
+  },
+  {
+    "datePublished": "2022-01-07T04:56:03+07:00",
+    "dateModified": "2022-10-05T12:46:53+07:00",
+    "name": "Bak Kut Teh",
+    "recipes": [
+      "Ice Piece/Dew + Any Meat + Any High Quality Seasoning + Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+200 ATK"
+    ],
+    "images": {
+      "filename": "bak-kut-teh.webp",
+      "pathname": "/chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp",
+      "icon": {
+        "filename": "bak-kut-teh-icon.webp",
+        "pathname": "/chimeraland/recipes/bak-kut-teh/bak-kut-teh-icon.webp"
+      },
+      "material": {
+        "filename": "bak-kut-teh-material.webp",
+        "pathname": "/chimeraland/recipes/bak-kut-teh/bak-kut-teh-material.webp"
+      },
+      "name": {
+        "filename": "bak-kut-teh-name.webp",
+        "pathname": "/chimeraland/recipes/bak-kut-teh/bak-kut-teh-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/bak-kut-teh.html"
+  },
+  {
+    "datePublished": "2022-01-07T02:56:03+07:00",
+    "dateModified": "2022-10-05T14:46:53+07:00",
+    "name": "Beggar's Chicken",
+    "recipes": [
+      "Watermelon + Vuldo Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "300 Fullness",
+      "+4% Critical Damage Dealt"
+    ],
+    "images": {
+      "filename": "beggars-chicken.webp",
+      "pathname": "/chimeraland/recipes/beggars-chicken/beggars-chicken.webp",
+      "icon": {
+        "filename": "beggars-chicken-icon.webp",
+        "pathname": "/chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp"
+      },
+      "material": {
+        "filename": "beggars-chicken-material.webp",
+        "pathname": "/chimeraland/recipes/beggars-chicken/beggars-chicken-material.webp"
+      },
+      "name": {
+        "filename": "beggars-chicken-name.webp",
+        "pathname": "/chimeraland/recipes/beggars-chicken/beggars-chicken-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/beggars-chicken.html"
+  },
+  {
+    "datePublished": "2022-01-07T06:56:03+07:00",
+    "dateModified": "2022-10-05T13:46:53+07:00",
+    "name": "Bird Soup",
+    "recipes": [
+      "Vuldo Meat + Dew + Any Seasoning + Any Lv.5 / Lv.6 Crop",
+      "Vuldo Meat + Ice Piece + Any Seasoning + Any Lv.5 / Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+8% CRIT Damage Dealt",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "bird-soup.webp",
+      "pathname": "/chimeraland/recipes/bird-soup/bird-soup.webp",
+      "icon": {
+        "filename": "bird-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/bird-soup/bird-soup-icon.webp"
+      },
+      "material": {
+        "filename": "bird-soup-material.webp",
+        "pathname": "/chimeraland/recipes/bird-soup/bird-soup-material.webp"
+      },
+      "name": {
+        "filename": "bird-soup-name.webp",
+        "pathname": "/chimeraland/recipes/bird-soup/bird-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/bird-soup.html"
+  },
+  {
+    "datePublished": "2022-01-07T11:56:03+07:00",
+    "dateModified": "2022-09-29T03:26:37+07:00",
+    "name": "Blanched Greens",
+    "recipes": [
+      "Dew + Any Lv.6 Crop + Any Lv.6 Crop",
+      "Ice Piece + Any Lv.6 Crop + Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+80 Armor Pierce"
+    ],
+    "images": {
+      "filename": "blanched-greens.webp",
+      "pathname": "/chimeraland/recipes/blanched-greens/blanched-greens.webp",
+      "icon": {
+        "filename": "blanched-greens-icon.webp",
+        "pathname": "/chimeraland/recipes/blanched-greens/blanched-greens-icon.webp"
+      },
+      "material": {
+        "filename": "blanched-greens-material.webp",
+        "pathname": "/chimeraland/recipes/blanched-greens/blanched-greens-material.webp"
+      },
+      "name": {
+        "filename": "blanched-greens-name.webp",
+        "pathname": "/chimeraland/recipes/blanched-greens/blanched-greens-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/blanched-greens.html"
+  },
+  {
+    "datePublished": "2022-01-07T00:56:03+07:00",
+    "dateModified": "2022-09-29T02:26:37+07:00",
+    "name": "Bodhi Fruit Sauce",
+    "recipes": [
+      "Bodhi Fruit + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Heat Resistance +5"
+    ],
+    "images": {
+      "filename": "bodhi-fruit-sauce.webp",
+      "pathname": "/chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp",
+      "icon": {
+        "filename": "bodhi-fruit-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "bodhi-fruit-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp"
+      },
+      "name": {
+        "filename": "bodhi-fruit-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/bodhi-fruit-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-06T22:56:03+07:00",
+    "dateModified": "2022-10-05T17:46:53+07:00",
+    "name": "Braised Bear Meat",
+    "recipes": [
+      "Grizzly Meat + Peanut Oil + Any Sweet Sauce + Any Sweet Sauce"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+150 ATK"
+    ],
+    "images": {
+      "filename": "braised-bear-meat.webp",
+      "pathname": "/chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp",
+      "icon": {
+        "filename": "braised-bear-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/braised-bear-meat/braised-bear-meat-icon.webp"
+      },
+      "material": {
+        "filename": "braised-bear-meat-material.webp",
+        "pathname": "/chimeraland/recipes/braised-bear-meat/braised-bear-meat-material.webp"
+      },
+      "name": {
+        "filename": "braised-bear-meat-name.webp",
+        "pathname": "/chimeraland/recipes/braised-bear-meat/braised-bear-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/braised-bear-meat.html"
+  },
+  {
+    "datePublished": "2022-01-07T03:56:03+07:00",
+    "dateModified": "2022-10-05T07:46:56+07:00",
+    "name": "Braised Meat Cubes",
+    "recipes": [
+      "Any Meat + Dew/Insect Ichor"
+    ],
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "braised-meat-cubes.webp",
+      "pathname": "/chimeraland/recipes/braised-meat-cubes/braised-meat-cubes.webp",
+      "icon": {
+        "filename": "braised-meat-cubes-icon.webp",
+        "pathname": "/chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-icon.webp"
+      },
+      "material": {
+        "filename": "braised-meat-cubes-material.webp",
+        "pathname": "/chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-material.webp"
+      },
+      "name": {
+        "filename": "braised-meat-cubes-name.webp",
+        "pathname": "/chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/braised-meat-cubes.html"
+  },
+  {
+    "datePublished": "2022-01-07T08:56:03+07:00",
+    "dateModified": "2022-10-05T09:46:53+07:00",
+    "name": "Braised Scorpion",
+    "recipes": [
+      "Scorab Meat + Any Mixed Sauce + Any High Quality Seasoning + Peanut Oil"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+100 ATK"
+    ],
+    "images": {
+      "filename": "braised-scorpion.webp",
+      "pathname": "/chimeraland/recipes/braised-scorpion/braised-scorpion.webp",
+      "icon": {
+        "filename": "braised-scorpion-icon.webp",
+        "pathname": "/chimeraland/recipes/braised-scorpion/braised-scorpion-icon.webp"
+      },
+      "material": {
+        "filename": "braised-scorpion-material.webp",
+        "pathname": "/chimeraland/recipes/braised-scorpion/braised-scorpion-material.webp"
+      },
+      "name": {
+        "filename": "braised-scorpion-name.webp",
+        "pathname": "/chimeraland/recipes/braised-scorpion/braised-scorpion-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/braised-scorpion.html"
+  },
+  {
+    "datePublished": "2022-01-07T09:56:03+07:00",
+    "dateModified": "2022-10-05T15:46:56+07:00",
+    "name": "Braised Tendons",
+    "recipes": [
+      "Hoof Sinew + Hoof Sinew"
+    ],
+    "buff": [
+      "300 Fullness",
+      "15 RES"
+    ],
+    "images": {
+      "filename": "braised-tendons.webp",
+      "pathname": "/chimeraland/recipes/braised-tendons/braised-tendons.webp",
+      "icon": {
+        "filename": "braised-tendons-icon.webp",
+        "pathname": "/chimeraland/recipes/braised-tendons/braised-tendons-icon.webp"
+      },
+      "material": {
+        "filename": "braised-tendons-material.webp",
+        "pathname": "/chimeraland/recipes/braised-tendons/braised-tendons-material.webp"
+      },
+      "name": {
+        "filename": "braised-tendons-name.webp",
+        "pathname": "/chimeraland/recipes/braised-tendons/braised-tendons-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/braised-tendons.html"
+  },
+  {
+    "datePublished": "2022-01-07T12:56:03+07:00",
+    "dateModified": "2022-10-05T07:46:57+07:00",
+    "name": "Braised Wings",
+    "recipes": [
+      "Dew + Ice Piece + Dew + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "8% CRIT damage deal"
+    ],
+    "images": {
+      "filename": "braised-wings.webp",
+      "pathname": "/chimeraland/recipes/braised-wings/braised-wings.webp",
+      "icon": {
+        "filename": "braised-wings-icon.webp",
+        "pathname": "/chimeraland/recipes/braised-wings/braised-wings-icon.webp"
+      },
+      "material": {
+        "filename": "braised-wings-material.webp",
+        "pathname": "/chimeraland/recipes/braised-wings/braised-wings-material.webp"
+      },
+      "name": {
+        "filename": "braised-wings-name.webp",
+        "pathname": "/chimeraland/recipes/braised-wings/braised-wings-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/braised-wings.html"
+  },
+  {
+    "datePublished": "2022-01-07T07:56:03+07:00",
+    "dateModified": "2022-10-05T15:46:53+07:00",
+    "name": "Broiled Meat",
+    "recipes": [
+      "Any Seasoning + Any Fish",
+      "Any Spice + Any Fish"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "Strengthen Underwater Effect"
+    ],
+    "images": {
+      "filename": "broiled-meat.webp",
+      "pathname": "/chimeraland/recipes/broiled-meat/broiled-meat.webp",
+      "icon": {
+        "filename": "broiled-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/broiled-meat/broiled-meat-icon.webp"
+      },
+      "material": {
+        "filename": "broiled-meat-material.webp",
+        "pathname": "/chimeraland/recipes/broiled-meat/broiled-meat-material.webp"
+      },
+      "name": {
+        "filename": "broiled-meat-name.webp",
+        "pathname": "/chimeraland/recipes/broiled-meat/broiled-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/broiled-meat.html"
+  },
+  {
+    "datePublished": "2022-01-07T15:56:03+07:00",
+    "dateModified": "2022-10-05T08:46:53+07:00",
+    "name": "Bubbling Stew",
+    "recipes": [
+      "Ice Piece/Dew + Any Mixed Sauce + Any Meat + Any Meat + Any High Quality Seasoning"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+200 ATK"
+    ],
+    "images": {
+      "filename": "bubbling-stew.webp",
+      "pathname": "/chimeraland/recipes/bubbling-stew/bubbling-stew.webp",
+      "icon": {
+        "filename": "bubbling-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp"
+      },
+      "material": {
+        "filename": "bubbling-stew-material.webp",
+        "pathname": "/chimeraland/recipes/bubbling-stew/bubbling-stew-material.webp"
+      },
+      "name": {
+        "filename": "bubbling-stew-name.webp",
+        "pathname": "/chimeraland/recipes/bubbling-stew/bubbling-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/bubbling-stew.html"
+  },
+  {
+    "datePublished": "2022-01-07T17:56:03+07:00",
+    "dateModified": "2022-10-05T10:46:53+07:00",
+    "name": "Buddha's Temptation",
+    "recipes": [
+      "Hoof Sinew + Crab Claw Meat + Bird Wing + Coriander Powder + Any Mushroom"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+250 ATK"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/buddhas-temptation.html"
+  },
+  {
+    "datePublished": "2022-01-06T23:56:03+07:00",
+    "dateModified": "2022-10-05T12:46:55+07:00",
+    "name": "Cabbage Meat Rolls",
+    "recipes": [
+      "Peanut Oil + Bok Choy + Any Lv.6 Crop + Any High Quality Seasoning + Any Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+160 DEF",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "cabbage-meat-rolls.webp",
+      "pathname": "/chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp",
+      "icon": {
+        "filename": "cabbage-meat-rolls-icon.webp",
+        "pathname": "/chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp"
+      },
+      "material": {
+        "filename": "cabbage-meat-rolls-material.webp",
+        "pathname": "/chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-material.webp"
+      },
+      "name": {
+        "filename": "cabbage-meat-rolls-name.webp",
+        "pathname": "/chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/cabbage-meat-rolls.html"
+  },
+  {
+    "datePublished": "2022-01-07T10:56:03+07:00",
+    "dateModified": "2022-10-05T20:46:53+07:00",
+    "name": "Cantaloupe Claypot",
+    "recipes": [
+      "Cantaloupe + Fruit & Veggie Paste + Any Meat + Any Lv.6 Crop + Dew"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "80 Armor Pierce",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "cantaloupe-claypot.webp",
+      "pathname": "/chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp",
+      "icon": {
+        "filename": "cantaloupe-claypot-icon.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp"
+      },
+      "material": {
+        "filename": "cantaloupe-claypot-material.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-material.webp"
+      },
+      "name": {
+        "filename": "cantaloupe-claypot-name.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/cantaloupe-claypot.html"
+  },
+  {
+    "datePublished": "2022-01-07T16:56:03+07:00",
+    "dateModified": "2022-10-05T22:46:53+07:00",
+    "name": "Cantaloupe Slushie",
+    "recipes": [
+      "Ice Piece + Cantaloupe",
+      "Cantaloupe + Ice Piece"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+300 fullness",
+      "Heat Resistance +15"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "cantaloupe-slushie.webp",
+      "pathname": "/chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp",
+      "icon": {
+        "filename": "cantaloupe-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "cantaloupe-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-material.webp"
+      },
+      "name": {
+        "filename": "cantaloupe-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/cantaloupe-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-07T01:56:03+07:00",
+    "dateModified": "2022-10-05T13:46:55+07:00",
+    "name": "Chargrilled Pumpkin And Iguana",
+    "recipes": [
+      "Peanut Oil + Grouguana Meat + Pumpkin + Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+25 Armor Pierce"
+    ],
+    "images": {
+      "filename": "chargrilled-pumpkin-and-iguana.webp",
+      "pathname": "/chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp",
+      "icon": {
+        "filename": "chargrilled-pumpkin-and-iguana-icon.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-icon.webp"
+      },
+      "material": {
+        "filename": "chargrilled-pumpkin-and-iguana-material.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-material.webp"
+      },
+      "name": {
+        "filename": "chargrilled-pumpkin-and-iguana-name.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/chargrilled-pumpkin-and-iguana.html"
+  },
+  {
+    "datePublished": "2022-01-07T18:56:03+07:00",
+    "dateModified": "2022-10-05T16:46:55+07:00",
+    "name": "Chargrilled Skewers",
+    "recipes": [
+      "Any Meat + Any Meat/Any Seasoning/Any Spice"
+    ],
+    "buff": [
+      "240 Fullness"
+    ],
+    "images": {
+      "filename": "chargrilled-skewers.webp",
+      "pathname": "/chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp",
+      "icon": {
+        "filename": "chargrilled-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "chargrilled-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-material.webp"
+      },
+      "name": {
+        "filename": "chargrilled-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/chargrilled-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-07T19:56:03+07:00",
+    "dateModified": "2022-10-06T00:46:53+07:00",
+    "name": "Chargrilled Vegetable Kabob",
+    "recipes": [
+      "Any Wild Fruit + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop",
+      "Any Lv.3 Crop + Any Lv.3 Crop/Any Lv.4 Crop",
+      "Any Lv.4 Crop + Any Lv.4 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "chargrilled-vegetable-kabob.webp",
+      "pathname": "/chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp",
+      "icon": {
+        "filename": "chargrilled-vegetable-kabob-icon.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-icon.webp"
+      },
+      "material": {
+        "filename": "chargrilled-vegetable-kabob-material.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-material.webp"
+      },
+      "name": {
+        "filename": "chargrilled-vegetable-kabob-name.webp",
+        "pathname": "/chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/chargrilled-vegetable-kabob.html"
+  },
+  {
+    "datePublished": "2022-01-07T23:56:03+07:00",
+    "dateModified": "2022-10-06T01:46:55+07:00",
+    "name": "Cherry-Braised Meat",
+    "recipes": [
+      "Any Wild Fruit + Any Lv.6 Crop + Any Mixed Sauce + Any Mixed Sauce + Any Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "250 ATK"
+    ],
+    "images": {
+      "filename": "cherry-braised-meat.webp",
+      "pathname": "/chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp",
+      "icon": {
+        "filename": "cherry-braised-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-icon.webp"
+      },
+      "material": {
+        "filename": "cherry-braised-meat-material.webp",
+        "pathname": "/chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-material.webp"
+      },
+      "name": {
+        "filename": "cherry-braised-meat-name.webp",
+        "pathname": "/chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/cherry-braised-meat.html"
+  },
+  {
+    "datePublished": "2022-01-08T07:56:03+07:00",
+    "dateModified": "2022-10-05T19:46:53+07:00",
+    "name": "Cold Lime Broth",
+    "recipes": [
+      "Bodhi Fruit + Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "Heat Resistance +15"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/cold-lime-broth.html"
+  },
+  {
+    "datePublished": "2022-01-08T02:56:03+07:00",
+    "dateModified": "2022-10-05T13:46:57+07:00",
+    "name": "Cold Lime Soup",
+    "recipes": [
+      "Bodhi Fruit + Ice Piece"
+    ],
+    "buff": [
+      "180 Fullness",
+      "Heat Resistance +10"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/cold-lime-soup.html"
+  },
+  {
+    "datePublished": "2022-01-08T01:56:03+07:00",
+    "dateModified": "2022-09-29T04:26:37+07:00",
+    "name": "Cucumber Sauce",
+    "recipes": [
+      "Cucumber + Job's Tears + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "300 Fullness"
+    ],
+    "images": {
+      "filename": "cucumber-sauce.webp",
+      "pathname": "/chimeraland/recipes/cucumber-sauce/cucumber-sauce.webp",
+      "icon": {
+        "filename": "cucumber-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/cucumber-sauce/cucumber-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "cucumber-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/cucumber-sauce/cucumber-sauce-material.webp"
+      },
+      "name": {
+        "filename": "cucumber-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/cucumber-sauce/cucumber-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/cucumber-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-07T13:56:03+07:00",
+    "dateModified": "2022-10-05T07:46:54+07:00",
+    "name": "Curry Grilled Meat",
+    "recipes": [
+      "Any Meat + Any Seasoning + Any Spice"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+150 ATK"
+    ],
+    "images": {
+      "filename": "curry-grilled-meat.webp",
+      "pathname": "/chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp",
+      "icon": {
+        "filename": "curry-grilled-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp"
+      },
+      "material": {
+        "filename": "curry-grilled-meat-material.webp",
+        "pathname": "/chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-material.webp"
+      },
+      "name": {
+        "filename": "curry-grilled-meat-name.webp",
+        "pathname": "/chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/curry-grilled-meat.html"
+  },
+  {
+    "datePublished": "2022-01-07T22:56:03+07:00",
+    "dateModified": "2022-09-29T03:10:00+0700",
+    "name": "Dark Cuisine",
+    "recipes": [
+      "Dung + Dew/Ice Piece --Device: Mixer - Jam--",
+      "Dung + Any Fish --Device: Camp II--",
+      "Dung + Any Grade Crop --Device: Stove II--",
+      "Dung + Any High Quality Seasoning/Any Flower/Any Mutant Flower/Any Curio --Device: Stove II--",
+      "Any Meat [1] --Device: Stove/Camp--",
+      "Insect Ichor [1] --Device: Stove/Camp--"
+    ],
+    "buff": [
+      "Component for making fertilizer"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "dark-cuisine.webp",
+      "pathname": "/chimeraland/recipes/dark-cuisine/dark-cuisine.webp",
+      "icon": {
+        "filename": "dark-cuisine-icon.webp",
+        "pathname": "/chimeraland/recipes/dark-cuisine/dark-cuisine-icon.webp"
+      },
+      "material": {
+        "filename": "dark-cuisine-material.webp",
+        "pathname": "/chimeraland/recipes/dark-cuisine/dark-cuisine-material.webp"
+      },
+      "name": {
+        "filename": "dark-cuisine-name.webp",
+        "pathname": "/chimeraland/recipes/dark-cuisine/dark-cuisine-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/dark-cuisine.html"
+  },
+  {
+    "datePublished": "2022-01-08T00:56:03+07:00",
+    "dateModified": "2022-10-05T16:46:57+07:00",
+    "name": "Deep Fried Liver",
+    "recipes": [
+      "Beast Liver + Chunk of Fat + Chunk of Fat + Beast Liver"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+25 Armor Pierce"
+    ],
+    "images": {
+      "filename": "deep-fried-liver.webp",
+      "pathname": "/chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp",
+      "icon": {
+        "filename": "deep-fried-liver-icon.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp"
+      },
+      "material": {
+        "filename": "deep-fried-liver-material.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-liver/deep-fried-liver-material.webp"
+      },
+      "name": {
+        "filename": "deep-fried-liver-name.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-liver/deep-fried-liver-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/deep-fried-liver.html"
+  },
+  {
+    "datePublished": "2022-01-08T12:56:03+07:00",
+    "dateModified": "2022-10-05T16:46:54+07:00",
+    "name": "Deep Fried Meat",
+    "recipes": [
+      "Any Meat + Any Meat + Any Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "12 Armor Pierce"
+    ],
+    "images": {
+      "filename": "deep-fried-meat.webp",
+      "pathname": "/chimeraland/recipes/deep-fried-meat/deep-fried-meat.webp",
+      "icon": {
+        "filename": "deep-fried-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-meat/deep-fried-meat-icon.webp"
+      },
+      "material": {
+        "filename": "deep-fried-meat-material.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-meat/deep-fried-meat-material.webp"
+      },
+      "name": {
+        "filename": "deep-fried-meat-name.webp",
+        "pathname": "/chimeraland/recipes/deep-fried-meat/deep-fried-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/deep-fried-meat.html"
+  },
+  {
+    "datePublished": "2022-01-07T20:56:03+07:00",
+    "dateModified": "2023-05-24T23:32:46+07:00",
+    "name": "Dragon Meat Stew",
+    "recipes": [
+      "Alligon Meat + Dew/Ice Piece + Any Lv.6 Crop + Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+150 ATK"
+    ],
+    "images": {
+      "filename": "dragon-meat-stew.webp",
+      "pathname": "/chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp",
+      "icon": {
+        "filename": "dragon-meat-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp"
+      },
+      "material": {
+        "filename": "dragon-meat-stew-material.webp",
+        "pathname": "/chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-material.webp"
+      },
+      "name": {
+        "filename": "dragon-meat-stew-name.webp",
+        "pathname": "/chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/dragon-meat-stew.html"
+  },
+  {
+    "datePublished": "2022-01-08T06:56:03+07:00",
+    "dateModified": "2022-09-29T05:26:37+07:00",
+    "name": "Drunken Fish",
+    "recipes": [
+      "Any Sweet Sauce + Any Fish + Any Lv.2 Crop"
+    ],
+    "buff": [
+      "300 Fullness",
+      "+30 CRIT"
+    ],
+    "images": {
+      "filename": "drunken-fish.webp",
+      "pathname": "/chimeraland/recipes/drunken-fish/drunken-fish.webp",
+      "icon": {
+        "filename": "drunken-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/drunken-fish/drunken-fish-icon.webp"
+      },
+      "material": {
+        "filename": "drunken-fish-material.webp",
+        "pathname": "/chimeraland/recipes/drunken-fish/drunken-fish-material.webp"
+      },
+      "name": {
+        "filename": "drunken-fish-name.webp",
+        "pathname": "/chimeraland/recipes/drunken-fish/drunken-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/drunken-fish.html"
+  },
+  {
+    "datePublished": "2022-01-08T04:56:03+07:00",
+    "dateModified": "2022-10-05T11:46:54+07:00",
+    "name": "Egg Soup",
+    "recipes": [
+      "Egg White + Dew/Ice Piece"
+    ],
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "egg-soup.webp",
+      "pathname": "/chimeraland/recipes/egg-soup/egg-soup.webp",
+      "icon": {
+        "filename": "egg-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/egg-soup/egg-soup-icon.webp"
+      },
+      "material": {
+        "filename": "egg-soup-material.webp",
+        "pathname": "/chimeraland/recipes/egg-soup/egg-soup-material.webp"
+      },
+      "name": {
+        "filename": "egg-soup-name.webp",
+        "pathname": "/chimeraland/recipes/egg-soup/egg-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/egg-soup.html"
+  },
+  {
+    "datePublished": "2022-01-08T09:56:03+07:00",
+    "dateModified": "2022-10-05T15:46:54+07:00",
+    "name": "Eggs With Gourd",
+    "recipes": [
+      "Watermelon + Egg White + Peanut Oil"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+100 CRIT"
+    ],
+    "images": {
+      "filename": "eggs-with-gourd.webp",
+      "pathname": "/chimeraland/recipes/eggs-with-gourd/eggs-with-gourd.webp",
+      "icon": {
+        "filename": "eggs-with-gourd-icon.webp",
+        "pathname": "/chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-icon.webp"
+      },
+      "material": {
+        "filename": "eggs-with-gourd-material.webp",
+        "pathname": "/chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-material.webp"
+      },
+      "name": {
+        "filename": "eggs-with-gourd-name.webp",
+        "pathname": "/chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/eggs-with-gourd.html"
+  },
+  {
+    "datePublished": "2022-01-08T05:56:03+07:00",
+    "dateModified": "2022-10-05T14:46:54+07:00",
+    "name": "Fish And Vegetable Stew",
+    "recipes": [
+      "Dew/Ice Piece + Any Lv.6 Crop + Any Spice + Orange grade fish/Red grade fish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+80 Armor Pierce"
+    ],
+    "images": {
+      "filename": "fish-and-vegetable-stew.webp",
+      "pathname": "/chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp",
+      "icon": {
+        "filename": "fish-and-vegetable-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-icon.webp"
+      },
+      "material": {
+        "filename": "fish-and-vegetable-stew-material.webp",
+        "pathname": "/chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-material.webp"
+      },
+      "name": {
+        "filename": "fish-and-vegetable-stew-name.webp",
+        "pathname": "/chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fish-and-vegetable-stew.html"
+  },
+  {
+    "datePublished": "2022-01-08T10:56:03+07:00",
+    "dateModified": "2022-10-05T21:46:56+07:00",
+    "name": "Fishball Soup",
+    "recipes": [
+      "Dew/Ice Piece + Dew/Ice Piece + Green grade fish",
+      "Dew/Ice Piece + Blue grade fish/Purple grade fish/Orange grade fish/Red grade fish"
+    ],
+    "buff": [
+      "300 Fullness",
+      "-50 Humidity (decreased over time) (decreased over time)"
+    ],
+    "images": {
+      "filename": "fishball-soup.webp",
+      "pathname": "/chimeraland/recipes/fishball-soup/fishball-soup.webp",
+      "icon": {
+        "filename": "fishball-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/fishball-soup/fishball-soup-icon.webp"
+      },
+      "material": {
+        "filename": "fishball-soup-material.webp",
+        "pathname": "/chimeraland/recipes/fishball-soup/fishball-soup-material.webp"
+      },
+      "name": {
+        "filename": "fishball-soup-name.webp",
+        "pathname": "/chimeraland/recipes/fishball-soup/fishball-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fishball-soup.html"
+  },
+  {
+    "datePublished": "2022-01-07T21:56:03+07:00",
+    "dateModified": "2022-10-05T20:46:54+07:00",
+    "name": "Flower Pancake",
+    "recipes": [
+      "Job's Tears Powder + Any Wild Fruit + Any Mutant Flower/Any Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "300 Fullness"
+    ],
+    "images": {
+      "filename": "flower-pancake.webp",
+      "pathname": "/chimeraland/recipes/flower-pancake/flower-pancake.webp",
+      "icon": {
+        "filename": "flower-pancake-icon.webp",
+        "pathname": "/chimeraland/recipes/flower-pancake/flower-pancake-icon.webp"
+      },
+      "material": {
+        "filename": "flower-pancake-material.webp",
+        "pathname": "/chimeraland/recipes/flower-pancake/flower-pancake-material.webp"
+      },
+      "name": {
+        "filename": "flower-pancake-name.webp",
+        "pathname": "/chimeraland/recipes/flower-pancake/flower-pancake-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/flower-pancake.html"
+  },
+  {
+    "datePublished": "2022-01-08T13:56:03+07:00",
+    "dateModified": "2022-10-05T20:46:56+07:00",
+    "name": "Fragrant Meat Stew",
+    "recipes": [
+      "Dew/Ice Piece + Any High Quality Seasoning + Any Meat + Any Spice + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+160 DEF",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "fragrant-meat-stew.webp",
+      "pathname": "/chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp",
+      "icon": {
+        "filename": "fragrant-meat-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp"
+      },
+      "material": {
+        "filename": "fragrant-meat-stew-material.webp",
+        "pathname": "/chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-material.webp"
+      },
+      "name": {
+        "filename": "fragrant-meat-stew-name.webp",
+        "pathname": "/chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fragrant-meat-stew.html"
+  },
+  {
+    "datePublished": "2022-01-08T11:56:03+07:00",
+    "dateModified": "2022-10-05T12:46:54+07:00",
+    "name": "Fragrant Steamed Buns",
+    "recipes": [
+      "Job's Tears Powder + Egg White + Any Lv.6 Crop + Any Meat + Any Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+150 CRIT",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "fragrant-steamed-buns.webp",
+      "pathname": "/chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp",
+      "icon": {
+        "filename": "fragrant-steamed-buns-icon.webp",
+        "pathname": "/chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-icon.webp"
+      },
+      "material": {
+        "filename": "fragrant-steamed-buns-material.webp",
+        "pathname": "/chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-material.webp"
+      },
+      "name": {
+        "filename": "fragrant-steamed-buns-name.webp",
+        "pathname": "/chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fragrant-steamed-buns.html"
+  },
+  {
+    "datePublished": "2022-01-08T08:56:03+07:00",
+    "dateModified": "2022-10-05T13:46:54+07:00",
+    "name": "Fried Fish",
+    "recipes": [
+      "Peanut Oil + Any High Quality Seasoning + Red grade Fish + Peanut Oil"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+80 Armor Pierce"
+    ],
+    "images": {
+      "filename": "fried-fish.webp",
+      "pathname": "/chimeraland/recipes/fried-fish/fried-fish.webp",
+      "icon": {
+        "filename": "fried-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-fish/fried-fish-icon.webp"
+      },
+      "material": {
+        "filename": "fried-fish-material.webp",
+        "pathname": "/chimeraland/recipes/fried-fish/fried-fish-material.webp"
+      },
+      "name": {
+        "filename": "fried-fish-name.webp",
+        "pathname": "/chimeraland/recipes/fried-fish/fried-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-fish.html"
+  },
+  {
+    "datePublished": "2022-01-08T16:56:03+07:00",
+    "dateModified": "2022-10-05T19:46:54+07:00",
+    "name": "Fried Intestines",
+    "recipes": [
+      "Beast Intestines + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower + Peanut Oil",
+      "Kidney + Peanut Oil + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+60 Crit"
+    ],
+    "images": {
+      "filename": "fried-intestines.webp",
+      "pathname": "/chimeraland/recipes/fried-intestines/fried-intestines.webp",
+      "icon": {
+        "filename": "fried-intestines-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-intestines/fried-intestines-icon.webp"
+      },
+      "material": {
+        "filename": "fried-intestines-material.webp",
+        "pathname": "/chimeraland/recipes/fried-intestines/fried-intestines-material.webp"
+      },
+      "name": {
+        "filename": "fried-intestines-name.webp",
+        "pathname": "/chimeraland/recipes/fried-intestines/fried-intestines-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-intestines.html"
+  },
+  {
+    "datePublished": "2022-01-08T21:56:03+07:00",
+    "dateModified": "2022-10-05T09:46:55+07:00",
+    "name": "Fried Liver",
+    "recipes": [
+      "Beast Liver + Beast Liver"
+    ],
+    "buff": [
+      "300 Fullness",
+      "50 DEF"
+    ],
+    "images": {
+      "filename": "fried-liver.webp",
+      "pathname": "/chimeraland/recipes/fried-liver/fried-liver.webp",
+      "icon": {
+        "filename": "fried-liver-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-liver/fried-liver-icon.webp"
+      },
+      "material": {
+        "filename": "fried-liver-material.webp",
+        "pathname": "/chimeraland/recipes/fried-liver/fried-liver-material.webp"
+      },
+      "name": {
+        "filename": "fried-liver-name.webp",
+        "pathname": "/chimeraland/recipes/fried-liver/fried-liver-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-liver.html"
+  },
+  {
+    "datePublished": "2022-01-08T15:56:03+07:00",
+    "dateModified": "2022-10-05T13:46:56+07:00",
+    "name": "Fried Meat With Mushrooms",
+    "recipes": [
+      "Any Mushroom + Any Meat + Any Seasoning/Any High Quality Seasoning"
+    ],
+    "device": "Camp II",
+    "images": {
+      "filename": "fried-meat-with-mushrooms.webp",
+      "pathname": "/chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp",
+      "icon": {
+        "filename": "fried-meat-with-mushrooms-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-icon.webp"
+      },
+      "material": {
+        "filename": "fried-meat-with-mushrooms-material.webp",
+        "pathname": "/chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-material.webp"
+      },
+      "name": {
+        "filename": "fried-meat-with-mushrooms-name.webp",
+        "pathname": "/chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-meat-with-mushrooms.html"
+  },
+  {
+    "datePublished": "2022-01-08T17:56:03+07:00",
+    "dateModified": "2022-10-06T00:46:54+07:00",
+    "name": "Fried Melon And Meat",
+    "recipes": [
+      "Any Meat + Any High Quality Seasoning + Any Lv.5 or Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+120 DEF",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "fried-melon-and-meat.webp",
+      "pathname": "/chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat.webp",
+      "icon": {
+        "filename": "fried-melon-and-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp"
+      },
+      "material": {
+        "filename": "fried-melon-and-meat-material.webp",
+        "pathname": "/chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-material.webp"
+      },
+      "name": {
+        "filename": "fried-melon-and-meat-name.webp",
+        "pathname": "/chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-melon-and-meat.html"
+  },
+  {
+    "datePublished": "2022-01-08T19:56:03+07:00",
+    "dateModified": "2022-10-05T08:46:54+07:00",
+    "name": "Fried Pork In Scoop",
+    "recipes": [
+      "Job's Tears Powder + Coriander + Any Meat + Any Lv.5 or Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+100 RES",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "fried-pork-in-scoop.webp",
+      "pathname": "/chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp",
+      "icon": {
+        "filename": "fried-pork-in-scoop-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-icon.webp"
+      },
+      "material": {
+        "filename": "fried-pork-in-scoop-material.webp",
+        "pathname": "/chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-material.webp"
+      },
+      "name": {
+        "filename": "fried-pork-in-scoop-name.webp",
+        "pathname": "/chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-pork-in-scoop.html"
+  },
+  {
+    "datePublished": "2022-01-08T14:56:03+07:00",
+    "dateModified": "2022-10-05T18:46:54+07:00",
+    "name": "Fried Seasonal Vegetables",
+    "recipes": [
+      "Add 2 Any Lv.1 to Lv.6 Crops",
+      "Any Lv.2 Crop + Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom",
+      "Any Lv.3 Crop + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom/Any Mutant Flower",
+      "Any Lv.4 Crop + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Mushroom/Any Mutant Flower/Any Flower",
+      "Any Lv.5 Crop + Any Lv.5 Crop or higher Crop/Any Mushroom/Any Mutant Flower/Any Flower",
+      "Any Lv.6 Crop + Any Lv.6 Crop/Any Mushroom/Any Mutant Flower/Any Flower"
+    ],
+    "device": "Stove II",
+    "images": {
+      "filename": "fried-seasonal-vegetables.webp",
+      "pathname": "/chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables.webp",
+      "icon": {
+        "filename": "fried-seasonal-vegetables-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-icon.webp"
+      },
+      "material": {
+        "filename": "fried-seasonal-vegetables-material.webp",
+        "pathname": "/chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-material.webp"
+      },
+      "name": {
+        "filename": "fried-seasonal-vegetables-name.webp",
+        "pathname": "/chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-seasonal-vegetables.html"
+  },
+  {
+    "datePublished": "2022-01-08T22:56:03+07:00",
+    "dateModified": "2022-10-05T11:46:56+07:00",
+    "name": "Fried Vegetarian Balls",
+    "recipes": [
+      "Job's Tears Powder + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop"
+    ],
+    "buff": [
+      "300 Fullness",
+      "+30 CRIT"
+    ],
+    "images": {
+      "filename": "fried-vegetarian-balls.webp",
+      "pathname": "/chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp",
+      "icon": {
+        "filename": "fried-vegetarian-balls-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-icon.webp"
+      },
+      "material": {
+        "filename": "fried-vegetarian-balls-material.webp",
+        "pathname": "/chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-material.webp"
+      },
+      "name": {
+        "filename": "fried-vegetarian-balls-name.webp",
+        "pathname": "/chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-vegetarian-balls.html"
+  },
+  {
+    "datePublished": "2022-01-09T02:56:03+07:00",
+    "dateModified": "2022-10-06T03:46:54+07:00",
+    "name": "Frog Honey Sauce",
+    "recipes": [
+      "Peanut Oil + Beetlefly Meat + Any High Quality Seasoning + Any Mixed Sauce + Any Mixed Sauce"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+160 DEF"
+    ],
+    "images": {
+      "filename": "frog-honey-sauce.webp",
+      "pathname": "/chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp",
+      "icon": {
+        "filename": "frog-honey-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "frog-honey-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-material.webp"
+      },
+      "name": {
+        "filename": "frog-honey-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/frog-honey-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-08T20:56:03+07:00",
+    "dateModified": "2022-09-29T01:26:37+07:00",
+    "name": "Fruit & Veggie Paste",
+    "recipes": [
+      "Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Mixer - Jam",
+    "images": {},
+    "pathname": "/chimeraland/recipes/fruit-and-veggie-paste.html"
+  },
+  {
+    "datePublished": "2022-01-08T23:56:03+07:00",
+    "dateModified": "2022-09-28T23:26:37+07:00",
+    "name": "Fruit And Vegetable Stew",
+    "recipes": [
+      "Any Meat + Dew/Ice Piece + Any Seasoning + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+60 RES",
+      "Great Focus"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/fruit-and-vegetable-stew.html"
+  },
+  {
+    "datePublished": "2022-01-09T07:56:03+07:00",
+    "dateModified": "2022-10-05T14:46:56+07:00",
+    "name": "Fruity Fried Mackerel",
+    "recipes": [
+      "Any Wild Fruit + Any Mixed Sauce + Any Mixed Sauce + Orange grade fish/Red grade fish + Peanut Oil"
+    ],
+    "device": "Stove II",
+    "images": {},
+    "pathname": "/chimeraland/recipes/fruity-fried-mackerel.html"
+  },
+  {
+    "datePublished": "2022-01-08T18:56:03+07:00",
+    "dateModified": "2022-10-05T09:46:54+07:00",
+    "name": "Fruity Grilled Meat",
+    "recipes": [
+      "Any Meat + Any Wild Fruit + Any Sweet Sauce + Peanut Oil"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+80 DEF"
+    ],
+    "images": {
+      "filename": "fruity-grilled-meat.webp",
+      "pathname": "/chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp",
+      "icon": {
+        "filename": "fruity-grilled-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp"
+      },
+      "material": {
+        "filename": "fruity-grilled-meat-material.webp",
+        "pathname": "/chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-material.webp"
+      },
+      "name": {
+        "filename": "fruity-grilled-meat-name.webp",
+        "pathname": "/chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fruity-grilled-meat.html"
+  },
+  {
+    "datePublished": "2022-01-08T03:56:03+07:00",
+    "dateModified": "2022-10-05T21:46:54+07:00",
+    "name": "Fruity Meat Skewers",
+    "recipes": [
+      "Any Meat + Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any Spice",
+      "Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop + Any Meat"
+    ],
+    "buff": [
+      "240 Fullness"
+    ],
+    "images": {
+      "filename": "fruity-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp",
+      "icon": {
+        "filename": "fruity-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "fruity-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "fruity-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fruity-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-09T03:56:03+07:00",
+    "dateModified": "2022-10-06T01:46:54+07:00",
+    "name": "Garlic Braised Meat",
+    "recipes": [
+      "Wolfspider Meat + Wild Garlic + Garlic Powder",
+      "Garlic Powder + Wild Garlic + Crab Claw Meat",
+      "Garlic Powder + Wild Garlic + Scorab Meat",
+      "Garlic Powder + Wild Garlic + Beetlefly Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "100 ATK"
+    ],
+    "images": {
+      "filename": "garlic-braised-meat.webp",
+      "pathname": "/chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp",
+      "icon": {
+        "filename": "garlic-braised-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp"
+      },
+      "material": {
+        "filename": "garlic-braised-meat-material.webp",
+        "pathname": "/chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-material.webp"
+      },
+      "name": {
+        "filename": "garlic-braised-meat-name.webp",
+        "pathname": "/chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/garlic-braised-meat.html"
+  },
+  {
+    "datePublished": "2022-01-09T04:56:03+07:00",
+    "dateModified": "2022-10-06T06:46:54+07:00",
+    "name": "Garlic Meat Skewers",
+    "recipes": [
+      "Garlic Powder + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "50 DEF"
+    ],
+    "images": {
+      "filename": "garlic-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp",
+      "icon": {
+        "filename": "garlic-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "garlic-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "garlic-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/garlic-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-09T00:56:03+07:00",
+    "dateModified": "2022-10-05T14:46:55+07:00",
+    "name": "Garlic Steak",
+    "recipes": [
+      "Garlic Powder + Job's Tears Powder + Bosalo Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "50 DEF"
+    ],
+    "images": {
+      "filename": "garlic-steak.webp",
+      "pathname": "/chimeraland/recipes/garlic-steak/garlic-steak.webp",
+      "icon": {
+        "filename": "garlic-steak-icon.webp",
+        "pathname": "/chimeraland/recipes/garlic-steak/garlic-steak-icon.webp"
+      },
+      "material": {
+        "filename": "garlic-steak-material.webp",
+        "pathname": "/chimeraland/recipes/garlic-steak/garlic-steak-material.webp"
+      },
+      "name": {
+        "filename": "garlic-steak-name.webp",
+        "pathname": "/chimeraland/recipes/garlic-steak/garlic-steak-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/garlic-steak.html"
+  },
+  {
+    "datePublished": "2022-01-09T01:56:03+07:00",
+    "dateModified": "2022-09-29T08:26:37+07:00",
+    "name": "Garlic Sauce",
+    "recipes": [
+      "Wild Garlic + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Reduces Toxins by 30"
+    ],
+    "images": {
+      "filename": "garlic-sauce.webp",
+      "pathname": "/chimeraland/recipes/garlic-sauce/garlic-sauce.webp",
+      "icon": {
+        "filename": "garlic-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/garlic-sauce/garlic-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "garlic-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/garlic-sauce/garlic-sauce-material.webp"
+      },
+      "name": {
+        "filename": "garlic-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/garlic-sauce/garlic-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/garlic-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-09T08:56:03+07:00",
+    "dateModified": "2022-10-05T23:46:54+07:00",
+    "name": "Garlic Thighs",
+    "recipes": [
+      "Scallion + Any Meat + Peanut Oil"
+    ],
+    "images": {
+      "filename": "garlic-thighs.webp",
+      "pathname": "/chimeraland/recipes/garlic-thighs/garlic-thighs.webp",
+      "icon": {
+        "filename": "garlic-thighs-icon.webp",
+        "pathname": "/chimeraland/recipes/garlic-thighs/garlic-thighs-icon.webp"
+      },
+      "material": {
+        "filename": "garlic-thighs-material.webp",
+        "pathname": "/chimeraland/recipes/garlic-thighs/garlic-thighs-material.webp"
+      },
+      "name": {
+        "filename": "garlic-thighs-name.webp",
+        "pathname": "/chimeraland/recipes/garlic-thighs/garlic-thighs-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/garlic-thighs.html"
+  },
+  {
+    "datePublished": "2022-01-09T14:56:03+07:00",
+    "dateModified": "2022-09-28T21:26:37+07:00",
+    "name": "Goodfruit Sauce",
+    "recipes": [
+      "Red Goodfruit + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Cold Resistance +5"
+    ],
+    "images": {
+      "filename": "goodfruit-sauce.webp",
+      "pathname": "/chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp",
+      "icon": {
+        "filename": "goodfruit-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "goodfruit-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-material.webp"
+      },
+      "name": {
+        "filename": "goodfruit-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/goodfruit-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-09T06:56:03+07:00",
+    "dateModified": "2022-10-05T08:46:55+07:00",
+    "name": "Goodfruit Slushie",
+    "recipes": [
+      "Ice Piece + Red Goodfruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Heat Resistance +10"
+    ],
+    "images": {
+      "filename": "goodfruit-slushie.webp",
+      "pathname": "/chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp",
+      "icon": {
+        "filename": "goodfruit-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "goodfruit-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-material.webp"
+      },
+      "name": {
+        "filename": "goodfruit-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/goodfruit-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-09T09:56:03+07:00",
+    "dateModified": "2022-10-06T13:46:54+07:00",
+    "name": "Gourd-Braised Meat",
+    "recipes": [
+      "Gourd + Any Meat + Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+6% Crit Damage Dealt"
+    ],
+    "images": {
+      "filename": "gourd-braised-meat.webp",
+      "pathname": "/chimeraland/recipes/gourd-braised-meat/gourd-braised-meat.webp",
+      "icon": {
+        "filename": "gourd-braised-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-icon.webp"
+      },
+      "material": {
+        "filename": "gourd-braised-meat-material.webp",
+        "pathname": "/chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-material.webp"
+      },
+      "name": {
+        "filename": "gourd-braised-meat-name.webp",
+        "pathname": "/chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/gourd-braised-meat.html"
+  },
+  {
+    "datePublished": "2022-01-09T13:56:03+07:00",
+    "dateModified": "2022-10-06T04:46:54+07:00",
+    "name": "Grilled Bear Paw",
+    "recipes": [
+      "Bear Paw + Any Seasoning/Any Spice/Any High Quality Seasoning"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "150 ATK"
+    ],
+    "images": {
+      "filename": "grilled-bear-paw.webp",
+      "pathname": "/chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp",
+      "icon": {
+        "filename": "grilled-bear-paw-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-bear-paw-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-material.webp"
+      },
+      "name": {
+        "filename": "grilled-bear-paw-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-bear-paw.html"
+  },
+  {
+    "datePublished": "2022-01-09T19:56:03+07:00",
+    "dateModified": "2022-10-05T18:46:56+07:00",
+    "name": "Grilled Bird",
+    "recipes": [
+      "Vuldo Meat + Any Wild Fruit + Any Lv.4 Crop"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+60 CRIT",
+      "Medium Focus"
+    ],
+    "images": {
+      "filename": "grilled-bird.webp",
+      "pathname": "/chimeraland/recipes/grilled-bird/grilled-bird.webp",
+      "icon": {
+        "filename": "grilled-bird-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-bird/grilled-bird-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-bird-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-bird/grilled-bird-material.webp"
+      },
+      "name": {
+        "filename": "grilled-bird-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-bird/grilled-bird-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-bird.html"
+  },
+  {
+    "datePublished": "2022-01-09T10:56:03+07:00",
+    "dateModified": "2022-10-05T10:46:54+07:00",
+    "name": "Grilled Brains",
+    "recipes": [
+      "Beast Brain + Beast Brain"
+    ],
+    "images": {
+      "filename": "grilled-brains.webp",
+      "pathname": "/chimeraland/recipes/grilled-brains/grilled-brains.webp",
+      "icon": {
+        "filename": "grilled-brains-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-brains/grilled-brains-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-brains-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-brains/grilled-brains-material.webp"
+      },
+      "name": {
+        "filename": "grilled-brains-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-brains/grilled-brains-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-brains.html"
+  },
+  {
+    "datePublished": "2022-01-09T17:56:03+07:00",
+    "dateModified": "2022-09-29T13:26:37+07:00",
+    "name": "Grilled Crab Claws",
+    "recipes": [
+      "Crab Claw Meat + Any Seasoning/Any Spice/Any High Quality Seasoning"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "150 ATK"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/grilled-crab-claws.html"
+  },
+  {
+    "datePublished": "2022-01-09T12:56:03+07:00",
+    "dateModified": "2022-10-06T02:46:54+07:00",
+    "name": "Grilled Fish",
+    "recipes": [
+      "Any Seasoning + Purple grade fish/Orange grade fish/Red grade fish"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "Strenghten Underwater Effect"
+    ],
+    "images": {
+      "filename": "grilled-fish.webp",
+      "pathname": "/chimeraland/recipes/grilled-fish/grilled-fish.webp",
+      "icon": {
+        "filename": "grilled-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-fish/grilled-fish-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-fish-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-fish/grilled-fish-material.webp"
+      },
+      "name": {
+        "filename": "grilled-fish-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-fish/grilled-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-fish.html"
+  },
+  {
+    "datePublished": "2022-01-10T03:56:03+07:00",
+    "dateModified": "2022-10-06T05:46:54+07:00",
+    "name": "Grilled Frog Legs",
+    "recipes": [
+      "Small Beast Meat + Small Beast Meat + Small Beast Meat"
+    ],
+    "buff": [
+      "180 Fullness",
+      "Strengthen Underwater Effect"
+    ],
+    "images": {
+      "filename": "grilled-frog-legs.webp",
+      "pathname": "/chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp",
+      "icon": {
+        "filename": "grilled-frog-legs-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-frog-legs-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-material.webp"
+      },
+      "name": {
+        "filename": "grilled-frog-legs-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-frog-legs.html"
+  },
+  {
+    "datePublished": "2022-01-09T05:56:03+07:00",
+    "dateModified": "2022-10-05T12:46:56+07:00",
+    "name": "Grilled Heart",
+    "recipes": [
+      "Beast Heart + Beast Heart"
+    ],
+    "buff": [
+      "300 Fullness",
+      "100 ATK"
+    ],
+    "images": {
+      "filename": "grilled-heart.webp",
+      "pathname": "/chimeraland/recipes/grilled-heart/grilled-heart.webp",
+      "icon": {
+        "filename": "grilled-heart-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-heart/grilled-heart-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-heart-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-heart/grilled-heart-material.webp"
+      },
+      "name": {
+        "filename": "grilled-heart-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-heart/grilled-heart-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-heart.html"
+  },
+  {
+    "datePublished": "2022-01-09T16:56:03+07:00",
+    "dateModified": "2022-10-05T17:46:56+07:00",
+    "name": "Grilled Kidneys",
+    "recipes": [
+      "Kidney + Kidney"
+    ],
+    "buff": [
+      "300 Fullness",
+      "15 RES"
+    ],
+    "images": {
+      "filename": "grilled-kidneys.webp",
+      "pathname": "/chimeraland/recipes/grilled-kidneys/grilled-kidneys.webp",
+      "icon": {
+        "filename": "grilled-kidneys-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-kidneys/grilled-kidneys-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-kidneys-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-kidneys/grilled-kidneys-material.webp"
+      },
+      "name": {
+        "filename": "grilled-kidneys-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-kidneys/grilled-kidneys-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-kidneys.html"
+  },
+  {
+    "datePublished": "2022-01-09T18:56:03+07:00",
+    "dateModified": "2022-10-05T22:46:54+07:00",
+    "name": "Grilled Meat And Mushrooms",
+    "recipes": [
+      "Any Mushroom + Any Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "240 Fullness",
+      "Cold Resistance +10"
+    ],
+    "images": {
+      "filename": "grilled-meat-and-mushrooms.webp",
+      "pathname": "/chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms.webp",
+      "icon": {
+        "filename": "grilled-meat-and-mushrooms-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-meat-and-mushrooms-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-material.webp"
+      },
+      "name": {
+        "filename": "grilled-meat-and-mushrooms-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-meat-and-mushrooms.html"
+  },
+  {
+    "datePublished": "2022-01-10T01:56:03+07:00",
+    "dateModified": "2022-10-06T07:46:54+07:00",
+    "name": "Grilled Meat Cubes",
+    "recipes": [
+      "Any Meat + Any Meat/Any Seasoning/Any Spice/Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat"
+    ],
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "grilled-meat-cubes.webp",
+      "pathname": "/chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp",
+      "icon": {
+        "filename": "grilled-meat-cubes-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-meat-cubes-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-material.webp"
+      },
+      "name": {
+        "filename": "grilled-meat-cubes-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-meat-cubes.html"
+  },
+  {
+    "datePublished": "2022-01-09T20:56:03+07:00",
+    "dateModified": "2022-10-05T08:46:56+07:00",
+    "name": "Grilled Offal",
+    "recipes": [
+      "Beast Intestines + Beast Intestines"
+    ],
+    "buff": [
+      "300 Fullness",
+      "30 Crit"
+    ],
+    "images": {
+      "filename": "grilled-offal.webp",
+      "pathname": "/chimeraland/recipes/grilled-offal/grilled-offal.webp",
+      "icon": {
+        "filename": "grilled-offal-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-offal/grilled-offal-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-offal-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-offal/grilled-offal-material.webp"
+      },
+      "name": {
+        "filename": "grilled-offal-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-offal/grilled-offal-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-offal.html"
+  },
+  {
+    "datePublished": "2022-01-09T22:56:03+07:00",
+    "dateModified": "2022-10-06T09:46:54+07:00",
+    "name": "Grilled Rabbit",
+    "recipes": [
+      "Any Meat + Any Meat"
+    ],
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "grilled-rabbit.webp",
+      "pathname": "/chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp",
+      "icon": {
+        "filename": "grilled-rabbit-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-rabbit-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-rabbit/grilled-rabbit-material.webp"
+      },
+      "name": {
+        "filename": "grilled-rabbit-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-rabbit/grilled-rabbit-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-rabbit.html"
+  },
+  {
+    "datePublished": "2022-01-10T05:56:03+07:00",
+    "dateModified": "2022-10-06T14:46:54+07:00",
+    "name": "Grilled Venison",
+    "recipes": [
+      "Moose Meat + Moose Meat"
+    ],
+    "buff": [
+      "240 Fullness"
+    ],
+    "images": {
+      "filename": "grilled-venison.webp",
+      "pathname": "/chimeraland/recipes/grilled-venison/grilled-venison.webp",
+      "icon": {
+        "filename": "grilled-venison-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-venison/grilled-venison-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-venison-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-venison/grilled-venison-material.webp"
+      },
+      "name": {
+        "filename": "grilled-venison-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-venison/grilled-venison-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-venison.html"
+  },
+  {
+    "datePublished": "2022-01-09T21:56:03+07:00",
+    "dateModified": "2022-10-06T10:46:54+07:00",
+    "name": "Grilled Wings",
+    "recipes": [
+      "Bird Wing + Any Seasoning/Any Spice/Any High Quality Seasoning"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "80 DEF"
+    ],
+    "images": {
+      "filename": "grilled-wings.webp",
+      "pathname": "/chimeraland/recipes/grilled-wings/grilled-wings.webp",
+      "icon": {
+        "filename": "grilled-wings-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-wings/grilled-wings-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-wings-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-wings/grilled-wings-material.webp"
+      },
+      "name": {
+        "filename": "grilled-wings-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-wings/grilled-wings-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-wings.html"
+  },
+  {
+    "datePublished": "2022-01-09T15:56:03+07:00",
+    "dateModified": "2022-10-06T16:46:54+07:00",
+    "name": "Grilled Wolf",
+    "recipes": [
+      "Peanut Oil + Prowler Meat + Prowler Meat + Any Seasoning"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+60Crit",
+      "Medium Focus"
+    ],
+    "images": {
+      "filename": "grilled-wolf.webp",
+      "pathname": "/chimeraland/recipes/grilled-wolf/grilled-wolf.webp",
+      "icon": {
+        "filename": "grilled-wolf-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-wolf-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-wolf/grilled-wolf-material.webp"
+      },
+      "name": {
+        "filename": "grilled-wolf-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-wolf/grilled-wolf-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-wolf.html"
+  },
+  {
+    "datePublished": "2022-01-09T11:56:03+07:00",
+    "dateModified": "2022-10-05T17:46:54+07:00",
+    "name": "Herb Grilled Crab",
+    "recipes": [
+      "Crab Claw Meat + Orchid + Any Seasoning/Any Spice"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+150 ATK"
+    ],
+    "images": {
+      "filename": "herb-grilled-crab.webp",
+      "pathname": "/chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp",
+      "icon": {
+        "filename": "herb-grilled-crab-icon.webp",
+        "pathname": "/chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-icon.webp"
+      },
+      "material": {
+        "filename": "herb-grilled-crab-material.webp",
+        "pathname": "/chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-material.webp"
+      },
+      "name": {
+        "filename": "herb-grilled-crab-name.webp",
+        "pathname": "/chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/herb-grilled-crab.html"
+  },
+  {
+    "datePublished": "2022-01-10T10:56:03+07:00",
+    "dateModified": "2022-10-05T10:46:55+07:00",
+    "name": "Honey Grilled Chicken",
+    "recipes": [
+      "Condor Meat + Condor Meat + Any Sweet Sauce + Peanut Oil",
+      "Vulture Meat + Vulture Meat + Any Sweet Sauce + Peanut Oil",
+      "Vuldo Meat + Vuldo Meat + Any Sweet Sauce + Peanut Oil"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+80 DEF"
+    ],
+    "images": {
+      "filename": "honey-grilled-chicken.webp",
+      "pathname": "/chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp",
+      "icon": {
+        "filename": "honey-grilled-chicken-icon.webp",
+        "pathname": "/chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp"
+      },
+      "material": {
+        "filename": "honey-grilled-chicken-material.webp",
+        "pathname": "/chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-material.webp"
+      },
+      "name": {
+        "filename": "honey-grilled-chicken-name.webp",
+        "pathname": "/chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/honey-grilled-chicken.html"
+  },
+  {
+    "datePublished": "2022-01-10T08:56:03+07:00",
+    "dateModified": "2022-10-06T08:46:54+07:00",
+    "name": "Honeybee Jerky",
+    "recipes": [
+      "Beetlefly Meat + Any Meat + Any Sweet Sauce + Peanut Oil"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+6% Crit Damage Dealt"
+    ],
+    "images": {
+      "filename": "honeybee-jerky.webp",
+      "pathname": "/chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp",
+      "icon": {
+        "filename": "honeybee-jerky-icon.webp",
+        "pathname": "/chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp"
+      },
+      "material": {
+        "filename": "honeybee-jerky-material.webp",
+        "pathname": "/chimeraland/recipes/honeybee-jerky/honeybee-jerky-material.webp"
+      },
+      "name": {
+        "filename": "honeybee-jerky-name.webp",
+        "pathname": "/chimeraland/recipes/honeybee-jerky/honeybee-jerky-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/honeybee-jerky.html"
+  },
+  {
+    "datePublished": "2022-01-09T23:56:03+07:00",
+    "dateModified": "2022-10-05T17:46:55+07:00",
+    "name": "Honeydew Melon Slushie",
+    "recipes": [
+      "Ice Piece + Honeydew Melon + Ice Piece"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+540 fullness",
+      "Heat Resistance +15"
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "honeydew-melon-slushie.webp",
+      "pathname": "/chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp",
+      "icon": {
+        "filename": "honeydew-melon-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "honeydew-melon-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-material.webp"
+      },
+      "name": {
+        "filename": "honeydew-melon-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/honeydew-melon-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-10T11:56:03+07:00",
+    "dateModified": "2022-10-06T12:46:54+07:00",
+    "name": "Hot Oil",
+    "recipes": [
+      "Peanut Oil + Peanut Oil",
+      "Chunk of Fat + Chunk of Fat"
+    ],
+    "buff": [
+      "240 Fullness",
+      "Cold Resistance +10"
+    ],
+    "images": {
+      "filename": "hot-oil.webp",
+      "pathname": "/chimeraland/recipes/hot-oil/hot-oil.webp",
+      "icon": {
+        "filename": "hot-oil-icon.webp",
+        "pathname": "/chimeraland/recipes/hot-oil/hot-oil-icon.webp"
+      },
+      "material": {
+        "filename": "hot-oil-material.webp",
+        "pathname": "/chimeraland/recipes/hot-oil/hot-oil-material.webp"
+      },
+      "name": {
+        "filename": "hot-oil-name.webp",
+        "pathname": "/chimeraland/recipes/hot-oil/hot-oil-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/hot-oil.html"
+  },
+  {
+    "datePublished": "2022-01-10T02:56:03+07:00",
+    "dateModified": "2022-10-05T18:46:55+07:00",
+    "name": "Hot Water",
+    "recipes": [
+      "Dew/Ice Piece + Dew/Ice Piece/Any Seasoning/Any Spice/Insect Ichor"
+    ],
+    "buff": [
+      "60 Fullness",
+      "Cold Resistance +5"
+    ],
+    "images": {
+      "filename": "hot-water.webp",
+      "pathname": "/chimeraland/recipes/hot-water/hot-water.webp",
+      "icon": {
+        "filename": "hot-water-icon.webp",
+        "pathname": "/chimeraland/recipes/hot-water/hot-water-icon.webp"
+      },
+      "material": {
+        "filename": "hot-water-material.webp",
+        "pathname": "/chimeraland/recipes/hot-water/hot-water-material.webp"
+      },
+      "name": {
+        "filename": "hot-water-name.webp",
+        "pathname": "/chimeraland/recipes/hot-water/hot-water-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/hot-water.html"
+  },
+  {
+    "datePublished": "2022-01-10T12:56:03+07:00",
+    "dateModified": "2022-10-05T21:46:55+07:00",
+    "name": "Ice Block",
+    "recipes": [
+      "Ice Piece + Ice Piece",
+      "Ice Piece [2]"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+180 fullness",
+      "Heat Resistance +10"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "ice-block.webp",
+      "pathname": "/chimeraland/recipes/ice-block/ice-block.webp",
+      "icon": {
+        "filename": "ice-block-icon.webp",
+        "pathname": "/chimeraland/recipes/ice-block/ice-block-icon.webp"
+      },
+      "material": {
+        "filename": "ice-block-material.webp",
+        "pathname": "/chimeraland/recipes/ice-block/ice-block-material.webp"
+      },
+      "name": {
+        "filename": "ice-block-name.webp",
+        "pathname": "/chimeraland/recipes/ice-block/ice-block-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/ice-block.html"
+  },
+  {
+    "datePublished": "2022-01-10T04:56:03+07:00",
+    "dateModified": "2022-10-05T20:46:55+07:00",
+    "name": "Job's Tears Broth",
+    "recipes": [
+      "Job's Tears + Dew/Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "-50 Humidity (decreased over time)"
+    ],
+    "images": {
+      "filename": "jobs-tears-broth.webp",
+      "pathname": "/chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp",
+      "icon": {
+        "filename": "jobs-tears-broth-icon.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp"
+      },
+      "material": {
+        "filename": "jobs-tears-broth-material.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-material.webp"
+      },
+      "name": {
+        "filename": "jobs-tears-broth-name.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/jobs-tears-broth.html"
+  },
+  {
+    "datePublished": "2022-01-10T00:56:03+07:00",
+    "dateModified": "2022-10-05T19:46:55+07:00",
+    "name": "Job's Tears Porridge",
+    "recipes": [
+      "Job's Tears + Dew/Ice Piece"
+    ],
+    "buff": [
+      "180 Fullness",
+      "-40 Humidity (decreased over time)"
+    ],
+    "images": {
+      "filename": "jobs-tears-porridge.webp",
+      "pathname": "/chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge.webp",
+      "icon": {
+        "filename": "jobs-tears-porridge-icon.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-icon.webp"
+      },
+      "material": {
+        "filename": "jobs-tears-porridge-material.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-material.webp"
+      },
+      "name": {
+        "filename": "jobs-tears-porridge-name.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/jobs-tears-porridge.html"
+  },
+  {
+    "datePublished": "2022-01-10T18:56:03+07:00",
+    "dateModified": "2022-09-29T10:26:37+07:00",
+    "name": "Job's Tears Sauce",
+    "recipes": [
+      "Job's Tears + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "jobs-tears-sauce.webp",
+      "pathname": "/chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce.webp",
+      "icon": {
+        "filename": "jobs-tears-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "jobs-tears-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-material.webp"
+      },
+      "name": {
+        "filename": "jobs-tears-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/jobs-tears-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-10T07:56:03+07:00",
+    "dateModified": "2022-10-06T05:46:55+07:00",
+    "name": "Job's Tears Stew",
+    "recipes": [
+      "Job's Tears + Any Meat + Any Lv.4 Crop"
+    ],
+    "buff": [
+      "420 Fullness",
+      "Medium Focus",
+      "+25 Armor Pierce"
+    ],
+    "images": {
+      "filename": "jobs-tears-stew.webp",
+      "pathname": "/chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp",
+      "icon": {
+        "filename": "jobs-tears-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-icon.webp"
+      },
+      "material": {
+        "filename": "jobs-tears-stew-material.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-material.webp"
+      },
+      "name": {
+        "filename": "jobs-tears-stew-name.webp",
+        "pathname": "/chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/jobs-tears-stew.html"
+  },
+  {
+    "datePublished": "2022-01-10T15:56:03+07:00",
+    "dateModified": "2022-10-06T15:46:54+07:00",
+    "name": "Large Fruit Stew",
+    "recipes": [
+      "Any Wild Fruit + Dew/Ice Piece/Insect Ichor",
+      "Dew/Ice Piece + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop",
+      "Dew/Ice Piece + Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Mutant Flower/Any Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "240 Fullness"
+    ],
+    "images": {
+      "filename": "large-fruit-stew.webp",
+      "pathname": "/chimeraland/recipes/large-fruit-stew/large-fruit-stew.webp",
+      "icon": {
+        "filename": "large-fruit-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/large-fruit-stew/large-fruit-stew-icon.webp"
+      },
+      "material": {
+        "filename": "large-fruit-stew-material.webp",
+        "pathname": "/chimeraland/recipes/large-fruit-stew/large-fruit-stew-material.webp"
+      },
+      "name": {
+        "filename": "large-fruit-stew-name.webp",
+        "pathname": "/chimeraland/recipes/large-fruit-stew/large-fruit-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/large-fruit-stew.html"
+  },
+  {
+    "datePublished": "2022-01-10T16:56:03+07:00",
+    "dateModified": "2022-10-06T00:46:55+07:00",
+    "name": "Meat And Vegetable",
+    "recipes": [
+      "Any Meat + Any Spice + Any Lv.3 Crop/Any Lv.4 Crop",
+      "Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat + Any Lv.5 Crop/Any Lv.6 Crop",
+      "Any Curio + Any Lv.5 Crop/Any Lv.6 Crop",
+      "Any Meat + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "Medium Focus",
+      "+25 Armor Pierce"
+    ],
+    "images": {
+      "filename": "meat-and-vegetable.webp",
+      "pathname": "/chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp",
+      "icon": {
+        "filename": "meat-and-vegetable-icon.webp",
+        "pathname": "/chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp"
+      },
+      "material": {
+        "filename": "meat-and-vegetable-material.webp",
+        "pathname": "/chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-material.webp"
+      },
+      "name": {
+        "filename": "meat-and-vegetable-name.webp",
+        "pathname": "/chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/meat-and-vegetable.html"
+  },
+  {
+    "datePublished": "2022-01-11T00:56:03+07:00",
+    "dateModified": "2022-10-07T00:46:54+07:00",
+    "name": "Meat Noodles",
+    "recipes": [
+      "Dew/Ice Piece + Any Lv.6 Crop + Any Meat + Any Lv.6 Crop",
+      "dew + crop level 6 + Any Meat + crop level 6"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "+600 fullness",
+      "+250 atk"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "meat-noodles.webp",
+      "pathname": "/chimeraland/recipes/meat-noodles/meat-noodles.webp",
+      "icon": {
+        "filename": "meat-noodles-icon.webp",
+        "pathname": "/chimeraland/recipes/meat-noodles/meat-noodles-icon.webp"
+      },
+      "material": {
+        "filename": "meat-noodles-material.webp",
+        "pathname": "/chimeraland/recipes/meat-noodles/meat-noodles-material.webp"
+      },
+      "name": {
+        "filename": "meat-noodles-name.webp",
+        "pathname": "/chimeraland/recipes/meat-noodles/meat-noodles-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/meat-noodles.html"
+  },
+  {
+    "datePublished": "2022-01-10T09:56:03+07:00",
+    "dateModified": "2022-10-05T23:46:55+07:00",
+    "name": "Meat Pie",
+    "recipes": [
+      "Any Meat + Any Meat + Any Meat + Any High Quality Seasoning + Job's Tears Powder"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+60 RES",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "meat-pie.webp",
+      "pathname": "/chimeraland/recipes/meat-pie/meat-pie.webp",
+      "icon": {
+        "filename": "meat-pie-icon.webp",
+        "pathname": "/chimeraland/recipes/meat-pie/meat-pie-icon.webp"
+      },
+      "material": {
+        "filename": "meat-pie-material.webp",
+        "pathname": "/chimeraland/recipes/meat-pie/meat-pie-material.webp"
+      },
+      "name": {
+        "filename": "meat-pie-name.webp",
+        "pathname": "/chimeraland/recipes/meat-pie/meat-pie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/meat-pie.html"
+  },
+  {
+    "datePublished": "2022-01-10T13:56:03+07:00",
+    "dateModified": "2022-10-05T22:46:55+07:00",
+    "name": "Mushroom Broth",
+    "recipes": [
+      "Any Mushroom + Any Meat + Dew/Ice Piece"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "Unlock Stove II"
+    ],
+    "additional": "<a href=\"#unlock-stove-ii\">Watch Tutorial</a>",
+    "images": {
+      "filename": "mushroom-broth.webp",
+      "pathname": "/chimeraland/recipes/mushroom-broth/mushroom-broth.webp",
+      "icon": {
+        "filename": "mushroom-broth-icon.webp",
+        "pathname": "/chimeraland/recipes/mushroom-broth/mushroom-broth-icon.webp"
+      },
+      "material": {
+        "filename": "mushroom-broth-material.webp",
+        "pathname": "/chimeraland/recipes/mushroom-broth/mushroom-broth-material.webp"
+      },
+      "name": {
+        "filename": "mushroom-broth-name.webp",
+        "pathname": "/chimeraland/recipes/mushroom-broth/mushroom-broth-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/mushroom-broth.html"
+  },
+  {
+    "datePublished": "2022-01-10T21:56:03+07:00",
+    "dateModified": "2022-10-06T18:46:54+07:00",
+    "name": "New Year Dumplings",
+    "recipes": [
+      "Job's Tears Powder + Job's Tears Powder + Any Lv.6 Crop + Any Meat + Peanut Oil"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+100 RES",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "new-year-dumplings.webp",
+      "pathname": "/chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp",
+      "icon": {
+        "filename": "new-year-dumplings-icon.webp",
+        "pathname": "/chimeraland/recipes/new-year-dumplings/new-year-dumplings-icon.webp"
+      },
+      "material": {
+        "filename": "new-year-dumplings-material.webp",
+        "pathname": "/chimeraland/recipes/new-year-dumplings/new-year-dumplings-material.webp"
+      },
+      "name": {
+        "filename": "new-year-dumplings-name.webp",
+        "pathname": "/chimeraland/recipes/new-year-dumplings/new-year-dumplings-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/new-year-dumplings.html"
+  },
+  {
+    "datePublished": "2022-01-10T20:56:03+07:00",
+    "dateModified": "2022-10-06T23:46:54+07:00",
+    "name": "Omelette",
+    "recipes": [
+      "Egg White + Egg White"
+    ],
+    "buff": [
+      "300 Fullness",
+      "+15 RES"
+    ],
+    "images": {
+      "filename": "omelette.webp",
+      "pathname": "/chimeraland/recipes/omelette/omelette.webp",
+      "icon": {
+        "filename": "omelette-icon.webp",
+        "pathname": "/chimeraland/recipes/omelette/omelette-icon.webp"
+      },
+      "material": {
+        "filename": "omelette-material.webp",
+        "pathname": "/chimeraland/recipes/omelette/omelette-material.webp"
+      },
+      "name": {
+        "filename": "omelette-name.webp",
+        "pathname": "/chimeraland/recipes/omelette/omelette-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/omelette.html"
+  },
+  {
+    "datePublished": "2022-01-10T14:56:03+07:00",
+    "dateModified": "2022-10-05T11:46:55+07:00",
+    "name": "One-Pot Stew",
+    "recipes": [
+      "Egg White + Any Meat + Any Wild Fruit + Any Lv.6 Crop + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+80 Armor Pierce"
+    ],
+    "images": {
+      "filename": "one-pot-stew.webp",
+      "pathname": "/chimeraland/recipes/one-pot-stew/one-pot-stew.webp",
+      "icon": {
+        "filename": "one-pot-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp"
+      },
+      "material": {
+        "filename": "one-pot-stew-material.webp",
+        "pathname": "/chimeraland/recipes/one-pot-stew/one-pot-stew-material.webp"
+      },
+      "name": {
+        "filename": "one-pot-stew-name.webp",
+        "pathname": "/chimeraland/recipes/one-pot-stew/one-pot-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/one-pot-stew.html"
+  },
+  {
+    "datePublished": "2022-01-10T19:56:03+07:00",
+    "dateModified": "2022-10-05T22:46:56+07:00",
+    "name": "Orchid Soup",
+    "recipes": [
+      "Orchid + Dew/Ice Piece + Any Wild Fruit"
+    ],
+    "buff": [
+      "180 Fullness",
+      "Restore 500 HP within 15 seconds"
+    ],
+    "images": {
+      "filename": "orchid-soup.webp",
+      "pathname": "/chimeraland/recipes/orchid-soup/orchid-soup.webp",
+      "icon": {
+        "filename": "orchid-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/orchid-soup/orchid-soup-icon.webp"
+      },
+      "material": {
+        "filename": "orchid-soup-material.webp",
+        "pathname": "/chimeraland/recipes/orchid-soup/orchid-soup-material.webp"
+      },
+      "name": {
+        "filename": "orchid-soup-name.webp",
+        "pathname": "/chimeraland/recipes/orchid-soup/orchid-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/orchid-soup.html"
+  },
+  {
+    "datePublished": "2022-01-11T04:56:03+07:00",
+    "dateModified": "2022-10-05T15:46:55+07:00",
+    "name": "Peanut Ball Soup",
+    "recipes": [
+      "Peanut + Dew/ce Piece + Any Meat"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+6% CRIT Damage Dealt"
+    ],
+    "images": {
+      "filename": "peanut-ball-soup.webp",
+      "pathname": "/chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp",
+      "icon": {
+        "filename": "peanut-ball-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp"
+      },
+      "material": {
+        "filename": "peanut-ball-soup-material.webp",
+        "pathname": "/chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-material.webp"
+      },
+      "name": {
+        "filename": "peanut-ball-soup-name.webp",
+        "pathname": "/chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/peanut-ball-soup.html"
+  },
+  {
+    "datePublished": "2022-01-10T17:56:03+07:00",
+    "dateModified": "2022-10-05T19:46:56+07:00",
+    "name": "Peanut Gourd Soup",
+    "recipes": [
+      "Peanut + Gourd + Dew or Ice Piece + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower",
+      "Peanut + Gourd + Dew/Ice Piece + Cantaloupe/Mutant Flower/Equonix Flower/Lv6 Vegetable"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "-540",
+      "+8% Crit DMG",
+      "Anotrog Attendant Recruitment."
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "peanut-gourd-soup.webp",
+      "pathname": "/chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp",
+      "icon": {
+        "filename": "peanut-gourd-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp"
+      },
+      "material": {
+        "filename": "peanut-gourd-soup-material.webp",
+        "pathname": "/chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-material.webp"
+      },
+      "name": {
+        "filename": "peanut-gourd-soup-name.webp",
+        "pathname": "/chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/peanut-gourd-soup.html"
+  },
+  {
+    "datePublished": "2022-01-11T05:56:03+07:00",
+    "dateModified": "2022-10-06T09:46:55+07:00",
+    "name": "Poached Meat Fillets",
+    "recipes": [
+      "Peanut Oil + Hot Pepper + Dew or Ice Piece + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+50 Armor Pierce",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "poached-meat-fillets.webp",
+      "pathname": "/chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp",
+      "icon": {
+        "filename": "poached-meat-fillets-icon.webp",
+        "pathname": "/chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp"
+      },
+      "material": {
+        "filename": "poached-meat-fillets-material.webp",
+        "pathname": "/chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-material.webp"
+      },
+      "name": {
+        "filename": "poached-meat-fillets-name.webp",
+        "pathname": "/chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/poached-meat-fillets.html"
+  },
+  {
+    "datePublished": "2022-01-10T06:56:03+07:00",
+    "dateModified": "2022-10-07T02:46:54+07:00",
+    "name": "Pumpkin Bowl",
+    "recipes": [
+      "Pumpkin + Any Lv.6 Crop + Any Meat + Any Meat + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+10% CRIT DMG",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "pumpkin-bowl.webp",
+      "pathname": "/chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp",
+      "icon": {
+        "filename": "pumpkin-bowl-icon.webp",
+        "pathname": "/chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp"
+      },
+      "material": {
+        "filename": "pumpkin-bowl-material.webp",
+        "pathname": "/chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-material.webp"
+      },
+      "name": {
+        "filename": "pumpkin-bowl-name.webp",
+        "pathname": "/chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/pumpkin-bowl.html"
+  },
+  {
+    "datePublished": "2022-01-10T22:56:03+07:00",
+    "dateModified": "2022-10-06T00:46:56+07:00",
+    "name": "Red Cabbage Soup",
+    "recipes": [
+      "Tomato + Dew/Ice Piece + Any Lv.6 Crop + Any Mixed Sauce + Dew/Ice Piece"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+250 ATK"
+    ],
+    "images": {
+      "filename": "red-cabbage-soup.webp",
+      "pathname": "/chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp",
+      "icon": {
+        "filename": "red-cabbage-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-icon.webp"
+      },
+      "material": {
+        "filename": "red-cabbage-soup-material.webp",
+        "pathname": "/chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-material.webp"
+      },
+      "name": {
+        "filename": "red-cabbage-soup-name.webp",
+        "pathname": "/chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/red-cabbage-soup.html"
+  },
+  {
+    "datePublished": "2022-01-11T09:56:03+07:00",
+    "dateModified": "2022-09-29T11:26:37+07:00",
+    "name": "Red Hot Sauce",
+    "recipes": [
+      "Hot Pepper + Apple + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "300 Fullness"
+    ],
+    "images": {
+      "filename": "red-hot-sauce.webp",
+      "pathname": "/chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp",
+      "icon": {
+        "filename": "red-hot-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "red-hot-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/red-hot-sauce/red-hot-sauce-material.webp"
+      },
+      "name": {
+        "filename": "red-hot-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/red-hot-sauce/red-hot-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/red-hot-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-11T13:56:03+07:00",
+    "dateModified": "2022-10-06T01:46:56+07:00",
+    "name": "Refreshing Pill",
+    "recipes": [
+      "Wild Garlic + Fruit & Veggie Paste",
+      "Wild Garlic + Veggie Paste"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+180 fullness",
+      "-40 toxins/s"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "refreshing-pill.webp",
+      "pathname": "/chimeraland/recipes/refreshing-pill/refreshing-pill.webp",
+      "icon": {
+        "filename": "refreshing-pill-icon.webp",
+        "pathname": "/chimeraland/recipes/refreshing-pill/refreshing-pill-icon.webp"
+      },
+      "material": {
+        "filename": "refreshing-pill-material.webp",
+        "pathname": "/chimeraland/recipes/refreshing-pill/refreshing-pill-material.webp"
+      },
+      "name": {
+        "filename": "refreshing-pill-name.webp",
+        "pathname": "/chimeraland/recipes/refreshing-pill/refreshing-pill-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/refreshing-pill.html"
+  },
+  {
+    "datePublished": "2022-01-10T23:56:03+07:00",
+    "dateModified": "2022-10-06T04:46:55+07:00",
+    "name": "Refreshing Soup",
+    "recipes": [
+      "Wild Garlic + Dew or Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "-40 Toxin Reduction"
+    ],
+    "images": {
+      "filename": "refreshing-soup.webp",
+      "pathname": "/chimeraland/recipes/refreshing-soup/refreshing-soup.webp",
+      "icon": {
+        "filename": "refreshing-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/refreshing-soup/refreshing-soup-icon.webp"
+      },
+      "material": {
+        "filename": "refreshing-soup-material.webp",
+        "pathname": "/chimeraland/recipes/refreshing-soup/refreshing-soup-material.webp"
+      },
+      "name": {
+        "filename": "refreshing-soup-name.webp",
+        "pathname": "/chimeraland/recipes/refreshing-soup/refreshing-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/refreshing-soup.html"
+  },
+  {
+    "datePublished": "2022-01-11T01:56:03+07:00",
+    "dateModified": "2022-10-06T11:46:54+07:00",
+    "name": "Rice Patty",
+    "recipes": [
+      "Job's Tears Powder + Any Meat + Lv.3/4 Crop"
+    ],
+    "buff": [
+      "420 Fullness",
+      "Medium Focus",
+      "+35 RES"
+    ],
+    "images": {
+      "filename": "rice-patty.webp",
+      "pathname": "/chimeraland/recipes/rice-patty/rice-patty.webp",
+      "icon": {
+        "filename": "rice-patty-icon.webp",
+        "pathname": "/chimeraland/recipes/rice-patty/rice-patty-icon.webp"
+      },
+      "material": {
+        "filename": "rice-patty-material.webp",
+        "pathname": "/chimeraland/recipes/rice-patty/rice-patty-material.webp"
+      },
+      "name": {
+        "filename": "rice-patty-name.webp",
+        "pathname": "/chimeraland/recipes/rice-patty/rice-patty-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/rice-patty.html"
+  },
+  {
+    "datePublished": "2022-01-11T02:56:03+07:00",
+    "dateModified": "2022-10-06T06:46:55+07:00",
+    "name": "Salt-Baked Fish",
+    "recipes": [
+      "Any Fish + Any Fish"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "Temporarily Protect From Drowning (Even if your breath reached zero the hp will not decrease)"
+    ],
+    "images": {
+      "filename": "salt-baked-fish.webp",
+      "pathname": "/chimeraland/recipes/salt-baked-fish/salt-baked-fish.webp",
+      "icon": {
+        "filename": "salt-baked-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/salt-baked-fish/salt-baked-fish-icon.webp"
+      },
+      "material": {
+        "filename": "salt-baked-fish-material.webp",
+        "pathname": "/chimeraland/recipes/salt-baked-fish/salt-baked-fish-material.webp"
+      },
+      "name": {
+        "filename": "salt-baked-fish-name.webp",
+        "pathname": "/chimeraland/recipes/salt-baked-fish/salt-baked-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/salt-baked-fish.html"
+  },
+  {
+    "datePublished": "2022-01-11T03:56:03+07:00",
+    "dateModified": "2022-10-06T08:46:55+07:00",
+    "name": "Scallion Meat Skewers",
+    "recipes": [
+      "Scallion Powder + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "12 Armor Pierce"
+    ],
+    "images": {
+      "filename": "scallion-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp",
+      "icon": {
+        "filename": "scallion-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "scallion-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "scallion-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/scallion-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-11T06:56:03+07:00",
+    "dateModified": "2022-10-06T12:46:55+07:00",
+    "name": "Scraps Claypot",
+    "recipes": [
+      "Add Dung [4]"
+    ],
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "scraps-claypot.webp",
+      "pathname": "/chimeraland/recipes/scraps-claypot/scraps-claypot.webp",
+      "icon": {
+        "filename": "scraps-claypot-icon.webp",
+        "pathname": "/chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp"
+      },
+      "material": {
+        "filename": "scraps-claypot-material.webp",
+        "pathname": "/chimeraland/recipes/scraps-claypot/scraps-claypot-material.webp"
+      },
+      "name": {
+        "filename": "scraps-claypot-name.webp",
+        "pathname": "/chimeraland/recipes/scraps-claypot/scraps-claypot-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/scraps-claypot.html"
+  },
+  {
+    "datePublished": "2022-01-11T08:56:03+07:00",
+    "dateModified": "2022-10-06T20:46:54+07:00",
+    "name": "Sea-Buckthorn Broth",
+    "recipes": [
+      "Sea-Buckthorn + Dew or Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "Lv 3 Sandstorm Resistance"
+    ],
+    "images": {
+      "filename": "sea-buckthorn-broth.webp",
+      "pathname": "/chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp",
+      "icon": {
+        "filename": "sea-buckthorn-broth-icon.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp"
+      },
+      "material": {
+        "filename": "sea-buckthorn-broth-material.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp"
+      },
+      "name": {
+        "filename": "sea-buckthorn-broth-name.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sea-buckthorn-broth.html"
+  },
+  {
+    "datePublished": "2022-01-11T17:56:03+07:00",
+    "dateModified": "2022-10-05T09:46:56+07:00",
+    "name": "Sea-Buckthorn Mixed Juice",
+    "recipes": [
+      "Sea-Buckthorn + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "images": {
+      "filename": "sea-buckthorn-mixed-juice.webp",
+      "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp",
+      "icon": {
+        "filename": "sea-buckthorn-mixed-juice-icon.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-icon.webp"
+      },
+      "material": {
+        "filename": "sea-buckthorn-mixed-juice-material.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-material.webp"
+      },
+      "name": {
+        "filename": "sea-buckthorn-mixed-juice-name.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice.html"
+  },
+  {
+    "datePublished": "2022-01-11T14:56:03+07:00",
+    "dateModified": "2022-09-29T07:26:37+07:00",
+    "name": "Sea-Buckthorn Sauce",
+    "recipes": [
+      "Sea-Buckthorn + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness"
+    ],
+    "images": {
+      "filename": "sea-buckthorn-sauce.webp",
+      "pathname": "/chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce.webp",
+      "icon": {
+        "filename": "sea-buckthorn-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "sea-buckthorn-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-material.webp"
+      },
+      "name": {
+        "filename": "sea-buckthorn-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sea-buckthorn-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-11T19:56:03+07:00",
+    "dateModified": "2022-10-06T14:46:55+07:00",
+    "name": "Sea-Buckthorn Slushie",
+    "recipes": [
+      "Ice Piece + Sea-Buckthorn"
+    ],
+    "device": "Mixer - Jam",
+    "buff": [
+      "180 Fullness",
+      "Heat Resistance +10"
+    ],
+    "images": {
+      "filename": "sea-buckthorn-slushie.webp",
+      "pathname": "/chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp",
+      "icon": {
+        "filename": "sea-buckthorn-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "sea-buckthorn-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp"
+      },
+      "name": {
+        "filename": "sea-buckthorn-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sea-buckthorn-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-11T15:56:03+07:00",
+    "dateModified": "2022-10-06T17:46:55+07:00",
+    "name": "Seafood Rice",
+    "recipes": [
+      "Job's Tears + Crab Claw Meat + Job's Tears + Any High Quality Seasoning + Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+150 CRIT",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "seafood-rice.webp",
+      "pathname": "/chimeraland/recipes/seafood-rice/seafood-rice.webp",
+      "icon": {
+        "filename": "seafood-rice-icon.webp",
+        "pathname": "/chimeraland/recipes/seafood-rice/seafood-rice-icon.webp"
+      },
+      "material": {
+        "filename": "seafood-rice-material.webp",
+        "pathname": "/chimeraland/recipes/seafood-rice/seafood-rice-material.webp"
+      },
+      "name": {
+        "filename": "seafood-rice-name.webp",
+        "pathname": "/chimeraland/recipes/seafood-rice/seafood-rice-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/seafood-rice.html"
+  },
+  {
+    "datePublished": "2022-01-11T23:56:03+07:00",
+    "dateModified": "2022-10-06T03:46:55+07:00",
+    "name": "Seasonal Vegetables Fried With Garlic",
+    "recipes": [
+      "Wild Garlic + Garlic Powder + Any Lv.2, Lv.3 and Lv.4 Crop"
+    ],
+    "buff": [
+      "300 Fullness",
+      "+100 ATK"
+    ],
+    "images": {
+      "filename": "seasonal-vegetables-fried-with-garlic.webp",
+      "pathname": "/chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic.webp",
+      "icon": {
+        "filename": "seasonal-vegetables-fried-with-garlic-icon.webp",
+        "pathname": "/chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-icon.webp"
+      },
+      "material": {
+        "filename": "seasonal-vegetables-fried-with-garlic-material.webp",
+        "pathname": "/chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-material.webp"
+      },
+      "name": {
+        "filename": "seasonal-vegetables-fried-with-garlic-name.webp",
+        "pathname": "/chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/seasonal-vegetables-fried-with-garlic.html"
+  },
+  {
+    "datePublished": "2022-01-11T11:56:03+07:00",
+    "dateModified": "2022-10-06T19:46:54+07:00",
+    "name": "Sesame Soup",
+    "recipes": [
+      "Peanut Oil + Sesame + Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+35 RES"
+    ],
+    "images": {
+      "filename": "sesame-soup.webp",
+      "pathname": "/chimeraland/recipes/sesame-soup/sesame-soup.webp",
+      "icon": {
+        "filename": "sesame-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/sesame-soup/sesame-soup-icon.webp"
+      },
+      "material": {
+        "filename": "sesame-soup-material.webp",
+        "pathname": "/chimeraland/recipes/sesame-soup/sesame-soup-material.webp"
+      },
+      "name": {
+        "filename": "sesame-soup-name.webp",
+        "pathname": "/chimeraland/recipes/sesame-soup/sesame-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sesame-soup.html"
+  },
+  {
+    "datePublished": "2022-01-11T20:56:03+07:00",
+    "dateModified": "2022-10-06T10:46:55+07:00",
+    "name": "Sliced Fish Stew",
+    "recipes": [
+      "Egg White + Any Meat + Any Lv.3 Crop + Purple grade fish/Orange grade fish/Red grade fish",
+      "Egg White + Any Meat + Lemon Tree Leaf/Any rare Crops such as pumpkin etc + any Purple Fish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "Temporarily protect from drowning for a long time"
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "sliced-fish-stew.webp",
+      "pathname": "/chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp",
+      "icon": {
+        "filename": "sliced-fish-stew-icon.webp",
+        "pathname": "/chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp"
+      },
+      "material": {
+        "filename": "sliced-fish-stew-material.webp",
+        "pathname": "/chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-material.webp"
+      },
+      "name": {
+        "filename": "sliced-fish-stew-name.webp",
+        "pathname": "/chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sliced-fish-stew.html"
+  },
+  {
+    "datePublished": "2022-01-11T10:56:03+07:00",
+    "dateModified": "2022-10-05T11:46:57+07:00",
+    "name": "Sliced Mushrooms",
+    "recipes": [
+      "Any Mushroom + Any Wild Fruit + Dew/Ice Piece + Any Seasoning"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "Cold Resistance +15"
+    ],
+    "images": {
+      "filename": "sliced-mushrooms.webp",
+      "pathname": "/chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp",
+      "icon": {
+        "filename": "sliced-mushrooms-icon.webp",
+        "pathname": "/chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-icon.webp"
+      },
+      "material": {
+        "filename": "sliced-mushrooms-material.webp",
+        "pathname": "/chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-material.webp"
+      },
+      "name": {
+        "filename": "sliced-mushrooms-name.webp",
+        "pathname": "/chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sliced-mushrooms.html"
+  },
+  {
+    "datePublished": "2022-01-11T12:56:03+07:00",
+    "dateModified": "2022-10-06T07:46:55+07:00",
+    "name": "Slushie",
+    "recipes": [
+      "Dew/Ice Piece [3]",
+      "Ice Piece + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "images": {
+      "filename": "slushie.webp",
+      "pathname": "/chimeraland/recipes/slushie/slushie.webp",
+      "icon": {
+        "filename": "slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/slushie/slushie-icon.webp"
+      },
+      "material": {
+        "filename": "slushie-material.webp",
+        "pathname": "/chimeraland/recipes/slushie/slushie-material.webp"
+      },
+      "name": {
+        "filename": "slushie-name.webp",
+        "pathname": "/chimeraland/recipes/slushie/slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/slushie.html"
+  },
+  {
+    "datePublished": "2022-01-11T21:56:03+07:00",
+    "dateModified": "2022-10-06T02:46:56+07:00",
+    "name": "Soy-Braised Pork",
+    "recipes": [
+      "Peanut Oil + Spicy Powder + Any Wild Fruit + Any Meat"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+35 RES"
+    ],
+    "images": {
+      "filename": "soy-braised-pork.webp",
+      "pathname": "/chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp",
+      "icon": {
+        "filename": "soy-braised-pork-icon.webp",
+        "pathname": "/chimeraland/recipes/soy-braised-pork/soy-braised-pork-icon.webp"
+      },
+      "material": {
+        "filename": "soy-braised-pork-material.webp",
+        "pathname": "/chimeraland/recipes/soy-braised-pork/soy-braised-pork-material.webp"
+      },
+      "name": {
+        "filename": "soy-braised-pork-name.webp",
+        "pathname": "/chimeraland/recipes/soy-braised-pork/soy-braised-pork-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/soy-braised-pork.html"
+  },
+  {
+    "datePublished": "2022-01-11T16:56:03+07:00",
+    "dateModified": "2022-10-06T16:46:55+07:00",
+    "name": "Spiced Meat",
+    "recipes": [
+      "Any Seasoning + Any Meat + Any Seasoning"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+150 ATK"
+    ],
+    "images": {
+      "filename": "spiced-meat.webp",
+      "pathname": "/chimeraland/recipes/spiced-meat/spiced-meat.webp",
+      "icon": {
+        "filename": "spiced-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat/spiced-meat-icon.webp"
+      },
+      "material": {
+        "filename": "spiced-meat-material.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat/spiced-meat-material.webp"
+      },
+      "name": {
+        "filename": "spiced-meat-name.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat/spiced-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spiced-meat.html"
+  },
+  {
+    "datePublished": "2022-01-11T07:56:03+07:00",
+    "dateModified": "2022-10-06T15:46:55+07:00",
+    "name": "Spiced Meat Skewers",
+    "recipes": [
+      "Five Spice Powder + Any Meat + Any Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "80 DEF"
+    ],
+    "images": {
+      "filename": "spiced-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp",
+      "icon": {
+        "filename": "spiced-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "spiced-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "spiced-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spiced-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-11T22:56:03+07:00",
+    "dateModified": "2022-10-06T13:46:55+07:00",
+    "name": "Spiced Mushrooms",
+    "recipes": [
+      "Any Mushroom + Any Seasoning"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "-50 Humidity (decreased over time)"
+    ],
+    "images": {
+      "filename": "spiced-mushrooms.webp",
+      "pathname": "/chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp",
+      "icon": {
+        "filename": "spiced-mushrooms-icon.webp",
+        "pathname": "/chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-icon.webp"
+      },
+      "material": {
+        "filename": "spiced-mushrooms-material.webp",
+        "pathname": "/chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-material.webp"
+      },
+      "name": {
+        "filename": "spiced-mushrooms-name.webp",
+        "pathname": "/chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spiced-mushrooms.html"
+  },
+  {
+    "datePublished": "2022-01-11T18:56:03+07:00",
+    "dateModified": "2022-10-05T23:46:56+07:00",
+    "name": "Spicy Grilled Fish",
+    "recipes": [
+      "Peanut Oil + Any Spicy Sauce + Blue grade fish/Purple grade fish/Orange grade fish/Red grade fish"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+35 RES"
+    ],
+    "images": {
+      "filename": "spicy-grilled-fish.webp",
+      "pathname": "/chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp",
+      "icon": {
+        "filename": "spicy-grilled-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-icon.webp"
+      },
+      "material": {
+        "filename": "spicy-grilled-fish-material.webp",
+        "pathname": "/chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-material.webp"
+      },
+      "name": {
+        "filename": "spicy-grilled-fish-name.webp",
+        "pathname": "/chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spicy-grilled-fish.html"
+  },
+  {
+    "datePublished": "2022-01-12T02:56:03+07:00",
+    "dateModified": "2022-10-06T02:46:55+07:00",
+    "name": "Spicy Meat Skewers",
+    "recipes": [
+      "Any Spice + Any Meat + Any Meat"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "300 Fullness",
+      "Crit Damage Deals 4%"
+    ],
+    "images": {
+      "filename": "spicy-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp",
+      "icon": {
+        "filename": "spicy-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "spicy-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "spicy-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spicy-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-12T04:56:03+07:00",
+    "dateModified": "2022-09-29T14:26:37+07:00",
+    "name": "Spicy Pepper Sauce",
+    "recipes": [
+      "Hot Pepper + Any Wild Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "images": {
+      "filename": "spicy-pepper-sauce.webp",
+      "pathname": "/chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce.webp",
+      "icon": {
+        "filename": "spicy-pepper-sauce-icon.webp",
+        "pathname": "/chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp"
+      },
+      "material": {
+        "filename": "spicy-pepper-sauce-material.webp",
+        "pathname": "/chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-material.webp"
+      },
+      "name": {
+        "filename": "spicy-pepper-sauce-name.webp",
+        "pathname": "/chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spicy-pepper-sauce.html"
+  },
+  {
+    "datePublished": "2022-01-12T03:56:03+07:00",
+    "dateModified": "2022-10-06T11:46:55+07:00",
+    "name": "Spicy Red Goodfruit Broth",
+    "recipes": [
+      "Red Goodfruit + Hot Pepper + Dew or Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "Cold Resistance +15"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/spicy-red-goodfruit-broth.html"
+  },
+  {
+    "datePublished": "2022-01-12T05:56:03+07:00",
+    "dateModified": "2022-10-06T20:46:55+07:00",
+    "name": "Spicy Red Goodfruit Soup",
+    "recipes": [
+      "Red Goodfruit + Dew/Ice Piece"
+    ],
+    "buff": [
+      "180 Fullness",
+      "Cold Resistance +10"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/spicy-red-goodfruit-soup.html"
+  },
+  {
+    "datePublished": "2022-01-12T11:56:03+07:00",
+    "dateModified": "2022-10-06T19:46:55+07:00",
+    "name": "Spicy Smoked Meat",
+    "recipes": [
+      "Any Meat + Peanut Oil + Spicy Powder"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+60 CRIT"
+    ],
+    "images": {
+      "filename": "spicy-smoked-meat.webp",
+      "pathname": "/chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp",
+      "icon": {
+        "filename": "spicy-smoked-meat-icon.webp",
+        "pathname": "/chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp"
+      },
+      "material": {
+        "filename": "spicy-smoked-meat-material.webp",
+        "pathname": "/chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-material.webp"
+      },
+      "name": {
+        "filename": "spicy-smoked-meat-name.webp",
+        "pathname": "/chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/spicy-smoked-meat.html"
+  },
+  {
+    "datePublished": "2022-01-12T08:56:03+07:00",
+    "dateModified": "2022-10-06T18:46:55+07:00",
+    "name": "Steamed Brains",
+    "recipes": [
+      "Beast Brain + Peanut + Dew or Ice Piece + Any Seasoning/Any High Quality Seasoning",
+      "Beast Brain + Peanut + Dew/Ice Piece + Garlic Powder/Job's Tears Powder"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "+120 def"
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "steamed-brains.webp",
+      "pathname": "/chimeraland/recipes/steamed-brains/steamed-brains.webp",
+      "icon": {
+        "filename": "steamed-brains-icon.webp",
+        "pathname": "/chimeraland/recipes/steamed-brains/steamed-brains-icon.webp"
+      },
+      "material": {
+        "filename": "steamed-brains-material.webp",
+        "pathname": "/chimeraland/recipes/steamed-brains/steamed-brains-material.webp"
+      },
+      "name": {
+        "filename": "steamed-brains-name.webp",
+        "pathname": "/chimeraland/recipes/steamed-brains/steamed-brains-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/steamed-brains.html"
+  },
+  {
+    "datePublished": "2022-01-12T07:56:03+07:00",
+    "dateModified": "2022-10-07T01:46:55+07:00",
+    "name": "Steamed Fish",
+    "recipes": [
+      "Lemon Tree Leaf + Dew or Ice Piece + Purple grade fish/Orange grade fish/Red grade fish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "Protect from drowning even when your&nbsp; breath is zero"
+    ],
+    "images": {
+      "filename": "steamed-fish.webp",
+      "pathname": "/chimeraland/recipes/steamed-fish/steamed-fish.webp",
+      "icon": {
+        "filename": "steamed-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/steamed-fish/steamed-fish-icon.webp"
+      },
+      "material": {
+        "filename": "steamed-fish-material.webp",
+        "pathname": "/chimeraland/recipes/steamed-fish/steamed-fish-material.webp"
+      },
+      "name": {
+        "filename": "steamed-fish-name.webp",
+        "pathname": "/chimeraland/recipes/steamed-fish/steamed-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/steamed-fish.html"
+  },
+  {
+    "datePublished": "2022-01-12T01:56:03+07:00",
+    "dateModified": "2022-10-06T23:46:55+07:00",
+    "name": "Steamed Paw",
+    "recipes": [
+      "Bear Paw + Orchid + Five Spice Powder + Any Wild Fruit + Dew/Ice Piece",
+      "Bear Paw + Orchid + Five Spice Powder + Apple + Ice Piece/Dew"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "+200 atk"
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "steamed-paw.webp",
+      "pathname": "/chimeraland/recipes/steamed-paw/steamed-paw.webp",
+      "icon": {
+        "filename": "steamed-paw-icon.webp",
+        "pathname": "/chimeraland/recipes/steamed-paw/steamed-paw-icon.webp"
+      },
+      "material": {
+        "filename": "steamed-paw-material.webp",
+        "pathname": "/chimeraland/recipes/steamed-paw/steamed-paw-material.webp"
+      },
+      "name": {
+        "filename": "steamed-paw-name.webp",
+        "pathname": "/chimeraland/recipes/steamed-paw/steamed-paw-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/steamed-paw.html"
+  },
+  {
+    "datePublished": "2022-01-12T12:56:03+07:00",
+    "dateModified": "2022-09-28T22:26:37+07:00",
+    "name": "Steamed Vegetarian Patty",
+    "recipes": [
+      "Egg White + Peanut Oil + Fruit & Veggie Paste + Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+25 Armor Pierce"
+    ],
+    "images": {},
+    "pathname": "/chimeraland/recipes/steamed-vegetarian-patty.html"
+  },
+  {
+    "datePublished": "2022-01-12T06:56:03+07:00",
+    "dateModified": "2022-10-07T02:46:55+07:00",
+    "name": "Stewed Brains",
+    "recipes": [
+      "Beast Brain + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower / Peanut Oil"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+60 Crit"
+    ],
+    "images": {
+      "filename": "stewed-brains.webp",
+      "pathname": "/chimeraland/recipes/stewed-brains/stewed-brains.webp",
+      "icon": {
+        "filename": "stewed-brains-icon.webp",
+        "pathname": "/chimeraland/recipes/stewed-brains/stewed-brains-icon.webp"
+      },
+      "material": {
+        "filename": "stewed-brains-material.webp",
+        "pathname": "/chimeraland/recipes/stewed-brains/stewed-brains-material.webp"
+      },
+      "name": {
+        "filename": "stewed-brains-name.webp",
+        "pathname": "/chimeraland/recipes/stewed-brains/stewed-brains-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/stewed-brains.html"
+  },
+  {
+    "datePublished": "2022-01-12T10:56:03+07:00",
+    "dateModified": "2022-10-06T08:46:56+07:00",
+    "name": "Stewed Liver",
+    "recipes": [
+      "Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "+50 Armor Pierce"
+    ],
+    "grade": "Legendary",
+    "additional": "-",
+    "images": {
+      "filename": "stewed-liver.webp",
+      "pathname": "/chimeraland/recipes/stewed-liver/stewed-liver.webp",
+      "icon": {
+        "filename": "stewed-liver-icon.webp",
+        "pathname": "/chimeraland/recipes/stewed-liver/stewed-liver-icon.webp"
+      },
+      "material": {
+        "filename": "stewed-liver-material.webp",
+        "pathname": "/chimeraland/recipes/stewed-liver/stewed-liver-material.webp"
+      },
+      "name": {
+        "filename": "stewed-liver-name.webp",
+        "pathname": "/chimeraland/recipes/stewed-liver/stewed-liver-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/stewed-liver.html"
+  },
+  {
+    "datePublished": "2022-01-12T17:56:03+07:00",
+    "dateModified": "2022-10-05T07:47:00+07:00",
+    "name": "Stinky Tofu",
+    "recipes": [
+      "Hot Pepper + Dung + Peanut"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "300 Fullness",
+      "+4% Crit Damage Dealt"
+    ],
+    "images": {
+      "filename": "stinky-tofu.webp",
+      "pathname": "/chimeraland/recipes/stinky-tofu/stinky-tofu.webp",
+      "icon": {
+        "filename": "stinky-tofu-icon.webp",
+        "pathname": "/chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp"
+      },
+      "material": {
+        "filename": "stinky-tofu-material.webp",
+        "pathname": "/chimeraland/recipes/stinky-tofu/stinky-tofu-material.webp"
+      },
+      "name": {
+        "filename": "stinky-tofu-name.webp",
+        "pathname": "/chimeraland/recipes/stinky-tofu/stinky-tofu-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/stinky-tofu.html"
+  },
+  {
+    "datePublished": "2022-01-12T15:56:03+07:00",
+    "dateModified": "2022-10-06T21:46:55+07:00",
+    "name": "Stir-Fried Tomato With Eggs",
+    "recipes": [
+      "Egg White + Tomato + Any Lv.3 Crop/Any Lv.4 Crop"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+6% Crit Damage Dealt"
+    ],
+    "images": {
+      "filename": "stir-fried-tomato-with-eggs.webp",
+      "pathname": "/chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp",
+      "icon": {
+        "filename": "stir-fried-tomato-with-eggs-icon.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp"
+      },
+      "material": {
+        "filename": "stir-fried-tomato-with-eggs-material.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-material.webp"
+      },
+      "name": {
+        "filename": "stir-fried-tomato-with-eggs-name.webp",
+        "pathname": "/chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/stir-fried-tomato-with-eggs.html"
+  },
+  {
+    "datePublished": "2022-01-12T18:56:03+07:00",
+    "dateModified": "2022-10-05T10:46:56+07:00",
+    "name": "Strange Meat Skewers",
+    "recipes": [
+      "Any Meat + Any Meat + Coriander Powder"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "420 Fullness",
+      "25 Armor Pierce"
+    ],
+    "images": {
+      "filename": "strange-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp",
+      "icon": {
+        "filename": "strange-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "strange-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "strange-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/strange-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-12T16:56:03+07:00",
+    "dateModified": "2022-10-05T16:46:56+07:00",
+    "name": "Stuffed Eggs",
+    "recipes": [
+      "Egg White + Dew/Ice Piece + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "+30 CRIT"
+    ],
+    "images": {
+      "filename": "stuffed-eggs.webp",
+      "pathname": "/chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp",
+      "icon": {
+        "filename": "stuffed-eggs-icon.webp",
+        "pathname": "/chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp"
+      },
+      "material": {
+        "filename": "stuffed-eggs-material.webp",
+        "pathname": "/chimeraland/recipes/stuffed-eggs/stuffed-eggs-material.webp"
+      },
+      "name": {
+        "filename": "stuffed-eggs-name.webp",
+        "pathname": "/chimeraland/recipes/stuffed-eggs/stuffed-eggs-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/stuffed-eggs.html"
+  },
+  {
+    "datePublished": "2022-01-12T22:56:03+07:00",
+    "dateModified": "2022-10-07T03:46:55+07:00",
+    "name": "Sweet And Sour Fish",
+    "recipes": [
+      "Any Wild Fruit + Dew/Ice Piece + Any Meat + Orange grade fish/Red grade fish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+60 RES"
+    ],
+    "images": {
+      "filename": "sweet-and-sour-fish.webp",
+      "pathname": "/chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp",
+      "icon": {
+        "filename": "sweet-and-sour-fish-icon.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-icon.webp"
+      },
+      "material": {
+        "filename": "sweet-and-sour-fish-material.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-material.webp"
+      },
+      "name": {
+        "filename": "sweet-and-sour-fish-name.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sweet-and-sour-fish.html"
+  },
+  {
+    "datePublished": "2022-01-12T19:56:03+07:00",
+    "dateModified": "2022-10-06T04:46:56+07:00",
+    "name": "Sweet And Spicy Venison",
+    "recipes": [
+      "Moose Meat + Peanut Oil + Any Sweet Sauce + Any Spicy Sauce/Any Spice"
+    ],
+    "buff": [
+      "420 Fullness",
+      "80 DEF"
+    ],
+    "images": {
+      "filename": "sweet-and-spicy-venison.webp",
+      "pathname": "/chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp",
+      "icon": {
+        "filename": "sweet-and-spicy-venison-icon.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-icon.webp"
+      },
+      "material": {
+        "filename": "sweet-and-spicy-venison-material.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-material.webp"
+      },
+      "name": {
+        "filename": "sweet-and-spicy-venison-name.webp",
+        "pathname": "/chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sweet-and-spicy-venison.html"
+  },
+  {
+    "datePublished": "2022-01-12T00:56:03+07:00",
+    "dateModified": "2022-10-06T10:46:56+07:00",
+    "name": "Sweet Vinegar Fish",
+    "recipes": [
+      "Peanut Oil + Job's Tears Powder + Any Wild Fruit + Purple grade fish/Orange grade fish/Red grade fish",
+      "Peanut Oil + Job's Tear Powder + Apple + Any Purple Fish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "Temporarily protect from drowning for a long time",
+      "Astakat Attendant Recruitment"
+    ],
+    "grade": "Legendary",
+    "additional": "<a href=\"#astakat\">Watch Tutorial</a>",
+    "images": {},
+    "pathname": "/chimeraland/recipes/sweet-vinegar-fish.html"
+  },
+  {
+    "datePublished": "2022-01-13T00:56:03+07:00",
+    "dateModified": "2022-10-07T04:46:54+07:00",
+    "name": "Tomahawk Steak",
+    "recipes": [
+      "Any Meat + Any Lv.2 Crop + Any Spice + Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "420 Fullness",
+      "+35 Res"
+    ],
+    "images": {
+      "filename": "tomahawk-steak.webp",
+      "pathname": "/chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp",
+      "icon": {
+        "filename": "tomahawk-steak-icon.webp",
+        "pathname": "/chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp"
+      },
+      "material": {
+        "filename": "tomahawk-steak-material.webp",
+        "pathname": "/chimeraland/recipes/tomahawk-steak/tomahawk-steak-material.webp"
+      },
+      "name": {
+        "filename": "tomahawk-steak-name.webp",
+        "pathname": "/chimeraland/recipes/tomahawk-steak/tomahawk-steak-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/tomahawk-steak.html"
+  },
+  {
+    "datePublished": "2022-01-12T13:56:03+07:00",
+    "dateModified": "2022-10-06T13:46:56+07:00",
+    "name": "Turtle Soup",
+    "recipes": [
+      "Gratoise Meat + Dew or Ice Piece + Any Seasoning + Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "images": {
+      "filename": "turtle-soup.webp",
+      "pathname": "/chimeraland/recipes/turtle-soup/turtle-soup.webp",
+      "icon": {
+        "filename": "turtle-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/turtle-soup/turtle-soup-icon.webp"
+      },
+      "material": {
+        "filename": "turtle-soup-material.webp",
+        "pathname": "/chimeraland/recipes/turtle-soup/turtle-soup-material.webp"
+      },
+      "name": {
+        "filename": "turtle-soup-name.webp",
+        "pathname": "/chimeraland/recipes/turtle-soup/turtle-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/turtle-soup.html"
+  },
+  {
+    "datePublished": "2022-01-12T14:56:03+07:00",
+    "dateModified": "2022-10-07T10:46:55+07:00",
+    "name": "Ultimate Meat Dish",
+    "recipes": [
+      "Gratoise Meat + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "buff": [
+      "420 Fullness",
+      "+80 Def"
+    ],
+    "images": {
+      "filename": "ultimate-meat-dish.webp",
+      "pathname": "/chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp",
+      "icon": {
+        "filename": "ultimate-meat-dish-icon.webp",
+        "pathname": "/chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp"
+      },
+      "material": {
+        "filename": "ultimate-meat-dish-material.webp",
+        "pathname": "/chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-material.webp"
+      },
+      "name": {
+        "filename": "ultimate-meat-dish-name.webp",
+        "pathname": "/chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/ultimate-meat-dish.html"
+  },
+  {
+    "datePublished": "2022-01-12T09:56:03+07:00",
+    "dateModified": "2022-10-06T15:46:56+07:00",
+    "name": "Vegetable Dumplings",
+    "recipes": [
+      "Chives + Job's Tears Powder + Any Meat + Any Lv.6 Crop + Any Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+100 &nbsp;RES",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "vegetable-dumplings.webp",
+      "pathname": "/chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp",
+      "icon": {
+        "filename": "vegetable-dumplings-icon.webp",
+        "pathname": "/chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp"
+      },
+      "material": {
+        "filename": "vegetable-dumplings-material.webp",
+        "pathname": "/chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-material.webp"
+      },
+      "name": {
+        "filename": "vegetable-dumplings-name.webp",
+        "pathname": "/chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/vegetable-dumplings.html"
+  },
+  {
+    "datePublished": "2022-01-12T21:56:03+07:00",
+    "dateModified": "2022-10-06T11:46:56+07:00",
+    "name": "Vegetable Patty",
+    "recipes": [
+      "Job's Tears Powder + Any Meat + Any Meat + Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "+100 CRIT",
+      "Great Focus"
+    ],
+    "images": {
+      "filename": "vegetable-patty.webp",
+      "pathname": "/chimeraland/recipes/vegetable-patty/vegetable-patty.webp",
+      "icon": {
+        "filename": "vegetable-patty-icon.webp",
+        "pathname": "/chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp"
+      },
+      "material": {
+        "filename": "vegetable-patty-material.webp",
+        "pathname": "/chimeraland/recipes/vegetable-patty/vegetable-patty-material.webp"
+      },
+      "name": {
+        "filename": "vegetable-patty-name.webp",
+        "pathname": "/chimeraland/recipes/vegetable-patty/vegetable-patty-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/vegetable-patty.html"
+  },
+  {
+    "datePublished": "2022-01-13T04:56:03+07:00",
+    "dateModified": "2022-10-06T05:46:56+07:00",
+    "name": "Verdura Slushie",
+    "recipes": [
+      "Ice Piece + Bodhi Fruit"
+    ],
+    "device": "Mixer - Jam",
+    "images": {},
+    "pathname": "/chimeraland/recipes/verdura-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-13T03:56:03+07:00",
+    "dateModified": "2022-10-07T08:46:55+07:00",
+    "name": "Very Spicy Meat Skewers",
+    "recipes": [
+      "Any Spice + Any Meat"
+    ],
+    "buff": [
+      "300 Fullness",
+      "100 ATK"
+    ],
+    "images": {
+      "filename": "very-spicy-meat-skewers.webp",
+      "pathname": "/chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers.webp",
+      "icon": {
+        "filename": "very-spicy-meat-skewers-icon.webp",
+        "pathname": "/chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-icon.webp"
+      },
+      "material": {
+        "filename": "very-spicy-meat-skewers-material.webp",
+        "pathname": "/chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-material.webp"
+      },
+      "name": {
+        "filename": "very-spicy-meat-skewers-name.webp",
+        "pathname": "/chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/very-spicy-meat-skewers.html"
+  },
+  {
+    "datePublished": "2022-01-12T23:56:03+07:00",
+    "dateModified": "2022-10-06T06:46:56+07:00",
+    "name": "Viperfish Slices",
+    "recipes": [
+      "Viperfish + Lemon Tree Leaf + Viperfish"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "540 Fullness",
+      "Protect from Drowning"
+    ],
+    "images": {
+      "filename": "viperfish-slices.webp",
+      "pathname": "/chimeraland/recipes/viperfish-slices/viperfish-slices.webp",
+      "icon": {
+        "filename": "viperfish-slices-icon.webp",
+        "pathname": "/chimeraland/recipes/viperfish-slices/viperfish-slices-icon.webp"
+      },
+      "material": {
+        "filename": "viperfish-slices-material.webp",
+        "pathname": "/chimeraland/recipes/viperfish-slices/viperfish-slices-material.webp"
+      },
+      "name": {
+        "filename": "viperfish-slices-name.webp",
+        "pathname": "/chimeraland/recipes/viperfish-slices/viperfish-slices-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/viperfish-slices.html"
+  },
+  {
+    "datePublished": "2022-01-13T02:56:03+07:00",
+    "dateModified": "2022-10-06T19:46:56+07:00",
+    "name": "Watermelon Slushie",
+    "recipes": [
+      "Ice Piece + Watermelon",
+      "Watermelon + Ice Piece"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+420 fullness",
+      "Heat Resistance +15"
+    ],
+    "grade": "Epic",
+    "additional": "-",
+    "images": {
+      "filename": "watermelon-slushie.webp",
+      "pathname": "/chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp",
+      "icon": {
+        "filename": "watermelon-slushie-icon.webp",
+        "pathname": "/chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp"
+      },
+      "material": {
+        "filename": "watermelon-slushie-material.webp",
+        "pathname": "/chimeraland/recipes/watermelon-slushie/watermelon-slushie-material.webp"
+      },
+      "name": {
+        "filename": "watermelon-slushie-name.webp",
+        "pathname": "/chimeraland/recipes/watermelon-slushie/watermelon-slushie-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/watermelon-slushie.html"
+  },
+  {
+    "datePublished": "2022-01-13T05:56:03+07:00",
+    "dateModified": "2022-10-06T17:46:56+07:00",
+    "name": "Wine-Braised Vegetables",
+    "recipes": [
+      "Fruit & Veggie Paste + Peanut Oil + Fruit & Veggie Paste + Any Lv.5 Crop/Any Lv.6 Crop + Hot Pepper"
+    ],
+    "device": "Stove II",
+    "images": {
+      "filename": "wine-braised-vegetables.webp",
+      "pathname": "/chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp",
+      "icon": {
+        "filename": "wine-braised-vegetables-icon.webp",
+        "pathname": "/chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-icon.webp"
+      },
+      "material": {
+        "filename": "wine-braised-vegetables-material.webp",
+        "pathname": "/chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-material.webp"
+      },
+      "name": {
+        "filename": "wine-braised-vegetables-name.webp",
+        "pathname": "/chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/wine-braised-vegetables.html"
+  },
+  {
+    "datePublished": "2022-01-13T06:56:03+07:00",
+    "dateModified": "2022-09-29T00:26:37+07:00",
+    "name": "Chimeraland One Pot Dish",
+    "recipes": [
+      "Buy From Shop / Event"
+    ],
+    "buff": [
+      "This food can be given to all pets and attendants"
+    ],
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/chimeraland-one-pot-dish.html"
+  },
+  {
+    "datePublished": "2022-01-13T15:56:03+07:00",
+    "dateModified": "2022-10-07T01:46:56+07:00",
+    "name": "Wonton Noodles",
+    "recipes": [
+      "Job's Tears Powder + Job's Tears Powder + Dew/Ice Piece + Any Lv.6 Crop + Any Meat"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "660 Fullness",
+      "+10% CRIT DMG"
+    ],
+    "images": {
+      "filename": "wonton-noodles.webp",
+      "pathname": "/chimeraland/recipes/wonton-noodles/wonton-noodles.webp",
+      "icon": {
+        "filename": "wonton-noodles-icon.webp",
+        "pathname": "/chimeraland/recipes/wonton-noodles/wonton-noodles-icon.webp"
+      },
+      "material": {
+        "filename": "wonton-noodles-material.webp",
+        "pathname": "/chimeraland/recipes/wonton-noodles/wonton-noodles-material.webp"
+      },
+      "name": {
+        "filename": "wonton-noodles-name.webp",
+        "pathname": "/chimeraland/recipes/wonton-noodles/wonton-noodles-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/wonton-noodles.html"
+  },
+  {
+    "datePublished": "2022-01-13T12:56:03+07:00",
+    "dateModified": "2022-10-06T22:46:55+07:00",
+    "name": "Wormy Soup",
+    "recipes": [
+      "Insect Ichor + Dew/Ice Piece"
+    ],
+    "buff": [
+      "240 Fullness"
+    ],
+    "images": {
+      "filename": "wormy-soup.webp",
+      "pathname": "/chimeraland/recipes/wormy-soup/wormy-soup.webp",
+      "icon": {
+        "filename": "wormy-soup-icon.webp",
+        "pathname": "/chimeraland/recipes/wormy-soup/wormy-soup-icon.webp"
+      },
+      "material": {
+        "filename": "wormy-soup-material.webp",
+        "pathname": "/chimeraland/recipes/wormy-soup/wormy-soup-material.webp"
+      },
+      "name": {
+        "filename": "wormy-soup-name.webp",
+        "pathname": "/chimeraland/recipes/wormy-soup/wormy-soup-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/wormy-soup.html"
+  },
+  {
+    "datePublished": "2022-01-13T09:56:03+07:00",
+    "dateModified": "2022-09-29T06:26:37+07:00",
+    "name": "Veggie Paste",
+    "recipes": [
+      "Apple [1]"
+    ],
+    "device": "Mixer",
+    "buff": [],
+    "grade": "Common",
+    "additional": "-",
+    "images": {
+      "filename": "veggie-paste.webp",
+      "pathname": "/chimeraland/recipes/veggie-paste/veggie-paste.webp",
+      "icon": {
+        "filename": "veggie-paste-icon.webp",
+        "pathname": "/chimeraland/recipes/veggie-paste/veggie-paste-icon.webp"
+      },
+      "material": {
+        "filename": "veggie-paste-material.webp",
+        "pathname": "/chimeraland/recipes/veggie-paste/veggie-paste-material.webp"
+      },
+      "name": {
+        "filename": "veggie-paste-name.webp",
+        "pathname": "/chimeraland/recipes/veggie-paste/veggie-paste-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/veggie-paste.html"
+  },
+  {
+    "datePublished": "2022-01-13T01:56:03+07:00",
+    "dateModified": "2022-10-07T00:46:55+07:00",
+    "name": "Sea-Buckthorn Mixed Juice",
+    "recipes": [
+      "Sea-Buckthorn + Apple"
+    ],
+    "device": "Mixer",
+    "buff": [
+      "+180 fullness",
+      "Lv.2 Sandstrom Resistance"
+    ],
+    "additional": "-",
+    "images": {
+      "filename": "sea-buckthorn-mixed-juice.webp",
+      "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp",
+      "icon": {
+        "filename": "sea-buckthorn-mixed-juice-icon.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-icon.webp"
+      },
+      "material": {
+        "filename": "sea-buckthorn-mixed-juice-material.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-material.webp"
+      },
+      "name": {
+        "filename": "sea-buckthorn-mixed-juice-name.webp",
+        "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/sea-buckthorn-mixed-juice.html"
+  },
+  {
+    "datePublished": "2022-01-13T08:56:03+07:00",
+    "dateModified": "2022-10-06T03:46:56+07:00",
+    "name": "Veggie Cake",
+    "recipes": [
+      "Egg White + Peanut Oil + Veggie Paste + Equinox Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "Windoo Attendant Recruitment"
+    ],
+    "grade": "Epic",
+    "additional": "<a href=\"#windoo\">Watch Tutorial</a>",
+    "images": {
+      "filename": "veggie-cake.webp",
+      "pathname": "/chimeraland/recipes/veggie-cake/veggie-cake.webp",
+      "icon": {
+        "filename": "veggie-cake-icon.webp",
+        "pathname": "/chimeraland/recipes/veggie-cake/veggie-cake-icon.webp"
+      },
+      "material": {
+        "filename": "veggie-cake-material.webp",
+        "pathname": "/chimeraland/recipes/veggie-cake/veggie-cake-material.webp"
+      },
+      "name": {
+        "filename": "veggie-cake-name.webp",
+        "pathname": "/chimeraland/recipes/veggie-cake/veggie-cake-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/veggie-cake.html"
+  },
+  {
+    "datePublished": "2022-01-13T18:56:03+07:00",
+    "dateModified": "2022-10-07T09:46:55+07:00",
+    "name": "Grilled Mushrooms",
+    "recipes": [
+      "Any Mushroom [1]"
+    ],
+    "device": "Camp II",
+    "buff": [
+      "Unlock Stove II"
+    ],
+    "additional": "<a href=\"#unlock-stove-ii\">Watch Tutorial</a>",
+    "images": {
+      "filename": "grilled-mushrooms.webp",
+      "pathname": "/chimeraland/recipes/grilled-mushrooms/grilled-mushrooms.webp",
+      "icon": {
+        "filename": "grilled-mushrooms-icon.webp",
+        "pathname": "/chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-icon.webp"
+      },
+      "material": {
+        "filename": "grilled-mushrooms-material.webp",
+        "pathname": "/chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-material.webp"
+      },
+      "name": {
+        "filename": "grilled-mushrooms-name.webp",
+        "pathname": "/chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/grilled-mushrooms.html"
+  },
+  {
+    "datePublished": "2022-01-13T10:56:03+07:00",
+    "dateModified": "2022-10-06T09:46:56+07:00",
+    "name": "Fried Tenderloin",
+    "recipes": [
+      "Peanut Oil + Fruit Sauce + Any Meat + Equinox Flower",
+      "Peanut Oil + Any Mixed Sauce + Any Meat + Any Flower/Any Mutant Flower"
+    ],
+    "device": "Stove II",
+    "buff": [
+      "+540 fullness",
+      "+120 Def",
+      "Vulorman Attendant Recruitment"
+    ],
+    "grade": "Legendary",
+    "additional": "<a href=\"#vulorman\">Watch Tutorial</a>",
+    "images": {
+      "filename": "fried-tenderloin.webp",
+      "pathname": "/chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp",
+      "icon": {
+        "filename": "fried-tenderloin-icon.webp",
+        "pathname": "/chimeraland/recipes/fried-tenderloin/fried-tenderloin-icon.webp"
+      },
+      "material": {
+        "filename": "fried-tenderloin-material.webp",
+        "pathname": "/chimeraland/recipes/fried-tenderloin/fried-tenderloin-material.webp"
+      },
+      "name": {
+        "filename": "fried-tenderloin-name.webp",
+        "pathname": "/chimeraland/recipes/fried-tenderloin/fried-tenderloin-name.webp"
+      }
+    },
+    "pathname": "/chimeraland/recipes/fried-tenderloin.html"
+  },
+  {
+    "datePublished": "2022-01-13T13:56:03+07:00",
+    "dateModified": "2022-09-29T16:26:37+07:00",
+    "name": "Hot 'n Sour Jelly",
+    "recipes": [
+      "Spirit Fox Fur + Spirit Fox Fur + Chimeraland Beast Hide + Spicy Powder + Lemon Tree Leaf/Any Lv.3 Crops"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/hot-n-sour-jelly.html"
+  },
+  {
+    "datePublished": "2022-01-13T21:56:03+07:00",
+    "dateModified": "2022-09-29T19:26:37+07:00",
+    "name": "Sparrow Beak",
+    "recipes": [
+      "Red And White Beak + Red And White Beak + Chimeraland Beast Hide + Any Mixed Sauce + Any Blue Grade Fish"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/sparrow-beak.html"
+  },
+  {
+    "datePublished": "2022-01-13T17:56:03+07:00",
+    "dateModified": "2022-09-29T09:26:37+07:00",
+    "name": "Hearty Meatball Soup",
+    "recipes": [
+      "Fine Jade Liquid + Fine Jade Liquid + Chimeraland Beast Hide + Any Mixed Sauce + Any Blue Grade Fish"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/hearty-meatball-soup.html"
+  },
+  {
+    "datePublished": "2022-01-13T14:56:03+07:00",
+    "dateModified": "2022-09-29T18:26:37+07:00",
+    "name": "Soy Braised Dragon Bone",
+    "recipes": [
+      "Ancient Bone + Ancient Bone + Chimeraland Beast Hide + Any Mixed Sauce + Lemon Tree Leaf/Any Lv.3 Crops"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/soy-braised-dragon-bone.html"
+  },
+  {
+    "datePublished": "2022-01-12T20:56:03+07:00",
+    "dateModified": "2022-09-30T00:26:37+07:00",
+    "name": "Exotic Herbal Jelly",
+    "recipes": [
+      "Stoatle Shell + Stoatle Shell + Chimeraland Beast Hide + Scallion Powder + Lemon Tree Leaf/Any Lv.3 Crops"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/exotic-herbal-jelly.html"
+  },
+  {
+    "datePublished": "2022-01-13T07:56:03+07:00",
+    "dateModified": "2022-09-29T12:26:37+07:00",
+    "name": "Tasty Wing Tip",
+    "recipes": [
+      "Nirvana Feather + Nirvana Feather + Chimeraland Beast Hide + Bird Wing + Bird Wing/Bear Paw/Crab Claw Meat"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/tasty-wing-tip.html"
+  },
+  {
+    "datePublished": "2022-01-13T16:56:03+07:00",
+    "dateModified": "2022-09-30T05:26:37+07:00",
+    "name": "Flame Roasted Horn",
+    "recipes": [
+      "Magnificent Horn + Magnificent Horn + Chimeraland Beast Hide + Spicy Pepper Sauce/Garlic Sauce + Lemon Tree Leaf/Any Lv.3 Crops"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/flame-roasted-horn.html"
+  },
+  {
+    "datePublished": "2022-01-13T11:56:03+07:00",
+    "dateModified": "2022-09-29T23:26:37+07:00",
+    "name": "Overlord Hide Jelly",
+    "recipes": [
+      "Fortuphant Primal Spirit + Fortuphant Primal Spirit + Chimeraland Beast Hide + Dew/Ice Piece + Corriander/Flat Cabbage/Watermelon"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/overlord-hide-jelly.html"
+  },
+  {
+    "datePublished": "2022-01-14T00:56:03+07:00",
+    "dateModified": "2022-09-29T17:26:37+07:00",
+    "name": "Bear Ball Pot",
+    "recipes": [
+      "Grizzly Primal Spirit + Grizzly Primal Spirit + Chimeraland Beast Hide + Red Hot Sauce/Cucumber Sauce/Fruit Sauce + Corriander/Flat Cabbage/Watermelon"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/bear-ball-pot.html"
+  },
+  {
+    "datePublished": "2022-01-14T02:56:03+07:00",
+    "dateModified": "2022-09-29T21:26:37+07:00",
+    "name": "Hotstone Icefox Meat",
+    "recipes": [
+      "Spirit Fox Primal Spirit + Spirit Fox Primal Spirit + Chimeraland Beast Hide + Beast Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat + Corriander Powder/Five Spice Sauce"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/hotstone-icefox-meat.html"
+  },
+  {
+    "datePublished": "2022-01-13T19:56:03+07:00",
+    "dateModified": "2022-09-30T07:26:37+07:00",
+    "name": "Stir-Fried Browtelope",
+    "recipes": [
+      "Bone Sheep Primal Spirit + Bone Sheep Primal Spirit + Chimeraland Beast Hide + Corriander Powder/Five Spice Sauce + Corriander/Flat Cabbage/Watermelon"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/stir-fried-browtelope.html"
+  },
+  {
+    "datePublished": "2022-01-14T03:56:03+07:00",
+    "dateModified": "2022-09-29T22:26:37+07:00",
+    "name": "Flamebug Meat Claypot",
+    "recipes": [
+      "Flamebug Primal Spirit + Flamebug Primal Spirit + Chimeraland Beast Hide + Any Meat + Red Hot Sauce/Cucumber Sauce/Fruit Sauce"
+    ],
+    "device": "Stove III",
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/flamebug-meat-claypot.html"
+  },
+  {
+    "datePublished": "2022-01-14T01:56:03+07:00",
+    "dateModified": "2022-09-30T01:26:37+07:00",
+    "name": "Steamed Sweet & Sour Icebug",
+    "device": "Stove III",
+    "recipes": [
+      "Icebug Primal Spirit + Icebug Primal Spirit + Chimeraland Beast Hide + Red Hot Sauce/Cucumber Sauce/Fruit Sauce + Orange Grade Fish"
+    ],
+    "buff": [],
+    "grade": "Legendary",
+    "images": {},
+    "pathname": "/chimeraland/recipes/steamed-sweet-and-sour-icebug.html"
+  }
+]

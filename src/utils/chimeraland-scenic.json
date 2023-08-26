@@ -1,0 +1,337 @@
+[
+  {
+    "starName": "alpha Ursae Majoris",
+    "faction": "Eastmount",
+    "region": "Twilight Valley"
+  },
+  {
+    "starName": "Vega",
+    "faction": "Eastmount",
+    "region": "Mount Hooke"
+  },
+  {
+    "starName": "Cloudstop Star",
+    "faction": "Eastmount",
+    "region": "Spelga Bay"
+  },
+  {
+    "starName": "Roaming Heart Star",
+    "faction": "Eastmount",
+    "region": "Pirates Beach"
+  },
+  {
+    "starName": "Alkaid",
+    "faction": "Eastmount",
+    "region": "Duster Plains (Sirocco Islet border)"
+  },
+  {
+    "starName": "Thrillseeker Star",
+    "faction": "Eastmount",
+    "region": "Flying Goose Peak"
+  },
+  {
+    "starName": "Cultivation Star",
+    "faction": "Eastmount",
+    "region": "Inclinati Plains"
+  },
+  {
+    "starName": "Hot-Cold Star",
+    "faction": "Eastmount",
+    "region": "Pluviae Meadows"
+  },
+  {
+    "starName": "Perished Day Star",
+    "faction": "Eastmount",
+    "region": "Drizzly Pond"
+  },
+  {
+    "starName": "Soaring Flame Star",
+    "faction": "Eastmount",
+    "region": "Mount Yue"
+  },
+  {
+    "starName": "Orion",
+    "faction": "Eastmount",
+    "region": "Brewer's Beach"
+  },
+  {
+    "starName": "Big Dipper",
+    "faction": "Eastmount",
+    "region": "Riverine Plains"
+  },
+  {
+    "starName": "Collecting Star",
+    "faction": "Eastmount",
+    "region": "Mount Veneret"
+  },
+  {
+    "starName": "Blue-green Star",
+    "faction": "Eastmount",
+    "region": "Green Meadows"
+  },
+  {
+    "starName": "Migrating Star",
+    "faction": "Eastmount",
+    "region": "Galatea Quay"
+  },
+  {
+    "starName": "Altair",
+    "faction": "Eastmount",
+    "region": "Painted Beach"
+  },
+  {
+    "starName": "Isolated Star",
+    "faction": "Central",
+    "region": "Witche's Mountain"
+  },
+  {
+    "starName": "Martialsong Star",
+    "faction": "Central",
+    "region": "Mount Burns"
+  },
+  {
+    "starName": "Thunderclap Star",
+    "faction": "Central",
+    "region": "Jade Coast"
+  },
+  {
+    "starName": "Hidden Dragon Star",
+    "faction": "Central",
+    "region": "Mount Vehementi (Sea)"
+  },
+  {
+    "starName": "Deep Dark Star",
+    "faction": "Central",
+    "region": "Mount Corney (West Sea)"
+  },
+  {
+    "starName": "Verdant Star",
+    "faction": "Central",
+    "region": "Sea (Between Bridle Sea and Brighton Bluffs"
+  },
+  {
+    "starName": "Celestial Boundary",
+    "faction": "Southmount",
+    "region": "Burnt Plains"
+  },
+  {
+    "starName": "Inkdrop Star",
+    "faction": "Southmount",
+    "region": "Gusha Slopes"
+  },
+  {
+    "starName": "Darkskies Star",
+    "faction": "Southmount",
+    "region": "Moai Medows (Gust border)"
+  },
+  {
+    "starName": "Sentry Star",
+    "faction": "Southmount",
+    "region": "Drekantod Plains"
+  },
+  {
+    "starName": "Phantom Star",
+    "faction": "Southmount",
+    "region": "Cinnabar Coast"
+  },
+  {
+    "starName": "Odd Dark Star",
+    "faction": "Southmount",
+    "region": "Sea (East of Heaven's Lake)"
+  },
+  {
+    "starName": "Chuckle Star",
+    "faction": "Southmount",
+    "region": "Skerry Bay (Sea north of it)"
+  },
+  {
+    "starName": "Shared Sorrow Star",
+    "faction": "Southmount",
+    "region": "Sea (West of Vorhang Plains)"
+  },
+  {
+    "starName": "Mindcleanse Star",
+    "faction": "Southmount",
+    "region": "Draco River Basin"
+  },
+  {
+    "starName": "Snow Covered Star",
+    "faction": "Southmount",
+    "region": "Sea (East of Siren Beach)"
+  },
+  {
+    "starName": "Maudlin Star",
+    "faction": "Southmount",
+    "region": "Nature's Barrier"
+  },
+  {
+    "starName": "Tightbound Star",
+    "faction": "Southmount",
+    "region": "Mount Surmon"
+  },
+  {
+    "starName": "Earthrend Star",
+    "faction": "Southmount",
+    "region": "Sea (East of Katamari Bay)"
+  },
+  {
+    "starName": "Soulhome Star",
+    "faction": "Southmount",
+    "region": "Lacquer Mountain"
+  },
+  {
+    "starName": "Skyquery Star",
+    "faction": "Southmount",
+    "region": "Riptide Coast"
+  },
+  {
+    "starName": "Likedeed Star",
+    "faction": "Westmount",
+    "region": "Bloodbath Foothills"
+  },
+  {
+    "starName": "Hasty Star",
+    "faction": "Westmount",
+    "region": "Zen Peak"
+  },
+  {
+    "starName": "Flying Goose Star",
+    "faction": "Westmount",
+    "region": "Jade Snow"
+  },
+  {
+    "starName": "Jade Drop Star",
+    "faction": "Westmount",
+    "region": "Gyre Field"
+  },
+  {
+    "starName": "Scorpio",
+    "faction": "Westmount",
+    "region": "Barrage Islet"
+  },
+  {
+    "starName": "Lingering Guest Star",
+    "faction": "Westmount",
+    "region": "Flitter Beach (Edge of map)"
+  },
+  {
+    "starName": "Cloudup Star",
+    "faction": "Westmount",
+    "region": "Emerald Coast"
+  },
+  {
+    "starName": "Wenchang Star",
+    "faction": "Westmount",
+    "region": "Snow Covered Plains"
+  },
+  {
+    "starName": "Gold Dagger Star",
+    "faction": "Westmount",
+    "region": "Jade Snow"
+  },
+  {
+    "starName": "Five Note Star",
+    "faction": "Westmount",
+    "region": "Kotalo Quay (south of harbor)"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/centralmount-1.webp",
+    "name": "Centralmount 1",
+    "output": "<project>source/chimeraland/scenic-spot/centralmount-1.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/centralmount-2.webp",
+    "name": "Centralmount 2",
+    "output": "<project>source/chimeraland/scenic-spot/centralmount-2.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/centralmount-3.webp",
+    "name": "Centralmount 3",
+    "output": "<project>source/chimeraland/scenic-spot/centralmount-3.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/centralmount-4.webp",
+    "name": "Centralmount 4",
+    "output": "<project>source/chimeraland/scenic-spot/centralmount-4.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/eastmount-1.webp",
+    "name": "Eastmount 1",
+    "output": "<project>source/chimeraland/scenic-spot/eastmount-1.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/eastmount-2.webp",
+    "name": "Eastmount 2",
+    "output": "<project>source/chimeraland/scenic-spot/eastmount-2.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/grayrock-reservoir.webp",
+    "name": "Grayrock Reservoir",
+    "output": "<project>source/chimeraland/scenic-spot/grayrock-reservoir.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-1.webp",
+    "name": "Southmount 1",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-1.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-2.webp",
+    "name": "Southmount 2",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-2.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-3.webp",
+    "name": "Southmount 3",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-3.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-4.webp",
+    "name": "Southmount 4",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-4.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-5.webp",
+    "name": "Southmount 5",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-5.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/southmount-6.webp",
+    "name": "Southmount 6",
+    "output": "<project>source/chimeraland/scenic-spot/southmount-6.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/stange-cave.webp",
+    "name": "Stange Cave",
+    "output": "<project>source/chimeraland/scenic-spot/stange-cave.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/stars-peak.webp",
+    "name": "Stars Peak",
+    "output": "<project>source/chimeraland/scenic-spot/stars-peak.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/westmount-1.webp",
+    "name": "Westmount 1",
+    "output": "<project>source/chimeraland/scenic-spot/westmount-1.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/westmount-2.webp",
+    "name": "Westmount 2",
+    "output": "<project>source/chimeraland/scenic-spot/westmount-2.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/westmount-3.webp",
+    "name": "Westmount 3",
+    "output": "<project>source/chimeraland/scenic-spot/westmount-3.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/westmount-4.webp",
+    "name": "Westmount 4",
+    "output": "<project>source/chimeraland/scenic-spot/westmount-4.webp"
+  },
+  {
+    "pathname": "/chimeraland/scenic-spot/whirlpool.webp",
+    "name": "Whirlpool",
+    "output": "<project>source/chimeraland/scenic-spot/whirlpool.webp"
+  }
+]
