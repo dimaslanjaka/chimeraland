@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-08-04T20:39:37+07:00
+updated: 2023-08-16T19:13:37+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -107,9 +107,9 @@ author: L3n4r0x
 
 <h2 id="apa-itu-scam" tabindex="-1"><a href="#apa-itu-scam">Apa itu scam?</a></h2>
 <p><strong>scam</strong> adalah sebuah upaya penipuan untuk mendapatkan uang atau sesuatu yang berharga dari korbannya. <em>Pelaku yang melakukan scam</em> disebut dengan <strong>scammer</strong>. Tindak kejahatan ini biasanya dilakukan oleh kelompok, individu, atau bahkan perusahaan yang terlibat dalam jaringan penipuan.</p>
-<h2 id="scammer-map-illus-16" tabindex="-1"><a href="#scammer-map-illus-16">Scammer Map Illus 16</a></h2>
+<h2 id="scammer-map-party" tabindex="-1"><a href="#scammer-map-party">Scammer Map Party</a></h2>
 <blockquote>
-<p>Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</p>
+<p>Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS/CASUALITY ART PARTY</p>
 </blockquote>
 <blockquote>
 <p>Pastikan <strong>Auto abadon roll sudah cek</strong> pada <strong>Team Settings</strong> setiap masuk sebuah team.</p>
@@ -317,7 +317,12 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class="notranslate" id="monarch2">monarch2</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drop items milik <strong>kimprit</strong> pada map armadilo free entry no roll, dilaporkan oleh <strong>kimprit</strong> pada tanggal July 27, 2023 9:27 PM <a href="#kimprit-party">screenshot</a></td>
+<td style="text-align:left">Roll drop items milik <strong>kimprit</strong> pada map armadilo free entry no roll, dilaporkan oleh <strong>kimprit</strong> pada tanggal <em>July 27, 2023 9:27 PM</em> <a href="#kimprit-party">screenshot</a></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class="notranslate" id="Avillio">Avillio</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll Ortzi Divine cludgel milik <strong>UnknowN</strong> dilaporkan oleh <strong>Unknown</strong> pada tanggal <em>August 7, 2023 11:46 AM</em> <a href="#avillio-screenshots">bukti video</a></td>
 </tr>
 </tbody>
 </table>
@@ -449,6 +454,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">scam jual-beli telur di dalam game, dilaporkan oleh <strong>kendrugk</strong> pada tanggal <em>August 4, 2023 8:47 PM</em>. <a href="#ray119-screenshots">screenshots</a></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class="notranslate" id="Khimiauw">Khimiauw</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Scam jasa hunting Serpenine Xiangliu Map 150 ruby dilaporkan oleh <strong>UnknowN</strong> pada tanggal <em>August 7, 2023 11:46 AM</em> <a href="#khimiauw-screenshots">screenshots</a></td>
+</tr>
 </tbody>
 </table>
 <h2 id="scammer-bitter" tabindex="-1"><a href="#scammer-bitter">Scammer Bitter</a></h2>
@@ -558,6 +568,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left"><strong>saayaang</strong> selaku korban sudah memaafkannya pada <em>June 12, 2023 11:28 PM</em></td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class="notranslate" id="kimporr">kimporr</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">sudah mengembalikan semua tiket 4 rare egg kepada semua partisipan <a href="#kimporr-screenshots">screenshots</a></td>
+</tr>
 </tbody>
 </table>
 <h2 id="hindari-hal-hal-berikut-agar-tidak-kena-scam" tabindex="-1"><a href="#hindari-hal-hal-berikut-agar-tidak-kena-scam">Hindari Hal-Hal Berikut Agar Tidak Kena Scam</a></h2>
@@ -572,7 +587,20 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
-<h2 id="ray119-screenshots" tabindex="-1"><a href="#ray119-screenshots">Ray119 screenshots</a></h2>
+<h2 id="kimporr-screenshots" tabindex="-1"><a href="#kimporr-screenshots">kimporr Screenshots</a></h2>
+<blockquote>
+<p>kimporr sudah mengembalikan semua tiket rare egg</p>
+</blockquote>
+<p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/e9044371-c9c1-4919-b17b-593b4c80fc69" alt="pengakuan partisipan Nazreen">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/383aae9d-2170-450b-8d54-6dc820595824" alt="pengakuan partisipan Dy">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/9400064a-b3ee-45ac-a1ff-7a753200f012" alt="pengakuan partisipan Sus Ahli 3"></p>
+<h2 id="avillio-screenshots" tabindex="-1"><a href="#avillio-screenshots">Avillio Screenshots</a></h2>
+<div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%"><iframe src="https://drive.google.com/file/d/12kUkNogalG-rVXZLR94GKijRzgrL2Ivy/preview" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0" allowfullscreen="" scrolling="no" allow="encrypted-media;"></iframe></div>
+<h2 id="khimiauw-screenshots" tabindex="-1"><a href="#khimiauw-screenshots">Khimiauw Screenshots</a></h2>
+<p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/65ae7aee-0acb-442b-a56f-a1790ea5e851" alt="kronologi">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/fbdef4b4-55f7-4a0d-83b5-c0b5386c52b3" alt="bukti sudah memasang plans fenix">
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/9562ea54-f2d2-43f5-aad1-faafb65e187f" alt="bukti sudah di-buyout"></p>
+<h2 id="ray119-screenshots" tabindex="-1"><a href="#ray119-screenshots">Ray119 Screenshots</a></h2>
 <p><img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/4ec065ac-17f3-46aa-b555-d4034754bacf" alt="Ray119">
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/8d826e8e-ae06-47ed-900f-d0accb4eb56f" alt="image">
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/assets/12471057/90785c3b-243c-4f39-b6af-b56eda608a7d" alt="Untitled">
