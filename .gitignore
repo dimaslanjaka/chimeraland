@@ -9,3 +9,4 @@ temp
 *-private*
 /public
 .deploy_git
+.env
