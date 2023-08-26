@@ -2,8 +2,8 @@
 title: How to breeding mermaid in aquarium chimeraland
 date: 2023-02-27T03:16:50+07:00
 updated: 2023-03-04T19:34:46+07:00
-category: ['games', 'chimeraland']
-tags: ['chimeraland', 'Tips & Tricks']
+categories: ['games', 'chimeraland']
+tags: ['chimeraland', 'tips & tricks']
 thumbnail: /chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg
 lang: en
 ---

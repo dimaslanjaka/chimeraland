@@ -1,8 +1,8 @@
 ---
 title: Material Location In Chimeraland
 date: 2023-03-06T17:52:15+07:00
-updated: 2023-06-05T17:41:41+07:00
-tags: ['chimeraland', 'guide']
+updated: 2023-08-26T15:56:58+07:00
+tags: ['chimeraland']
 categories: ['games', 'chimeraland', 'material']
 permalink: /chimeraland/material-location.html
 keywords:

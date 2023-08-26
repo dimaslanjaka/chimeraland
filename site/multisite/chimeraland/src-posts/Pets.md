@@ -1,7 +1,7 @@
 ---
-category:
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 comments: true
 cover: Pets/cover.jpg
 date: 2022-02-18T10:37:00+07:00
@@ -14,7 +14,7 @@ keywords:
 lang: id
 description: Information about pets attributes chimeraland
 tags:
-  - Chimeraland
+  - chimeraland
 title: Chimeraland Pets Attribute Stats Information
 toc: true
 redirect: /chimeraland/monsters

@@ -5,11 +5,10 @@ updated: 2022-09-10T07:42:00+0700
 author: Dimas Lanjaka
 thumbnail: https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg
 tags:
-  - Chimeraland
-  - Redeem Code
-category:
+  - chimeraland
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 ---
 
 ## How to redeem the redeem code chimeraland

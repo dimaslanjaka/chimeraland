@@ -2,13 +2,12 @@
 title: Senjo craft lists
 description: Senjo item crafting lists
 date: 2022-06-17
-updated: 2022-07-07T09:39:00+0700
-category:
+updated: 2023-08-26T15:58:41+07:00
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 tags:
-  - Chimeraland
-  - Craft
+  - chimeraland
 ---
 
 <!-- include index2/update.html -->

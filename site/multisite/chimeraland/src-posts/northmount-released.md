@@ -1,12 +1,12 @@
 ---
 title: New Map Northmount on Chimeraland
 date: 2022-10-27T20:59:32+07:00
-updated: 2022-10-31T03:24:34+07:00
-category:
+updated: 2023-08-26T15:53:23+07:00
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 tags:
-  - news
+  - chimeraland
 ---
 
 【Chimeraland: Northmount】New map is available!

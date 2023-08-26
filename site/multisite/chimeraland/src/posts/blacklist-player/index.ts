@@ -22,8 +22,8 @@ const metadata: postMeta = {
     id: '/chimeraland/blacklist-player.html',
     en: '/chimeraland/en/blacklist-player.html'
   },
-  tags: ['chimeraland', 'blacklist', 'guide'],
-  categories: ['games', 'Chimeraland'],
+  tags: ['chimeraland'],
+  categories: ['games', 'chimeraland'],
   keywords: ['scammer list chimeraland', 'blacklist player chimeraland'],
   thumbnail:
     'https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png',

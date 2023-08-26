@@ -3,9 +3,9 @@ author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
-category:
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 comments: true
 cover: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 date: 2022-01-11T07:00:00+07:00
@@ -19,9 +19,8 @@ subtitle: Chimeraland cooking recipes and food functions such as buffs and
   seperti buff dan kesukaan attendant
 tags:
   - chimeraland
-  - recipe
 title: Cooking Recipes Chimeraland
-updated: 2023-04-05T10:19:50+07:00
+updated: 2023-08-26T16:00:57+07:00
 thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 ---
 

@@ -1,14 +1,14 @@
 ---
-category:
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 comments: true
 cover: https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg
 date: 2022-02-18T10:37:00+07:00
 description: Index Tree Chimeraland
 lang: id
 tags:
-  - Chimeraland
+  - chimeraland
 title: Index Chimeraland
 toc: true
 type: page

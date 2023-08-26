@@ -1,19 +1,16 @@
 ---
 title: Taming Pets Chimeraland
 date: 2022-03-16T14:41:00+0700
-updated: 2022-11-03T05:00:28+07:00
+updated: 2023-08-26T15:59:04+07:00
 excerpt: Taming pity in chimeraland
 toc: true
 comments: true
 thumbnail: https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
 tags:
-  - Chimeraland
-  - Tame
-  - Temp
-  - Taming
-category:
+  - chimeraland
+categories:
   - games
-  - Chimeraland
+  - chimeraland
 ---
 
 ## Deskripsi pemahaman tentang pity taming pet

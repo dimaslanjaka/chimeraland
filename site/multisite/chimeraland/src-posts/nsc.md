@@ -2,7 +2,7 @@
 title: Apa itu NSC di chimeraland?
 date: 2023-03-30T01:43:02+07:00
 updated: 2023-03-30T12:42:20+07:00
-category: ['games','chimeraland']
+categories: ['games','chimeraland']
 tags: ['guide']
 lang: id
 thumbnail: https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg
