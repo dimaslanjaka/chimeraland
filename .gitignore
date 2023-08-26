@@ -10,3 +10,4 @@ temp
 /public
 .deploy_git
 .env
+yarn.lock
