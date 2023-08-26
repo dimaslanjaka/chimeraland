@@ -18,12 +18,10 @@
     ]
   },
   "include": [
-    "chimeraland",
-    "src",
-    "project.js",
-    "package.json",
-    "sync",
-    "build.ts"
+    "./chimeraland/**/*",
+    "./src/**/*",
+    "./*.js",
+    "./*.ts"
   ],
   "exclude": [
     "**/node_modules",

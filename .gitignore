@@ -12,3 +12,7 @@ package-lock.json
 yarn.lock
 .yarn/cache
 .yarn/*.gz
+*-private*
+temp
+*-private*
+.env
