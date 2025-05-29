@@ -1,23 +1,23 @@
 const fs = require("fs");
-const { spawn } = require("git-command-helper");
-const args = require("minimist")(process.argv.slice(2));
-const root = process.cwd();
-const jsdom = require("jsdom");
 const path = require("path");
 const yaml = require("yaml");
+const { spawn } = require("git-command-helper");
+const args = require("minimist")(process.argv.slice(2));
+const { JSDOM } = require("jsdom");
 const color = require("ansi-colors");
 const { writefile } = require("sbg-utility");
 
-/**
- * @type {import('./tmp/schema.json')}
- */
-const config = yaml.parse(
-	fs
-		.readFileSync(path.join(root, "github-actions-validator.config.yml"))
-		.toString()
-);
+const root = process.cwd();
+const configPath = path.join(root, "github-actions-validator.config.yml");
 
-// save schema
+if (!fs.existsSync(configPath)) {
+	console.error("Missing config file:", configPath);
+	process.exit(1);
+}
+
+const config = yaml.parse(fs.readFileSync(configPath, "utf8"));
+
+// Save schema
 writefile(
 	path.join(__dirname, "tmp/schema.json"),
 	JSON.stringify(config, null, 2)
@@ -25,61 +25,64 @@ writefile(
 
 let hasErrors = false;
 
-(async function () {
-	Object.keys(config["validate"] || {}).forEach((name) => {
-		const full = path.resolve(root, config["validate"][name]);
-		console.log("validating", color.magenta(name), full.replace(root, ""));
-		validate(full, name);
-	});
-
-	if (hasErrors) process.exit(1);
-
-	const array = config["install"] || [];
-	for (let i = 0; i < array.length; i++) {
-		const p = array[i];
-		try {
-			const cwd = path.resolve(root, p);
-			const isYarn = path.resolve(cwd, "yarn.lock");
-			// removing yarn.lock
-			if (isYarn) fs.rmSync(isYarn);
-			console.log("installing node libs", p, "->", cwd);
-			await spawn("npm", ["install", "--omit=dev" /*, "--production"*/], {
-				cwd,
-			});
-		} catch (_err) {
-			console.error("cannot installing", p, _err.message);
-		}
-	}
-})();
-
 /**
- * start validation
- * @param {string} file
- * @param {string} as what is this file used for. ex: homepage
+ * Validates a file's existence, size, and DOM body content.
+ * @param {string} file - Full path to the file
+ * @param {string} label - Human-readable label for the file (e.g., homepage)
  */
-function validate(file, as) {
+function validate(file, label) {
 	if (!fs.existsSync(file)) {
-		console.log(as, file, "is not exist");
+		console.error(`${label}: File does not exist -> ${file}`);
 		hasErrors = true;
+		return;
 	}
 
-	// check size
-	if (fs.statSync(file).size === 0) {
-		console.log(`file is empty ${as || file}`);
+	const stats = fs.statSync(file);
+	if (stats.size === 0) {
+		console.error(`${label}: File is empty -> ${file}`);
 		hasErrors = true;
+		return;
 	}
 
-	if (fs.existsSync(file)) {
-		const dom = new jsdom.JSDOM(fs.readFileSync(file));
-		const { window } = dom;
-		const { document } = window;
-		const bodyEmpty = document.body.innerHTML.trim().length === 0;
-		// throw when body is empty
-		if (bodyEmpty) throw new Error(`body is empty file ${as || file}`);
-
-		document.close();
-		window.close();
-	} else {
+	try {
+		const dom = new JSDOM(fs.readFileSync(file, "utf8"));
+		const bodyEmpty = dom.window.document.body.innerHTML.trim().length === 0;
+		if (bodyEmpty) {
+			throw new Error(`${label}: <body> is empty`);
+		}
+	} catch (err) {
+		console.error(`${label}: DOM parse error -> ${err.message}`);
 		hasErrors = true;
 	}
 }
+
+(async function main() {
+	// Validate files
+	for (const [name, relPath] of Object.entries(config.validate || {})) {
+		const fullPath = path.resolve(root, relPath);
+		console.log("Validating:", color.magenta(name), fullPath.replace(root, ""));
+		validate(fullPath, name);
+	}
+
+	if (hasErrors) {
+		process.exit(1);
+	}
+
+	// Run npm install in specified directories
+	for (const dir of config.install || []) {
+		const cwd = path.resolve(root, dir);
+		const yarnLock = path.join(cwd, "yarn.lock");
+		const packageLock = path.join(cwd, "package-lock.json");
+
+		try {
+			[yarnLock, packageLock].forEach((file) => {
+				if (fs.existsSync(file)) fs.rmSync(file, { force: true });
+			});
+
+			console.log("Installing node_modules in:", dir, "->", cwd);
+			await spawn("npm", ["install", "--omit=dev"], { cwd });
+		} catch (err) {
+			console.error("Install failed for:", dir, "-", err.message);
+		}
+	}
+})();
